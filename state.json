@@ -1,0 +1,51 @@
+{
+  "updated_at": "2026-04-13T00:00:00Z",
+  "today_focus": "Wrap up hackathon: push GrantCraft to GitHub, record demo video, submit.",
+  "inbox_count": 0,
+  "days_since_last_triage": 999,
+  "open_tabs": 377,
+  "open_tab_windows": 6,
+  "hackathon_status": {
+    "name": "Anthropic x Wharton Hackathon",
+    "project": "GrantCraft",
+    "date": "2026-04-12",
+    "result": "TBD — awaiting submission",
+    "github": "https://github.com/haluke1/grantcraft"
+  },
+  "current_projects": [
+    { "name": "GrantCraft", "status": "hackathon submitted", "path": "~/hackathon-2026/grantcraft" },
+    { "name": "Claude Voice Command Center", "status": "running", "path": "~/claude-voice" },
+    { "name": "Dashboard (this)", "status": "live", "path": "~/dashboard" }
+  ],
+  "recent_shipped": [
+    { "date": "2026-04-12", "artifact": "GrantCraft multi-agent grant writer built in 4 hours" },
+    { "date": "2026-04-08", "artifact": "Claude Voice Command Center v3 with butler architecture" },
+    { "date": "2026-04-04", "artifact": "OpenClaw deleted, Claude Code sole execution engine" }
+  ],
+  "active_corrections": [
+    "Context is fine until 60% — don't end sessions at 29%",
+    "Always use analogies for technical concepts",
+    "Use AppleScript or CDP, not Playwright",
+    "White text on dark backgrounds: #FFFFFF, never gray",
+    "No revenue talk without post-OPT framing (F1 visa, May 2027)",
+    "Research before recommend — fetch vendor pages, don't infer",
+    "Both shipped output AND foundational quality count as progress"
+  ],
+  "aeq_score": 412,
+  "aeq_target": 2000,
+  "aeq_stage": "Force Multiplier → Second Brain",
+  "metrics": {
+    "memory_files": 63,
+    "daily_logs": 2,
+    "research_files": 15,
+    "claude_md_lines": 54
+  },
+  "pointers": {
+    "CLAUDE.md": "~/CLAUDE.md",
+    "memory_index": "~/.claude/projects/-Users-halukgul/memory/MEMORY.md",
+    "daily_logs_dir": "~/.claude/projects/-Users-halukgul/memory/daily/",
+    "inbox": "~/inbox.md",
+    "voice_agent": "~/claude-voice/",
+    "grantcraft": "~/hackathon-2026/grantcraft/"
+  }
+}

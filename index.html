@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Haluk · Command Center</title>
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --card: #141414;
+    --border: #222;
+    --text: #FFFFFF;
+    --dim: #8a8a8a;
+    --mute: #555;
+    --accent: #10b981;
+    --warn: #f59e0b;
+    --danger: #ef4444;
+    --purple: #a78bfa;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Inter", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 24px;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1200px; margin: 0 auto; }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+  }
+  h1 { font-size: 20px; font-weight: 600; letter-spacing: -0.01em; }
+  .updated { font-size: 11px; color: var(--dim); }
+  .grid { display: grid; gap: 16px; grid-template-columns: repeat(12, 1fr); }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+  }
+  .card h2 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--dim);
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+  .big {
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+  .big-sub { font-size: 12px; color: var(--dim); margin-top: 6px; }
+  .today {
+    grid-column: span 12;
+    background: linear-gradient(135deg, #064e3b 0%, #111 100%);
+    border-color: #065f46;
+  }
+  .today h2 { color: #6ee7b7; }
+  .today .focus { font-size: 22px; font-weight: 500; line-height: 1.35; }
+  .metric { grid-column: span 3; }
+  .metric.warn .big { color: var(--warn); }
+  .metric.danger .big { color: var(--danger); }
+  .metric.ok .big { color: var(--accent); }
+  .half { grid-column: span 6; }
+  .full { grid-column: span 12; }
+  ul { list-style: none; }
+  li {
+    padding: 8px 0;
+    border-bottom: 1px solid #1a1a1a;
+    font-size: 13px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  li:last-child { border-bottom: none; }
+  .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 10px;
+    font-weight: 500;
+    background: #222;
+    color: var(--dim);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .tag.live { background: #064e3b; color: #6ee7b7; }
+  .tag.running { background: #1e3a8a; color: #93c5fd; }
+  .tag.submitted { background: #581c87; color: #d8b4fe; }
+  .date { color: var(--mute); font-size: 11px; font-family: "SF Mono", Monaco, monospace; }
+  .corrections li { color: var(--dim); font-size: 12px; display: block; }
+  .corrections li::before { content: "— "; color: var(--mute); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .pointers { font-family: "SF Mono", Monaco, monospace; font-size: 11px; }
+  .pointers li { color: var(--dim); }
+  .pointers strong { color: var(--text); margin-right: 12px; font-weight: 500; }
+  .progress-bar {
+    height: 6px;
+    background: #222;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-top: 8px;
+  }
+  .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #10b981, #a78bfa);
+    border-radius: 3px;
+    transition: width 0.3s;
+  }
+  .hint {
+    margin-top: 24px;
+    padding: 12px;
+    background: #0f0f0f;
+    border: 1px dashed #333;
+    border-radius: 8px;
+    font-size: 11px;
+    color: var(--dim);
+    font-family: "SF Mono", Monaco, monospace;
+  }
+  @media (max-width: 800px) {
+    .metric { grid-column: span 6; }
+    .half { grid-column: span 12; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Haluk · Command Center</h1>
+      <div class="updated" id="updated">Loading…</div>
+    </div>
+    <div class="updated" id="local-time"></div>
+  </header>
+
+  <div class="grid">
+    <div class="card today">
+      <h2>Today's One Thing</h2>
+      <div class="focus" id="today-focus">Loading…</div>
+    </div>
+
+    <div class="card metric" id="card-inbox">
+      <h2>Inbox</h2>
+      <div class="big" id="inbox-count">—</div>
+      <div class="big-sub">items pending triage</div>
+    </div>
+
+    <div class="card metric danger" id="card-triage">
+      <h2>Days Since Triage</h2>
+      <div class="big" id="triage-days">—</div>
+      <div class="big-sub">do it before this hits 7</div>
+    </div>
+
+    <div class="card metric warn" id="card-tabs">
+      <h2>Open Tabs</h2>
+      <div class="big" id="tab-count">—</div>
+      <div class="big-sub" id="tab-windows">across — windows</div>
+    </div>
+
+    <div class="card metric ok" id="card-aeq">
+      <h2>AEQ</h2>
+      <div class="big" id="aeq-score">—</div>
+      <div class="big-sub" id="aeq-stage">—</div>
+      <div class="progress-bar"><div class="progress-fill" id="aeq-fill" style="width: 0%"></div></div>
+    </div>
+
+    <div class="card half">
+      <h2>Current Projects</h2>
+      <ul id="projects-list"></ul>
+    </div>
+
+    <div class="card half">
+      <h2>Recently Shipped</h2>
+      <ul id="shipped-list"></ul>
+    </div>
+
+    <div class="card half">
+      <h2>Active Hackathon</h2>
+      <ul id="hackathon-info"></ul>
+    </div>
+
+    <div class="card half">
+      <h2>System Metrics</h2>
+      <ul id="system-metrics"></ul>
+    </div>
+
+    <div class="card full corrections">
+      <h2>Active Corrections (Don't Repeat These)</h2>
+      <ul id="corrections-list"></ul>
+    </div>
+
+    <div class="card full pointers">
+      <h2>File Pointers</h2>
+      <ul id="pointers-list"></ul>
+    </div>
+  </div>
+
+  <div class="hint">
+    Any Claude Code session can update this dashboard by editing ~/dashboard/state.json — then pushing to GitHub. Changes go live in ~30 seconds. URL: https://haluke1.github.io/dashboard/
+  </div>
+</div>
+
+<script>
+  const STATE_URL = "./state.json?t=" + Date.now();
+
+  function timeAgo(iso) {
+    const then = new Date(iso);
+    const diff = (Date.now() - then.getTime()) / 1000;
+    if (diff < 60) return Math.floor(diff) + "s ago";
+    if (diff < 3600) return Math.floor(diff / 60) + "m ago";
+    if (diff < 86400) return Math.floor(diff / 3600) + "h ago";
+    return Math.floor(diff / 86400) + "d ago";
+  }
+
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined) e.textContent = text;
+    return e;
+  }
+
+  function setMetricClass(node, value, thresholds) {
+    node.classList.remove("warn", "danger", "ok");
+    if (value >= thresholds.danger) node.classList.add("danger");
+    else if (value >= thresholds.warn) node.classList.add("warn");
+    else node.classList.add("ok");
+  }
+
+  function clear(node) {
+    while (node.firstChild) node.removeChild(node.firstChild);
+  }
+
+  function row2(leftText, rightText, rightClass) {
+    const li = el("li");
+    li.appendChild(el("span", null, leftText));
+    li.appendChild(el("span", rightClass || null, rightText));
+    return li;
+  }
+
+  async function load() {
+    try {
+      const res = await fetch(STATE_URL);
+      const s = await res.json();
+
+      document.getElementById("updated").textContent = "Updated " + timeAgo(s.updated_at);
+      document.getElementById("today-focus").textContent = s.today_focus || "No focus set.";
+
+      document.getElementById("inbox-count").textContent = s.inbox_count;
+      setMetricClass(document.getElementById("card-inbox"), s.inbox_count, { warn: 10, danger: 25 });
+
+      document.getElementById("triage-days").textContent = s.days_since_last_triage === 999 ? "∞" : s.days_since_last_triage;
+      document.getElementById("tab-count").textContent = s.open_tabs;
+      document.getElementById("tab-windows").textContent = "across " + s.open_tab_windows + " windows";
+
+      document.getElementById("aeq-score").textContent = s.aeq_score;
+      document.getElementById("aeq-stage").textContent = s.aeq_stage + " → " + s.aeq_target;
+      document.getElementById("aeq-fill").style.width = Math.min(100, (s.aeq_score / s.aeq_target) * 100) + "%";
+
+      // Projects
+      const pl = document.getElementById("projects-list");
+      clear(pl);
+      s.current_projects.forEach(p => {
+        const li = el("li");
+        li.appendChild(el("span", null, p.name));
+        li.appendChild(el("span", "tag " + p.status.replace(/\s/g, ""), p.status));
+        pl.appendChild(li);
+      });
+
+      // Shipped
+      const sl = document.getElementById("shipped-list");
+      clear(sl);
+      s.recent_shipped.forEach(x => {
+        sl.appendChild(row2(x.artifact, x.date, "date"));
+      });
+
+      // Hackathon
+      const hl = document.getElementById("hackathon-info");
+      clear(hl);
+      hl.appendChild(row2("Name", s.hackathon_status.name));
+      hl.appendChild(row2("Project", s.hackathon_status.project));
+      hl.appendChild(row2("Date", s.hackathon_status.date, "date"));
+      hl.appendChild(row2("Result", s.hackathon_status.result));
+      const repoLi = el("li");
+      repoLi.appendChild(el("span", null, "Repo"));
+      const a = el("a", null, "GitHub →");
+      a.href = s.hackathon_status.github;
+      a.target = "_blank";
+      repoLi.appendChild(a);
+      hl.appendChild(repoLi);
+
+      // System metrics
+      const ml = document.getElementById("system-metrics");
+      clear(ml);
+      const m = s.metrics;
+      ml.appendChild(row2("Memory files", String(m.memory_files), "date"));
+      ml.appendChild(row2("Daily logs", String(m.daily_logs), "date"));
+      ml.appendChild(row2("Research files", String(m.research_files), "date"));
+      ml.appendChild(row2("CLAUDE.md lines", String(m.claude_md_lines), "date"));
+
+      // Corrections
+      const cl = document.getElementById("corrections-list");
+      clear(cl);
+      s.active_corrections.forEach(c => {
+        cl.appendChild(el("li", null, c));
+      });
+
+      // Pointers
+      const ptl = document.getElementById("pointers-list");
+      clear(ptl);
+      Object.entries(s.pointers).forEach(([k, v]) => {
+        const li = el("li");
+        li.appendChild(el("strong", null, k));
+        li.appendChild(el("span", null, v));
+        ptl.appendChild(li);
+      });
+
+    } catch (err) {
+      document.getElementById("today-focus").textContent = "⚠ Could not load state.json: " + err.message;
+    }
+  }
+
+  function updateLocalTime() {
+    const now = new Date();
+    const opts = { weekday: "short", month: "short", day: "numeric", hour: "2-digit", minute: "2-digit" };
+    document.getElementById("local-time").textContent = now.toLocaleDateString("en-US", opts);
+  }
+
+  load();
+  updateLocalTime();
+  setInterval(load, 30000);
+  setInterval(updateLocalTime, 60000);
+</script>
+</body>
+</html>
