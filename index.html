@@ -127,6 +127,48 @@
     color: var(--dim);
     font-family: "SF Mono", Monaco, monospace;
   }
+  .session {
+    background: #0f0f0f;
+    border: 1px solid #1e1e1e;
+    border-radius: 8px;
+    padding: 10px 12px;
+    margin-bottom: 6px;
+    font-size: 12px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 10px;
+    align-items: start;
+  }
+  .session.active { border-color: #065f46; background: #052e22; }
+  .session .dot {
+    width: 8px; height: 8px; border-radius: 50%;
+    background: var(--mute); margin-top: 5px;
+  }
+  .session.active .dot { background: #10b981; box-shadow: 0 0 8px #10b981; animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+  .session .main { min-width: 0; }
+  .session .meta {
+    display: flex; gap: 8px; font-size: 10px; color: var(--dim);
+    font-family: "SF Mono", Monaco, monospace; margin-bottom: 4px;
+  }
+  .session .meta .id { color: #a78bfa; }
+  .session .prompt {
+    color: var(--text);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .session.active .prompt { color: #d1fae5; }
+  .session .last-msg {
+    color: var(--dim); font-size: 11px; font-style: italic;
+    margin-top: 4px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .session .right {
+    font-size: 10px; color: var(--dim); text-align: right; font-family: "SF Mono", Monaco, monospace;
+  }
+  .subheading {
+    font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--mute); margin: 12px 0 6px;
+  }
+  .empty { color: var(--mute); font-size: 12px; font-style: italic; padding: 8px 0; }
   @media (max-width: 800px) {
     .metric { grid-column: span 6; }
     .half { grid-column: span 12; }
@@ -194,6 +236,12 @@
       <ul id="system-metrics"></ul>
     </div>
 
+    <div class="card full">
+      <h2>Claude Code Sessions · <span id="session-counts" style="color:var(--dim); font-weight:400; text-transform:none; letter-spacing:0;">loading…</span></h2>
+      <div id="sessions-active"></div>
+      <div id="sessions-recent" style="margin-top:12px;"></div>
+    </div>
+
     <div class="card full corrections">
       <h2>Active Corrections (Don't Repeat These)</h2>
       <ul id="corrections-list"></ul>
@@ -245,6 +293,61 @@
     li.appendChild(el("span", null, leftText));
     li.appendChild(el("span", rightClass || null, rightText));
     return li;
+  }
+
+  function renderSession(s, isActive) {
+    const div = el("div", "session" + (isActive ? " active" : ""));
+    div.appendChild(el("div", "dot"));
+    const main = el("div", "main");
+    const meta = el("div", "meta");
+    meta.appendChild(el("span", "id", s.id));
+    if (s.git_branch) meta.appendChild(el("span", null, "⎇ " + s.git_branch));
+    meta.appendChild(el("span", null, "✉ " + s.message_count));
+    main.appendChild(meta);
+    main.appendChild(el("div", "prompt", s.first_prompt || "(no prompt)"));
+    if (s.last_user_msg && s.last_user_msg !== s.first_prompt) {
+      main.appendChild(el("div", "last-msg", "last: " + s.last_user_msg));
+    }
+    div.appendChild(main);
+    const right = el("div", "right");
+    if (isActive) {
+      right.appendChild(el("div", null, s.minutes_since_active < 1 ? "now" : s.minutes_since_active + "m"));
+    } else {
+      const hrs = Math.round(s.minutes_since_active / 60 * 10) / 10;
+      right.appendChild(el("div", null, hrs + "h ago"));
+    }
+    const cwdShort = (s.project || "").replace(/^\/Users\/halukgul/, "~");
+    right.appendChild(el("div", null, cwdShort.length > 30 ? "…" + cwdShort.slice(-28) : cwdShort));
+    div.appendChild(right);
+    return div;
+  }
+
+  async function loadSessions() {
+    try {
+      const res = await fetch("./sessions.json?t=" + Date.now());
+      const data = await res.json();
+
+      document.getElementById("session-counts").textContent =
+        data.counts.active + " active · " + data.counts.recent + " recent · " + data.counts.archived + " archived";
+
+      const activeDiv = document.getElementById("sessions-active");
+      clear(activeDiv);
+      if (data.active.length === 0) {
+        activeDiv.appendChild(el("div", "empty", "No active sessions right now."));
+      } else {
+        activeDiv.appendChild(el("div", "subheading", "Active (last 5 min)"));
+        data.active.forEach(s => activeDiv.appendChild(renderSession(s, true)));
+      }
+
+      const recentDiv = document.getElementById("sessions-recent");
+      clear(recentDiv);
+      if (data.recent.length > 0) {
+        recentDiv.appendChild(el("div", "subheading", "Recent (last 24h)"));
+        data.recent.slice(0, 10).forEach(s => recentDiv.appendChild(renderSession(s, false)));
+      }
+    } catch (err) {
+      console.error("Could not load sessions:", err);
+    }
   }
 
   async function load() {
@@ -336,8 +439,10 @@
   }
 
   load();
+  loadSessions();
   updateLocalTime();
   setInterval(load, 30000);
+  setInterval(loadSessions, 15000);
   setInterval(updateLocalTime, 60000);
 </script>
 </body>
