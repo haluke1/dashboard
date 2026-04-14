@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T21:34:02Z",
+  "updated_at": "2026-04-14T21:34:04Z",
   "counts": {
     "active": 3,
     "recent": 7,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "Are you always on now?",
       "last_user_msg": "Are you running in a cloud session? Is it local? Is it headless? And how can we stop you from-",
-      "last_assistant_snippet": "Once you say hey Claude and I'm active, you have 20 minutes of silence before I go back to sleep and need the wake word again. The comment in your code says it was bumped up from 4\u2026",
-      "message_count": 41,
-      "file_size_kb": 165,
-      "modified_ts": 1776202435.998956,
-      "modified_iso": "2026-04-14T17:33:55.998956",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Your question got cut off at the end \u2014 finish that thought and I'll answer it. But for the first part: fully local, running on your Mac. The voice controller is a Python process li\u2026",
+      "message_count": 43,
+      "file_size_kb": 169,
+      "modified_ts": 1776202443.4535353,
+      "modified_iso": "2026-04-14T17:34:03.453535",
+      "minutes_since_active": 0.0
     },
     {
       "id": "e6be09c4",
@@ -53,7 +53,7 @@
       "file_size_kb": 464,
       "modified_ts": 1776202386.2115307,
       "modified_iso": "2026-04-14T17:33:06.211531",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 179.5
+      "minutes_since_active": 179.6
     },
     {
       "id": "21a61f9c",
@@ -135,7 +135,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 242.8
+      "minutes_since_active": 242.9
     },
     {
       "id": "78f0c6c2",
@@ -151,7 +151,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1240.5
+      "minutes_since_active": 1240.6
     },
     {
       "id": "993367e6",
