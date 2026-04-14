@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-14T04:07:25Z",
-  "total_tabs": 239,
+  "updated_at": "2026-04-14T04:08:28Z",
+  "total_tabs": 241,
   "total_windows": 6,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 106,
+      "count": 108,
       "domain_count": 68,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
+          "domain": "mountainside-medical.com",
+          "count": 4
+        },
+        {
           "domain": "exa.ai",
           "count": 3
         },
         {
           "domain": "platform.claude.com",
           "count": 3
-        },
-        {
-          "domain": "mountainside-medical.com",
-          "count": 2
         }
       ]
     },
