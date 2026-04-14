@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:02:30Z",
+  "updated_at": "2026-04-14T17:03:02Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 230
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "check out this website and what they do really in depth, and tell me the types of things i can do with claude code + miro to generate similar things. i am also thinking of making i\u2026",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - The crucial reframe: workflows.io is NOT a tool \u2014 it's a services firm that productized GTM deliverables into three buckets. You\u2026",
+      "message_count": 29,
+      "file_size_kb": 187,
+      "modified_ts": 1776186181.9426038,
+      "modified_iso": "2026-04-14T13:03:01.942604",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -21,23 +37,7 @@
       "file_size_kb": 1002,
       "modified_ts": 1776186094.5914285,
       "modified_iso": "2026-04-14T13:01:34.591429",
-      "minutes_since_active": 0.9
-    },
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "check out this website and what they do really in depth, and tell me the types of things i can do with claude code + miro to generate similar things. i am also thinking of making i\u2026",
-      "last_assistant_snippet": "Before I dive in, here's my plan so you can redirect if needed: 1. Fetch `workflows.io` directly (homepage + any product/feature subpages) \u2014 primary source 2. Verify Figma Make's c\u2026",
-      "message_count": 27,
-      "file_size_kb": 167,
-      "modified_ts": 1776186079.9345837,
-      "modified_iso": "2026-04-14T13:01:19.934584",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 1.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 10.9
+      "minutes_since_active": 11.4
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 969.0
+      "minutes_since_active": 969.5
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1020.4
+      "minutes_since_active": 1021.0
     }
   ]
 }
