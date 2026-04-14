@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-14T00:44:23Z",
-  "total_tabs": 281,
+  "updated_at": "2026-04-14T00:45:27Z",
+  "total_tabs": 230,
   "total_windows": 6,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 153,
-      "domain_count": 83,
+      "count": 102,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
-          "domain": "canva.com",
-          "count": 6
+          "domain": "exa.ai",
+          "count": 3
         },
         {
-          "domain": "open.spotify.com",
-          "count": 5
+          "domain": "platform.claude.com",
+          "count": 3
         },
         {
-          "domain": "newtab",
-          "count": 5
+          "domain": "outlook.office.com",
+          "count": 2
         }
       ]
     },
