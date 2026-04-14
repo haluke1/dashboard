@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-14T00:41:14Z",
+  "updated_at": "2026-04-14T00:42:18Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 225,
     "total": 227
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "78f0c6c2",
       "full_id": "78f0c6c2-03d1-481b-93ce-d41384ed7fe6",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/dashboard",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 5911,
       "modified_ts": 1776127018.120621,
       "modified_iso": "2026-04-13T20:36:58.120621",
-      "minutes_since_active": 4.3
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "993367e6",
       "full_id": "993367e6-7a3c-40d4-9bf8-148d6f7123a9",
@@ -39,7 +38,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 39.2
+      "minutes_since_active": 40.2
     }
   ]
 }
