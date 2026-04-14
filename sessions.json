@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:47:04Z",
+  "updated_at": "2026-04-14T17:47:53Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "[Image source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_8TpGmK/Screenshot 2026-04-14 at 13.46.20.png]",
       "last_assistant_snippet": "**Steps:** 1. Paste (the URL is on your clipboard now) as value for `VITE_SUPABASE_URL` 2. Then reply \"got URL\" and I'll put the anon key on your clipboard for the second one 3. Sa\u2026",
       "message_count": 258,
-      "file_size_kb": 1092,
-      "modified_ts": 1776188823.1736662,
-      "modified_iso": "2026-04-14T13:47:03.173666",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1093,
+      "modified_ts": 1776188824.3368099,
+      "modified_iso": "2026-04-14T13:47:04.336810",
+      "minutes_since_active": 0.8
     },
     {
       "id": "11bf8958",
@@ -37,7 +37,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 15.9
+      "minutes_since_active": 16.7
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 39.6
+      "minutes_since_active": 40.4
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1013.6
+      "minutes_since_active": 1014.4
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1065.0
+      "minutes_since_active": 1065.8
     }
   ]
 }
