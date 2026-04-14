@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T18:16:00Z",
+  "updated_at": "2026-04-14T18:17:02Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -11,16 +11,16 @@
       "id": "ec38cd63",
       "full_id": "ec38cd63-1afe-46ee-baa9-2c448e8a6c4f",
       "status": "active",
-      "project": "/Users/halukgul/.claude/projects/-Users-halukgul",
+      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the skool scraping project we were doing",
-      "last_user_msg": "bro look at our sessions",
+      "last_user_msg": "summarize and index what we gathered. / also how do we know when session ends when it abrubtly closes?",
       "last_assistant_snippet": "Got it. Here's where we actually are, then the real answer. ## Where we left off (today, 13:46) **Project:** Scraping the `quantum-quill-lyceum` Skool classroom (you're a member). \u2026",
-      "message_count": 44,
-      "file_size_kb": 178,
-      "modified_ts": 1776190559.3417864,
-      "modified_iso": "2026-04-14T14:15:59.341786",
+      "message_count": 50,
+      "file_size_kb": 205,
+      "modified_ts": 1776190621.9663963,
+      "modified_iso": "2026-04-14T14:17:01.966396",
       "minutes_since_active": 0.0
     },
     {
@@ -32,12 +32,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "continue to build the full thing and deploy to vercel",
-      "last_assistant_snippet": "Plan locked. I'll build the 5 remaining pages mirroring the `/aeq` + `/corrections` server-component pattern, then deploy. Tracking with tasks:",
-      "message_count": 75,
-      "file_size_kb": 305,
-      "modified_ts": 1776190558.9308398,
-      "modified_iso": "2026-04-14T14:15:58.930840",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Committed. Now before writing Next.js 16 code, per the AGENTS.md warning I'll peek at what docs ship locally so I don't invent APIs from training-data Next.js:",
+      "message_count": 95,
+      "file_size_kb": 354,
+      "modified_ts": 1776190618.0314455,
+      "modified_iso": "2026-04-14T14:16:58.031446",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 7.1
+      "minutes_since_active": 8.2
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776190070.2940478,
       "modified_iso": "2026-04-14T14:07:50.294048",
-      "minutes_since_active": 8.2
+      "minutes_since_active": 9.2
     },
     {
       "id": "11bf8958",
@@ -87,7 +87,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 30.0
+      "minutes_since_active": 31.0
     },
     {
       "id": "1418b449",
@@ -103,7 +103,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 44.8
+      "minutes_since_active": 45.9
     },
     {
       "id": "78f0c6c2",
@@ -119,7 +119,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1042.5
+      "minutes_since_active": 1043.5
     },
     {
       "id": "993367e6",
@@ -135,7 +135,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1093.9
+      "minutes_since_active": 1095.0
     }
   ]
 }
