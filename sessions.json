@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:39:00Z",
+  "updated_at": "2026-04-14T16:40:04Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -17,11 +17,11 @@
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
       "last_assistant_snippet": "The Vault is accessible \u2014 15 lessons grouped in 3 \"sets\" (nested structure). Let me set up a proper pipeline. Strategy: navigate Arc to each course, dump the raw course JSON to dis\u2026",
-      "message_count": 155,
-      "file_size_kb": 607,
-      "modified_ts": 1776184673.0386248,
-      "modified_iso": "2026-04-14T12:37:53.038625",
-      "minutes_since_active": 1.1
+      "message_count": 158,
+      "file_size_kb": 615,
+      "modified_ts": 1776184757.4256246,
+      "modified_iso": "2026-04-14T12:39:17.425625",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 121,
       "modified_ts": 1776183624.8869681,
       "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 18.6
+      "minutes_since_active": 19.7
     },
     {
       "id": "1418b449",
@@ -55,7 +55,7 @@
       "file_size_kb": 88,
       "modified_ts": 1776182810.0579572,
       "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 32.2
+      "minutes_since_active": 33.2
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 945.5
+      "minutes_since_active": 946.6
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 996.9
+      "minutes_since_active": 998.0
     }
   ]
 }
