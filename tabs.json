@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-04-14T23:57:15Z",
-  "total_tabs": 254,
+  "updated_at": "2026-04-14T23:58:18Z",
+  "total_tabs": 261,
   "total_windows": 7,
-  "duplicate_tabs": 130,
+  "duplicate_tabs": 42,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 137,
-      "domain_count": 66,
+      "count": 123,
+      "domain_count": 76,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 34
+          "count": 24
         },
         {
           "domain": "skool.com",
           "count": 9
         },
         {
-          "domain": "mountainside-medical.com",
-          "count": 7
-        },
-        {
           "domain": "google.com",
           "count": 5
+        },
+        {
+          "domain": "mountainside-medical.com",
+          "count": 4
         },
         {
           "domain": "exa.ai",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 50,
+      "count": 72,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 49
+          "count": 71
         },
         {
           "domain": "loom.com",
@@ -49,50 +49,50 @@
     },
     {
       "name": "ai-dev",
-      "count": 44,
-      "domain_count": 5,
+      "count": 45,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 22
+          "count": 20
         },
         {
           "domain": "claude.ai",
-          "count": 17
+          "count": 16
         },
         {
-          "domain": "(no domain)",
+          "domain": "cursor.com",
           "count": 3
         },
         {
-          "domain": "anthropic.com",
-          "count": 1
+          "domain": "(no domain)",
+          "count": 2
         },
         {
-          "domain": "devpost.com",
-          "count": 1
+          "domain": "huggingface.co",
+          "count": 2
         }
       ]
     },
     {
       "name": "local",
-      "count": 18,
-      "domain_count": 7,
+      "count": 16,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "localhost:8888",
-          "count": 5
-        },
-        {
-          "domain": "localhost:8080",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "localhost:3001",
           "count": 3
         },
         {
-          "domain": "localhost:60561",
+          "domain": "localhost:8080",
+          "count": 2
+        },
+        {
+          "domain": "localhost:61303",
           "count": 2
         },
         {
@@ -103,12 +103,12 @@
     },
     {
       "name": "research",
-      "count": 4,
+      "count": 3,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "hannahstulberg.substack.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "simonw.substack.com",
@@ -127,6 +127,17 @@
       "top_domains": [
         {
           "domain": "reddit.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 1
         }
       ]
