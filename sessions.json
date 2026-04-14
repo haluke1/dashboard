@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:45:46Z",
+  "updated_at": "2026-04-14T17:46:00Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "2 lessons resistant. Moving on. Let me update the builder to handle locked lessons cleanly, then run it.",
-      "message_count": 385,
-      "file_size_kb": 1196,
-      "modified_ts": 1776188740.7079782,
-      "modified_iso": "2026-04-14T13:45:40.707978",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Done. Full archive sitting in `~/reports/quantum-quill-lyceum/`. ## What you got **49 lessons archived** (~451K chars of markdown, 52 inline images downloaded) | Course | Lessons |\u2026",
+      "message_count": 386,
+      "file_size_kb": 1200,
+      "modified_ts": 1776188759.522765,
+      "modified_iso": "2026-04-14T13:45:59.522765",
+      "minutes_since_active": 0.0
     },
     {
       "id": "21a61f9c",
@@ -37,7 +37,7 @@
       "file_size_kb": 990,
       "modified_ts": 1776188732.4028869,
       "modified_iso": "2026-04-14T13:45:32.402887",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 14.6
+      "minutes_since_active": 14.8
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 38.3
+      "minutes_since_active": 38.5
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1012.3
+      "minutes_since_active": 1012.5
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1063.7
+      "minutes_since_active": 1063.9
     }
   ]
 }
