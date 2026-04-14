@@ -1,8 +1,135 @@
 {
-  "updated_at": "2026-04-14T06:08:20Z",
-  "total_tabs": 0,
-  "total_windows": 0,
-  "duplicate_tabs": 0,
+  "updated_at": "2026-04-14T06:09:28Z",
+  "total_tabs": 241,
+  "total_windows": 6,
+  "duplicate_tabs": 33,
   "bridge_online": true,
-  "categories": []
+  "categories": [
+    {
+      "name": "other",
+      "count": 108,
+      "domain_count": 68,
+      "top_domains": [
+        {
+          "domain": "(no domain)",
+          "count": 24
+        },
+        {
+          "domain": "skool.com",
+          "count": 9
+        },
+        {
+          "domain": "mountainside-medical.com",
+          "count": 4
+        },
+        {
+          "domain": "platform.claude.com",
+          "count": 3
+        },
+        {
+          "domain": "exa.ai",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 74,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 73
+        },
+        {
+          "domain": "loom.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 40,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 19
+        },
+        {
+          "domain": "claude.ai",
+          "count": 15
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 2
+        },
+        {
+          "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 15,
+      "domain_count": 8,
+      "top_domains": [
+        {
+          "domain": "localhost:8888",
+          "count": 4
+        },
+        {
+          "domain": "localhost:3001",
+          "count": 3
+        },
+        {
+          "domain": "localhost:61303",
+          "count": 2
+        },
+        {
+          "domain": "localhost:61304",
+          "count": 2
+        },
+        {
+          "domain": "127.0.0.1:8765",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "hannahstulberg.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 1
+        }
+      ]
+    }
+  ]
 }
