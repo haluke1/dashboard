@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:59:16Z",
+  "updated_at": "2026-04-14T17:00:20Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "Orphan osascript on Chrome was blocking AppleEvent queue. Killed it, fetcher unblocked and completed lesson 1 (17K chars). Let it run.",
-      "message_count": 293,
-      "file_size_kb": 925,
-      "modified_ts": 1776185907.7282906,
-      "modified_iso": "2026-04-14T12:58:27.728291",
-      "minutes_since_active": 0.8
+      "last_assistant_snippet": "Progress is slow (~45s/lesson). Let me let it run and build the markdown converter in parallel.",
+      "message_count": 300,
+      "file_size_kb": 937,
+      "modified_ts": 1776186012.2106187,
+      "modified_iso": "2026-04-14T13:00:12.210619",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 7.6
+      "minutes_since_active": 8.7
     },
     {
       "id": "21a61f9c",
@@ -55,7 +55,7 @@
       "file_size_kb": 121,
       "modified_ts": 1776183624.8869681,
       "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 38.9
+      "minutes_since_active": 39.9
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 965.8
+      "minutes_since_active": 966.8
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1017.2
+      "minutes_since_active": 1018.3
     }
   ]
 }
