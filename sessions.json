@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:04:38Z",
+  "updated_at": "2026-04-14T17:05:41Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 230
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "could we design the figma make for this -> 1. AEQ scoreboard \u2014 current score, target 2000, what moved it this week 2. O-1A evidence tracker \u2014 8 criteria, what evidence exists for e\u2026",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - The crucial reframe: workflows.io is NOT a tool \u2014 it's a services firm that productized GTM deliverables into three buckets. You\u2026",
+      "message_count": 30,
+      "file_size_kb": 191,
+      "modified_ts": 1776186317.8198268,
+      "modified_iso": "2026-04-14T13:05:17.819827",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -17,27 +33,11 @@
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
       "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
-      "message_count": 317,
-      "file_size_kb": 1005,
-      "modified_ts": 1776186274.7977726,
-      "modified_iso": "2026-04-14T13:04:34.797773",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "check out this website and what they do really in depth, and tell me the types of things i can do with claude code + miro to generate similar things. i am also thinking of making i\u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - The crucial reframe: workflows.io is NOT a tool \u2014 it's a services firm that productized GTM deliverables into three buckets. You\u2026",
-      "message_count": 29,
-      "file_size_kb": 189,
-      "modified_ts": 1776186183.0773714,
-      "modified_iso": "2026-04-14T13:03:03.077371",
-      "minutes_since_active": 1.6
+      "message_count": 327,
+      "file_size_kb": 1026,
+      "modified_ts": 1776186315.1877697,
+      "modified_iso": "2026-04-14T13:05:15.187770",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 13.0
+      "minutes_since_active": 14.1
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 971.1
+      "minutes_since_active": 972.2
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1022.6
+      "minutes_since_active": 1023.6
     }
   ]
 }
