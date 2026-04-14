@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:01:16Z",
+  "updated_at": "2026-04-14T16:01:57Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "give me the best mac mini i should buy for this situation, options for 16 32 64 128 gb ram or other metrics",
-      "last_assistant_snippet": "Let me check the current Mac mini lineup \u2014 the M5 generation may have launched since my training cutoff.",
-      "message_count": 18,
-      "file_size_kb": 224,
-      "modified_ts": 1776182468.0169678,
-      "modified_iso": "2026-04-14T12:01:08.016968",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Verified current lineup from apple.com (April 2026). Important upfront: **Mac mini tops out at 64GB**. There is no 128GB Mac mini \u2014 that's Mac Studio territory. Also no M5 mini yet\u2026",
+      "message_count": 20,
+      "file_size_kb": 233,
+      "modified_ts": 1776182516.383047,
+      "modified_iso": "2026-04-14T12:01:56.383047",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 907.8
+      "minutes_since_active": 908.4
     },
     {
       "id": "993367e6",
@@ -55,7 +55,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 959.2
+      "minutes_since_active": 959.9
     }
   ]
 }
