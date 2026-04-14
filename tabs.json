@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T00:31:30Z",
+  "updated_at": "2026-04-14T00:32:33Z",
   "total_tabs": 313,
   "total_windows": 6,
   "duplicate_tabs": 68,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 184,
+      "count": 185,
       "domain_count": 84,
       "top_domains": [
         {
@@ -15,11 +15,11 @@
           "count": 24
         },
         {
-          "domain": "keep.google.com",
-          "count": 16
+          "domain": "google.com",
+          "count": 17
         },
         {
-          "domain": "google.com",
+          "domain": "keep.google.com",
           "count": 16
         },
         {
@@ -76,8 +76,8 @@
     },
     {
       "name": "local",
-      "count": 16,
-      "domain_count": 9,
+      "count": 15,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "localhost:8888",
