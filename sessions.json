@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T17:36:09Z",
+  "updated_at": "2026-04-14T17:36:14Z",
   "counts": {
-    "active": 3,
-    "recent": 3,
+    "active": 2,
+    "recent": 4,
     "archived": 225,
     "total": 231
   },
@@ -18,10 +18,10 @@
       "last_user_msg": "anon public -> eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVrZXJjeHZnanp1YWRvbm9vcm1oIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxNzk4NDMsImV4cCI6MjA5MTc1NTg0M30.\u2026",
       "last_assistant_snippet": "In your existing Figma Make tab: 1. `\u2318V` to paste the Page 6 prompt 2. Submit When Figma Make asks to connect to Supabase, use these values: ``` URL: https://ekercxvgjzuadonoormh.s\u2026",
       "message_count": 209,
-      "file_size_kb": 860,
-      "modified_ts": 1776188168.9759367,
-      "modified_iso": "2026-04-14T13:36:08.975937",
-      "minutes_since_active": 0.0
+      "file_size_kb": 861,
+      "modified_ts": 1776188170.145046,
+      "modified_iso": "2026-04-14T13:36:10.145046",
+      "minutes_since_active": 0.1
     },
     {
       "id": "11bf8958",
@@ -37,12 +37,14 @@
       "file_size_kb": 1071,
       "modified_ts": 1776187881.145177,
       "modified_iso": "2026-04-14T13:31:21.145177",
-      "minutes_since_active": 4.8
-    },
+      "minutes_since_active": 4.9
+    }
+  ],
+  "recent": [
     {
       "id": "1418b449",
       "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -54,9 +56,7 @@
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
       "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+    },
     {
       "id": "20e57963",
       "full_id": "20e57963-9d28-4f81-a088-25c7a2a50f89",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 28.7
+      "minutes_since_active": 28.8
     },
     {
       "id": "78f0c6c2",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1054.1
+      "minutes_since_active": 1054.2
     }
   ]
 }
