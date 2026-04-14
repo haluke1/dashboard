@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T18:20:08Z",
+  "updated_at": "2026-04-14T18:20:09Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -18,9 +18,9 @@
       "last_user_msg": "<task-notification> <task-id>a73638b91a0af212f</task-id> <tool-use-id>toolu_01LSGez69xweSiG4GXmQxDki</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/ec38cd63-1af\u2026",
       "last_assistant_snippet": "4 agents launched in parallel (Foundation+GettingStarted merged into one since getting-started is tiny). Each writes to `/tmp/skool-summary/`: | Agent | Course | Lessons | |---|---\u2026",
       "message_count": 82,
-      "file_size_kb": 305,
-      "modified_ts": 1776190807.3755322,
-      "modified_iso": "2026-04-14T14:20:07.375532",
+      "file_size_kb": 307,
+      "modified_ts": 1776190808.256845,
+      "modified_iso": "2026-04-14T14:20:08.256845",
       "minutes_since_active": 0.0
     },
     {
@@ -33,11 +33,11 @@
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "continue to build the full thing and deploy to vercel",
       "last_assistant_snippet": "Now `/underground` \u2014 events + speaker funnel:",
-      "message_count": 112,
-      "file_size_kb": 441,
-      "modified_ts": 1776190769.2944424,
-      "modified_iso": "2026-04-14T14:19:29.294442",
-      "minutes_since_active": 0.6
+      "message_count": 114,
+      "file_size_kb": 477,
+      "modified_ts": 1776190807.576318,
+      "modified_iso": "2026-04-14T14:20:07.576318",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 11.2
+      "minutes_since_active": 11.3
     },
     {
       "id": "20e57963",
@@ -103,7 +103,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 48.9
+      "minutes_since_active": 49.0
     },
     {
       "id": "78f0c6c2",
@@ -119,7 +119,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1046.6
+      "minutes_since_active": 1046.7
     },
     {
       "id": "993367e6",
