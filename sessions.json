@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-14T21:41:09Z",
+  "updated_at": "2026-04-14T21:41:15Z",
   "counts": {
-    "active": 4,
+    "active": 5,
     "recent": 7,
     "archived": 225,
-    "total": 236
+    "total": 237
   },
   "active": [
+    {
+      "id": "65fdc722",
+      "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Are you always on now?",
+      "last_user_msg": "Do you think we can use another voice provider other than ElevenLabs that would have the same realistic voice that we have cloned, and that's the one that you are using?",
+      "last_assistant_snippet": "Honest answer: for a cloned voice specifically, ElevenLabs is still the best in 2026 by a noticeable margin. The two real alternatives worth considering are Play.ht \u2014 closest compe\u2026",
+      "message_count": 65,
+      "file_size_kb": 255,
+      "modified_ts": 1776202874.3671975,
+      "modified_iso": "2026-04-14T17:41:14.367198",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "9a64615f",
+      "full_id": "9a64615f-b2b1-4a60-92c8-5ca8ced7c570",
+      "status": "active",
+      "project": "/private/tmp",
+      "git_branch": "HEAD",
+      "permission_mode": null,
+      "first_prompt": "You have access to the Figma MCP tools. Do the following: 1. Read the file at /Users/halukgul/.claude/mindmaps/01-overview.mmd \u2014 it contains Mermaid flowchart syntax. 2. Call mcp__\u2026",
+      "last_user_msg": "You have access to the Figma MCP tools. Do the following: 1. Read the file at /Users/halukgul/.claude/mindmaps/01-overview.mmd \u2014 it contains Mermaid flowchart syntax. 2. Call mcp__\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 6,
+      "file_size_kb": 50,
+      "modified_ts": 1776202873.4855325,
+      "modified_iso": "2026-04-14T17:41:13.485533",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "026df754",
       "full_id": "026df754-3584-4ea4-8094-491039e54868",
@@ -21,23 +53,7 @@
       "file_size_kb": 811,
       "modified_ts": 1776202864.8684528,
       "modified_iso": "2026-04-14T17:41:04.868453",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "65fdc722",
-      "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
-      "status": "active",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Are you always on now?",
-      "last_user_msg": "Do you think we can use another voice provider other than ElevenLabs that would have the same realistic voice that we have cloned, and that's the one that you are using?",
-      "last_assistant_snippet": "Good question \u2014 let me search fresh rather than guess, since this space moves fast.",
-      "message_count": 63,
-      "file_size_kb": 250,
-      "modified_ts": 1776202862.196952,
-      "modified_iso": "2026-04-14T17:41:02.196952",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "bc01fe98",
@@ -53,7 +69,7 @@
       "file_size_kb": 42,
       "modified_ts": 1776202846.9112167,
       "modified_iso": "2026-04-14T17:40:46.911217",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "e6be09c4",
@@ -69,7 +85,7 @@
       "file_size_kb": 1335,
       "modified_ts": 1776202755.022323,
       "modified_iso": "2026-04-14T17:39:15.022323",
-      "minutes_since_active": 1.9
+      "minutes_since_active": 2.0
     }
   ],
   "recent": [
@@ -87,7 +103,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 144.8
+      "minutes_since_active": 144.9
     },
     {
       "id": "20e57963",
@@ -103,7 +119,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 186.6
+      "minutes_since_active": 186.7
     },
     {
       "id": "21a61f9c",
@@ -119,7 +135,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 212.3
+      "minutes_since_active": 212.4
     },
     {
       "id": "11bf8958",
@@ -135,7 +151,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 235.1
+      "minutes_since_active": 235.2
     },
     {
       "id": "1418b449",
@@ -151,7 +167,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 250.0
+      "minutes_since_active": 250.1
     },
     {
       "id": "78f0c6c2",
@@ -183,7 +199,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1299.1
+      "minutes_since_active": 1299.2
     }
   ]
 }
