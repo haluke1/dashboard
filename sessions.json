@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T16:04:40Z",
+  "updated_at": "2026-04-14T16:05:29Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 2,
     "archived": 225,
-    "total": 228
+    "total": 229
   },
   "active": [
+    {
+      "id": "1418b449",
+      "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
+      "last_user_msg": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 70,
+      "modified_ts": 1776182722.8095014,
+      "modified_iso": "2026-04-14T12:05:22.809501",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -21,7 +37,7 @@
       "file_size_kb": 239,
       "modified_ts": 1776182662.7247794,
       "modified_iso": "2026-04-14T12:04:22.724779",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 911.2
+      "minutes_since_active": 912.0
     },
     {
       "id": "993367e6",
@@ -55,7 +71,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 962.6
+      "minutes_since_active": 963.4
     }
   ]
 }
