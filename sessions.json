@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T17:25:35Z",
+  "updated_at": "2026-04-14T17:26:39Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 1,
+    "recent": 5,
     "archived": 225,
     "total": 231
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 546,
       "modified_ts": 1776187309.396853,
       "modified_iso": "2026-04-14T13:21:49.396853",
-      "minutes_since_active": 3.8
-    },
+      "minutes_since_active": 4.8
+    }
+  ],
+  "recent": [
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/reports/quantum-quill-lyceum",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 1064,
       "modified_ts": 1776187271.96359,
       "modified_iso": "2026-04-14T13:21:11.963590",
-      "minutes_since_active": 4.4
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.4
+    },
     {
       "id": "20e57963",
       "full_id": "20e57963-9d28-4f81-a088-25c7a2a50f89",
@@ -55,7 +55,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 18.1
+      "minutes_since_active": 19.2
     },
     {
       "id": "1418b449",
@@ -71,7 +71,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 34.0
+      "minutes_since_active": 35.0
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 992.1
+      "minutes_since_active": 993.1
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1043.5
+      "minutes_since_active": 1044.6
     }
   ]
 }
