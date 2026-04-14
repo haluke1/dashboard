@@ -227,24 +227,50 @@
   }
   .domain-close:hover { border-color: #dc2626; color: #fca5a5; }
   .tab-item {
-    display: flex; gap: 8px; padding: 4px 10px 4px 32px; font-size: 11px;
+    display: flex; gap: 8px; padding: 6px 10px 6px 32px; font-size: 11px;
     color: var(--dim); border-bottom: 1px solid #151515;
+    align-items: center;
   }
   .tab-item:hover { background: #0f0f0f; }
-  .tab-item:hover .tab-close { visibility: visible; }
+  .tab-item.selected { background: #064e3b22; border-left: 2px solid #10b981; padding-left: 30px; }
+  .tab-checkbox {
+    accent-color: #10b981; width: 14px; height: 14px; cursor: pointer; flex-shrink: 0;
+  }
   .tab-title {
     flex-grow: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    color: var(--text); cursor: pointer;
   }
+  .tab-title:hover { color: #7dd3fc; }
   .tab-dup-flag {
     background: #7f1d1d; color: #fca5a5; padding: 1px 5px; border-radius: 3px;
     font-size: 9px; font-weight: 600;
   }
   .tab-close {
-    visibility: hidden;
-    background: transparent; border: none; color: var(--mute);
-    cursor: pointer; font-size: 12px; padding: 0 4px;
+    background: transparent; border: 1px solid transparent; color: var(--mute);
+    cursor: pointer; font-size: 13px; padding: 2px 8px; border-radius: 4px;
+    font-family: inherit;
   }
-  .tab-close:hover { color: #fca5a5; }
+  .tab-close:hover { color: #fca5a5; border-color: #7f1d1d; background: #3f1d1d; }
+  .selection-bar {
+    position: sticky; top: 0; z-index: 10;
+    background: #064e3b; border: 1px solid #065f46; border-radius: 8px;
+    padding: 8px 12px; margin-bottom: 10px;
+    display: flex; align-items: center; gap: 12px;
+    color: #6ee7b7; font-size: 12px; font-weight: 500;
+  }
+  .selection-bar button {
+    background: #10b981; color: #052e22; border: none; padding: 4px 10px;
+    border-radius: 4px; font-size: 11px; font-weight: 600; cursor: pointer;
+    font-family: inherit;
+  }
+  .selection-bar button:hover { background: #34d399; }
+  .selection-bar button.secondary { background: transparent; color: #6ee7b7; border: 1px solid #065f46; }
+  .tab-filter-box {
+    width: 100%; padding: 8px 12px; margin-bottom: 10px;
+    background: #0f0f0f; border: 1px solid #2a2a2a; color: var(--text);
+    border-radius: 6px; font-size: 12px; font-family: inherit;
+  }
+  .tab-filter-box:focus { outline: none; border-color: #10b981; }
   @media (max-width: 800px) {
     .metric { grid-column: span 6; }
     .half { grid-column: span 12; }
@@ -321,6 +347,15 @@
         <button class="tab-action-btn primary" id="btn-refresh-tabs">↻ Refresh</button>
         <button class="tab-action-btn danger" id="btn-close-duplicates">Close Duplicates</button>
         <button class="tab-action-btn" id="btn-export-tabs">Export All URLs</button>
+        <button class="tab-action-btn" id="btn-select-all">Select All</button>
+        <button class="tab-action-btn" id="btn-clear-selection">Clear Selection</button>
+        <button class="tab-action-btn" id="btn-expand-all">Expand All</button>
+      </div>
+      <input type="text" class="tab-filter-box" id="tab-filter" placeholder="Filter tabs by title, URL, or domain..." style="display:none;">
+      <div class="selection-bar" id="selection-bar" style="display:none;">
+        <span id="selection-count">0 selected</span>
+        <button id="btn-close-selected">× Close Selected</button>
+        <button class="secondary" id="btn-open-selected">Open Selected</button>
       </div>
       <div id="bridge-offline-hint" style="display:none;"></div>
       <div id="tab-categories"></div>
