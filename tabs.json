@@ -1,0 +1,124 @@
+{
+  "updated_at": "2026-04-14T00:16:07Z",
+  "total_tabs": 309,
+  "total_windows": 6,
+  "duplicate_tabs": 68,
+  "bridge_online": true,
+  "categories": [
+    {
+      "name": "other",
+      "count": 183,
+      "domain_count": 83,
+      "top_domains": [
+        {
+          "domain": "(no domain)",
+          "count": 24
+        },
+        {
+          "domain": "keep.google.com",
+          "count": 16
+        },
+        {
+          "domain": "google.com",
+          "count": 16
+        },
+        {
+          "domain": "skool.com",
+          "count": 9
+        },
+        {
+          "domain": "canva.com",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 70,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 69
+        },
+        {
+          "domain": "loom.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 37,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 17
+        },
+        {
+          "domain": "claude.ai",
+          "count": 14
+        },
+        {
+          "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 2
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 16,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "localhost:8888",
+          "count": 4
+        },
+        {
+          "domain": "localhost:3001",
+          "count": 3
+        },
+        {
+          "domain": "localhost:61303",
+          "count": 2
+        },
+        {
+          "domain": "localhost:61304",
+          "count": 2
+        },
+        {
+          "domain": "localhost:60561",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "hannahstulberg.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}
