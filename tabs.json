@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T23:37:21Z",
+  "updated_at": "2026-04-14T23:39:55Z",
   "total_tabs": 270,
   "total_windows": 7,
   "duplicate_tabs": 43,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 125,
-      "domain_count": 78,
+      "count": 124,
+      "domain_count": 77,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -27,19 +27,19 @@
           "count": 4
         },
         {
-          "domain": "exa.ai",
+          "domain": "platform.claude.com",
           "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 74,
+      "count": 75,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 73
+          "count": 74
         },
         {
           "domain": "loom.com",
@@ -122,11 +122,11 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "hannahstulberg.substack.com",
+          "domain": "simonw.substack.com",
           "count": 1
         },
         {
-          "domain": "simonw.substack.com",
+          "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
