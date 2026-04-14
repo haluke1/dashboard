@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-14T14:23:55Z",
-  "total_tabs": 243,
-  "total_windows": 6,
+  "updated_at": "2026-04-14T14:24:58Z",
+  "total_tabs": 245,
+  "total_windows": 7,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 109,
+      "count": 110,
       "domain_count": 69,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 24
+          "count": 25
         },
         {
           "domain": "skool.com",
@@ -122,9 +122,13 @@
     },
     {
       "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
+      "count": 2,
+      "domain_count": 2,
       "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 1
+        },
         {
           "domain": "mail.google.com",
           "count": 1
