@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-14T15:56:27Z",
+  "updated_at": "2026-04-14T15:56:51Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 2,
     "archived": 225,
-    "total": 227
+    "total": 228
   },
-  "active": [],
+  "active": [
+    {
+      "id": "11bf8958",
+      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
+      "last_user_msg": "could we open back up all the terminal sessions i had i just closed them",
+      "last_assistant_snippet": "Unfortunately closed terminal sessions can't be \"reopened\" with their live state \u2014 the processes are gone. But depending on your terminal app, we can restore the windows/tabs and w\u2026",
+      "message_count": 3,
+      "file_size_kb": 69,
+      "modified_ts": 1776182209.2482724,
+      "modified_iso": "2026-04-14T11:56:49.248272",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "78f0c6c2",
@@ -22,7 +39,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 903.0
+      "minutes_since_active": 903.3
     },
     {
       "id": "993367e6",
@@ -38,7 +55,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 954.4
+      "minutes_since_active": 954.8
     }
   ]
 }
