@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:56:59Z",
+  "updated_at": "2026-04-14T17:57:25Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "what does /resume do?",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_QHNZuC/Screenshot 2026-04-14 at 13.55.28.png]",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_pgEZRb/Screenshot 2026-04-14 at 13.56.42.png]",
       "last_assistant_snippet": "Honest take \u2014 **Figma Make isn't the long-term answer for this.** Here's why: ## The credit math You have 358/500 credits (used 142 for global design + Page 6). Extrapolating: | Sc\u2026",
-      "message_count": 283,
-      "file_size_kb": 1701,
-      "modified_ts": 1776189418.7676601,
-      "modified_iso": "2026-04-14T13:56:58.767660",
-      "minutes_since_active": 0.0
+      "message_count": 285,
+      "file_size_kb": 1763,
+      "modified_ts": 1776189429.7980757,
+      "modified_iso": "2026-04-14T13:57:09.798076",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 11.0
+      "minutes_since_active": 11.4
     },
     {
       "id": "1418b449",
@@ -55,7 +55,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 25.8
+      "minutes_since_active": 26.2
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 49.5
+      "minutes_since_active": 50.0
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1023.5
+      "minutes_since_active": 1023.9
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1074.9
+      "minutes_since_active": 1075.4
     }
   ]
 }
