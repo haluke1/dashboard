@@ -322,11 +322,7 @@
         <button class="tab-action-btn danger" id="btn-close-duplicates">Close Duplicates</button>
         <button class="tab-action-btn" id="btn-export-tabs">Export All URLs</button>
       </div>
-      <div id="bridge-offline-hint" style="font-size:11px; color:var(--dim); line-height:1.6;">
-        The tab bridge is not running. Start it with:<br>
-        <code style="font-family:'SF Mono', monospace; color:#7dd3fc; background:#0c2738; padding:2px 8px; border-radius:3px; display:inline-block; margin-top:4px;">python3 ~/dashboard-bridge/bridge.py &</code>
-        <br>Or install the launchd auto-start (recommended). See <code>~/dashboard-bridge/</code>.
-      </div>
+      <div id="bridge-offline-hint" style="display:none;"></div>
       <div id="tab-categories"></div>
     </div>
 
@@ -415,15 +411,62 @@
   }
 
   async function loadTabs() {
-    if (!(await checkBridge())) return;
-    try {
-      const data = await fetchJSON(BRIDGE_URL + "/tabs");
-      document.getElementById("tab-total-label").textContent =
-        `· ${data.total_tabs} tabs · ${data.duplicate_tabs} duplicates · ${data.total_windows} windows`;
-      renderTabs(data);
-    } catch (err) {
-      document.getElementById("tab-total-label").textContent = " · error loading tabs: " + err.message;
+    const online = await checkBridge();
+    if (online) {
+      // Live mode — full data with control
+      try {
+        const data = await fetchJSON(BRIDGE_URL + "/tabs");
+        document.getElementById("tab-total-label").textContent =
+          `· ${data.total_tabs} tabs · ${data.duplicate_tabs} duplicates · ${data.total_windows} windows · live`;
+        // Also update the OPEN TABS card
+        document.getElementById("tab-count").textContent = data.total_tabs;
+        document.getElementById("tab-windows").textContent = "across " + data.total_windows + " windows";
+        renderTabs(data);
+      } catch (err) {
+        document.getElementById("tab-total-label").textContent = " · error loading tabs: " + err.message;
+      }
+    } else {
+      // Snapshot mode — read tabs.json pushed by the laptop
+      try {
+        const res = await fetch("./tabs.json?t=" + Date.now());
+        if (!res.ok) throw new Error("no snapshot");
+        const data = await res.json();
+        const mins = Math.round((Date.now() - new Date(data.updated_at).getTime()) / 60000);
+        document.getElementById("tab-total-label").textContent =
+          `· ${data.total_tabs} tabs · ${data.duplicate_tabs} duplicates · ${data.total_windows} windows · snapshot ${mins}m ago`;
+        document.getElementById("tab-count").textContent = data.total_tabs;
+        document.getElementById("tab-windows").textContent = "across " + data.total_windows + " windows";
+        renderSnapshotTabs(data);
+      } catch {
+        document.getElementById("tab-total-label").textContent = " · snapshot unavailable";
+      }
     }
+  }
+
+  function renderSnapshotTabs(data) {
+    const container = document.getElementById("tab-categories");
+    clear(container);
+    const hint = el("div", "empty", "Read-only view. Open on your laptop at http://127.0.0.1:7337 to close tabs.");
+    hint.style.marginBottom = "12px";
+    container.appendChild(hint);
+    data.categories.forEach(cat => {
+      const row = el("div", "category-row");
+      const chip = el("span", "category-chip " + cat.name, cat.name);
+      const name = el("span", "category-name", "");
+      const count = el("span", "category-count", `${cat.count} tabs · ${cat.domain_count} domains`);
+      row.append(chip, name, count);
+      container.appendChild(row);
+      if (cat.top_domains && cat.top_domains.length) {
+        const dl = el("div", "domain-list");
+        cat.top_domains.forEach(d => {
+          const drow = el("div", "domain-row");
+          drow.appendChild(el("span", "domain-name", d.domain));
+          drow.appendChild(el("span", "domain-count", String(d.count)));
+          dl.appendChild(drow);
+        });
+        container.appendChild(dl);
+      }
+    });
   }
 
   function renderTabs(data) {
