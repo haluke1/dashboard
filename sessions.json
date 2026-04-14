@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:09:09Z",
+  "updated_at": "2026-04-14T17:11:35Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,6 +7,38 @@
     "total": 231
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "okey build it",
+      "last_assistant_snippet": "Before I start typing, two honest-truth frames, then I'll ask the minimum blocking questions: **What I can build locally** (Claude Code can write these directly): - Supabase schema\u2026",
+      "message_count": 39,
+      "file_size_kb": 236,
+      "modified_ts": 1776186683.1077654,
+      "modified_iso": "2026-04-14T13:11:23.107765",
+      "minutes_since_active": 0.2
+    },
+    {
+      "id": "11bf8958",
+      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
+      "status": "active",
+      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
+      "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
+      "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
+      "message_count": 333,
+      "file_size_kb": 1042,
+      "modified_ts": 1776186645.6013522,
+      "modified_iso": "2026-04-14T13:10:45.601352",
+      "minutes_since_active": 0.8
+    },
     {
       "id": "20e57963",
       "full_id": "20e57963-9d28-4f81-a088-25c7a2a50f89",
@@ -21,39 +53,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 1.6
-    },
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "could we design the figma make for this -> 1. AEQ scoreboard \u2014 current score, target 2000, what moved it this week 2. O-1A evidence tracker \u2014 8 criteria, what evidence exists for e\u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - For these 7 pages specifically, Miro is the wrong tool and Figma Make is the right tool \u2014 all 7 are structured dashboards with l\u2026",
-      "message_count": 32,
-      "file_size_kb": 215,
-      "modified_ts": 1776186432.7753344,
-      "modified_iso": "2026-04-14T13:07:12.775334",
-      "minutes_since_active": 1.9
-    },
-    {
-      "id": "11bf8958",
-      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
-      "status": "active",
-      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
-      "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
-      "message_count": 327,
-      "file_size_kb": 1026,
-      "modified_ts": 1776186315.1877697,
-      "modified_iso": "2026-04-14T13:05:15.187770",
-      "minutes_since_active": 3.8
+      "minutes_since_active": 4.1
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 17.5
+      "minutes_since_active": 20.0
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 975.6
+      "minutes_since_active": 978.1
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1027.1
+      "minutes_since_active": 1029.5
     }
   ]
 }
