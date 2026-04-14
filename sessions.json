@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:29:52Z",
+  "updated_at": "2026-04-14T17:30:18Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "what does /resume do?",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_w51yTQ/Screenshot 2026-04-14 at 13.29.39.png]",
-      "last_assistant_snippet": "Click the **cockpit** card in the middle of the screen. That takes you into the project. Then: 1. Left sidebar \u2192 click the **\u2699\ufe0f Settings** (gear icon, bottom-left) 2. In the settin\u2026",
-      "message_count": 165,
-      "file_size_kb": 754,
-      "modified_ts": 1776187787.971785,
-      "modified_iso": "2026-04-14T13:29:47.971785",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "No \u2014 that's the **Integrations** page (Data API, GraphQL, Vault are already installed by default, ignore those). You need the **API Keys** page, which is in a different place. **Di\u2026",
+      "message_count": 167,
+      "file_size_kb": 762,
+      "modified_ts": 1776187817.9203594,
+      "modified_iso": "2026-04-14T13:30:17.920359",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1064,
       "modified_ts": 1776187271.96359,
       "modified_iso": "2026-04-14T13:21:11.963590",
-      "minutes_since_active": 8.7
+      "minutes_since_active": 9.1
     },
     {
       "id": "20e57963",
@@ -55,7 +55,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 22.4
+      "minutes_since_active": 22.8
     },
     {
       "id": "1418b449",
@@ -71,7 +71,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 38.2
+      "minutes_since_active": 38.7
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 996.4
+      "minutes_since_active": 996.8
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1047.8
+      "minutes_since_active": 1048.2
     }
   ]
 }
