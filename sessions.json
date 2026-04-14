@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:51:37Z",
+  "updated_at": "2026-04-14T16:51:53Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -18,10 +18,10 @@
       "last_user_msg": "is main claude chat able to communicate with hooks? how do hooks get processed? through external ai or claude itself?",
       "last_assistant_snippet": "Short answer: **hooks are not AI. They're deterministic shell commands the harness runs \u2014 Claude the model doesn't see them fire, doesn't control them, and doesn't \"talk\" to them i\u2026",
       "message_count": 6,
-      "file_size_kb": 103,
-      "modified_ts": 1776185496.4858193,
-      "modified_iso": "2026-04-14T12:51:36.485819",
-      "minutes_since_active": 0.0
+      "file_size_kb": 104,
+      "modified_ts": 1776185497.7152178,
+      "modified_iso": "2026-04-14T12:51:37.715218",
+      "minutes_since_active": 0.3
     },
     {
       "id": "11bf8958",
@@ -37,7 +37,7 @@
       "file_size_kb": 817,
       "modified_ts": 1776185483.4083288,
       "modified_iso": "2026-04-14T12:51:23.408329",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 121,
       "modified_ts": 1776183624.8869681,
       "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 31.2
+      "minutes_since_active": 31.5
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 958.1
+      "minutes_since_active": 958.4
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1009.6
+      "minutes_since_active": 1009.8
     }
   ]
 }
