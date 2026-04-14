@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:17:01Z",
+  "updated_at": "2026-04-14T17:18:08Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -17,11 +17,11 @@
       "first_prompt": "what does /resume do?",
       "last_user_msg": "okey build it",
       "last_assistant_snippet": "Supabase CLI is in (v2.90.0) but not logged in \u2014 that's an interactive browser flow only YOU can run. Not blocking; the simpler path is to apply via Supabase Dashboard SQL editor. \u2026",
-      "message_count": 101,
-      "file_size_kb": 393,
-      "modified_ts": 1776187020.4949572,
-      "modified_iso": "2026-04-14T13:17:00.494957",
-      "minutes_since_active": 0.0
+      "message_count": 109,
+      "file_size_kb": 418,
+      "modified_ts": 1776187069.6394944,
+      "modified_iso": "2026-04-14T13:17:49.639494",
+      "minutes_since_active": 0.3
     },
     {
       "id": "11bf8958",
@@ -37,7 +37,7 @@
       "file_size_kb": 1050,
       "modified_ts": 1776186833.9871197,
       "modified_iso": "2026-04-14T13:13:53.987120",
-      "minutes_since_active": 3.1
+      "minutes_since_active": 4.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 9.6
+      "minutes_since_active": 10.7
     },
     {
       "id": "1418b449",
@@ -71,7 +71,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 25.4
+      "minutes_since_active": 26.5
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 983.5
+      "minutes_since_active": 984.6
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1034.9
+      "minutes_since_active": 1036.1
     }
   ]
 }
