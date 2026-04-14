@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:31:59Z",
+  "updated_at": "2026-04-14T17:32:13Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 231
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul/cockpit",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "verification code for supabase cli 3f24d25e",
+      "last_assistant_snippet": "Not logged in yet. Did you click **Approve** in the browser window that opened? If not, switch to that browser tab, match the code `3f24d25e`, and click Approve. Tell me once you s\u2026",
+      "message_count": 177,
+      "file_size_kb": 783,
+      "modified_ts": 1776187932.236655,
+      "modified_iso": "2026-04-14T13:32:12.236655",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -21,7 +37,7 @@
       "file_size_kb": 1071,
       "modified_ts": 1776187881.145177,
       "modified_iso": "2026-04-14T13:31:21.145177",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 0.9
     },
     {
       "id": "1418b449",
@@ -37,23 +53,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 0.8
-    },
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "active",
-      "project": "/Users/halukgul/cockpit",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "do path b",
-      "last_assistant_snippet": "Run this in any terminal (your regular terminal, not here \u2014 it pops a browser window for approval): ```bash supabase login ``` It'll open Supabase in your browser, ask you to appro\u2026",
-      "message_count": 170,
-      "file_size_kb": 771,
-      "modified_ts": 1776187840.2265525,
-      "modified_iso": "2026-04-14T13:30:40.226552",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 24.5
+      "minutes_since_active": 24.8
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 998.5
+      "minutes_since_active": 998.7
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1049.9
+      "minutes_since_active": 1050.1
     }
   ]
 }
