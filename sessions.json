@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:33:42Z",
+  "updated_at": "2026-04-14T16:34:46Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "The Vault is accessible \u2014 15 lessons grouped in 3 \"sets\" (nested structure). Let me set up a proper pipeline. Strategy: navigate Arc to each course, dump the raw course JSON to dis\u2026",
       "message_count": 153,
       "file_size_kb": 603,
-      "modified_ts": 1776184364.2870057,
-      "modified_iso": "2026-04-14T12:32:44.287006",
-      "minutes_since_active": 1.0
+      "modified_ts": 1776184441.3970003,
+      "modified_iso": "2026-04-14T12:34:01.397000",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 121,
       "modified_ts": 1776183624.8869681,
       "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 13.3
+      "minutes_since_active": 14.4
     },
     {
       "id": "1418b449",
@@ -55,7 +55,7 @@
       "file_size_kb": 88,
       "modified_ts": 1776182810.0579572,
       "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 26.9
+      "minutes_since_active": 27.9
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 940.2
+      "minutes_since_active": 941.3
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 991.6
+      "minutes_since_active": 992.7
     }
   ]
 }
