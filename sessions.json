@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T16:08:58Z",
+  "updated_at": "2026-04-14T16:09:31Z",
   "counts": {
-    "active": 3,
-    "recent": 2,
+    "active": 2,
+    "recent": 3,
     "archived": 225,
     "total": 230
   },
@@ -15,12 +15,12 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "what does /resume do?",
-      "last_user_msg": "stop giving me gsd ones. i want claude code native ones",
-      "last_assistant_snippet": "Native Claude Code built-ins (listing from knowledge \u2014 flag me if any have changed, I can fetch docs to verify). **Session & context** 1. `/clear` \u2014 wipe context, start fresh. Use \u2026",
-      "message_count": 13,
-      "file_size_kb": 92,
-      "modified_ts": 1776182937.9310803,
-      "modified_iso": "2026-04-14T12:08:57.931080",
+      "last_user_msg": "give me more advanced claude ones",
+      "last_assistant_snippet": "Going beyond slash commands into power-user native features. **Thinking modes (magic keywords in prompts)** 1. `think` \u2192 basic extended thinking 2. `think hard` \u2192 more budget 3. `t\u2026",
+      "message_count": 16,
+      "file_size_kb": 101,
+      "modified_ts": 1776182970.8649995,
+      "modified_iso": "2026-04-14T12:09:30.865000",
       "minutes_since_active": 0.0
     },
     {
@@ -37,12 +37,14 @@
       "file_size_kb": 88,
       "modified_ts": 1776182810.0579572,
       "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 2.1
-    },
+      "minutes_since_active": 2.7
+    }
+  ],
+  "recent": [
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 239,
       "modified_ts": 1776182662.7247794,
       "modified_iso": "2026-04-14T12:04:22.724779",
-      "minutes_since_active": 4.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "78f0c6c2",
       "full_id": "78f0c6c2-03d1-481b-93ce-d41384ed7fe6",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 915.5
+      "minutes_since_active": 916.0
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 966.9
+      "minutes_since_active": 967.5
     }
   ]
 }
