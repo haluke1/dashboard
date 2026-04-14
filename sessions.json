@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:01:57Z",
+  "updated_at": "2026-04-14T16:02:19Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "give me the best mac mini i should buy for this situation, options for 16 32 64 128 gb ram or other metrics",
       "last_assistant_snippet": "Verified current lineup from apple.com (April 2026). Important upfront: **Mac mini tops out at 64GB**. There is no 128GB Mac mini \u2014 that's Mac Studio territory. Also no M5 mini yet\u2026",
       "message_count": 20,
-      "file_size_kb": 233,
-      "modified_ts": 1776182516.383047,
-      "modified_iso": "2026-04-14T12:01:56.383047",
-      "minutes_since_active": 0.0
+      "file_size_kb": 234,
+      "modified_ts": 1776182517.5321817,
+      "modified_iso": "2026-04-14T12:01:57.532182",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 908.4
+      "minutes_since_active": 908.8
     },
     {
       "id": "993367e6",
@@ -55,7 +55,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 959.9
+      "minutes_since_active": 960.3
     }
   ]
 }
