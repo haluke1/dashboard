@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:09:31Z",
+  "updated_at": "2026-04-14T16:09:54Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -18,10 +18,10 @@
       "last_user_msg": "give me more advanced claude ones",
       "last_assistant_snippet": "Going beyond slash commands into power-user native features. **Thinking modes (magic keywords in prompts)** 1. `think` \u2192 basic extended thinking 2. `think hard` \u2192 more budget 3. `t\u2026",
       "message_count": 16,
-      "file_size_kb": 101,
-      "modified_ts": 1776182970.8649995,
-      "modified_iso": "2026-04-14T12:09:30.865000",
-      "minutes_since_active": 0.0
+      "file_size_kb": 103,
+      "modified_ts": 1776182971.9651852,
+      "modified_iso": "2026-04-14T12:09:31.965185",
+      "minutes_since_active": 0.4
     },
     {
       "id": "1418b449",
@@ -37,7 +37,7 @@
       "file_size_kb": 88,
       "modified_ts": 1776182810.0579572,
       "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 3.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 239,
       "modified_ts": 1776182662.7247794,
       "modified_iso": "2026-04-14T12:04:22.724779",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 5.5
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 916.0
+      "minutes_since_active": 916.4
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 967.5
+      "minutes_since_active": 967.8
     }
   ]
 }
