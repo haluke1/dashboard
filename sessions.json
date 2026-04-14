@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:44:55Z",
+  "updated_at": "2026-04-14T17:45:32Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -15,12 +15,12 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "what does /resume do?",
-      "last_user_msg": "bro wtf if we select everything wont it delete this part too? -> -- ============================================================================ -- Cockpit Schema v1 \u2014 2026-04-14 -\u2026",
-      "last_assistant_snippet": "Clear the editor, paste, Run. Nothing you care about gets lost.",
-      "message_count": 241,
-      "file_size_kb": 972,
-      "modified_ts": 1776188694.0952046,
-      "modified_iso": "2026-04-14T13:44:54.095205",
+      "last_user_msg": "okey it says success",
+      "last_assistant_snippet": "**Anon key reads 16/16 corrections.** Full pipeline proven. Go back to your Figma Make tab and refresh the preview (or click the Page 6 preview again). You should now see: - Hero c\u2026",
+      "message_count": 248,
+      "file_size_kb": 989,
+      "modified_ts": 1776188731.140879,
+      "modified_iso": "2026-04-14T13:45:31.140879",
       "minutes_since_active": 0.0
     },
     {
@@ -33,11 +33,11 @@
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
       "last_assistant_snippet": "2 lessons resistant. Moving on. Let me update the builder to handle locked lessons cleanly, then run it.",
-      "message_count": 374,
-      "file_size_kb": 1151,
-      "modified_ts": 1776188652.700038,
-      "modified_iso": "2026-04-14T13:44:12.700038",
-      "minutes_since_active": 0.7
+      "message_count": 380,
+      "file_size_kb": 1183,
+      "modified_ts": 1776188726.5281649,
+      "modified_iso": "2026-04-14T13:45:26.528165",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 13.7
+      "minutes_since_active": 14.3
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 37.5
+      "minutes_since_active": 38.1
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1011.4
+      "minutes_since_active": 1012.0
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1062.9
+      "minutes_since_active": 1063.5
     }
   ]
 }
