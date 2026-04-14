@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-14T23:49:05Z",
-  "total_tabs": 270,
+  "updated_at": "2026-04-14T23:51:44Z",
+  "total_tabs": 261,
   "total_windows": 7,
-  "duplicate_tabs": 43,
+  "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 125,
-      "domain_count": 78,
+      "count": 123,
+      "domain_count": 76,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 74,
+      "count": 72,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 73
+          "count": 71
         },
         {
           "domain": "loom.com",
@@ -49,12 +49,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 44,
+      "count": 45,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 19
+          "count": 20
         },
         {
           "domain": "claude.ai",
@@ -102,21 +102,6 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 6,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "figma.com",
-          "count": 5
-        },
-        {
-          "domain": "notion.so",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -137,15 +122,22 @@
     },
     {
       "name": "social",
-      "count": 2,
-      "domain_count": 2,
+      "count": 1,
+      "domain_count": 1,
       "top_domains": [
         {
           "domain": "reddit.com",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
         {
-          "domain": "web.whatsapp.com",
+          "domain": "notion.so",
           "count": 1
         }
       ]
