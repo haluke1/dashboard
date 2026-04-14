@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:04:22Z",
+  "updated_at": "2026-04-14T16:04:26Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,9 +18,9 @@
       "last_user_msg": "how can i open new tabs in terminal i cant see the new tab open button",
       "last_assistant_snippet": "In macOS Terminal.app: - **New tab**: `\u2318T` - **New window**: `\u2318N` - **If the tab bar is hidden**: View menu \u2192 **Show Tab Bar** (or `\u2318\u21e7T`) If you're on iTerm2 instead: same `\u2318T` for\u2026",
       "message_count": 23,
-      "file_size_kb": 238,
-      "modified_ts": 1776182661.5864966,
-      "modified_iso": "2026-04-14T12:04:21.586497",
+      "file_size_kb": 239,
+      "modified_ts": 1776182662.7247794,
+      "modified_iso": "2026-04-14T12:04:22.724779",
       "minutes_since_active": 0.0
     }
   ],
@@ -55,7 +55,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 962.3
+      "minutes_since_active": 962.4
     }
   ]
 }
