@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T21:34:12Z",
+  "updated_at": "2026-04-14T21:35:06Z",
   "counts": {
     "active": 3,
     "recent": 7,
@@ -7,6 +7,22 @@
     "total": 235
   },
   "active": [
+    {
+      "id": "026df754",
+      "full_id": "026df754-3584-4ea4-8094-491039e54868",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can i now run multiple claude code instances within the app",
+      "last_user_msg": "sure lets try that - yea lets do separate figjam files (lets do pages of it inside the same figjam instead of separate files) it should look at all the repo and anything related to\u2026",
+      "last_assistant_snippet": "Scan complete. Inventory: - **Harness** (`~/.claude/`): 26 personal skills, 21 agents, 6 rules, 8 hooks, custom commands, memory system - **55 installed plugins** (LSPs, integratio\u2026",
+      "message_count": 77,
+      "file_size_kb": 477,
+      "modified_ts": 1776202484.704566,
+      "modified_iso": "2026-04-14T17:34:44.704566",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "e6be09c4",
       "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
@@ -18,10 +34,10 @@
       "last_user_msg": "I wanna build a master dashboard that has everything. i am building it now with the claude.app claude code on figjam what do you think? it will have claude voice, my to do tasks, p\u2026",
       "last_assistant_snippet": "Honest take: **FigJam is great for *designing* a dashboard, terrible for *being* one.** It's a whiteboard \u2014 no live data, no real state, no \"glance at it to see what's on fire.\" If\u2026",
       "message_count": 344,
-      "file_size_kb": 1318,
-      "modified_ts": 1776202452.270686,
-      "modified_iso": "2026-04-14T17:34:12.270686",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1320,
+      "modified_ts": 1776202453.2126267,
+      "modified_iso": "2026-04-14T17:34:13.212627",
+      "minutes_since_active": 0.9
     },
     {
       "id": "65fdc722",
@@ -37,23 +53,7 @@
       "file_size_kb": 170,
       "modified_ts": 1776202443.6042938,
       "modified_iso": "2026-04-14T17:34:03.604294",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "026df754",
-      "full_id": "026df754-3584-4ea4-8094-491039e54868",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can i now run multiple claude code instances within the app",
-      "last_user_msg": "sure lets try that - yea lets do separate figjam files (lets do pages of it inside the same figjam instead of separate files) it should look at all the repo and anything related to\u2026",
-      "last_assistant_snippet": "Scan complete. Inventory: - **Harness** (`~/.claude/`): 26 personal skills, 21 agents, 6 rules, 8 hooks, custom commands, memory system - **55 installed plugins** (LSPs, integratio\u2026",
-      "message_count": 73,
-      "file_size_kb": 464,
-      "modified_ts": 1776202386.2115307,
-      "modified_iso": "2026-04-14T17:33:06.211531",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 137.9
+      "minutes_since_active": 138.8
     },
     {
       "id": "20e57963",
@@ -87,7 +87,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 179.7
+      "minutes_since_active": 180.6
     },
     {
       "id": "21a61f9c",
@@ -103,7 +103,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 205.3
+      "minutes_since_active": 206.2
     },
     {
       "id": "11bf8958",
@@ -119,7 +119,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 228.2
+      "minutes_since_active": 229.1
     },
     {
       "id": "1418b449",
@@ -135,7 +135,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 243.0
+      "minutes_since_active": 243.9
     },
     {
       "id": "78f0c6c2",
@@ -151,7 +151,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1240.7
+      "minutes_since_active": 1241.6
     },
     {
       "id": "993367e6",
@@ -167,7 +167,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1292.1
+      "minutes_since_active": 1293.0
     }
   ]
 }
