@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T21:32:58Z",
+  "updated_at": "2026-04-14T21:33:04Z",
   "counts": {
-    "active": 3,
-    "recent": 7,
+    "active": 2,
+    "recent": 8,
     "archived": 225,
     "total": 235
   },
@@ -16,11 +16,11 @@
       "permission_mode": null,
       "first_prompt": "Are you always on now?",
       "last_user_msg": "How long is the voice active if I don't respond? So would I have to say Clou- hey Cloud every five minutes or are you on completely?",
-      "last_assistant_snippet": "Honestly, I don't know the exact timeout setting without checking your voice controller config. Let me look.",
-      "message_count": 37,
-      "file_size_kb": 156,
-      "modified_ts": 1776202377.6478682,
-      "modified_iso": "2026-04-14T17:32:57.647868",
+      "last_assistant_snippet": "Once you say hey Claude and I'm active, you have 20 minutes of silence before I go back to sleep and need the wake word again. The comment in your code says it was bumped up from 4\u2026",
+      "message_count": 40,
+      "file_size_kb": 163,
+      "modified_ts": 1776202382.9707842,
+      "modified_iso": "2026-04-14T17:33:02.970784",
       "minutes_since_active": 0.0
     },
     {
@@ -37,12 +37,14 @@
       "file_size_kb": 451,
       "modified_ts": 1776202349.4777536,
       "modified_iso": "2026-04-14T17:32:29.477754",
-      "minutes_since_active": 0.5
-    },
+      "minutes_since_active": 0.6
+    }
+  ],
+  "recent": [
     {
       "id": "e6be09c4",
       "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 1307,
       "modified_ts": 1776202082.066105,
       "modified_iso": "2026-04-14T17:28:02.066105",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.0
+    },
     {
       "id": "ec38cd63",
       "full_id": "ec38cd63-1afe-46ee-baa9-2c448e8a6c4f",
@@ -71,7 +71,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 136.6
+      "minutes_since_active": 136.7
     },
     {
       "id": "20e57963",
@@ -87,7 +87,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 178.5
+      "minutes_since_active": 178.6
     },
     {
       "id": "21a61f9c",
@@ -103,7 +103,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 204.1
+      "minutes_since_active": 204.2
     },
     {
       "id": "11bf8958",
@@ -135,7 +135,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 241.8
+      "minutes_since_active": 241.9
     },
     {
       "id": "78f0c6c2",
@@ -151,7 +151,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1239.5
+      "minutes_since_active": 1239.6
     },
     {
       "id": "993367e6",
@@ -167,7 +167,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1290.9
+      "minutes_since_active": 1291.0
     }
   ]
 }
