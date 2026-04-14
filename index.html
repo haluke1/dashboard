@@ -387,7 +387,10 @@
   }
 
   // ————— BRIDGE / TAB CONTROL —————
-  const BRIDGE_URL = "http://127.0.0.1:7337";
+  // When opened at dash.haluk, use same-origin. When opened on GitHub Pages, target the local bridge.
+  const BRIDGE_URL = (location.hostname === "dash.haluk" || location.hostname === "127.0.0.1" || location.hostname === "localhost")
+    ? ""  // same-origin — just use relative paths
+    : "http://dash.haluk:7337";
   let bridgeOnline = false;
 
   async function fetchJSON(url, opts = {}) {
@@ -447,7 +450,7 @@
   function renderSnapshotTabs(data) {
     const container = document.getElementById("tab-categories");
     clear(container);
-    const hint = el("div", "empty", "Read-only view. Open on your laptop at http://127.0.0.1:7337 to close tabs.");
+    const hint = el("div", "empty", "Read-only view. Open http://dash.haluk:7337 on your laptop to close tabs.");
     hint.style.marginBottom = "12px";
     container.appendChild(hint);
     data.categories.forEach(cat => {
