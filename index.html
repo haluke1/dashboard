@@ -567,6 +567,114 @@
            (t.category || "").toLowerCase().includes(q);
   }
 
+  async function loadYouTubeChannels(categoryRow) {
+    // Insert a panel right after the category row's domain-list
+    let panel = categoryRow.parentElement.querySelector(".yt-panel[data-anchor='" + categoryRow.dataset.ytAnchor + "']");
+    if (panel) { panel.remove(); return; } // toggle off
+
+    const anchorId = "yt-" + Date.now();
+    categoryRow.dataset.ytAnchor = anchorId;
+
+    panel = el("div", "yt-panel");
+    panel.dataset.anchor = anchorId;
+    panel.textContent = "Loading channels (may take ~30s for first run)...";
+    categoryRow.parentElement.insertBefore(panel, categoryRow.nextSibling.nextSibling || null);
+
+    try {
+      const data = await fetchJSON(BRIDGE_URL + "/tabs/youtube");
+      clear(panel);
+
+      const header = el("div");
+      header.style.display = "flex";
+      header.style.alignItems = "center";
+      header.style.gap = "10px";
+      header.style.marginBottom = "10px";
+      header.appendChild(el("span", null, `${data.total_channels} channels detected`));
+      const selectAllChannels = el("button", "yt-btn", "Select All Channels");
+      const closeSelectedChannels = el("button", "yt-btn", "Close Selected Channel(s)");
+      header.appendChild(selectAllChannels);
+      header.appendChild(closeSelectedChannels);
+      panel.appendChild(header);
+
+      const selectedChans = new Set();
+
+      const refreshCount = () => {
+        const total = Array.from(selectedChans).reduce((acc, name) => {
+          const c = data.channels.find(x => x.name === name);
+          return acc + (c ? c.count : 0);
+        }, 0);
+        closeSelectedChannels.textContent = selectedChans.size === 0
+          ? "Close Selected Channel(s)"
+          : `Close ${selectedChans.size} channel(s) · ${total} tabs`;
+      };
+
+      data.channels.forEach(chan => {
+        const crow = el("div", "yt-channel-row");
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.className = "yt-channel-cb";
+        cb.addEventListener("change", () => {
+          if (cb.checked) selectedChans.add(chan.name);
+          else selectedChans.delete(chan.name);
+          refreshCount();
+        });
+        crow.appendChild(cb);
+        crow.appendChild(el("span", "yt-channel-name", chan.name));
+        crow.appendChild(el("span", "yt-channel-count", `${chan.count} tabs`));
+        const closeBtn = el("button", "yt-channel-close", "× close channel");
+        closeBtn.addEventListener("click", async () => {
+          if (!confirm(`Close ${chan.count} tab(s) from "${chan.name}"?`)) return;
+          closeBtn.textContent = "…";
+          const tabs = chan.tabs.map(t => ({ window: t.window, tab: t.tab }));
+          try {
+            await fetchJSON(BRIDGE_URL + "/tabs/close-bulk", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ tabs }),
+            });
+            await loadTabs();
+          } catch (err) { alert(err.message); }
+        });
+        crow.appendChild(closeBtn);
+        panel.appendChild(crow);
+      });
+
+      selectAllChannels.addEventListener("click", () => {
+        const allSelected = selectedChans.size === data.channels.length;
+        selectedChans.clear();
+        if (!allSelected) data.channels.forEach(c => selectedChans.add(c.name));
+        panel.querySelectorAll(".yt-channel-cb").forEach((cb, i) => {
+          cb.checked = selectedChans.has(data.channels[i].name);
+        });
+        refreshCount();
+        selectAllChannels.textContent = allSelected ? "Select All Channels" : "Deselect All";
+      });
+
+      closeSelectedChannels.addEventListener("click", async () => {
+        if (selectedChans.size === 0) return;
+        const tabsToClose = [];
+        data.channels.forEach(c => {
+          if (selectedChans.has(c.name)) {
+            c.tabs.forEach(t => tabsToClose.push({ window: t.window, tab: t.tab }));
+          }
+        });
+        if (!confirm(`Close ${tabsToClose.length} tab(s) from ${selectedChans.size} channel(s)?`)) return;
+        closeSelectedChannels.textContent = "closing…";
+        try {
+          await fetchJSON(BRIDGE_URL + "/tabs/close-bulk", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ tabs: tabsToClose }),
+          });
+          await loadTabs();
+        } catch (err) { alert(err.message); }
+      });
+
+    } catch (err) {
+      panel.textContent = "Failed to load channels: " + err.message;
+    }
+  }
+
   function renderTabs(data) {
     const container = document.getElementById("tab-categories");
     clear(container);
