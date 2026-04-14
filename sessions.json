@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T17:31:11Z",
+  "updated_at": "2026-04-14T17:31:59Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 3,
+    "recent": 3,
     "archived": 225,
     "total": 231
   },
   "active": [
+    {
+      "id": "11bf8958",
+      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
+      "status": "active",
+      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
+      "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
+      "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
+      "message_count": 345,
+      "file_size_kb": 1071,
+      "modified_ts": 1776187881.145177,
+      "modified_iso": "2026-04-14T13:31:21.145177",
+      "minutes_since_active": 0.6
+    },
     {
       "id": "1418b449",
       "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
@@ -18,10 +34,10 @@
       "last_user_msg": "supabase login",
       "last_assistant_snippet": "That's an interactive browser-auth command \u2014 run it yourself so the OAuth flow lands in your own session, not mine. Type it with a bang prefix so it executes in this shell and the \u2026",
       "message_count": 9,
-      "file_size_kb": 109,
-      "modified_ts": 1776187868.4974227,
-      "modified_iso": "2026-04-14T13:31:08.497423",
-      "minutes_since_active": 0.0
+      "file_size_kb": 110,
+      "modified_ts": 1776187871.8422563,
+      "modified_iso": "2026-04-14T13:31:11.842256",
+      "minutes_since_active": 0.8
     },
     {
       "id": "21a61f9c",
@@ -37,26 +53,10 @@
       "file_size_kb": 771,
       "modified_ts": 1776187840.2265525,
       "modified_iso": "2026-04-14T13:30:40.226552",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
-    {
-      "id": "11bf8958",
-      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
-      "status": "recent",
-      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
-      "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
-      "message_count": 342,
-      "file_size_kb": 1064,
-      "modified_ts": 1776187271.96359,
-      "modified_iso": "2026-04-14T13:21:11.963590",
-      "minutes_since_active": 10.0
-    },
     {
       "id": "20e57963",
       "full_id": "20e57963-9d28-4f81-a088-25c7a2a50f89",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 23.7
+      "minutes_since_active": 24.5
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 997.7
+      "minutes_since_active": 998.5
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1049.1
+      "minutes_since_active": 1049.9
     }
   ]
 }
