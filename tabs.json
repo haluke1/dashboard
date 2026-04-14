@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T23:11:36Z",
-  "total_tabs": 267,
+  "updated_at": "2026-04-14T23:12:41Z",
+  "total_tabs": 268,
   "total_windows": 7,
-  "duplicate_tabs": 43,
+  "duplicate_tabs": 42,
   "bridge_online": true,
   "categories": [
     {
@@ -103,12 +103,12 @@
     },
     {
       "name": "productivity",
-      "count": 5,
+      "count": 6,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "figma.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "notion.so",
