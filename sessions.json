@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:03:34Z",
+  "updated_at": "2026-04-14T17:04:38Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 230
   },
   "active": [
+    {
+      "id": "11bf8958",
+      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
+      "status": "active",
+      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
+      "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
+      "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
+      "message_count": 317,
+      "file_size_kb": 1005,
+      "modified_ts": 1776186274.7977726,
+      "modified_iso": "2026-04-14T13:04:34.797773",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "21a61f9c",
       "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
@@ -21,23 +37,7 @@
       "file_size_kb": 189,
       "modified_ts": 1776186183.0773714,
       "modified_iso": "2026-04-14T13:03:03.077371",
-      "minutes_since_active": 0.5
-    },
-    {
-      "id": "11bf8958",
-      "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
-      "status": "active",
-      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
-      "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "Converter works. Let me let the fetcher continue and check progress.",
-      "message_count": 316,
-      "file_size_kb": 1002,
-      "modified_ts": 1776186094.5914285,
-      "modified_iso": "2026-04-14T13:01:34.591429",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 1.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 11.9
+      "minutes_since_active": 13.0
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 970.1
+      "minutes_since_active": 971.1
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1021.5
+      "minutes_since_active": 1022.6
     }
   ]
 }
