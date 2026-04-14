@@ -1,8 +1,150 @@
 {
-  "updated_at": "2026-04-14T18:21:11Z",
-  "total_tabs": 0,
-  "total_windows": 0,
-  "duplicate_tabs": 0,
+  "updated_at": "2026-04-14T18:22:15Z",
+  "total_tabs": 248,
+  "total_windows": 7,
+  "duplicate_tabs": 37,
   "bridge_online": true,
-  "categories": []
+  "categories": [
+    {
+      "name": "other",
+      "count": 110,
+      "domain_count": 69,
+      "top_domains": [
+        {
+          "domain": "(no domain)",
+          "count": 24
+        },
+        {
+          "domain": "skool.com",
+          "count": 9
+        },
+        {
+          "domain": "mountainside-medical.com",
+          "count": 4
+        },
+        {
+          "domain": "exa.ai",
+          "count": 3
+        },
+        {
+          "domain": "platform.claude.com",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 73,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 72
+        },
+        {
+          "domain": "loom.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 44,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 19
+        },
+        {
+          "domain": "claude.ai",
+          "count": 16
+        },
+        {
+          "domain": "cursor.com",
+          "count": 3
+        },
+        {
+          "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 15,
+      "domain_count": 8,
+      "top_domains": [
+        {
+          "domain": "localhost:8888",
+          "count": 4
+        },
+        {
+          "domain": "localhost:3001",
+          "count": 3
+        },
+        {
+          "domain": "localhost:61303",
+          "count": 2
+        },
+        {
+          "domain": "localhost:61304",
+          "count": 2
+        },
+        {
+          "domain": "localhost:60561",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "hannahstulberg.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 1
+        },
+        {
+          "domain": "notion.so",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        }
+      ]
+    }
+  ]
 }
