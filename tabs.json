@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T03:49:00Z",
-  "total_tabs": 231,
+  "updated_at": "2026-04-14T03:50:04Z",
+  "total_tabs": 232,
   "total_windows": 6,
   "duplicate_tabs": 33,
   "bridge_online": true,
@@ -116,6 +116,17 @@
         },
         {
           "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
           "count": 1
         }
       ]
