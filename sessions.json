@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T17:00:20Z",
+  "updated_at": "2026-04-14T17:01:25Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
+    "active": 2,
+    "recent": 3,
     "archived": 225,
     "total": 230
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "check out this website and what they do really in depth, and tell me the types of things i can do with claude code + miro to generate similar things. i am also thinking of making i\u2026",
+      "last_assistant_snippet": "Before I dive in, here's my plan so you can redirect if needed: 1. Fetch `workflows.io` directly (homepage + any product/feature subpages) \u2014 primary source 2. Verify Figma Make's c\u2026",
+      "message_count": 27,
+      "file_size_kb": 167,
+      "modified_ts": 1776186079.9345837,
+      "modified_iso": "2026-04-14T13:01:19.934584",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -17,10 +33,10 @@
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
       "last_assistant_snippet": "Progress is slow (~45s/lesson). Let me let it run and build the markdown converter in parallel.",
-      "message_count": 300,
-      "file_size_kb": 937,
-      "modified_ts": 1776186012.2106187,
-      "modified_iso": "2026-04-14T13:00:12.210619",
+      "message_count": 310,
+      "file_size_kb": 985,
+      "modified_ts": 1776186078.2710528,
+      "modified_iso": "2026-04-14T13:01:18.271053",
       "minutes_since_active": 0.1
     }
   ],
@@ -39,23 +55,7 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 8.7
-    },
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "could we create a chain of hooks / commands / skills that trigger each other and how could we utilize them in the best way?",
-      "last_assistant_snippet": "Yes \u2014 and this is where Claude Code gets dangerous-good. Let me give you the mental model first, then concrete chains you could ship. ## The analogy Think of it like a **factory as\u2026",
-      "message_count": 19,
-      "file_size_kb": 121,
-      "modified_ts": 1776183624.8869681,
-      "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 39.9
+      "minutes_since_active": 9.8
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 966.8
+      "minutes_since_active": 967.9
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1018.3
+      "minutes_since_active": 1019.3
     }
   ]
 }
