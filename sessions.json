@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-13T23:57:37Z",
+  "updated_at": "2026-04-14T00:02:03Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 0,
-    "archived": 226,
+    "archived": 225,
     "total": 227
   },
   "active": [
+    {
+      "id": "993367e6",
+      "full_id": "993367e6-7a3c-40d4-9bf8-148d6f7123a9",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "so i am turkish guy and did lots of projects in turkey but nobody supported me and here i am in usa and people are supporting me and i feel great hate towards turkey and feel reall\u2026",
+      "last_user_msg": "btw redirect the audio input and output of voice agent to airpods",
+      "last_assistant_snippet": "Done. Both system-wide input and output are now on AirPods Pro. Any voice agent using default devices (ElevenLabs, browser-based, terminal-based) will route through them automatica\u2026",
+      "message_count": 23,
+      "file_size_kb": 333,
+      "modified_ts": 1776124922.5121498,
+      "modified_iso": "2026-04-13T20:02:02.512150",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "78f0c6c2",
       "full_id": "78f0c6c2-03d1-481b-93ce-d41384ed7fe6",
@@ -15,13 +31,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i am entering this hackathon -> https://luma.com/wz5u68yq?tk=6QXgAZ / how can i prepare for it? what should i build? what concepts should i be aware of? how can i win this hackatho\u2026",
-      "last_user_msg": "okey this is what i got -> halukgul@Haluks-MacBook-Air dashboard % cd ~/dashboard && git branch -M main && git push -u origin main Enumerating objects: 18, done. Counting objects: \u2026",
-      "last_assistant_snippet": "**Dashboard is LIVE \u2192 https://haluke1.github.io/dashboard/** Open it and you'll see your current active session (this one) showing up in real-time. Every new Claude Code session wi\u2026",
-      "message_count": 1007,
-      "file_size_kb": 5295,
-      "modified_ts": 1776124655.8134122,
-      "modified_iso": "2026-04-13T19:57:35.813412",
-      "minutes_since_active": 0.0
+      "last_user_msg": "i wanna be able to see the open tabs there in categories and be able to close them from there and for them to take effect on my laptop",
+      "last_assistant_snippet": "**379 tabs. 89 duplicates.** Bridge works. Now adding the tab control panel to the dashboard:",
+      "message_count": 1022,
+      "file_size_kb": 5377,
+      "modified_ts": 1776124910.7862625,
+      "modified_iso": "2026-04-13T20:01:50.786263",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": []
