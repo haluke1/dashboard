@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T17:30:39Z",
+  "updated_at": "2026-04-14T17:30:56Z",
   "counts": {
-    "active": 1,
-    "recent": 5,
+    "active": 2,
+    "recent": 4,
     "archived": 225,
     "total": 231
   },
   "active": [
+    {
+      "id": "1418b449",
+      "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
+      "last_user_msg": "supabase login",
+      "last_assistant_snippet": "Short answer: **hooks are not AI. They're deterministic shell commands the harness runs \u2014 Claude the model doesn't see them fire, doesn't control them, and doesn't \"talk\" to them i\u2026",
+      "message_count": 7,
+      "file_size_kb": 105,
+      "modified_ts": 1776187854.3664925,
+      "modified_iso": "2026-04-14T13:30:54.366493",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "21a61f9c",
       "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
@@ -18,10 +34,10 @@
       "last_user_msg": "do path b",
       "last_assistant_snippet": "Run this in any terminal (your regular terminal, not here \u2014 it pops a browser window for approval): ```bash supabase login ``` It'll open Supabase in your browser, ask you to appro\u2026",
       "message_count": 170,
-      "file_size_kb": 770,
-      "modified_ts": 1776187839.0453405,
-      "modified_iso": "2026-04-14T13:30:39.045341",
-      "minutes_since_active": 0.0
+      "file_size_kb": 771,
+      "modified_ts": 1776187840.2265525,
+      "modified_iso": "2026-04-14T13:30:40.226552",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 1064,
       "modified_ts": 1776187271.96359,
       "modified_iso": "2026-04-14T13:21:11.963590",
-      "minutes_since_active": 9.5
+      "minutes_since_active": 9.7
     },
     {
       "id": "20e57963",
@@ -55,23 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 23.2
-    },
-    {
-      "id": "1418b449",
-      "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
-      "last_user_msg": "is main claude chat able to communicate with hooks? how do hooks get processed? through external ai or claude itself?",
-      "last_assistant_snippet": "Short answer: **hooks are not AI. They're deterministic shell commands the harness runs \u2014 Claude the model doesn't see them fire, doesn't control them, and doesn't \"talk\" to them i\u2026",
-      "message_count": 6,
-      "file_size_kb": 104,
-      "modified_ts": 1776185497.7152178,
-      "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 39.0
+      "minutes_since_active": 23.5
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 997.2
+      "minutes_since_active": 997.4
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1048.6
+      "minutes_since_active": 1048.9
     }
   ]
 }
