@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T15:59:07Z",
+  "updated_at": "2026-04-14T15:59:45Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_25wGuU/Screenshot 2026-04-14 at 11.57.37.png]",
-      "last_assistant_snippet": "Two different problems here, and the distinction matters: 1. **Session closed / terminal quit** \u2192 solvable locally with `tmux` (detach sessions, reattach later). Claude Code alread\u2026",
-      "message_count": 8,
-      "file_size_kb": 169,
-      "modified_ts": 1776182343.314431,
-      "modified_iso": "2026-04-14T11:59:03.314431",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "## Why 6% at start Not MCPs \u2014 those are \"deferred\" (I see a list of their names but their full schemas aren't loaded until I call `ToolSearch`). The 6% is your **instruction stack*\u2026",
+      "message_count": 10,
+      "file_size_kb": 178,
+      "modified_ts": 1776182382.4931686,
+      "modified_iso": "2026-04-14T11:59:42.493169",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 905.6
+      "minutes_since_active": 906.2
     },
     {
       "id": "993367e6",
@@ -55,7 +55,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 957.1
+      "minutes_since_active": 957.7
     }
   ]
 }
