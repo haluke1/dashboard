@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:49:45Z",
+  "updated_at": "2026-04-14T16:50:49Z",
   "total_tabs": 248,
   "total_windows": 7,
   "duplicate_tabs": 37,
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "platform.claude.com",
+          "domain": "exa.ai",
           "count": 3
         },
         {
-          "domain": "exa.ai",
+          "domain": "platform.claude.com",
           "count": 3
         }
       ]
@@ -65,11 +65,11 @@
           "count": 3
         },
         {
-          "domain": "huggingface.co",
+          "domain": "(no domain)",
           "count": 2
         },
         {
-          "domain": "(no domain)",
+          "domain": "huggingface.co",
           "count": 2
         }
       ]
@@ -96,7 +96,7 @@
           "count": 2
         },
         {
-          "domain": "127.0.0.1:8765",
+          "domain": "localhost:60561",
           "count": 1
         }
       ]
@@ -126,11 +126,11 @@
       "domain_count": 2,
       "top_domains": [
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 1
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 1
         }
       ]
