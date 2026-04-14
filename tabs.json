@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-14T16:02:18Z",
-  "total_tabs": 247,
+  "updated_at": "2026-04-14T16:03:21Z",
+  "total_tabs": 249,
   "total_windows": 6,
-  "duplicate_tabs": 37,
+  "duplicate_tabs": 39,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 110,
+      "count": 111,
       "domain_count": 69,
       "top_domains": [
         {
@@ -49,7 +49,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 44,
+      "count": 45,
       "domain_count": 7,
       "top_domains": [
         {
@@ -61,15 +61,15 @@
           "count": 16
         },
         {
+          "domain": "huggingface.co",
+          "count": 3
+        },
+        {
           "domain": "cursor.com",
           "count": 3
         },
         {
           "domain": "(no domain)",
-          "count": 2
-        },
-        {
-          "domain": "huggingface.co",
           "count": 2
         }
       ]
