@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:42:57Z",
+  "updated_at": "2026-04-14T17:43:39Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,22 +7,6 @@
     "total": 231
   },
   "active": [
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "active",
-      "project": "/Users/halukgul/cockpit",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "figma make says this after i manually connected supabase and the project -> Excellent! The Corrections Ratchet is now live and connected to your Supabase database. The page will pu\u2026",
-      "last_assistant_snippet": "**While you do that** \u2014 quick security reframe about what just happened: The empty `[]` wasn't a bug; it was Supabase **working correctly**. RLS is a security wall \u2014 by default, \"n\u2026",
-      "message_count": 227,
-      "file_size_kb": 924,
-      "modified_ts": 1776188576.3043177,
-      "modified_iso": "2026-04-14T13:42:56.304318",
-      "minutes_since_active": 0.0
-    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "Confirmed \u2014 page shows \"You don't have access to this course\" for Vault. Your account doesn't actually have Vault/VIP access despite being Pro. I'll mark those as locked and finali\u2026",
-      "message_count": 359,
-      "file_size_kb": 1102,
-      "modified_ts": 1776188532.4576316,
-      "modified_iso": "2026-04-14T13:42:12.457632",
-      "minutes_since_active": 0.7
+      "last_assistant_snippet": "2 lessons resistant. Moving on. Let me update the builder to handle locked lessons cleanly, then run it.",
+      "message_count": 364,
+      "file_size_kb": 1128,
+      "modified_ts": 1776188617.8992782,
+      "modified_iso": "2026-04-14T13:43:37.899278",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul/cockpit",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "it said this -> Error: Failed to run sql query: ERROR: 42710: policy \"anon_read_public_intent\" for table \"intent_demo_outputs\" already exists",
+      "last_assistant_snippet": "**While you do that** \u2014 quick security reframe about what just happened: The empty `[]` wasn't a bug; it was Supabase **working correctly**. RLS is a security wall \u2014 by default, \"n\u2026",
+      "message_count": 228,
+      "file_size_kb": 929,
+      "modified_ts": 1776188596.9263334,
+      "modified_iso": "2026-04-14T13:43:16.926333",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 11.8
+      "minutes_since_active": 12.5
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 35.5
+      "minutes_since_active": 36.2
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1009.4
+      "minutes_since_active": 1010.1
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1060.9
+      "minutes_since_active": 1061.6
     }
   ]
 }
