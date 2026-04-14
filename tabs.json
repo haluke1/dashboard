@@ -1,26 +1,18 @@
 {
-  "updated_at": "2026-04-14T00:43:20Z",
-  "total_tabs": 315,
+  "updated_at": "2026-04-14T00:44:23Z",
+  "total_tabs": 281,
   "total_windows": 6,
-  "duplicate_tabs": 68,
+  "duplicate_tabs": 52,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 187,
-      "domain_count": 87,
+      "count": 153,
+      "domain_count": 83,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 24
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 16
-        },
-        {
-          "domain": "google.com",
-          "count": 16
         },
         {
           "domain": "skool.com",
@@ -29,6 +21,14 @@
         {
           "domain": "canva.com",
           "count": 6
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 5
+        },
+        {
+          "domain": "newtab",
+          "count": 5
         }
       ]
     },
