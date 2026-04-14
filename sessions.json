@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-14T18:36:45Z",
+  "updated_at": "2026-04-14T18:59:59Z",
   "counts": {
-    "active": 2,
-    "recent": 6,
+    "active": 0,
+    "recent": 8,
     "archived": 225,
     "total": 233
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "20e57963",
       "full_id": "20e57963-9d28-4f81-a088-25c7a2a50f89",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,12 +22,12 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 25.5
     },
     {
       "id": "ec38cd63",
       "full_id": "ec38cd63-1afe-46ee-baa9-2c448e8a6c4f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/reports/quantum-quill-lyceum",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +38,8 @@
       "file_size_kb": 586,
       "modified_ts": 1776191594.2338936,
       "modified_iso": "2026-04-14T14:33:14.233894",
-      "minutes_since_active": 3.5
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 26.7
+    },
     {
       "id": "e6be09c4",
       "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
@@ -55,7 +54,7 @@
       "file_size_kb": 744,
       "modified_ts": 1776191325.402951,
       "modified_iso": "2026-04-14T14:28:45.402951",
-      "minutes_since_active": 8.0
+      "minutes_since_active": 31.2
     },
     {
       "id": "21a61f9c",
@@ -71,7 +70,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 27.9
+      "minutes_since_active": 51.1
     },
     {
       "id": "11bf8958",
@@ -87,7 +86,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 50.7
+      "minutes_since_active": 74.0
     },
     {
       "id": "1418b449",
@@ -103,7 +102,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 65.6
+      "minutes_since_active": 88.8
     },
     {
       "id": "78f0c6c2",
@@ -119,7 +118,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1063.3
+      "minutes_since_active": 1086.5
     },
     {
       "id": "993367e6",
@@ -135,7 +134,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1114.7
+      "minutes_since_active": 1137.9
     }
   ]
 }
