@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T16:19:20Z",
+  "updated_at": "2026-04-14T16:20:24Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
+    "active": 2,
+    "recent": 3,
     "archived": 225,
     "total": 230
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "could we create a chain of hooks / commands / skills that trigger each other and how could we utilize them in the best way?",
+      "last_assistant_snippet": "Yes \u2014 and this is where Claude Code gets dangerous-good. Let me give you the mental model first, then concrete chains you could ship. ## The analogy Think of it like a **factory as\u2026",
+      "message_count": 19,
+      "file_size_kb": 120,
+      "modified_ts": 1776183622.943885,
+      "modified_iso": "2026-04-14T12:20:22.943885",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -16,31 +32,15 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
-      "last_assistant_snippet": "Memory updated in three places: 1. `feedback_no_playwright_use_applescript.md` \u2014 rewritten to default to Arc, with Arc-specific AppleScript syntax + CDP instructions 2. `MEMORY.md`\u2026",
-      "message_count": 56,
-      "file_size_kb": 340,
-      "modified_ts": 1776183549.8117476,
-      "modified_iso": "2026-04-14T12:19:09.811748",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Now let me locate the Skool tab in Arc and confirm the page loaded properly.",
+      "message_count": 72,
+      "file_size_kb": 366,
+      "modified_ts": 1776183594.2858567,
+      "modified_iso": "2026-04-14T12:19:54.285857",
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "give me more advanced claude ones",
-      "last_assistant_snippet": "Going beyond slash commands into power-user native features. **Thinking modes (magic keywords in prompts)** 1. `think` \u2192 basic extended thinking 2. `think hard` \u2192 more budget 3. `t\u2026",
-      "message_count": 16,
-      "file_size_kb": 103,
-      "modified_ts": 1776182971.9651852,
-      "modified_iso": "2026-04-14T12:09:31.965185",
-      "minutes_since_active": 9.8
-    },
     {
       "id": "1418b449",
       "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
@@ -55,7 +55,7 @@
       "file_size_kb": 88,
       "modified_ts": 1776182810.0579572,
       "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 12.5
+      "minutes_since_active": 13.6
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 925.8
+      "minutes_since_active": 926.9
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 977.3
+      "minutes_since_active": 978.3
     }
   ]
 }
