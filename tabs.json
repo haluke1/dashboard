@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T22:39:34Z",
+  "updated_at": "2026-04-14T22:40:38Z",
   "total_tabs": 266,
   "total_windows": 7,
   "duplicate_tabs": 42,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 75,
+      "count": 74,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 74
+          "count": 73
         },
         {
           "domain": "loom.com",
@@ -102,6 +102,21 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 4,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "figma.com",
+          "count": 3
+        },
+        {
+          "domain": "notion.so",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -116,21 +131,6 @@
         },
         {
           "domain": "substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 3,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "figma.com",
-          "count": 2
-        },
-        {
-          "domain": "notion.so",
           "count": 1
         }
       ]
