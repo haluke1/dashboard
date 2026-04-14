@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T16:05:34Z",
+  "updated_at": "2026-04-14T16:05:48Z",
   "counts": {
-    "active": 2,
+    "active": 3,
     "recent": 2,
     "archived": 225,
-    "total": 229
+    "total": 230
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "what does /resume do?",
+      "last_assistant_snippet": "`/resume` is a built-in Claude Code command that lets you pick a past conversation from a list and continue it with full history restored. Useful when you want to jump back into a \u2026",
+      "message_count": 2,
+      "file_size_kb": 67,
+      "modified_ts": 1776182744.0390465,
+      "modified_iso": "2026-04-14T12:05:44.039047",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "1418b449",
       "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
@@ -21,7 +37,7 @@
       "file_size_kb": 70,
       "modified_ts": 1776182722.8095014,
       "modified_iso": "2026-04-14T12:05:22.809501",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.4
     },
     {
       "id": "11bf8958",
@@ -37,7 +53,7 @@
       "file_size_kb": 239,
       "modified_ts": 1776182662.7247794,
       "modified_iso": "2026-04-14T12:04:22.724779",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 1.4
     }
   ],
   "recent": [
@@ -55,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 912.1
+      "minutes_since_active": 912.2
     },
     {
       "id": "993367e6",
@@ -71,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 963.5
+      "minutes_since_active": 963.7
     }
   ]
 }
