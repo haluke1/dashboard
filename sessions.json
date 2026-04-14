@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T21:12:06Z",
+  "updated_at": "2026-04-14T21:12:37Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "we had a voice agent project. i want you to deploy it so its always on and listening to me saying hey claude so i can keep talking to it",
-      "last_assistant_snippet": "Good news \u2014 **butler + dashboard are already running as LaunchAgents**. Only the voice controller isn't installed yet. Let me check the existing `start-services.sh` which handles t\u2026",
-      "message_count": 229,
-      "file_size_kb": 818,
-      "modified_ts": 1776201095.2447941,
-      "modified_iso": "2026-04-14T17:11:35.244794",
-      "minutes_since_active": 0.5
+      "last_assistant_snippet": "**Diagnosis (before I do anything):** Butler + dashboard are already always-on and healthy (butler ping returned OK just now). Voice isn't \u2014 and I can see *why past attempts failed\u2026",
+      "message_count": 231,
+      "file_size_kb": 833,
+      "modified_ts": 1776201156.4336872,
+      "modified_iso": "2026-04-14T17:12:36.433687",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 115.8
+      "minutes_since_active": 116.3
     },
     {
       "id": "20e57963",
@@ -55,7 +55,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 157.6
+      "minutes_since_active": 158.1
     },
     {
       "id": "21a61f9c",
@@ -71,7 +71,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 183.2
+      "minutes_since_active": 183.7
     },
     {
       "id": "11bf8958",
@@ -87,7 +87,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 206.1
+      "minutes_since_active": 206.6
     },
     {
       "id": "1418b449",
@@ -103,7 +103,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 220.9
+      "minutes_since_active": 221.4
     },
     {
       "id": "78f0c6c2",
@@ -119,7 +119,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1218.6
+      "minutes_since_active": 1219.1
     },
     {
       "id": "993367e6",
@@ -135,7 +135,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1270.0
+      "minutes_since_active": 1270.5
     }
   ]
 }
