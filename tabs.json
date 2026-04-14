@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T03:30:50Z",
-  "total_tabs": 230,
+  "updated_at": "2026-04-14T03:31:53Z",
+  "total_tabs": 231,
   "total_windows": 6,
   "duplicate_tabs": 33,
   "bridge_online": true,
@@ -116,6 +116,17 @@
         },
         {
           "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
