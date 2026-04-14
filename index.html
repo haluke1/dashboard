@@ -169,6 +169,82 @@
     color: var(--mute); margin: 12px 0 6px;
   }
   .empty { color: var(--mute); font-size: 12px; font-style: italic; padding: 8px 0; }
+  /* Tab panel */
+  .bridge-status {
+    font-size: 10px; padding: 2px 8px; border-radius: 10px;
+    display: inline-block; margin-left: 8px; font-weight: 500;
+  }
+  .bridge-status.online { background: #064e3b; color: #6ee7b7; }
+  .bridge-status.offline { background: #3f1d1d; color: #fca5a5; }
+  .tab-actions {
+    display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap;
+  }
+  .tab-action-btn {
+    background: #1e1e1e; border: 1px solid #333; color: var(--text);
+    padding: 6px 12px; border-radius: 6px; font-size: 11px; cursor: pointer;
+    font-family: inherit;
+  }
+  .tab-action-btn:hover { background: #2a2a2a; border-color: #444; }
+  .tab-action-btn.danger { border-color: #7f1d1d; color: #fca5a5; }
+  .tab-action-btn.danger:hover { background: #3f1d1d; }
+  .tab-action-btn.primary { border-color: #065f46; color: #6ee7b7; }
+  .tab-action-btn.primary:hover { background: #064e3b; }
+  .category-row {
+    display: flex; align-items: center; gap: 10px; padding: 8px 10px;
+    background: #0f0f0f; border: 1px solid #1e1e1e; border-radius: 6px;
+    margin-bottom: 4px; cursor: pointer;
+  }
+  .category-row:hover { background: #151515; }
+  .category-row.expanded { background: #151515; border-color: #2a2a2a; }
+  .category-chip {
+    font-size: 10px; padding: 2px 6px; border-radius: 3px;
+    text-transform: uppercase; letter-spacing: 0.04em; font-weight: 600;
+  }
+  .category-chip.ai-dev { background: #0c4a6e; color: #7dd3fc; }
+  .category-chip.social { background: #581c87; color: #d8b4fe; }
+  .category-chip.productivity { background: #064e3b; color: #6ee7b7; }
+  .category-chip.research { background: #1e3a8a; color: #93c5fd; }
+  .category-chip.video { background: #7f1d1d; color: #fca5a5; }
+  .category-chip.shopping { background: #713f12; color: #fde68a; }
+  .category-chip.finance { background: #14532d; color: #86efac; }
+  .category-chip.news { background: #701a75; color: #f0abfc; }
+  .category-chip.local { background: #292524; color: #a8a29e; }
+  .category-chip.other { background: #27272a; color: #a1a1aa; }
+  .category-name { font-size: 12px; font-weight: 500; flex-grow: 1; }
+  .category-count { font-size: 11px; color: var(--dim); font-family: "SF Mono", monospace; }
+  .domain-list { margin: 4px 0 10px 16px; }
+  .domain-row {
+    display: flex; align-items: center; gap: 10px; padding: 6px 10px;
+    border-bottom: 1px solid #1a1a1a; font-size: 12px;
+  }
+  .domain-row:hover .domain-close { visibility: visible; }
+  .domain-name { flex-grow: 1; color: var(--text); font-family: "SF Mono", monospace; font-size: 11px; }
+  .domain-count { color: var(--dim); font-size: 10px; font-family: "SF Mono", monospace; }
+  .domain-close {
+    visibility: hidden;
+    background: transparent; border: 1px solid #333; color: var(--dim);
+    padding: 2px 6px; border-radius: 3px; font-size: 10px; cursor: pointer;
+  }
+  .domain-close:hover { border-color: #dc2626; color: #fca5a5; }
+  .tab-item {
+    display: flex; gap: 8px; padding: 4px 10px 4px 32px; font-size: 11px;
+    color: var(--dim); border-bottom: 1px solid #151515;
+  }
+  .tab-item:hover { background: #0f0f0f; }
+  .tab-item:hover .tab-close { visibility: visible; }
+  .tab-title {
+    flex-grow: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  }
+  .tab-dup-flag {
+    background: #7f1d1d; color: #fca5a5; padding: 1px 5px; border-radius: 3px;
+    font-size: 9px; font-weight: 600;
+  }
+  .tab-close {
+    visibility: hidden;
+    background: transparent; border: none; color: var(--mute);
+    cursor: pointer; font-size: 12px; padding: 0 4px;
+  }
+  .tab-close:hover { color: #fca5a5; }
   @media (max-width: 800px) {
     .metric { grid-column: span 6; }
     .half { grid-column: span 12; }
@@ -237,6 +313,24 @@
     </div>
 
     <div class="card full">
+      <h2>Browser Tabs
+        <span id="bridge-status-indicator" class="bridge-status offline">bridge offline</span>
+        <span id="tab-total-label" style="color:var(--dim); font-weight:400; text-transform:none; letter-spacing:0; margin-left: 8px;"></span>
+      </h2>
+      <div class="tab-actions" id="tab-actions" style="display:none;">
+        <button class="tab-action-btn primary" id="btn-refresh-tabs">↻ Refresh</button>
+        <button class="tab-action-btn danger" id="btn-close-duplicates">Close Duplicates</button>
+        <button class="tab-action-btn" id="btn-export-tabs">Export All URLs</button>
+      </div>
+      <div id="bridge-offline-hint" style="font-size:11px; color:var(--dim); line-height:1.6;">
+        The tab bridge is not running. Start it with:<br>
+        <code style="font-family:'SF Mono', monospace; color:#7dd3fc; background:#0c2738; padding:2px 8px; border-radius:3px; display:inline-block; margin-top:4px;">python3 ~/dashboard-bridge/bridge.py &</code>
+        <br>Or install the launchd auto-start (recommended). See <code>~/dashboard-bridge/</code>.
+      </div>
+      <div id="tab-categories"></div>
+    </div>
+
+    <div class="card full">
       <h2>Claude Code Sessions · <span id="session-counts" style="color:var(--dim); font-weight:400; text-transform:none; letter-spacing:0;">loading…</span></h2>
       <div id="sessions-active"></div>
       <div id="sessions-recent" style="margin-top:12px;"></div>
@@ -293,6 +387,181 @@
     li.appendChild(el("span", null, leftText));
     li.appendChild(el("span", rightClass || null, rightText));
     return li;
+  }
+
+  // ————— BRIDGE / TAB CONTROL —————
+  const BRIDGE_URL = "http://127.0.0.1:7337";
+  let bridgeOnline = false;
+
+  async function fetchJSON(url, opts = {}) {
+    const res = await fetch(url, opts);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    return res.json();
+  }
+
+  async function checkBridge() {
+    try {
+      await fetchJSON(BRIDGE_URL + "/health");
+      bridgeOnline = true;
+    } catch {
+      bridgeOnline = false;
+    }
+    const indicator = document.getElementById("bridge-status-indicator");
+    indicator.textContent = bridgeOnline ? "bridge online" : "bridge offline";
+    indicator.className = "bridge-status " + (bridgeOnline ? "online" : "offline");
+    document.getElementById("tab-actions").style.display = bridgeOnline ? "" : "none";
+    document.getElementById("bridge-offline-hint").style.display = bridgeOnline ? "none" : "";
+    return bridgeOnline;
+  }
+
+  async function loadTabs() {
+    if (!(await checkBridge())) return;
+    try {
+      const data = await fetchJSON(BRIDGE_URL + "/tabs");
+      document.getElementById("tab-total-label").textContent =
+        `· ${data.total_tabs} tabs · ${data.duplicate_tabs} duplicates · ${data.total_windows} windows`;
+      renderTabs(data);
+    } catch (err) {
+      document.getElementById("tab-total-label").textContent = " · error loading tabs: " + err.message;
+    }
+  }
+
+  function renderTabs(data) {
+    const container = document.getElementById("tab-categories");
+    clear(container);
+    data.categories.forEach(cat => {
+      const row = el("div", "category-row");
+      row.dataset.expanded = "false";
+      const chip = el("span", "category-chip " + cat.name, cat.name);
+      const name = el("span", "category-name", "");
+      const count = el("span", "category-count", `${cat.count} tabs · ${cat.domains.length} domains`);
+      const closeAll = el("button", "tab-action-btn danger", "Close All");
+      closeAll.style.fontSize = "10px";
+      closeAll.style.padding = "3px 8px";
+      closeAll.addEventListener("click", async (e) => {
+        e.stopPropagation();
+        if (!confirm(`Close all ${cat.count} tabs in "${cat.name}"?`)) return;
+        closeAll.textContent = "closing…";
+        closeAll.disabled = true;
+        try {
+          await fetchJSON(BRIDGE_URL + "/tabs/close-category", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ category: cat.name }),
+          });
+          await loadTabs();
+        } catch (err) {
+          alert("Error: " + err.message);
+        }
+      });
+      row.append(chip, name, count, closeAll);
+
+      const domainList = el("div", "domain-list");
+      domainList.style.display = "none";
+      cat.domains.forEach(dom => {
+        const drow = el("div", "domain-row");
+        const dname = el("span", "domain-name", dom.domain);
+        const dcount = el("span", "domain-count", `${dom.count}`);
+        const dclose = el("button", "domain-close", "close all");
+        dclose.addEventListener("click", async (e) => {
+          e.stopPropagation();
+          const tabs = dom.tabs.map(t => ({ window: t.window, tab: t.tab }));
+          dclose.textContent = "…";
+          try {
+            await fetchJSON(BRIDGE_URL + "/tabs/close-bulk", {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ tabs }),
+            });
+            await loadTabs();
+          } catch (err) { alert(err.message); }
+        });
+        drow.append(dname, dcount, dclose);
+        domainList.appendChild(drow);
+
+        // Tabs under domain
+        dom.tabs.forEach(t => {
+          const titem = el("div", "tab-item");
+          titem.style.display = "none"; // collapsed by default
+          const ttitle = el("span", "tab-title", t.title || t.url);
+          if (t.duplicate_count > 1) {
+            const dup = el("span", "tab-dup-flag", `×${t.duplicate_count}`);
+            titem.appendChild(dup);
+          }
+          titem.appendChild(ttitle);
+          const tclose = el("button", "tab-close", "×");
+          tclose.title = "Close this tab";
+          tclose.addEventListener("click", async () => {
+            tclose.textContent = "…";
+            try {
+              await fetchJSON(BRIDGE_URL + "/tabs/close", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ window: t.window, tab: t.tab }),
+              });
+              await loadTabs();
+            } catch (err) { alert(err.message); }
+          });
+          titem.appendChild(tclose);
+          domainList.appendChild(titem);
+        });
+
+        // Click domain row to toggle its tabs
+        drow.addEventListener("click", () => {
+          const children = Array.from(domainList.children);
+          // Find tab items between this drow and the next drow
+          const startIdx = children.indexOf(drow);
+          let endIdx = children.length;
+          for (let i = startIdx + 1; i < children.length; i++) {
+            if (children[i].classList.contains("domain-row")) { endIdx = i; break; }
+          }
+          for (let i = startIdx + 1; i < endIdx; i++) {
+            if (children[i].classList.contains("tab-item")) {
+              children[i].style.display = children[i].style.display === "none" ? "" : "none";
+            }
+          }
+        });
+      });
+
+      row.addEventListener("click", () => {
+        const expanded = row.dataset.expanded === "true";
+        row.dataset.expanded = expanded ? "false" : "true";
+        row.classList.toggle("expanded");
+        domainList.style.display = expanded ? "none" : "";
+      });
+
+      container.appendChild(row);
+      container.appendChild(domainList);
+    });
+  }
+
+  function wireTabButtons() {
+    document.getElementById("btn-refresh-tabs").addEventListener("click", loadTabs);
+    document.getElementById("btn-close-duplicates").addEventListener("click", async () => {
+      if (!confirm("Close all duplicate tabs (keeps first occurrence)?")) return;
+      try {
+        const r = await fetchJSON(BRIDGE_URL + "/tabs/close-duplicates", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: "{}",
+        });
+        alert(`Closed ${r.closed_count} duplicate tabs.`);
+        await loadTabs();
+      } catch (err) { alert(err.message); }
+    });
+    document.getElementById("btn-export-tabs").addEventListener("click", async () => {
+      try {
+        const data = await fetchJSON(BRIDGE_URL + "/tabs");
+        const lines = data.all_tabs.map(t => `- [${t.title.replace(/\|/g, "-")}](${t.url}) \`${t.category}\``).join("\n");
+        const md = `# Tab Archive · ${new Date().toISOString().slice(0,10)}\n\nTotal: ${data.total_tabs} tabs\n\n${lines}\n`;
+        const blob = new Blob([md], { type: "text/markdown" });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `tab-archive-${new Date().toISOString().slice(0,10)}.md`;
+        a.click();
+      } catch (err) { alert(err.message); }
+    });
   }
 
   function renderSession(s, isActive) {
@@ -440,9 +709,12 @@
 
   load();
   loadSessions();
+  loadTabs();
+  wireTabButtons();
   updateLocalTime();
   setInterval(load, 30000);
   setInterval(loadSessions, 15000);
+  setInterval(loadTabs, 20000);
   setInterval(updateLocalTime, 60000);
 </script>
 </body>
