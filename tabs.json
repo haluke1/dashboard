@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-14T00:46:30Z",
-  "total_tabs": 228,
+  "updated_at": "2026-04-14T00:47:33Z",
+  "total_tabs": 225,
   "total_windows": 6,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 100,
-      "domain_count": 65,
+      "count": 98,
+      "domain_count": 63,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -27,19 +27,19 @@
           "count": 3
         },
         {
-          "domain": "skills.sh",
+          "domain": "claudemarketplaces.com",
           "count": 1
         }
       ]
     },
     {
       "name": "video",
-      "count": 71,
+      "count": 70,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 70
+          "count": 69
         },
         {
           "domain": "loom.com",
