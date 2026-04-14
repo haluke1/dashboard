@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T16:50:50Z",
+  "updated_at": "2026-04-14T16:51:37Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
+    "active": 2,
+    "recent": 3,
     "archived": 225,
     "total": 230
   },
   "active": [
+    {
+      "id": "1418b449",
+      "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
+      "last_user_msg": "is main claude chat able to communicate with hooks? how do hooks get processed? through external ai or claude itself?",
+      "last_assistant_snippet": "Short answer: **hooks are not AI. They're deterministic shell commands the harness runs \u2014 Claude the model doesn't see them fire, doesn't control them, and doesn't \"talk\" to them i\u2026",
+      "message_count": 6,
+      "file_size_kb": 103,
+      "modified_ts": 1776185496.4858193,
+      "modified_iso": "2026-04-14T12:51:36.485819",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
@@ -17,11 +33,11 @@
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
       "last_assistant_snippet": "Per-lesson navigation populates desc. Let me build the full pipeline.",
-      "message_count": 245,
-      "file_size_kb": 800,
-      "modified_ts": 1776185446.370548,
-      "modified_iso": "2026-04-14T12:50:46.370548",
-      "minutes_since_active": 0.1
+      "message_count": 254,
+      "file_size_kb": 817,
+      "modified_ts": 1776185483.4083288,
+      "modified_iso": "2026-04-14T12:51:23.408329",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,23 +55,7 @@
       "file_size_kb": 121,
       "modified_ts": 1776183624.8869681,
       "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 30.4
-    },
-    {
-      "id": "1418b449",
-      "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
-      "last_user_msg": "could you analyze these realizations that i just had and give me an idea of how i could practically implement these to my life and other similar realizations i could have that woul\u2026",
-      "last_assistant_snippet": "Direct read, skeptical-CTO mode. I'm not going to invoke /cnes formally \u2014 you're asking for synthesis + action, not a keep/cut verdict \u2014 but I'll apply the same lens. `\u2605 Insight \u2500\u2500\u2026",
-      "message_count": 3,
-      "file_size_kb": 88,
-      "modified_ts": 1776182810.0579572,
-      "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 44.0
+      "minutes_since_active": 31.2
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 957.3
+      "minutes_since_active": 958.1
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1008.8
+      "minutes_since_active": 1009.6
     }
   ]
 }
