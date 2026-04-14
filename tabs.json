@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T21:27:27Z",
-  "total_tabs": 259,
+  "updated_at": "2026-04-14T21:29:44Z",
+  "total_tabs": 260,
   "total_windows": 7,
-  "duplicate_tabs": 39,
+  "duplicate_tabs": 41,
   "bridge_online": true,
   "categories": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "name": "local",
-      "count": 15,
+      "count": 16,
       "domain_count": 8,
       "top_domains": [
         {
@@ -88,16 +88,16 @@
           "count": 3
         },
         {
+          "domain": "localhost:8080",
+          "count": 2
+        },
+        {
           "domain": "localhost:61303",
           "count": 2
         },
         {
           "domain": "localhost:61304",
           "count": 2
-        },
-        {
-          "domain": "localhost:60561",
-          "count": 1
         }
       ]
     },
