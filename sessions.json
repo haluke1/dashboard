@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:58:28Z",
+  "updated_at": "2026-04-14T17:59:31Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "what does /resume do?",
-      "last_user_msg": "what does next.js do? are we gonna do vercel + next.js + supabase?",
-      "last_assistant_snippet": "## What Next.js does (60 seconds) **Next.js = the framework that turns code into a real website/web app.** Analogy: think of building a restaurant. - Raw React (the core UI library\u2026",
-      "message_count": 290,
-      "file_size_kb": 1787,
-      "modified_ts": 1776189503.918575,
-      "modified_iso": "2026-04-14T13:58:23.918575",
-      "minutes_since_active": 0.1
+      "last_user_msg": "lets do vercel next js one instead of make",
+      "last_assistant_snippet": "Good call. Switching now. ## The plan (next ~30 min of my work) 1. Scaffold Next.js app in `~/cockpit/app/` (TypeScript + Tailwind + shadcn/ui for dark-mode components) 2. Port the\u2026",
+      "message_count": 295,
+      "file_size_kb": 1804,
+      "modified_ts": 1776189559.7440426,
+      "modified_iso": "2026-04-14T13:59:19.744043",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 12.4
+      "minutes_since_active": 13.5
     },
     {
       "id": "1418b449",
@@ -55,7 +55,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 27.3
+      "minutes_since_active": 28.3
     },
     {
       "id": "20e57963",
@@ -71,7 +71,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776186447.2473614,
       "modified_iso": "2026-04-14T13:07:27.247361",
-      "minutes_since_active": 51.0
+      "minutes_since_active": 52.1
     },
     {
       "id": "78f0c6c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1025.0
+      "minutes_since_active": 1026.0
     },
     {
       "id": "993367e6",
@@ -103,7 +103,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1076.4
+      "minutes_since_active": 1077.4
     }
   ]
 }
