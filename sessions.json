@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-14T16:55:16Z",
+  "updated_at": "2026-04-14T16:56:39Z",
   "counts": {
-    "active": 2,
-    "recent": 3,
+    "active": 1,
+    "recent": 4,
     "archived": 225,
     "total": 230
   },
@@ -11,22 +11,24 @@
       "id": "11bf8958",
       "full_id": "11bf8958-b6e3-432d-b113-a8559b8891af",
       "status": "active",
-      "project": "/Users/halukgul",
+      "project": "/Users/halukgul/reports/quantum-quill-lyceum",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
       "last_user_msg": "yea save all of it, not the videos. yeah output location is ok. dont summarize it, just take it all in then we can summarize after that. yes i am logged in its open. there is 6 mod\u2026",
       "last_assistant_snippet": "Per-lesson navigation populates desc. Let me build the full pipeline.",
-      "message_count": 268,
-      "file_size_kb": 876,
-      "modified_ts": 1776185707.6418338,
-      "modified_iso": "2026-04-14T12:55:07.641834",
-      "minutes_since_active": 0.1
-    },
+      "message_count": 279,
+      "file_size_kb": 895,
+      "modified_ts": 1776185793.9419558,
+      "modified_iso": "2026-04-14T12:56:33.941956",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "1418b449",
       "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 104,
       "modified_ts": 1776185497.7152178,
       "modified_iso": "2026-04-14T12:51:37.715218",
-      "minutes_since_active": 3.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.0
+    },
     {
       "id": "21a61f9c",
       "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
@@ -55,7 +55,7 @@
       "file_size_kb": 121,
       "modified_ts": 1776183624.8869681,
       "modified_iso": "2026-04-14T12:20:24.886968",
-      "minutes_since_active": 34.8
+      "minutes_since_active": 36.2
     },
     {
       "id": "78f0c6c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 961.8
+      "minutes_since_active": 963.1
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1013.2
+      "minutes_since_active": 1014.5
     }
   ]
 }
