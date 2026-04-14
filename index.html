@@ -508,12 +508,52 @@
     });
   }
 
+  // State for multi-select
+  const selectedTabs = new Map(); // key: "w-t", value: { window, tab, url, title }
+  let currentFilter = "";
+  let expandAll = false;
+
+  function updateSelectionUI() {
+    const bar = document.getElementById("selection-bar");
+    const count = selectedTabs.size;
+    if (count === 0) {
+      bar.style.display = "none";
+    } else {
+      bar.style.display = "";
+      document.getElementById("selection-count").textContent =
+        `${count} tab${count === 1 ? "" : "s"} selected`;
+    }
+  }
+
+  function tabKey(t) { return `${t.window}-${t.tab}`; }
+
+  function toggleTabSelection(t, checked) {
+    const key = tabKey(t);
+    if (checked) selectedTabs.set(key, t);
+    else selectedTabs.delete(key);
+    updateSelectionUI();
+  }
+
+  function tabMatchesFilter(t) {
+    if (!currentFilter) return true;
+    const q = currentFilter.toLowerCase();
+    return (t.title || "").toLowerCase().includes(q) ||
+           (t.url || "").toLowerCase().includes(q) ||
+           (t.domain || "").toLowerCase().includes(q) ||
+           (t.category || "").toLowerCase().includes(q);
+  }
+
   function renderTabs(data) {
     const container = document.getElementById("tab-categories");
     clear(container);
+    document.getElementById("tab-filter").style.display = "";
+
+    // Store flat list for select-all
+    window._allTabs = data.all_tabs;
+
     data.categories.forEach(cat => {
-      const row = el("div", "category-row");
-      row.dataset.expanded = "false";
+      const row = el("div", "category-row expanded");
+      row.dataset.expanded = "true";
       const chip = el("span", "category-chip " + cat.name, cat.name);
       const name = el("span", "category-name", "");
       const count = el("span", "category-count", `${cat.count} tabs · ${cat.domains.length} domains`);
@@ -532,19 +572,30 @@
             body: JSON.stringify({ category: cat.name }),
           });
           await loadTabs();
-        } catch (err) {
-          alert("Error: " + err.message);
-        }
+        } catch (err) { alert("Error: " + err.message); }
       });
       row.append(chip, name, count, closeAll);
 
       const domainList = el("div", "domain-list");
-      domainList.style.display = "none";
+      domainList.style.display = expandAll ? "" : (currentFilter ? "" : "");
+      let anyVisibleInCategory = false;
+
       cat.domains.forEach(dom => {
         const drow = el("div", "domain-row");
         const dname = el("span", "domain-name", dom.domain);
         const dcount = el("span", "domain-count", `${dom.count}`);
+        const dselect = el("button", "domain-close", "select all");
+        dselect.addEventListener("click", (e) => {
+          e.stopPropagation();
+          dom.tabs.forEach(t => {
+            selectedTabs.set(tabKey(t), t);
+            const cb = document.querySelector(`input[data-tabkey="${tabKey(t)}"]`);
+            if (cb) { cb.checked = true; cb.closest(".tab-item").classList.add("selected"); }
+          });
+          updateSelectionUI();
+        });
         const dclose = el("button", "domain-close", "close all");
+        dclose.style.marginLeft = "4px";
         dclose.addEventListener("click", async (e) => {
           e.stopPropagation();
           const tabs = dom.tabs.map(t => ({ window: t.window, tab: t.tab }));
@@ -558,22 +609,45 @@
             await loadTabs();
           } catch (err) { alert(err.message); }
         });
-        drow.append(dname, dcount, dclose);
-        domainList.appendChild(drow);
+        drow.append(dname, dcount, dselect, dclose);
 
-        // Tabs under domain
+        // Tabs under domain — always visible
+        const tabNodes = [];
         dom.tabs.forEach(t => {
+          if (!tabMatchesFilter(t)) return;
+          anyVisibleInCategory = true;
           const titem = el("div", "tab-item");
-          titem.style.display = "none"; // collapsed by default
-          const ttitle = el("span", "tab-title", t.title || t.url);
+          const key = tabKey(t);
+
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.className = "tab-checkbox";
+          cb.dataset.tabkey = key;
+          cb.checked = selectedTabs.has(key);
+          if (cb.checked) titem.classList.add("selected");
+          cb.addEventListener("change", () => {
+            toggleTabSelection(t, cb.checked);
+            titem.classList.toggle("selected", cb.checked);
+          });
+          titem.appendChild(cb);
+
           if (t.duplicate_count > 1) {
             const dup = el("span", "tab-dup-flag", `×${t.duplicate_count}`);
             titem.appendChild(dup);
           }
-          titem.appendChild(ttitle);
+          const title = el("span", "tab-title", t.title || t.url);
+          title.title = t.url;
+          title.addEventListener("click", () => {
+            // Clicking title also toggles the checkbox for quick selection
+            cb.checked = !cb.checked;
+            cb.dispatchEvent(new Event("change"));
+          });
+          titem.appendChild(title);
+
           const tclose = el("button", "tab-close", "×");
           tclose.title = "Close this tab";
-          tclose.addEventListener("click", async () => {
+          tclose.addEventListener("click", async (e) => {
+            e.stopPropagation();
             tclose.textContent = "…";
             try {
               await fetchJSON(BRIDGE_URL + "/tabs/close", {
@@ -581,44 +655,101 @@
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ window: t.window, tab: t.tab }),
               });
+              selectedTabs.delete(key);
+              updateSelectionUI();
               await loadTabs();
             } catch (err) { alert(err.message); }
           });
           titem.appendChild(tclose);
-          domainList.appendChild(titem);
+
+          tabNodes.push(titem);
         });
 
-        // Click domain row to toggle its tabs
-        drow.addEventListener("click", () => {
-          const children = Array.from(domainList.children);
-          // Find tab items between this drow and the next drow
-          const startIdx = children.indexOf(drow);
-          let endIdx = children.length;
-          for (let i = startIdx + 1; i < children.length; i++) {
-            if (children[i].classList.contains("domain-row")) { endIdx = i; break; }
-          }
-          for (let i = startIdx + 1; i < endIdx; i++) {
-            if (children[i].classList.contains("tab-item")) {
-              children[i].style.display = children[i].style.display === "none" ? "" : "none";
-            }
-          }
-        });
+        // Only add domain if there are visible tabs
+        if (tabNodes.length > 0) {
+          domainList.appendChild(drow);
+          tabNodes.forEach(n => domainList.appendChild(n));
+        }
       });
 
+      // Category click toggles visibility
       row.addEventListener("click", () => {
-        const expanded = row.dataset.expanded === "true";
-        row.dataset.expanded = expanded ? "false" : "true";
+        const isOpen = row.dataset.expanded === "true";
+        row.dataset.expanded = isOpen ? "false" : "true";
         row.classList.toggle("expanded");
-        domainList.style.display = expanded ? "none" : "";
+        domainList.style.display = isOpen ? "none" : "";
       });
 
-      container.appendChild(row);
-      container.appendChild(domainList);
+      if (anyVisibleInCategory) {
+        container.appendChild(row);
+        container.appendChild(domainList);
+      }
     });
+
+    updateSelectionUI();
   }
 
   function wireTabButtons() {
     document.getElementById("btn-refresh-tabs").addEventListener("click", loadTabs);
+    document.getElementById("btn-close-selected").addEventListener("click", async () => {
+      if (selectedTabs.size === 0) return;
+      if (!confirm(`Close ${selectedTabs.size} selected tab(s)?`)) return;
+      const tabs = Array.from(selectedTabs.values()).map(t => ({ window: t.window, tab: t.tab }));
+      try {
+        const r = await fetchJSON(BRIDGE_URL + "/tabs/close-bulk", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ tabs }),
+        });
+        selectedTabs.clear();
+        updateSelectionUI();
+        await loadTabs();
+        console.log(`Closed ${r.closed_count} tabs`);
+      } catch (err) { alert(err.message); }
+    });
+    document.getElementById("btn-open-selected").addEventListener("click", () => {
+      const urls = Array.from(selectedTabs.values()).map(t => t.url);
+      urls.forEach(u => window.open(u, "_blank"));
+    });
+    document.getElementById("btn-select-all").addEventListener("click", () => {
+      const tabs = window._allTabs || [];
+      tabs.forEach(t => {
+        if (tabMatchesFilter(t)) selectedTabs.set(tabKey(t), t);
+      });
+      // Update visible checkboxes
+      document.querySelectorAll("input.tab-checkbox").forEach(cb => {
+        if (selectedTabs.has(cb.dataset.tabkey)) {
+          cb.checked = true;
+          cb.closest(".tab-item").classList.add("selected");
+        }
+      });
+      updateSelectionUI();
+    });
+    document.getElementById("btn-clear-selection").addEventListener("click", () => {
+      selectedTabs.clear();
+      document.querySelectorAll("input.tab-checkbox").forEach(cb => {
+        cb.checked = false;
+        cb.closest(".tab-item").classList.remove("selected");
+      });
+      updateSelectionUI();
+    });
+    document.getElementById("btn-expand-all").addEventListener("click", () => {
+      expandAll = !expandAll;
+      document.querySelectorAll(".category-row").forEach((row, i) => {
+        row.dataset.expanded = expandAll ? "true" : "false";
+        row.classList.toggle("expanded", expandAll);
+        const list = row.nextElementSibling;
+        if (list && list.classList.contains("domain-list")) {
+          list.style.display = expandAll ? "" : "none";
+        }
+      });
+      document.getElementById("btn-expand-all").textContent = expandAll ? "Collapse All" : "Expand All";
+    });
+    const filter = document.getElementById("tab-filter");
+    filter.addEventListener("input", () => {
+      currentFilter = filter.value;
+      loadTabs();
+    });
     document.getElementById("btn-close-duplicates").addEventListener("click", async () => {
       if (!confirm("Close all duplicate tabs (keeps first occurrence)?")) return;
       try {
