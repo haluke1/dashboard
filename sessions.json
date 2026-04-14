@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T22:57:01Z",
+  "updated_at": "2026-04-14T22:58:02Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 18,
     "archived": 225,
-    "total": 244
+    "total": 245
   },
   "active": [
+    {
+      "id": "7fa36b1b",
+      "full_id": "7fa36b1b-a2fd-49f8-955b-5576d0f23435",
+      "status": "active",
+      "project": "/private/tmp",
+      "git_branch": "HEAD",
+      "permission_mode": null,
+      "first_prompt": "You have access to the Figma MCP. Execute in order: 1. Call mcp__plugin_figma_figma__create_new_file with editorType=\"figjam\" and fileName=\"Haluk's Claude Code System \u2014 Mindmaps\". \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/figma/2.1.7/skills/figma-use # use_figma \u2014 Figma Plugin API Skill Use the `use_figma` t\u2026",
+      "last_assistant_snippet": "File created. Now step 2 \u2014 running the script via `figma-use`.",
+      "message_count": 25,
+      "file_size_kb": 112,
+      "modified_ts": 1776207448.0798705,
+      "modified_iso": "2026-04-14T18:57:28.079870",
+      "minutes_since_active": 0.5
+    },
     {
       "id": "026df754",
       "full_id": "026df754-3584-4ea4-8094-491039e54868",
@@ -21,7 +37,7 @@
       "file_size_kb": 1423,
       "modified_ts": 1776207417.9699225,
       "modified_iso": "2026-04-14T18:56:57.969923",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206740.5361264,
       "modified_iso": "2026-04-14T18:45:40.536126",
-      "minutes_since_active": 11.3
+      "minutes_since_active": 12.3
     },
     {
       "id": "20e57963",
@@ -55,7 +71,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206724.834956,
       "modified_iso": "2026-04-14T18:45:24.834956",
-      "minutes_since_active": 11.6
+      "minutes_since_active": 12.6
     },
     {
       "id": "e1376fbc",
@@ -71,7 +87,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776205636.777848,
       "modified_iso": "2026-04-14T18:27:16.777848",
-      "minutes_since_active": 29.7
+      "minutes_since_active": 30.7
     },
     {
       "id": "861ad48b",
@@ -87,7 +103,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776205548.4383981,
       "modified_iso": "2026-04-14T18:25:48.438398",
-      "minutes_since_active": 31.2
+      "minutes_since_active": 32.2
     },
     {
       "id": "11f47a06",
@@ -103,7 +119,7 @@
       "file_size_kb": 73,
       "modified_ts": 1776205352.7749865,
       "modified_iso": "2026-04-14T18:22:32.774987",
-      "minutes_since_active": 34.5
+      "minutes_since_active": 35.5
     },
     {
       "id": "e6be09c4",
@@ -119,7 +135,7 @@
       "file_size_kb": 1391,
       "modified_ts": 1776205204.6930459,
       "modified_iso": "2026-04-14T18:20:04.693046",
-      "minutes_since_active": 36.9
+      "minutes_since_active": 37.9
     },
     {
       "id": "00fbd3e8",
@@ -135,7 +151,7 @@
       "file_size_kb": 64,
       "modified_ts": 1776203034.7530334,
       "modified_iso": "2026-04-14T17:43:54.753033",
-      "minutes_since_active": 73.1
+      "minutes_since_active": 74.1
     },
     {
       "id": "d6a6d7b9",
@@ -151,7 +167,7 @@
       "file_size_kb": 75,
       "modified_ts": 1776203008.9773889,
       "modified_iso": "2026-04-14T17:43:28.977389",
-      "minutes_since_active": 73.5
+      "minutes_since_active": 74.5
     },
     {
       "id": "65fdc722",
@@ -167,7 +183,7 @@
       "file_size_kb": 268,
       "modified_ts": 1776202984.134324,
       "modified_iso": "2026-04-14T17:43:04.134324",
-      "minutes_since_active": 73.9
+      "minutes_since_active": 74.9
     },
     {
       "id": "1b575fb1",
@@ -183,7 +199,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776202944.5138826,
       "modified_iso": "2026-04-14T17:42:24.513883",
-      "minutes_since_active": 74.6
+      "minutes_since_active": 75.6
     },
     {
       "id": "9a64615f",
@@ -199,7 +215,7 @@
       "file_size_kb": 65,
       "modified_ts": 1776202895.599755,
       "modified_iso": "2026-04-14T17:41:35.599755",
-      "minutes_since_active": 75.4
+      "minutes_since_active": 76.4
     },
     {
       "id": "bc01fe98",
@@ -215,7 +231,7 @@
       "file_size_kb": 42,
       "modified_ts": 1776202846.9112167,
       "modified_iso": "2026-04-14T17:40:46.911217",
-      "minutes_since_active": 76.2
+      "minutes_since_active": 77.2
     },
     {
       "id": "ec38cd63",
@@ -231,7 +247,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 220.7
+      "minutes_since_active": 221.7
     },
     {
       "id": "21a61f9c",
@@ -247,7 +263,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 288.1
+      "minutes_since_active": 289.1
     },
     {
       "id": "11bf8958",
@@ -263,7 +279,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 311.0
+      "minutes_since_active": 312.0
     },
     {
       "id": "1418b449",
@@ -279,7 +295,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 325.8
+      "minutes_since_active": 326.8
     },
     {
       "id": "78f0c6c2",
@@ -295,7 +311,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1323.5
+      "minutes_since_active": 1324.5
     },
     {
       "id": "993367e6",
@@ -311,7 +327,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1374.9
+      "minutes_since_active": 1376.0
     }
   ]
 }
