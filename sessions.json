@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:07:35Z",
+  "updated_at": "2026-04-14T16:08:14Z",
   "counts": {
     "active": 3,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 230
   },
   "active": [
+    {
+      "id": "21a61f9c",
+      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "what does /resume do?",
+      "last_user_msg": "give me ones that would help me use claude code better. give me 20 of them",
+      "last_assistant_snippet": "Pulling from your actually-installed skills (verified \u2014 they're on your machine). Ranked by leverage for day-to-day Claude Code use. **Planning & thinking (use these BEFORE coding)\u2026",
+      "message_count": 10,
+      "file_size_kb": 85,
+      "modified_ts": 1776182893.6043713,
+      "modified_iso": "2026-04-14T12:08:13.604371",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "1418b449",
       "full_id": "1418b449-d5b0-41cc-b0be-1f7b369fff8b",
@@ -21,23 +37,7 @@
       "file_size_kb": 88,
       "modified_ts": 1776182810.0579572,
       "modified_iso": "2026-04-14T12:06:50.057957",
-      "minutes_since_active": 0.8
-    },
-    {
-      "id": "21a61f9c",
-      "full_id": "21a61f9c-b233-4246-b844-fd931217ec55",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "what does /resume do?",
-      "last_user_msg": "give me top 20 commands like /ultraplan i could use that was recently released",
-      "last_assistant_snippet": "I'm going to push back before inventing a list. I don't have verified knowledge of a `/ultraplan` command in Claude Code. It's not in your installed skills list above, and I'd be g\u2026",
-      "message_count": 7,
-      "file_size_kb": 79,
-      "modified_ts": 1776182805.950321,
-      "modified_iso": "2026-04-14T12:06:45.950321",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.4
     },
     {
       "id": "11bf8958",
@@ -53,7 +53,7 @@
       "file_size_kb": 239,
       "modified_ts": 1776182662.7247794,
       "modified_iso": "2026-04-14T12:04:22.724779",
-      "minutes_since_active": 3.2
+      "minutes_since_active": 3.8
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 914.1
+      "minutes_since_active": 914.7
     },
     {
       "id": "993367e6",
@@ -87,7 +87,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 965.5
+      "minutes_since_active": 966.2
     }
   ]
 }
