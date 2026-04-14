@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-14T21:18:06Z",
+  "updated_at": "2026-04-14T21:18:17Z",
   "counts": {
-    "active": 2,
+    "active": 3,
     "recent": 7,
     "archived": 225,
-    "total": 234
+    "total": 235
   },
   "active": [
+    {
+      "id": "65fdc722",
+      "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Are you always on now?",
+      "last_user_msg": "Are you always on now?",
+      "last_assistant_snippet": "Yes \u2014 as long as the voice controller process is running on your Mac, I'm listening and ready. Think of it like a smoke detector: always on, waiting for the trigger word, then I wa\u2026",
+      "message_count": 3,
+      "file_size_kb": 40,
+      "modified_ts": 1776201496.34079,
+      "modified_iso": "2026-04-14T17:18:16.340790",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "e6be09c4",
+      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
+      "status": "active",
+      "project": "/Users/halukgul/cockpit",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
+      "last_user_msg": "okey sure do both",
+      "last_assistant_snippet": "\ud83c\udf89 **Voice controller IS running** \u2014 log says `[IDLE \u2014 say 'hey claude']`, mic active (max_peak=0.0119 not 0.0000), butler ping \u2713. But it's attributed to *my* Terminal's mic permiss\u2026",
+      "message_count": 275,
+      "file_size_kb": 985,
+      "modified_ts": 1776201489.2004614,
+      "modified_iso": "2026-04-14T17:18:09.200461",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "026df754",
       "full_id": "026df754-3584-4ea4-8094-491039e54868",
@@ -21,22 +53,6 @@
       "file_size_kb": 213,
       "modified_ts": 1776201485.6896398,
       "modified_iso": "2026-04-14T17:18:05.689640",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "e6be09c4",
-      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
-      "status": "active",
-      "project": "/Users/halukgul/cockpit",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
-      "last_user_msg": "okey sure do both",
-      "last_assistant_snippet": "\ud83c\udf89 **Voice controller IS running** \u2014 log says `[IDLE \u2014 say 'hey claude']`, mic active (max_peak=0.0119 not 0.0000), butler ping \u2713. But it's attributed to *my* Terminal's mic permiss\u2026",
-      "message_count": 274,
-      "file_size_kb": 977,
-      "modified_ts": 1776201476.4702475,
-      "modified_iso": "2026-04-14T17:17:56.470248",
       "minutes_since_active": 0.2
     }
   ],
@@ -55,7 +71,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 121.8
+      "minutes_since_active": 121.9
     },
     {
       "id": "20e57963",
@@ -71,7 +87,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776191669.9178212,
       "modified_iso": "2026-04-14T14:34:29.917821",
-      "minutes_since_active": 163.6
+      "minutes_since_active": 163.8
     },
     {
       "id": "21a61f9c",
@@ -87,7 +103,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 189.2
+      "minutes_since_active": 189.4
     },
     {
       "id": "11bf8958",
@@ -103,7 +119,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 212.1
+      "minutes_since_active": 212.3
     },
     {
       "id": "1418b449",
@@ -119,7 +135,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 226.9
+      "minutes_since_active": 227.1
     },
     {
       "id": "78f0c6c2",
@@ -135,7 +151,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1224.6
+      "minutes_since_active": 1224.8
     },
     {
       "id": "993367e6",
@@ -151,7 +167,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1276.0
+      "minutes_since_active": 1276.2
     }
   ]
 }
