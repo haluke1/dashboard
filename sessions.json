@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-14T23:13:46Z",
+  "updated_at": "2026-04-14T23:14:35Z",
   "counts": {
-    "active": 1,
-    "recent": 21,
+    "active": 2,
+    "recent": 20,
     "archived": 224,
     "total": 246
   },
   "active": [
+    {
+      "id": "65fdc722",
+      "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Are you always on now?",
+      "last_user_msg": "Mmm.",
+      "last_assistant_snippet": "I'm here \u2014 what do you need?",
+      "message_count": 70,
+      "file_size_kb": 278,
+      "modified_ts": 1776208474.438241,
+      "modified_iso": "2026-04-14T19:14:34.438241",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "026df754",
       "full_id": "026df754-3584-4ea4-8094-491039e54868",
@@ -17,11 +33,11 @@
       "first_prompt": "can i now run multiple claude code instances within the app",
       "last_user_msg": "there are still lines. create a different form of organization",
       "last_assistant_snippet": "Fresh approach. Dropping the hub-and-spoke entirely. Switching to a **bento grid**: no root node, no arrows, no accent bars. Just labeled section panels containing category cards i\u2026",
-      "message_count": 215,
-      "file_size_kb": 1642,
-      "modified_ts": 1776208404.1343312,
-      "modified_iso": "2026-04-14T19:13:24.134331",
-      "minutes_since_active": 0.4
+      "message_count": 217,
+      "file_size_kb": 1655,
+      "modified_ts": 1776208465.8533978,
+      "modified_iso": "2026-04-14T19:14:25.853398",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 1084,
       "modified_ts": 1776207864.0147653,
       "modified_iso": "2026-04-14T19:04:24.014765",
-      "minutes_since_active": 9.4
+      "minutes_since_active": 10.2
     },
     {
       "id": "20229db7",
@@ -55,7 +71,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776207807.2456696,
       "modified_iso": "2026-04-14T19:03:27.245670",
-      "minutes_since_active": 10.3
+      "minutes_since_active": 11.1
     },
     {
       "id": "7fa36b1b",
@@ -71,7 +87,7 @@
       "file_size_kb": 128,
       "modified_ts": 1776207511.2867785,
       "modified_iso": "2026-04-14T18:58:31.286778",
-      "minutes_since_active": 15.2
+      "minutes_since_active": 16.1
     },
     {
       "id": "6a818b38",
@@ -87,7 +103,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206740.5361264,
       "modified_iso": "2026-04-14T18:45:40.536126",
-      "minutes_since_active": 28.1
+      "minutes_since_active": 28.9
     },
     {
       "id": "20e57963",
@@ -103,7 +119,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206724.834956,
       "modified_iso": "2026-04-14T18:45:24.834956",
-      "minutes_since_active": 28.4
+      "minutes_since_active": 29.2
     },
     {
       "id": "e1376fbc",
@@ -119,7 +135,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776205636.777848,
       "modified_iso": "2026-04-14T18:27:16.777848",
-      "minutes_since_active": 46.5
+      "minutes_since_active": 47.3
     },
     {
       "id": "861ad48b",
@@ -135,7 +151,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776205548.4383981,
       "modified_iso": "2026-04-14T18:25:48.438398",
-      "minutes_since_active": 48.0
+      "minutes_since_active": 48.8
     },
     {
       "id": "11f47a06",
@@ -151,7 +167,7 @@
       "file_size_kb": 73,
       "modified_ts": 1776205352.7749865,
       "modified_iso": "2026-04-14T18:22:32.774987",
-      "minutes_since_active": 51.2
+      "minutes_since_active": 52.0
     },
     {
       "id": "e6be09c4",
@@ -167,7 +183,7 @@
       "file_size_kb": 1391,
       "modified_ts": 1776205204.6930459,
       "modified_iso": "2026-04-14T18:20:04.693046",
-      "minutes_since_active": 53.7
+      "minutes_since_active": 54.5
     },
     {
       "id": "00fbd3e8",
@@ -183,7 +199,7 @@
       "file_size_kb": 64,
       "modified_ts": 1776203034.7530334,
       "modified_iso": "2026-04-14T17:43:54.753033",
-      "minutes_since_active": 89.8
+      "minutes_since_active": 90.7
     },
     {
       "id": "d6a6d7b9",
@@ -199,23 +215,7 @@
       "file_size_kb": 75,
       "modified_ts": 1776203008.9773889,
       "modified_iso": "2026-04-14T17:43:28.977389",
-      "minutes_since_active": 90.3
-    },
-    {
-      "id": "65fdc722",
-      "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
-      "status": "recent",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Are you always on now?",
-      "last_user_msg": "So I'm on the creator plan which is $22 a month. The Pro Plan is $100 a month and gives 500,000 credits, and if I subscribe to the yearly plan they give me two months free but I do\u2026",
-      "last_assistant_snippet": "The one thing that determines this: are you actually hitting your credit limit on Creator right now? If you have credits left over at end of the month, upgrading to Pro is just pay\u2026",
-      "message_count": 68,
-      "file_size_kb": 268,
-      "modified_ts": 1776202984.134324,
-      "modified_iso": "2026-04-14T17:43:04.134324",
-      "minutes_since_active": 90.7
+      "minutes_since_active": 91.1
     },
     {
       "id": "1b575fb1",
@@ -231,7 +231,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776202944.5138826,
       "modified_iso": "2026-04-14T17:42:24.513883",
-      "minutes_since_active": 91.4
+      "minutes_since_active": 92.2
     },
     {
       "id": "9a64615f",
@@ -247,7 +247,7 @@
       "file_size_kb": 65,
       "modified_ts": 1776202895.599755,
       "modified_iso": "2026-04-14T17:41:35.599755",
-      "minutes_since_active": 92.2
+      "minutes_since_active": 93.0
     },
     {
       "id": "bc01fe98",
@@ -263,7 +263,7 @@
       "file_size_kb": 42,
       "modified_ts": 1776202846.9112167,
       "modified_iso": "2026-04-14T17:40:46.911217",
-      "minutes_since_active": 93.0
+      "minutes_since_active": 93.8
     },
     {
       "id": "ec38cd63",
@@ -279,7 +279,7 @@
       "file_size_kb": 840,
       "modified_ts": 1776194180.279534,
       "modified_iso": "2026-04-14T15:16:20.279534",
-      "minutes_since_active": 237.4
+      "minutes_since_active": 238.2
     },
     {
       "id": "21a61f9c",
@@ -295,7 +295,7 @@
       "file_size_kb": 2147,
       "modified_ts": 1776190133.0928223,
       "modified_iso": "2026-04-14T14:08:53.092822",
-      "minutes_since_active": 304.9
+      "minutes_since_active": 305.7
     },
     {
       "id": "11bf8958",
@@ -311,7 +311,7 @@
       "file_size_kb": 1202,
       "modified_ts": 1776188760.6938543,
       "modified_iso": "2026-04-14T13:46:00.693854",
-      "minutes_since_active": 327.8
+      "minutes_since_active": 328.6
     },
     {
       "id": "1418b449",
@@ -327,7 +327,7 @@
       "file_size_kb": 110,
       "modified_ts": 1776187871.8422563,
       "modified_iso": "2026-04-14T13:31:11.842256",
-      "minutes_since_active": 342.6
+      "minutes_since_active": 343.4
     },
     {
       "id": "78f0c6c2",
@@ -343,7 +343,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 1340.3
+      "minutes_since_active": 1341.1
     },
     {
       "id": "993367e6",
@@ -359,7 +359,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 1391.7
+      "minutes_since_active": 1392.5
     }
   ]
 }
