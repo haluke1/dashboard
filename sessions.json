@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:00:11Z",
+  "updated_at": "2026-04-14T16:01:16Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we open back up all the terminal sessions i had i just closed them",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_25wGuU/Screenshot 2026-04-14 at 11.57.37.png]",
-      "last_assistant_snippet": "## Why 6% at start Not MCPs \u2014 those are \"deferred\" (I see a list of their names but their full schemas aren't loaded until I call `ToolSearch`). The 6% is your **instruction stack*\u2026",
-      "message_count": 10,
-      "file_size_kb": 179,
-      "modified_ts": 1776182386.5765357,
-      "modified_iso": "2026-04-14T11:59:46.576536",
-      "minutes_since_active": 0.4
+      "last_user_msg": "give me the best mac mini i should buy for this situation, options for 16 32 64 128 gb ram or other metrics",
+      "last_assistant_snippet": "Let me check the current Mac mini lineup \u2014 the M5 generation may have launched since my training cutoff.",
+      "message_count": 18,
+      "file_size_kb": 224,
+      "modified_ts": 1776182468.0169678,
+      "modified_iso": "2026-04-14T12:01:08.016968",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 6027,
       "modified_ts": 1776128009.6926973,
       "modified_iso": "2026-04-13T20:53:29.692697",
-      "minutes_since_active": 906.7
+      "minutes_since_active": 907.8
     },
     {
       "id": "993367e6",
@@ -55,7 +55,7 @@
       "file_size_kb": 334,
       "modified_ts": 1776124923.862077,
       "modified_iso": "2026-04-13T20:02:03.862077",
-      "minutes_since_active": 958.1
+      "minutes_since_active": 959.2
     }
   ]
 }
