@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T22:19:11Z",
-  "total_tabs": 263,
+  "updated_at": "2026-04-14T22:20:14Z",
+  "total_tabs": 265,
   "total_windows": 7,
   "duplicate_tabs": 42,
   "bridge_online": true,
@@ -121,6 +121,21 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 3,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "figma.com",
+          "count": 2
+        },
+        {
+          "domain": "notion.so",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "social",
       "count": 2,
       "domain_count": 2,
@@ -131,17 +146,6 @@
         },
         {
           "domain": "web.whatsapp.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
           "count": 1
         }
       ]
