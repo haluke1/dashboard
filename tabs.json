@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-15T16:44:31Z",
-  "total_tabs": 268,
+  "updated_at": "2026-04-15T16:45:41Z",
+  "total_tabs": 269,
   "total_windows": 7,
-  "duplicate_tabs": 48,
+  "duplicate_tabs": 50,
   "bridge_online": true,
   "categories": [
     {
@@ -121,23 +121,23 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "social",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "reddit.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
           "count": 1
         }
       ]
