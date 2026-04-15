@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-15T00:15:28Z",
-  "total_tabs": 255,
+  "updated_at": "2026-04-15T00:17:43Z",
+  "total_tabs": 256,
   "total_windows": 7,
-  "duplicate_tabs": 42,
+  "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 117,
+      "count": 118,
       "domain_count": 73,
       "top_domains": [
         {
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "exa.ai",
+          "domain": "platform.claude.com",
           "count": 3
         },
         {
-          "domain": "keep.google.com",
+          "domain": "exa.ai",
           "count": 3
         }
       ]
@@ -107,11 +107,11 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "hannahstulberg.substack.com",
+          "domain": "simonw.substack.com",
           "count": 1
         },
         {
-          "domain": "simonw.substack.com",
+          "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
