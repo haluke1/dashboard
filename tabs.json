@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T01:32:24Z",
-  "total_tabs": 374,
+  "updated_at": "2026-04-15T01:36:48Z",
+  "total_tabs": 383,
   "total_windows": 9,
-  "duplicate_tabs": 58,
+  "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 221,
-      "domain_count": 119,
+      "count": 228,
+      "domain_count": 122,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,11 +16,11 @@
         },
         {
           "domain": "eporner.com",
-          "count": 18
+          "count": 20
         },
         {
           "domain": "xhamster.com",
-          "count": 11
+          "count": 13
         },
         {
           "domain": "skool.com",
@@ -75,6 +75,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 17,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "abxxx.com",
+          "count": 10
+        },
+        {
+          "domain": "sextvx.com",
+          "count": 2
+        },
+        {
+          "domain": "titstvx.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "ooxxx.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 16,
       "domain_count": 8,
@@ -98,33 +125,6 @@
         {
           "domain": "localhost:61304",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 15,
-      "domain_count": 6,
-      "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 8
-        },
-        {
-          "domain": "sextvx.com",
-          "count": 2
-        },
-        {
-          "domain": "titstvx.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "ooxxx.com",
-          "count": 1
         }
       ]
     },
