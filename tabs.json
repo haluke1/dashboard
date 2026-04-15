@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T22:51:22Z",
-  "total_tabs": 287,
+  "updated_at": "2026-04-15T22:52:26Z",
+  "total_tabs": 288,
   "total_windows": 7,
   "duplicate_tabs": 54,
   "bridge_online": true,
@@ -122,11 +122,15 @@
     },
     {
       "name": "social",
-      "count": 2,
-      "domain_count": 2,
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "linkedin.com",
           "count": 1
         },
         {
