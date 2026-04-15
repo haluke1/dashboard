@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-15T23:23:00Z",
+  "updated_at": "2026-04-15T23:24:35Z",
   "counts": {
     "active": 0,
-    "recent": 6,
-    "archived": 243,
+    "recent": 5,
+    "archived": 244,
     "total": 249
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776293699.4987907,
       "modified_iso": "2026-04-15T18:54:59.498791",
-      "minutes_since_active": 28.0
+      "minutes_since_active": 29.5
     },
     {
       "id": "e6be09c4",
@@ -38,7 +38,7 @@
       "file_size_kb": 2457,
       "modified_ts": 1776293469.3586144,
       "modified_iso": "2026-04-15T18:51:09.358614",
-      "minutes_since_active": 31.8
+      "minutes_since_active": 33.4
     },
     {
       "id": "65fdc722",
@@ -54,7 +54,7 @@
       "file_size_kb": 337,
       "modified_ts": 1776223420.813584,
       "modified_iso": "2026-04-14T23:23:40.813584",
-      "minutes_since_active": 1199.3
+      "minutes_since_active": 1200.8
     },
     {
       "id": "7bf56971",
@@ -70,7 +70,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776212009.2304,
       "modified_iso": "2026-04-14T20:13:29.230400",
-      "minutes_since_active": 1389.5
+      "minutes_since_active": 1391.1
     },
     {
       "id": "026df754",
@@ -86,23 +86,7 @@
       "file_size_kb": 2245,
       "modified_ts": 1776211994.6411262,
       "modified_iso": "2026-04-14T20:13:14.641126",
-      "minutes_since_active": 1389.8
-    },
-    {
-      "id": "b30fd6b5",
-      "full_id": "b30fd6b5-59fa-4ffd-a58a-909893cbcc31",
-      "status": "recent",
-      "project": "/private/tmp",
-      "git_branch": "HEAD",
-      "permission_mode": null,
-      "first_prompt": "You have access to the Figma MCP. Execute in order: 1. Read the first line of /Users/halukgul/.claude/mindmaps/build-consolidated.js \u2014 output it as \"FILE_VERSION_LINE: <first line>\u2026",
-      "last_user_msg": "You have access to the Figma MCP. Execute in order: 1. Read the first line of /Users/halukgul/.claude/mindmaps/build-consolidated.js \u2014 output it as \"FILE_VERSION_LINE: <first line>\u2026",
-      "last_assistant_snippet": "``` FILE_VERSION_LINE: // Haluk's consolidated system mindmap \u2014 v4 (bento grid, no connectors at all). FILE_URL: https://www.figma.com/board/WtFjIXa9Srfl8gPF6ub8s9 SCRIPT_STATUS: E\u2026",
-      "message_count": 26,
-      "file_size_kb": 112,
-      "modified_ts": 1776209048.578684,
-      "modified_iso": "2026-04-14T19:24:08.578684",
-      "minutes_since_active": 1438.8
+      "minutes_since_active": 1391.3
     }
   ]
 }
