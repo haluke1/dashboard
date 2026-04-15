@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-15T22:06:27Z",
+  "updated_at": "2026-04-15T22:07:30Z",
   "counts": {
-    "active": 0,
-    "recent": 13,
+    "active": 1,
+    "recent": 12,
     "archived": 235,
     "total": 248
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "e6be09c4",
       "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/reports/villanova-workshops",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "wait i will share the resource i ment -> https://vercel.com/blog/we-removed-80-percent-of-our-agents-tools",
       "last_assistant_snippet": "Got the thesis. Updating all 8 agents to anchor on Vercel's finding (15 tools \u2192 1 bash, 80%\u2192100% success, 3.5x faster) rather than generic agent-research. Each agent now *extends* \u2026",
-      "message_count": 448,
-      "file_size_kb": 2100,
-      "modified_ts": 1776289916.8569233,
-      "modified_iso": "2026-04-15T17:51:56.856923",
-      "minutes_since_active": 14.5
-    },
+      "message_count": 449,
+      "file_size_kb": 2112,
+      "modified_ts": 1776290820.3239582,
+      "modified_iso": "2026-04-15T18:07:00.323958",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "65fdc722",
       "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
@@ -38,7 +39,7 @@
       "file_size_kb": 337,
       "modified_ts": 1776223420.813584,
       "modified_iso": "2026-04-14T23:23:40.813584",
-      "minutes_since_active": 1122.8
+      "minutes_since_active": 1123.8
     },
     {
       "id": "7bf56971",
@@ -54,7 +55,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776212009.2304,
       "modified_iso": "2026-04-14T20:13:29.230400",
-      "minutes_since_active": 1313.0
+      "minutes_since_active": 1314.0
     },
     {
       "id": "026df754",
@@ -70,7 +71,7 @@
       "file_size_kb": 2245,
       "modified_ts": 1776211994.6411262,
       "modified_iso": "2026-04-14T20:13:14.641126",
-      "minutes_since_active": 1313.2
+      "minutes_since_active": 1314.3
     },
     {
       "id": "b30fd6b5",
@@ -86,7 +87,7 @@
       "file_size_kb": 112,
       "modified_ts": 1776209048.578684,
       "modified_iso": "2026-04-14T19:24:08.578684",
-      "minutes_since_active": 1362.3
+      "minutes_since_active": 1363.4
     },
     {
       "id": "3329360c",
@@ -102,7 +103,7 @@
       "file_size_kb": 99,
       "modified_ts": 1776208808.9213645,
       "modified_iso": "2026-04-14T19:20:08.921365",
-      "minutes_since_active": 1366.3
+      "minutes_since_active": 1367.4
     },
     {
       "id": "20229db7",
@@ -118,7 +119,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776207807.2456696,
       "modified_iso": "2026-04-14T19:03:27.245670",
-      "minutes_since_active": 1383.0
+      "minutes_since_active": 1384.0
     },
     {
       "id": "7fa36b1b",
@@ -134,7 +135,7 @@
       "file_size_kb": 128,
       "modified_ts": 1776207511.2867785,
       "modified_iso": "2026-04-14T18:58:31.286778",
-      "minutes_since_active": 1387.9
+      "minutes_since_active": 1389.0
     },
     {
       "id": "6a818b38",
@@ -150,7 +151,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206740.5361264,
       "modified_iso": "2026-04-14T18:45:40.536126",
-      "minutes_since_active": 1400.8
+      "minutes_since_active": 1401.8
     },
     {
       "id": "20e57963",
@@ -166,7 +167,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206724.834956,
       "modified_iso": "2026-04-14T18:45:24.834956",
-      "minutes_since_active": 1401.0
+      "minutes_since_active": 1402.1
     },
     {
       "id": "e1376fbc",
@@ -182,7 +183,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776205636.777848,
       "modified_iso": "2026-04-14T18:27:16.777848",
-      "minutes_since_active": 1419.2
+      "minutes_since_active": 1420.2
     },
     {
       "id": "861ad48b",
@@ -198,7 +199,7 @@
       "file_size_kb": 74,
       "modified_ts": 1776205548.4383981,
       "modified_iso": "2026-04-14T18:25:48.438398",
-      "minutes_since_active": 1420.6
+      "minutes_since_active": 1421.7
     },
     {
       "id": "11f47a06",
@@ -214,7 +215,7 @@
       "file_size_kb": 73,
       "modified_ts": 1776205352.7749865,
       "modified_iso": "2026-04-14T18:22:32.774987",
-      "minutes_since_active": 1423.9
+      "minutes_since_active": 1425.0
     }
   ]
 }
