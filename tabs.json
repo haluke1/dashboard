@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T04:03:47Z",
-  "total_tabs": 260,
+  "updated_at": "2026-04-15T04:04:51Z",
+  "total_tabs": 259,
   "total_windows": 7,
   "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 119,
-      "domain_count": 74,
+      "count": 118,
+      "domain_count": 73,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 74,
+      "count": 75,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 73
+          "count": 74
         },
         {
           "domain": "loom.com",
@@ -122,13 +122,9 @@
     },
     {
       "name": "social",
-      "count": 2,
-      "domain_count": 2,
+      "count": 1,
+      "domain_count": 1,
       "top_domains": [
-        {
-          "domain": "x.com",
-          "count": 1
-        },
         {
           "domain": "reddit.com",
           "count": 1
