@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T16:43:21Z",
-  "total_tabs": 266,
+  "updated_at": "2026-04-15T16:44:31Z",
+  "total_tabs": 268,
   "total_windows": 7,
   "duplicate_tabs": 48,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 122,
-      "domain_count": 75,
+      "count": 123,
+      "domain_count": 76,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -49,12 +49,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 50,
+      "count": 51,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 25
+          "count": 26
         },
         {
           "domain": "claude.ai",
