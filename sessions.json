@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-15T22:24:46Z",
+  "updated_at": "2026-04-15T22:25:49Z",
   "counts": {
     "active": 0,
-    "recent": 12,
-    "archived": 236,
+    "recent": 11,
+    "archived": 237,
     "total": 248
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 2238,
       "modified_ts": 1776291193.7248378,
       "modified_iso": "2026-04-15T18:13:13.724838",
-      "minutes_since_active": 11.5
+      "minutes_since_active": 12.6
     },
     {
       "id": "65fdc722",
@@ -38,7 +38,7 @@
       "file_size_kb": 337,
       "modified_ts": 1776223420.813584,
       "modified_iso": "2026-04-14T23:23:40.813584",
-      "minutes_since_active": 1141.1
+      "minutes_since_active": 1142.1
     },
     {
       "id": "7bf56971",
@@ -54,7 +54,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776212009.2304,
       "modified_iso": "2026-04-14T20:13:29.230400",
-      "minutes_since_active": 1331.3
+      "minutes_since_active": 1332.3
     },
     {
       "id": "026df754",
@@ -70,7 +70,7 @@
       "file_size_kb": 2245,
       "modified_ts": 1776211994.6411262,
       "modified_iso": "2026-04-14T20:13:14.641126",
-      "minutes_since_active": 1331.5
+      "minutes_since_active": 1332.6
     },
     {
       "id": "b30fd6b5",
@@ -86,7 +86,7 @@
       "file_size_kb": 112,
       "modified_ts": 1776209048.578684,
       "modified_iso": "2026-04-14T19:24:08.578684",
-      "minutes_since_active": 1380.6
+      "minutes_since_active": 1381.7
     },
     {
       "id": "3329360c",
@@ -102,7 +102,7 @@
       "file_size_kb": 99,
       "modified_ts": 1776208808.9213645,
       "modified_iso": "2026-04-14T19:20:08.921365",
-      "minutes_since_active": 1384.6
+      "minutes_since_active": 1385.7
     },
     {
       "id": "20229db7",
@@ -118,7 +118,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776207807.2456696,
       "modified_iso": "2026-04-14T19:03:27.245670",
-      "minutes_since_active": 1401.3
+      "minutes_since_active": 1402.4
     },
     {
       "id": "7fa36b1b",
@@ -134,7 +134,7 @@
       "file_size_kb": 128,
       "modified_ts": 1776207511.2867785,
       "modified_iso": "2026-04-14T18:58:31.286778",
-      "minutes_since_active": 1406.2
+      "minutes_since_active": 1407.3
     },
     {
       "id": "6a818b38",
@@ -150,7 +150,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206740.5361264,
       "modified_iso": "2026-04-14T18:45:40.536126",
-      "minutes_since_active": 1419.1
+      "minutes_since_active": 1420.1
     },
     {
       "id": "20e57963",
@@ -166,7 +166,7 @@
       "file_size_kb": 96,
       "modified_ts": 1776206724.834956,
       "modified_iso": "2026-04-14T18:45:24.834956",
-      "minutes_since_active": 1419.3
+      "minutes_since_active": 1420.4
     },
     {
       "id": "e1376fbc",
@@ -182,23 +182,7 @@
       "file_size_kb": 98,
       "modified_ts": 1776205636.777848,
       "modified_iso": "2026-04-14T18:27:16.777848",
-      "minutes_since_active": 1437.5
-    },
-    {
-      "id": "861ad48b",
-      "full_id": "861ad48b-b0e6-4554-9513-5888120fca0b",
-      "status": "recent",
-      "project": "/private/tmp",
-      "git_branch": "HEAD",
-      "permission_mode": null,
-      "first_prompt": "You have access to the Figma MCP. Execute in order: 1. Call mcp__plugin_figma_figma__create_new_file with editorType=\"figjam\" and fileName=\"Haluk's Claude Code System \u2014 Mindmaps\". \u2026",
-      "last_user_msg": "You have access to the Figma MCP. Execute in order: 1. Call mcp__plugin_figma_figma__create_new_file with editorType=\"figjam\" and fileName=\"Haluk's Claude Code System \u2014 Mindmaps\". \u2026",
-      "last_assistant_snippet": "Waiting on your permission grant for the Figma MCP tools \u2014 please approve `mcp__plugin_figma_figma__whoami` and I'll proceed.",
-      "message_count": 13,
-      "file_size_kb": 74,
-      "modified_ts": 1776205548.4383981,
-      "modified_iso": "2026-04-14T18:25:48.438398",
-      "minutes_since_active": 1438.9
+      "minutes_since_active": 1438.5
     }
   ]
 }
