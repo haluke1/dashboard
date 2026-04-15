@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T02:32:28Z",
-  "total_tabs": 309,
-  "total_windows": 8,
+  "updated_at": "2026-04-15T02:41:43Z",
+  "total_tabs": 257,
+  "total_windows": 7,
   "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 158,
-      "domain_count": 94,
+      "count": 118,
+      "domain_count": 73,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
-          "domain": "eporner.com",
-          "count": 7
+          "domain": "mountainside-medical.com",
+          "count": 4
         },
         {
-          "domain": "xhamster.com",
-          "count": 6
+          "domain": "platform.claude.com",
+          "count": 3
         },
         {
-          "domain": "momvids.com",
-          "count": 5
+          "domain": "exa.ai",
+          "count": 3
         }
       ]
     },
@@ -102,43 +102,31 @@
       ]
     },
     {
-      "name": "social",
-      "count": 13,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 10
-        },
-        {
-          "domain": "sextvx.com",
-          "count": 1
-        },
-        {
-          "domain": "ooxxx.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "hannahstulberg.substack.com",
-          "count": 1
-        },
-        {
           "domain": "simonw.substack.com",
           "count": 1
         },
         {
+          "domain": "hannahstulberg.substack.com",
+          "count": 1
+        },
+        {
           "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
