@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-15T20:29:17Z",
-  "total_tabs": 277,
+  "updated_at": "2026-04-15T20:30:21Z",
+  "total_tabs": 279,
   "total_windows": 7,
-  "duplicate_tabs": 55,
+  "duplicate_tabs": 57,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 128,
+      "count": 130,
       "domain_count": 79,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 26
+          "count": 28
         },
         {
           "domain": "skool.com",
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "exa.ai",
+          "domain": "platform.claude.com",
           "count": 3
         },
         {
-          "domain": "keep.google.com",
+          "domain": "exa.ai",
           "count": 3
         }
       ]
@@ -107,30 +107,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "hannahstulberg.substack.com",
-          "count": 1
-        },
-        {
           "domain": "simonw.substack.com",
           "count": 1
         },
         {
-          "domain": "substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "reddit.com",
+          "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
-          "domain": "instagram.com",
+          "domain": "substack.com",
           "count": 1
         }
       ]
@@ -143,6 +128,21 @@
         {
           "domain": "notion.so",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
         }
       ]
     },
