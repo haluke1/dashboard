@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T22:46:01Z",
-  "total_tabs": 285,
+  "updated_at": "2026-04-15T22:47:05Z",
+  "total_tabs": 286,
   "total_windows": 7,
   "duplicate_tabs": 53,
   "bridge_online": true,
@@ -49,7 +49,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 53,
+      "count": 54,
       "domain_count": 8,
       "top_domains": [
         {
@@ -69,7 +69,7 @@
           "count": 2
         },
         {
-          "domain": "huggingface.co",
+          "domain": "anthropic.com",
           "count": 2
         }
       ]
