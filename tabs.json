@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-04-16T00:57:43Z",
-  "total_tabs": 352,
+  "updated_at": "2026-04-16T00:58:59Z",
+  "total_tabs": 358,
   "total_windows": 8,
   "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 185,
-      "domain_count": 110,
+      "count": 189,
+      "domain_count": 111,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 26
         },
         {
+          "domain": "xhamster.com",
+          "count": 9
+        },
+        {
           "domain": "skool.com",
           "count": 9
         },
         {
-          "domain": "xhamster.com",
-          "count": 8
-        },
-        {
           "domain": "eporner.com",
-          "count": 7
+          "count": 8
         },
         {
           "domain": "momvids.com",
@@ -75,6 +75,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 17,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "abxxx.com",
+          "count": 11
+        },
+        {
+          "domain": "anysex.com",
+          "count": 1
+        },
+        {
+          "domain": "sextvx.com",
+          "count": 1
+        },
+        {
+          "domain": "ooxxx.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 17,
       "domain_count": 8,
@@ -98,33 +125,6 @@
         {
           "domain": "localhost:61304",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 15,
-      "domain_count": 6,
-      "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 10
-        },
-        {
-          "domain": "sextvx.com",
-          "count": 1
-        },
-        {
-          "domain": "ooxxx.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 1
         }
       ]
     },
