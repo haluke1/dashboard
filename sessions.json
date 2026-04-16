@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T20:06:06Z",
+  "updated_at": "2026-04-16T20:07:10Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "One month is realistic **only for a specific kind of paper: a conceptual/framework paper, not an empirical one.** Empirical means primary data collection \u2014 IRB, consent, recruitmen\u2026",
       "message_count": 9,
       "file_size_kb": 134,
-      "modified_ts": 1776369787.4431703,
-      "modified_iso": "2026-04-16T16:03:07.443170",
-      "minutes_since_active": 3.0
+      "modified_ts": 1776369991.8353481,
+      "modified_iso": "2026-04-16T16:06:31.835348",
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 38.8
+      "minutes_since_active": 39.9
     },
     {
       "id": "2b17952f",
@@ -55,7 +55,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 974.4
+      "minutes_since_active": 975.4
     }
   ]
 }
