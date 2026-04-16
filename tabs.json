@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-16T20:45:36Z",
-  "total_tabs": 278,
+  "updated_at": "2026-04-16T20:46:40Z",
+  "total_tabs": 272,
   "total_windows": 6,
   "duplicate_tabs": 57,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 127,
+      "count": 122,
       "domain_count": 74,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 26
+          "count": 21
         },
         {
           "domain": "skool.com",
@@ -76,12 +76,12 @@
     },
     {
       "name": "local",
-      "count": 17,
+      "count": 16,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "localhost:8888",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "localhost:8080",
