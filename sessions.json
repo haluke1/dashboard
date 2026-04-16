@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:28:23Z",
+  "updated_at": "2026-04-16T23:28:53Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "i want you to activate mcp's and relaunch notebooklm mcp. we had a previous session where we couldve disabled it",
-      "last_assistant_snippet": "Let me find how NotebookLM MCP is configured and check if it's disabled.",
-      "message_count": 54,
-      "file_size_kb": 290,
-      "modified_ts": 1776382100.5120847,
-      "modified_iso": "2026-04-16T19:28:20.512085",
+      "last_assistant_snippet": "Auth tokens on disk are stale \u2014 they reload but Google rejects them (400). The MCP is fine; NotebookLM's browser session just expired. **You need to run the login yourself** (inter\u2026",
+      "message_count": 73,
+      "file_size_kb": 339,
+      "modified_ts": 1776382132.28688,
+      "modified_iso": "2026-04-16T19:28:52.286880",
       "minutes_since_active": 0.0
     },
     {
@@ -37,7 +37,7 @@
       "file_size_kb": 2332,
       "modified_ts": 1776382035.8729138,
       "modified_iso": "2026-04-16T19:27:15.872914",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 145.6
+      "minutes_since_active": 146.1
     },
     {
       "id": "0c6b86f4",
@@ -71,7 +71,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 158.0
+      "minutes_since_active": 158.5
     },
     {
       "id": "e6be09c4",
@@ -87,7 +87,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 241.1
+      "minutes_since_active": 241.6
     },
     {
       "id": "2b17952f",
@@ -103,7 +103,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1176.6
+      "minutes_since_active": 1177.1
     }
   ]
 }
