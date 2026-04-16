@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:29:54Z",
+  "updated_at": "2026-04-16T21:30:58Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "also can we implement 2, 3, 4, 6, 7, 8, 9, 10 from this research that we ran -> file:///Users/halukgul/reports/agent-architecture-synthesis/index.html / we are at 27% in context. a\u2026",
-      "last_assistant_snippet": "Let me open the infrastructure map for you and check MCP servers properly.",
-      "message_count": 449,
-      "file_size_kb": 1420,
-      "modified_ts": 1776374984.856004,
-      "modified_iso": "2026-04-16T17:29:44.856004",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "MCP servers are managed by plugins (context7, elevenlabs, exa, brave, etc. come from plugin .mcp.json files), not from settings.json directly. That means #4 (cap MCP at 3) is about\u2026",
+      "message_count": 467,
+      "file_size_kb": 1461,
+      "modified_ts": 1776375055.1060505,
+      "modified_iso": "2026-04-16T17:30:55.106050",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 27.1
+      "minutes_since_active": 28.2
     },
     {
       "id": "0c6b86f4",
@@ -55,7 +55,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 39.5
+      "minutes_since_active": 40.5
     },
     {
       "id": "e6be09c4",
@@ -71,7 +71,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 122.6
+      "minutes_since_active": 123.7
     },
     {
       "id": "2b17952f",
@@ -87,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1058.2
+      "minutes_since_active": 1059.2
     }
   ]
 }
