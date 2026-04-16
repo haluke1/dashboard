@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T21:25:35Z",
-  "total_tabs": 228,
-  "total_windows": 5,
+  "updated_at": "2026-04-16T21:26:39Z",
+  "total_tabs": 225,
+  "total_windows": 4,
   "duplicate_tabs": 36,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 107,
-      "domain_count": 64,
+      "count": 105,
+      "domain_count": 63,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -98,21 +98,6 @@
       ]
     },
     {
-      "name": "social",
-      "count": 4,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -127,6 +112,21 @@
         },
         {
           "domain": "simonw.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 3,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
