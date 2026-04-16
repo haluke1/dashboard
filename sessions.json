@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-16T23:36:52Z",
+  "updated_at": "2026-04-16T23:37:34Z",
   "counts": {
-    "active": 1,
-    "recent": 5,
+    "active": 2,
+    "recent": 4,
     "archived": 247,
     "total": 253
   },
@@ -16,31 +16,31 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "also look at his github repo analyze it deeply, run tests on it and tell me how we can create a cross session, highly capable agent that's on par with his and 100x things we could \u2026",
-      "last_assistant_snippet": "Plan locked. Dispatching two parallel deep-analysis agents with pre-defined output paths. While they run, I'll sketch the 100x thesis.",
-      "message_count": 116,
-      "file_size_kb": 587,
-      "modified_ts": 1776382559.1963499,
-      "modified_iso": "2026-04-16T19:35:59.196350",
-      "minutes_since_active": 0.9
-    }
-  ],
-  "recent": [
+      "last_assistant_snippet": "Two agents dispatched in parallel (background): 1. **PAI deep-dive** \u2014 clones `danielmiessler/Personal_AI_Infrastructure`, maps the actual implementation (skill format, TELOS schem\u2026",
+      "message_count": 126,
+      "file_size_kb": 628,
+      "modified_ts": 1776382653.00988,
+      "modified_iso": "2026-04-16T19:37:33.009880",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_8VOrjM/Screenshot 2026-04-16 at 19.25.52.png]",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_BbuvZf/Screenshot 2026-04-16 at 19.37.07.png]",
       "last_assistant_snippet": "Done. Here's what changed: - **No more Cursor popups** \u2014 all links stay in the browser - **\"Add to Dock\" section** with a button that opens `~/Applications/` in Finder \u2014 drag the `\u2026",
-      "message_count": 624,
-      "file_size_kb": 2332,
-      "modified_ts": 1776382035.8729138,
-      "modified_iso": "2026-04-16T19:27:15.872914",
-      "minutes_since_active": 9.6
-    },
+      "message_count": 628,
+      "file_size_kb": 2526,
+      "modified_ts": 1776382651.6451883,
+      "modified_iso": "2026-04-16T19:37:31.645188",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "e4560b62",
       "full_id": "e4560b62-866c-4667-be04-ef2fdbb2081d",
@@ -55,7 +55,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 154.1
+      "minutes_since_active": 154.8
     },
     {
       "id": "0c6b86f4",
@@ -71,7 +71,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 166.4
+      "minutes_since_active": 167.1
     },
     {
       "id": "e6be09c4",
@@ -87,7 +87,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 249.6
+      "minutes_since_active": 250.3
     },
     {
       "id": "2b17952f",
@@ -103,7 +103,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1185.1
+      "minutes_since_active": 1185.8
     }
   ]
 }
