@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:02:41Z",
+  "updated_at": "2026-04-16T21:03:44Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -17,10 +17,10 @@
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "i want you to consider what we're trying to achieve and how we could get there better, take a look at this site -> https://www.scriptbyai.com/claude-code-resource-list/ and run 10 \u2026",
       "last_assistant_snippet": "All 10 are running in background. You want 60 instead \u2014 let me launch 50 more agents covering the next most promising resources from that list. I'll group them into waves since the\u2026",
-      "message_count": 149,
-      "file_size_kb": 581,
-      "modified_ts": 1776373358.6927032,
-      "modified_iso": "2026-04-16T17:02:38.692703",
+      "message_count": 169,
+      "file_size_kb": 617,
+      "modified_ts": 1776373423.435651,
+      "modified_iso": "2026-04-16T17:03:43.435651",
       "minutes_since_active": 0.0
     },
     {
@@ -35,9 +35,9 @@
       "last_assistant_snippet": "All 4 files copied to `~/Desktop/authority-research-archive/`: - `AI_Image_Prompting_Techniques_MasterGuide.md` - `FREEPIK_SPACES_MASTER_GUIDE.md` - `video-research-index.html` (re\u2026",
       "message_count": 35,
       "file_size_kb": 140,
-      "modified_ts": 1776373184.3525507,
-      "modified_iso": "2026-04-16T16:59:44.352551",
-      "minutes_since_active": 2.9
+      "modified_ts": 1776373368.0467556,
+      "modified_iso": "2026-04-16T17:02:48.046756",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 12.3
+      "minutes_since_active": 13.3
     },
     {
       "id": "e6be09c4",
@@ -71,7 +71,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 95.4
+      "minutes_since_active": 96.5
     },
     {
       "id": "2b17952f",
@@ -87,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1030.9
+      "minutes_since_active": 1032.0
     }
   ]
 }
