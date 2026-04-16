@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:13:15Z",
+  "updated_at": "2026-04-16T21:13:35Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>a14c742d7ed168285</task-id> <tool-use-id>toolu_01NYtwRr7iwgGjn4UjZg87Df</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/e508fda2-c59\u2026",
       "last_assistant_snippet": "Report is open in your browser. **What you're looking at:** - **8 sections** with sticky TOC: Thesis, Funnel, 13 KEEPs (in 3 clusters), 8 WATCHes, 23 Extracted Ideas, Patterns, Ful\u2026",
       "message_count": 302,
-      "file_size_kb": 1111,
-      "modified_ts": 1776373994.9298434,
-      "modified_iso": "2026-04-16T17:13:14.929843",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1113,
+      "modified_ts": 1776373996.2414172,
+      "modified_iso": "2026-04-16T17:13:16.241417",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 10.5
+      "minutes_since_active": 10.8
     },
     {
       "id": "0c6b86f4",
@@ -55,7 +55,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 22.8
+      "minutes_since_active": 23.2
     },
     {
       "id": "e6be09c4",
@@ -71,7 +71,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 106.0
+      "minutes_since_active": 106.3
     },
     {
       "id": "2b17952f",
@@ -87,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1041.5
+      "minutes_since_active": 1041.8
     }
   ]
 }
