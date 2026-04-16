@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:16:25Z",
+  "updated_at": "2026-04-16T23:17:28Z",
   "total_tabs": 223,
   "total_windows": 4,
   "duplicate_tabs": 37,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 104,
-      "domain_count": 62,
+      "count": 106,
+      "domain_count": 64,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 40,
-      "domain_count": 6,
+      "count": 38,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "github.com",
@@ -57,16 +57,16 @@
           "count": 11
         },
         {
-          "domain": "huggingface.co",
-          "count": 2
-        },
-        {
           "domain": "(no domain)",
           "count": 2
         },
         {
           "domain": "anthropic.com",
           "count": 2
+        },
+        {
+          "domain": "devpost.com",
+          "count": 1
         }
       ]
     },
