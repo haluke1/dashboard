@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-16T23:26:15Z",
-  "total_tabs": 221,
+  "updated_at": "2026-04-16T23:27:18Z",
+  "total_tabs": 222,
   "total_windows": 4,
-  "duplicate_tabs": 37,
+  "duplicate_tabs": 39,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 104,
+      "count": 105,
       "domain_count": 62,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "skool.com",
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
