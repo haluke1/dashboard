@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T21:03:43Z",
-  "total_tabs": 273,
+  "updated_at": "2026-04-16T21:04:48Z",
+  "total_tabs": 263,
   "total_windows": 6,
-  "duplicate_tabs": 58,
+  "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 123,
-      "domain_count": 75,
+      "domain_count": 74,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "mountainside-medical.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 69,
+      "count": 65,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 68
+          "count": 64
         },
         {
           "domain": "loom.com",
@@ -49,7 +49,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 54,
+      "count": 53,
       "domain_count": 8,
       "top_domains": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 18
+          "count": 17
         },
         {
           "domain": "cursor.com",
@@ -76,13 +76,9 @@
     },
     {
       "name": "local",
-      "count": 16,
-      "domain_count": 8,
+      "count": 11,
+      "domain_count": 7,
       "top_domains": [
-        {
-          "domain": "localhost:8888",
-          "count": 3
-        },
         {
           "domain": "localhost:8080",
           "count": 3
@@ -92,12 +88,16 @@
           "count": 3
         },
         {
-          "domain": "localhost:61303",
-          "count": 2
+          "domain": "localhost:8888",
+          "count": 1
+        },
+        {
+          "domain": "localhost:60561",
+          "count": 1
         },
         {
           "domain": "localhost:61304",
-          "count": 2
+          "count": 1
         }
       ]
     },
