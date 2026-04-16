@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-16T21:08:11Z",
-  "total_tabs": 266,
+  "updated_at": "2026-04-16T21:09:15Z",
+  "total_tabs": 262,
   "total_windows": 6,
-  "duplicate_tabs": 53,
+  "duplicate_tabs": 47,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 125,
+      "count": 123,
       "domain_count": 75,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "mountainside-medical.com",
@@ -49,7 +49,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 53,
+      "count": 52,
       "domain_count": 8,
       "top_domains": [
         {
@@ -58,18 +58,18 @@
         },
         {
           "domain": "claude.ai",
-          "count": 17
+          "count": 16
         },
         {
           "domain": "cursor.com",
           "count": 3
         },
         {
-          "domain": "(no domain)",
+          "domain": "huggingface.co",
           "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "(no domain)",
           "count": 2
         }
       ]
@@ -88,15 +88,15 @@
           "count": 3
         },
         {
+          "domain": "127.0.0.1:8765",
+          "count": 1
+        },
+        {
           "domain": "localhost:8888",
           "count": 1
         },
         {
           "domain": "localhost:60561",
-          "count": 1
-        },
-        {
-          "domain": "localhost:61304",
           "count": 1
         }
       ]
@@ -141,12 +141,12 @@
     },
     {
       "name": "productivity",
-      "count": 3,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "notion.so",
-          "count": 3
+          "count": 2
         }
       ]
     },
