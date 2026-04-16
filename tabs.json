@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:47:13Z",
+  "updated_at": "2026-04-16T21:48:17Z",
   "total_tabs": 227,
   "total_windows": 4,
   "duplicate_tabs": 37,
@@ -57,15 +57,15 @@
           "count": 13
         },
         {
-          "domain": "huggingface.co",
-          "count": 2
-        },
-        {
           "domain": "(no domain)",
           "count": 2
         },
         {
           "domain": "anthropic.com",
+          "count": 2
+        },
+        {
+          "domain": "huggingface.co",
           "count": 2
         }
       ]
@@ -80,10 +80,6 @@
           "count": 3
         },
         {
-          "domain": "127.0.0.1:8765",
-          "count": 1
-        },
-        {
           "domain": "localhost:8888",
           "count": 1
         },
@@ -93,6 +89,10 @@
         },
         {
           "domain": "localhost:61304",
+          "count": 1
+        },
+        {
+          "domain": "localhost:61302",
           "count": 1
         }
       ]
