@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-16T00:09:14Z",
+  "updated_at": "2026-04-16T00:13:51Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 244,
+    "recent": 3,
+    "archived": 246,
     "total": 249
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776293699.4987907,
       "modified_iso": "2026-04-15T18:54:59.498791",
-      "minutes_since_active": 74.2
+      "minutes_since_active": 78.8
     },
     {
       "id": "e6be09c4",
@@ -38,7 +38,7 @@
       "file_size_kb": 2457,
       "modified_ts": 1776293469.3586144,
       "modified_iso": "2026-04-15T18:51:09.358614",
-      "minutes_since_active": 78.1
+      "minutes_since_active": 82.7
     },
     {
       "id": "65fdc722",
@@ -54,39 +54,7 @@
       "file_size_kb": 337,
       "modified_ts": 1776223420.813584,
       "modified_iso": "2026-04-14T23:23:40.813584",
-      "minutes_since_active": 1245.5
-    },
-    {
-      "id": "7bf56971",
-      "full_id": "7bf56971-9581-42be-91c0-b3c5dd954c58",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you have access to the mcp's and skills of claude code in the terminal or do i gotta do it again for you",
-      "last_user_msg": "an_sk_990ccbc014edcf910761d3507db25a9968f9a003b319d5f572d81a938c3fbc36 21. dev",
-      "last_assistant_snippet": "--- ## \u2705 Full Integration Complete `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Three-tier defense for tool activation:** 1. **CLAUDE.md rules** (semantic, flexible) \u2014 Claud\u2026",
-      "message_count": 284,
-      "file_size_kb": 1420,
-      "modified_ts": 1776212009.2304,
-      "modified_iso": "2026-04-14T20:13:29.230400",
-      "minutes_since_active": 1435.8
-    },
-    {
-      "id": "026df754",
-      "full_id": "026df754-3584-4ea4-8094-491039e54868",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can i now run multiple claude code instances within the app",
-      "last_user_msg": "could you make it more interactive where when i click that section i can see all the skills or mcp's or whatever",
-      "last_assistant_snippet": "**Deployed.** Interactive version live at: **https://claude-system-mindmap.vercel.app** `interactive.html` is also visible in the Launch preview panel \u2014 open it there to test local\u2026",
-      "message_count": 298,
-      "file_size_kb": 2245,
-      "modified_ts": 1776211994.6411262,
-      "modified_iso": "2026-04-14T20:13:14.641126",
-      "minutes_since_active": 1436.0
+      "minutes_since_active": 1250.2
     }
   ]
 }
