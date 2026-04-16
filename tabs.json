@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T20:37:04Z",
-  "total_tabs": 285,
+  "updated_at": "2026-04-16T20:38:08Z",
+  "total_tabs": 283,
   "total_windows": 6,
-  "duplicate_tabs": 56,
+  "duplicate_tabs": 57,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 129,
-      "domain_count": 77,
+      "count": 127,
+      "domain_count": 74,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
+          "domain": "keep.google.com",
+          "count": 4
+        },
+        {
           "domain": "mountainside-medical.com",
           "count": 4
         },
         {
           "domain": "google.com",
-          "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 4
         }
       ]
