@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-16T20:50:30Z",
+  "updated_at": "2026-04-16T20:50:57Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 2,
     "archived": 247,
-    "total": 250
+    "total": 251
   },
   "active": [
+    {
+      "id": "e508fda2",
+      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
+      "last_user_msg": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 6,
+      "modified_ts": 1776372656.527362,
+      "modified_iso": "2026-04-16T16:50:56.527362",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "0c6b86f4",
       "full_id": "0c6b86f4-f526-41e9-bca6-7dd52863d7b0",
@@ -21,7 +37,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 83.2
+      "minutes_since_active": 83.7
     },
     {
       "id": "2b17952f",
@@ -55,7 +71,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1018.7
+      "minutes_since_active": 1019.2
     }
   ]
 }
