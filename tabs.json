@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T20:33:50Z",
-  "total_tabs": 290,
+  "updated_at": "2026-04-16T20:34:55Z",
+  "total_tabs": 285,
   "total_windows": 6,
   "duplicate_tabs": 56,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 131,
-      "domain_count": 79,
+      "count": 129,
+      "domain_count": 77,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 75,
+      "count": 74,
       "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 74
+          "count": 73
         },
         {
           "domain": "loom.com",
@@ -49,12 +49,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 55,
+      "count": 54,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 26
+          "count": 25
         },
         {
           "domain": "claude.ai",
@@ -102,29 +102,6 @@
       ]
     },
     {
-      "name": "research",
-      "count": 4,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "substack.com",
-          "count": 1
-        },
-        {
-          "domain": "hannahstulberg.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 4,
       "domain_count": 3,
@@ -139,6 +116,25 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "hannahstulberg.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "pmarca.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
