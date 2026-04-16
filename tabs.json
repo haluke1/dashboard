@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T04:10:25Z",
+  "updated_at": "2026-04-16T04:11:29Z",
   "total_tabs": 291,
   "total_windows": 7,
   "duplicate_tabs": 54,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 134,
-      "domain_count": 82,
+      "count": 133,
+      "domain_count": 81,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -103,11 +103,15 @@
     },
     {
       "name": "research",
-      "count": 3,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "hannahstulberg.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "pmarca.substack.com",
           "count": 1
         },
         {
