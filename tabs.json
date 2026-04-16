@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T02:36:17Z",
-  "total_tabs": 303,
+  "updated_at": "2026-04-16T02:37:21Z",
+  "total_tabs": 306,
   "total_windows": 8,
   "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 147,
-      "domain_count": 90,
+      "count": 148,
+      "domain_count": 91,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -102,6 +102,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 5,
+      "domain_count": 5,
+      "top_domains": [
+        {
+          "domain": "anysex.com",
+          "count": 1
+        },
+        {
+          "domain": "abxxx.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 1
+        },
+        {
+          "domain": "instagram.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -116,25 +143,6 @@
         },
         {
           "domain": "substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 3,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
           "count": 1
         }
       ]
