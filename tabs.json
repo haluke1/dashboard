@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T21:09:15Z",
-  "total_tabs": 262,
+  "updated_at": "2026-04-16T21:10:20Z",
+  "total_tabs": 239,
   "total_windows": 6,
-  "duplicate_tabs": 47,
+  "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 123,
-      "domain_count": 75,
+      "count": 115,
+      "domain_count": 68,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,62 +34,50 @@
     },
     {
       "name": "video",
-      "count": 65,
-      "domain_count": 2,
+      "count": 63,
+      "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 64
-        },
-        {
-          "domain": "loom.com",
-          "count": 1
+          "count": 63
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 52,
-      "domain_count": 8,
+      "count": 42,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 25
+          "count": 21
         },
         {
           "domain": "claude.ai",
-          "count": 16
-        },
-        {
-          "domain": "cursor.com",
-          "count": 3
-        },
-        {
-          "domain": "huggingface.co",
-          "count": 2
+          "count": 13
         },
         {
           "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 2
+        },
+        {
+          "domain": "huggingface.co",
           "count": 2
         }
       ]
     },
     {
       "name": "local",
-      "count": 11,
-      "domain_count": 7,
+      "count": 8,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "localhost:8080",
           "count": 3
-        },
-        {
-          "domain": "localhost:3001",
-          "count": 3
-        },
-        {
-          "domain": "127.0.0.1:8765",
-          "count": 1
         },
         {
           "domain": "localhost:8888",
@@ -97,6 +85,14 @@
         },
         {
           "domain": "localhost:60561",
+          "count": 1
+        },
+        {
+          "domain": "localhost:61304",
+          "count": 1
+        },
+        {
+          "domain": "localhost:61302",
           "count": 1
         }
       ]
