@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-16T23:24:08Z",
+  "updated_at": "2026-04-16T23:25:12Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 4,
     "archived": 247,
-    "total": 252
+    "total": 253
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
+      "last_assistant_snippet": "Both calls failed. Let me check if NotebookLM auth is alive, and try the video via a different tool \u2014 it may be region/auth-locked on the transcript side.",
+      "message_count": 20,
+      "file_size_kb": 139,
+      "modified_ts": 1776381904.7610047,
+      "modified_iso": "2026-04-16T19:25:04.761005",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -17,10 +33,10 @@
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "could we have everything including voice agent / this dashboard / other projects to a single dashboard that consistently works and could be opened with a single button click?",
       "last_assistant_snippet": "Good \u2014 voice agent is running, 4 projects found, 11 reports. Let me build the generator script and the unified dashboard.",
-      "message_count": 598,
-      "file_size_kb": 1834,
-      "modified_ts": 1776381834.6133149,
-      "modified_iso": "2026-04-16T19:23:54.613315",
+      "message_count": 600,
+      "file_size_kb": 1866,
+      "modified_ts": 1776381901.2569153,
+      "modified_iso": "2026-04-16T19:25:01.256915",
       "minutes_since_active": 0.2
     }
   ],
@@ -39,7 +55,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 141.3
+      "minutes_since_active": 142.4
     },
     {
       "id": "0c6b86f4",
@@ -55,7 +71,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 153.7
+      "minutes_since_active": 154.8
     },
     {
       "id": "e6be09c4",
@@ -71,7 +87,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 236.9
+      "minutes_since_active": 237.9
     },
     {
       "id": "2b17952f",
@@ -87,7 +103,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1172.4
+      "minutes_since_active": 1173.4
     }
   ]
 }
