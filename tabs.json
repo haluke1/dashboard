@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T23:47:15Z",
-  "total_tabs": 220,
+  "updated_at": "2026-04-16T23:48:19Z",
+  "total_tabs": 219,
   "total_windows": 4,
   "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 103,
-      "domain_count": 60,
+      "count": 102,
+      "domain_count": 59,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -57,11 +57,11 @@
           "count": 10
         },
         {
-          "domain": "anthropic.com",
+          "domain": "(no domain)",
           "count": 2
         },
         {
-          "domain": "(no domain)",
+          "domain": "anthropic.com",
           "count": 2
         },
         {
@@ -126,15 +126,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "simonw.substack.com",
-          "count": 1
-        },
-        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
