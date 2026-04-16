@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:27:19Z",
+  "updated_at": "2026-04-16T23:28:23Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 253
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "i want you to activate mcp's and relaunch notebooklm mcp. we had a previous session where we couldve disabled it",
+      "last_assistant_snippet": "Let me find how NotebookLM MCP is configured and check if it's disabled.",
+      "message_count": 54,
+      "file_size_kb": 290,
+      "modified_ts": 1776382100.5120847,
+      "modified_iso": "2026-04-16T19:28:20.512085",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -21,23 +37,7 @@
       "file_size_kb": 2332,
       "modified_ts": 1776382035.8729138,
       "modified_iso": "2026-04-16T19:27:15.872914",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "# What the video actually says **Video**: \"We're All Building a Single Digital Assistant\" \u2014 Daniel Miessler, Unsupervised Learning, published 2026-04-15 (yesterday). 32:16, 9.7K vi\u2026",
-      "message_count": 47,
-      "file_size_kb": 273,
-      "modified_ts": 1776382018.0823624,
-      "modified_iso": "2026-04-16T19:26:58.082362",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 144.5
+      "minutes_since_active": 145.6
     },
     {
       "id": "0c6b86f4",
@@ -71,7 +71,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 156.9
+      "minutes_since_active": 158.0
     },
     {
       "id": "e6be09c4",
@@ -87,7 +87,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 240.1
+      "minutes_since_active": 241.1
     },
     {
       "id": "2b17952f",
@@ -103,7 +103,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1175.6
+      "minutes_since_active": 1176.6
     }
   ]
 }
