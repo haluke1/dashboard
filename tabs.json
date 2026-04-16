@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T02:41:36Z",
-  "total_tabs": 309,
-  "total_windows": 8,
+  "updated_at": "2026-04-16T02:42:40Z",
+  "total_tabs": 289,
+  "total_windows": 7,
   "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 150,
-      "domain_count": 93,
+      "count": 133,
+      "domain_count": 81,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
-          "domain": "xhamster.com",
-          "count": 5
-        },
-        {
           "domain": "mountainside-medical.com",
           "count": 4
         },
         {
           "domain": "google.com",
           "count": 4
+        },
+        {
+          "domain": "exa.ai",
+          "count": 3
         }
       ]
     },
@@ -102,33 +102,6 @@
       ]
     },
     {
-      "name": "social",
-      "count": 6,
-      "domain_count": 5,
-      "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 2
-        },
-        {
-          "domain": "anysex.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -143,6 +116,25 @@
         },
         {
           "domain": "substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 1
+        },
+        {
+          "domain": "instagram.com",
           "count": 1
         }
       ]
