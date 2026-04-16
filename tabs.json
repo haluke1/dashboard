@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T22:10:44Z",
-  "total_tabs": 228,
+  "updated_at": "2026-04-16T22:11:48Z",
+  "total_tabs": 229,
   "total_windows": 4,
   "duplicate_tabs": 37,
   "bridge_online": true,
@@ -57,15 +57,15 @@
           "count": 13
         },
         {
+          "domain": "huggingface.co",
+          "count": 2
+        },
+        {
           "domain": "(no domain)",
           "count": 2
         },
         {
           "domain": "anthropic.com",
-          "count": 2
-        },
-        {
-          "domain": "huggingface.co",
           "count": 2
         }
       ]
@@ -80,6 +80,10 @@
           "count": 3
         },
         {
+          "domain": "127.0.0.1:8765",
+          "count": 1
+        },
+        {
           "domain": "localhost:8888",
           "count": 1
         },
@@ -90,28 +94,24 @@
         {
           "domain": "localhost:61304",
           "count": 1
-        },
-        {
-          "domain": "localhost:61302",
-          "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 5,
+      "count": 6,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
+          "count": 4
         },
         {
           "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
