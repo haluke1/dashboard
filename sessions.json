@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-16T19:24:02Z",
+  "updated_at": "2026-04-16T19:25:07Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 247,
     "total": 249
   },
-  "active": [],
+  "active": [
+    {
+      "id": "e6be09c4",
+      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
+      "status": "active",
+      "project": "/Users/halukgul/reports/villanova-workshops",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
+      "last_user_msg": "could you give me 20 things i can setup so that i have a proper design and consistent high quality system to produce workshops / proposals / content? i want things like brand guide\u2026",
+      "last_assistant_snippet": "Opened at **http://localhost:8080** \u2014 your voice agent radar screen. Shows butler status, active conversations, task queue, token spend, recent errors, audio device state, all poll\u2026",
+      "message_count": 543,
+      "file_size_kb": 2472,
+      "modified_ts": 1776367492.9673145,
+      "modified_iso": "2026-04-16T15:24:52.967314",
+      "minutes_since_active": 0.2
+    }
+  ],
   "recent": [
     {
       "id": "2b17952f",
@@ -22,23 +39,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 932.3
-    },
-    {
-      "id": "e6be09c4",
-      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
-      "status": "recent",
-      "project": "/Users/halukgul/reports/villanova-workshops",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
-      "last_user_msg": "can you give me access to the dashboard for the voice agent? open it",
-      "last_assistant_snippet": "Opened at **http://localhost:8080** \u2014 your voice agent radar screen. Shows butler status, active conversations, task queue, token spend, recent errors, audio device state, all poll\u2026",
-      "message_count": 538,
-      "file_size_kb": 2457,
-      "modified_ts": 1776293469.3586144,
-      "modified_iso": "2026-04-15T18:51:09.358614",
-      "minutes_since_active": 1232.9
+      "minutes_since_active": 933.4
     }
   ]
 }
