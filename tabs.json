@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-16T21:22:37Z",
-  "total_tabs": 236,
+  "updated_at": "2026-04-16T21:23:46Z",
+  "total_tabs": 231,
   "total_windows": 5,
   "duplicate_tabs": 37,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 112,
+      "count": 110,
       "domain_count": 66,
       "top_domains": [
         {
@@ -23,8 +23,8 @@
           "count": 4
         },
         {
-          "domain": "google.com",
-          "count": 4
+          "domain": "keep.google.com",
+          "count": 3
         },
         {
           "domain": "exa.ai",
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 42,
-      "domain_count": 7,
+      "count": 41,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "github.com",
@@ -99,8 +99,8 @@
     },
     {
       "name": "social",
-      "count": 5,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -108,10 +108,6 @@
         },
         {
           "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
           "count": 1
         }
       ]
@@ -136,23 +132,23 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 1
         }
       ]
