@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:41:23Z",
+  "updated_at": "2026-04-16T21:41:49Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "open it in a webpage not markdown",
       "last_assistant_snippet": "It's open in your browser now. Dark theme, orange accents, #FFFFFF text, collapsible sections, sticky TOC \u2014 all 17 sections of your infrastructure mapped visually. You can click th\u2026",
       "message_count": 498,
-      "file_size_kb": 1560,
-      "modified_ts": 1776375682.8308797,
-      "modified_iso": "2026-04-16T17:41:22.830880",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1562,
+      "modified_ts": 1776375684.1263082,
+      "modified_iso": "2026-04-16T17:41:24.126308",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 38.6
+      "minutes_since_active": 39.0
     },
     {
       "id": "0c6b86f4",
@@ -55,7 +55,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 51.0
+      "minutes_since_active": 51.4
     },
     {
       "id": "e6be09c4",
@@ -71,7 +71,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 134.1
+      "minutes_since_active": 134.5
     },
     {
       "id": "2b17952f",
@@ -87,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1069.7
+      "minutes_since_active": 1070.1
     }
   ]
 }
