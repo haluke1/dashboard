@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-16T20:58:24Z",
+  "updated_at": "2026-04-16T20:59:28Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 3,
     "archived": 247,
-    "total": 251
+    "total": 252
   },
   "active": [
+    {
+      "id": "e4560b62",
+      "full_id": "e4560b62-866c-4667-be04-ef2fdbb2081d",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you add a copy of these links to the authority research archive folder on the desktop -> file:///Users/halukgul/AI_Image_Prompting_Techniques_MasterGuide.md file:///Users/hal\u2026",
+      "last_user_msg": "could you add a copy of these links to the authority research archive folder on the desktop -> file:///Users/halukgul/AI_Image_Prompting_Techniques_MasterGuide.md file:///Users/hal\u2026",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The two `index.html` files likely reference the sibling `batch*.md` files via relative links. Copying only the HTML would leave br\u2026",
+      "message_count": 26,
+      "file_size_kb": 123,
+      "modified_ts": 1776373163.1992733,
+      "modified_iso": "2026-04-16T16:59:23.199273",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -17,11 +33,11 @@
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "i want you to consider what we're trying to achieve and how we could get there better, take a look at this site -> https://www.scriptbyai.com/claude-code-resource-list/ and run 10 \u2026",
       "last_assistant_snippet": "Now let me think through the strategy with sequential thinking.",
-      "message_count": 92,
-      "file_size_kb": 447,
-      "modified_ts": 1776373100.2857196,
-      "modified_iso": "2026-04-16T16:58:20.285720",
-      "minutes_since_active": 0.1
+      "message_count": 98,
+      "file_size_kb": 459,
+      "modified_ts": 1776373153.7689223,
+      "modified_iso": "2026-04-16T16:59:13.768922",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 8.0
+      "minutes_since_active": 9.1
     },
     {
       "id": "e6be09c4",
@@ -55,7 +71,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 91.1
+      "minutes_since_active": 92.2
     },
     {
       "id": "2b17952f",
@@ -71,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1026.7
+      "minutes_since_active": 1027.7
     }
   ]
 }
