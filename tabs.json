@@ -1,26 +1,22 @@
 {
-  "updated_at": "2026-04-16T21:19:16Z",
-  "total_tabs": 244,
-  "total_windows": 6,
-  "duplicate_tabs": 38,
+  "updated_at": "2026-04-16T21:20:29Z",
+  "total_tabs": 236,
+  "total_windows": 5,
+  "duplicate_tabs": 37,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 116,
-      "domain_count": 68,
+      "count": 112,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 22
+          "count": 21
         },
         {
           "domain": "skool.com",
           "count": 8
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 4
         },
         {
           "domain": "mountainside-medical.com",
@@ -29,6 +25,10 @@
         {
           "domain": "google.com",
           "count": 4
+        },
+        {
+          "domain": "exa.ai",
+          "count": 3
         }
       ]
     },
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 46,
+      "count": 42,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 25
+          "count": 21
         },
         {
           "domain": "claude.ai",
