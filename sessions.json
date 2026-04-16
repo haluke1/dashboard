@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-16T21:40:45Z",
+  "updated_at": "2026-04-16T21:41:23Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 247,
     "total": 252
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "open it in a webpage not markdown",
-      "last_assistant_snippet": "Here's the implementation summary: ### Vercel Thesis Implementations Done | # | Implementation | Status | What Changed | |---|---------------|--------|-------------| | **2** | Unin\u2026",
-      "message_count": 494,
-      "file_size_kb": 1553,
-      "modified_ts": 1776375298.158348,
-      "modified_iso": "2026-04-16T17:34:58.158348",
-      "minutes_since_active": 5.8
-    },
+      "last_assistant_snippet": "It's open in your browser now. Dark theme, orange accents, #FFFFFF text, collapsible sections, sticky TOC \u2014 all 17 sections of your infrastructure mapped visually. You can click th\u2026",
+      "message_count": 498,
+      "file_size_kb": 1560,
+      "modified_ts": 1776375682.8308797,
+      "modified_iso": "2026-04-16T17:41:22.830880",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "e4560b62",
       "full_id": "e4560b62-866c-4667-be04-ef2fdbb2081d",
@@ -38,7 +39,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 37.9
+      "minutes_since_active": 38.6
     },
     {
       "id": "0c6b86f4",
@@ -54,7 +55,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 50.3
+      "minutes_since_active": 51.0
     },
     {
       "id": "e6be09c4",
@@ -70,7 +71,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 133.5
+      "minutes_since_active": 134.1
     },
     {
       "id": "2b17952f",
@@ -86,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1069.0
+      "minutes_since_active": 1069.7
     }
   ]
 }
