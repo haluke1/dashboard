@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:46:44Z",
+  "updated_at": "2026-04-16T23:47:16Z",
   "counts": {
     "active": 3,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 254
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "okey but here is the main problem, yes we created a report with report generator or whatever but the quality isnt there yet. i think we have to establish a standards, templates, .m\u2026",
+      "last_assistant_snippet": "Let me think through this carefully before proposing anything.",
+      "message_count": 154,
+      "file_size_kb": 789,
+      "modified_ts": 1776383227.1209977,
+      "modified_iso": "2026-04-16T19:47:07.120998",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -18,26 +34,10 @@
       "last_user_msg": "switch the output to airpods",
       "last_assistant_snippet": "Done. Both mic and speaker are on AirPods now (index 3 in, index 4 out). Try \"hey claude.\"",
       "message_count": 671,
-      "file_size_kb": 2597,
-      "modified_ts": 1776383203.305982,
-      "modified_iso": "2026-04-16T19:46:43.305982",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "okey but here is the main problem, yes we created a report with report generator or whatever but the quality isnt there yet. i think we have to establish a standards, templates, .m\u2026",
-      "last_assistant_snippet": "Let me think through this carefully before proposing anything.",
-      "message_count": 152,
-      "file_size_kb": 780,
-      "modified_ts": 1776383201.5134006,
-      "modified_iso": "2026-04-16T19:46:41.513401",
-      "minutes_since_active": 0.0
+      "file_size_kb": 2598,
+      "modified_ts": 1776383204.690947,
+      "modified_iso": "2026-04-16T19:46:44.690947",
+      "minutes_since_active": 0.5
     },
     {
       "id": "4533584f",
@@ -53,7 +53,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776383138.5985472,
       "modified_iso": "2026-04-16T19:45:38.598547",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.6
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 163.9
+      "minutes_since_active": 164.5
     },
     {
       "id": "0c6b86f4",
@@ -87,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 176.3
+      "minutes_since_active": 176.9
     },
     {
       "id": "e6be09c4",
@@ -103,7 +103,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 259.5
+      "minutes_since_active": 260.0
     },
     {
       "id": "2b17952f",
@@ -119,7 +119,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1195.0
+      "minutes_since_active": 1195.5
     }
   ]
 }
