@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-04-16T03:51:16Z",
+  "updated_at": "2026-04-16T03:51:48Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 247,
     "total": 249
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "2b17952f",
       "full_id": "2b17952f-999d-4e62-8d2b-8f61e2e808d4",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Hey! What do you need?",
       "message_count": 77,
       "file_size_kb": 192,
-      "modified_ts": 1776293699.4987907,
-      "modified_iso": "2026-04-15T18:54:59.498791",
-      "minutes_since_active": 296.3
-    },
+      "modified_ts": 1776311503.789128,
+      "modified_iso": "2026-04-15T23:51:43.789128",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "e6be09c4",
       "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
@@ -38,7 +39,7 @@
       "file_size_kb": 2457,
       "modified_ts": 1776293469.3586144,
       "modified_iso": "2026-04-15T18:51:09.358614",
-      "minutes_since_active": 300.1
+      "minutes_since_active": 300.6
     }
   ]
 }
