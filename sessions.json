@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-16T03:23:29Z",
+  "updated_at": "2026-04-16T03:24:36Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 246,
+    "recent": 2,
+    "archived": 247,
     "total": 249
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776293699.4987907,
       "modified_iso": "2026-04-15T18:54:59.498791",
-      "minutes_since_active": 268.5
+      "minutes_since_active": 269.6
     },
     {
       "id": "e6be09c4",
@@ -38,23 +38,7 @@
       "file_size_kb": 2457,
       "modified_ts": 1776293469.3586144,
       "modified_iso": "2026-04-15T18:51:09.358614",
-      "minutes_since_active": 272.3
-    },
-    {
-      "id": "65fdc722",
-      "full_id": "65fdc722-3f91-45d3-921d-89e16fa2160d",
-      "status": "recent",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Are you always on now?",
-      "last_user_msg": "Yeah, sure.",
-      "last_assistant_snippet": "Done, added to CLAUDE.md.",
-      "message_count": 98,
-      "file_size_kb": 337,
-      "modified_ts": 1776223420.813584,
-      "modified_iso": "2026-04-14T23:23:40.813584",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 273.4
     }
   ]
 }
