@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-16T23:45:07Z",
+  "updated_at": "2026-04-16T23:45:39Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 5,
     "archived": 247,
-    "total": 253
+    "total": 254
   },
   "active": [
+    {
+      "id": "4533584f",
+      "full_id": "4533584f-b051-48f9-a45e-00d7621ffe69",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Is the watchdog live now?",
+      "last_user_msg": "Is the watchdog live now?",
+      "last_assistant_snippet": "Yes \u2014 your voice watchdog is live. Process 23686, `voice-watchdog.sh`, is running alongside the voice controller and dashboard. Everything's up.",
+      "message_count": 9,
+      "file_size_kb": 54,
+      "modified_ts": 1776383138.4405887,
+      "modified_iso": "2026-04-16T19:45:38.440589",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -21,7 +37,7 @@
       "file_size_kb": 754,
       "modified_ts": 1776383102.0191646,
       "modified_iso": "2026-04-16T19:45:02.019165",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 2591,
       "modified_ts": 1776382797.0410824,
       "modified_iso": "2026-04-16T19:39:57.041082",
-      "minutes_since_active": 5.2
+      "minutes_since_active": 5.7
     },
     {
       "id": "e4560b62",
@@ -55,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 162.3
+      "minutes_since_active": 162.9
     },
     {
       "id": "0c6b86f4",
@@ -71,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 174.7
+      "minutes_since_active": 175.2
     },
     {
       "id": "e6be09c4",
@@ -87,7 +103,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 257.8
+      "minutes_since_active": 258.4
     },
     {
       "id": "2b17952f",
@@ -103,7 +119,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1193.4
+      "minutes_since_active": 1193.9
     }
   ]
 }
