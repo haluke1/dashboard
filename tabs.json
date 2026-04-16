@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T03:15:46Z",
-  "total_tabs": 289,
-  "total_windows": 7,
+  "updated_at": "2026-04-16T03:18:08Z",
+  "total_tabs": 352,
+  "total_windows": 8,
   "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 133,
-      "domain_count": 81,
+      "count": 184,
+      "domain_count": 110,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
-          "domain": "mountainside-medical.com",
-          "count": 4
+          "domain": "xhamster.com",
+          "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 4
+          "domain": "eporner.com",
+          "count": 7
         },
         {
-          "domain": "exa.ai",
-          "count": 3
+          "domain": "momvids.com",
+          "count": 4
         }
       ]
     },
@@ -102,6 +102,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 15,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "abxxx.com",
+          "count": 10
+        },
+        {
+          "domain": "sextvx.com",
+          "count": 1
+        },
+        {
+          "domain": "ooxxx.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -116,25 +143,6 @@
         },
         {
           "domain": "substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 3,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
           "count": 1
         }
       ]
