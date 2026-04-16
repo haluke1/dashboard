@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:26:16Z",
+  "updated_at": "2026-04-16T23:26:57Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,22 +7,6 @@
     "total": 253
   },
   "active": [
-    {
-      "id": "e508fda2",
-      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
-      "last_user_msg": "could we have everything including voice agent / this dashboard / other projects to a single dashboard that consistently works and could be opened with a single button click?",
-      "last_assistant_snippet": "Your unified Command Center is live. Three ways to open it: 1. **Type `dashboard`** in any terminal 2. **Cmd+Space \u2192 \"Command Center\"** from Spotlight 3. **Drag to Dock** from `~/A\u2026",
-      "message_count": 606,
-      "file_size_kb": 1876,
-      "modified_ts": 1776381932.3004231,
-      "modified_iso": "2026-04-16T19:25:32.300423",
-      "minutes_since_active": 0.7
-    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "Two blockers: - **NotebookLM**: auth appears expired (400 errors). You'll need to run `nlm login` in a terminal to refresh it. - **YouTube transcript**: the tool returned \"Video un\u2026",
-      "message_count": 38,
-      "file_size_kb": 243,
-      "modified_ts": 1776381930.2449932,
-      "modified_iso": "2026-04-16T19:25:30.244993",
-      "minutes_since_active": 0.8
+      "last_assistant_snippet": "# What the video actually says **Video**: \"We're All Building a Single Digital Assistant\" \u2014 Daniel Miessler, Unsupervised Learning, published 2026-04-15 (yesterday). 32:16, 9.7K vi\u2026",
+      "message_count": 47,
+      "file_size_kb": 272,
+      "modified_ts": 1776382016.8613493,
+      "modified_iso": "2026-04-16T19:26:56.861349",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "e508fda2",
+      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_8VOrjM/Screenshot 2026-04-16 at 19.25.52.png]",
+      "last_assistant_snippet": "Now I need to rewrite the dashboard script to: 1. Remove ALL `cursor://` links 2. Embed the infrastructure dashboard content directly (no separate page) 3. Add a \"Add to Dock\" sect\u2026",
+      "message_count": 618,
+      "file_size_kb": 2308,
+      "modified_ts": 1776382015.8264685,
+      "modified_iso": "2026-04-16T19:26:55.826468",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 143.5
+      "minutes_since_active": 144.2
     },
     {
       "id": "0c6b86f4",
@@ -71,7 +71,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 155.9
+      "minutes_since_active": 156.5
     },
     {
       "id": "e6be09c4",
@@ -87,7 +87,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 239.0
+      "minutes_since_active": 239.7
     },
     {
       "id": "2b17952f",
@@ -103,7 +103,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1174.5
+      "minutes_since_active": 1175.2
     }
   ]
 }
