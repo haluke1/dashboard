@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:26:39Z",
+  "updated_at": "2026-04-16T21:27:43Z",
   "total_tabs": 225,
   "total_windows": 4,
   "duplicate_tabs": 36,
@@ -27,7 +27,7 @@
           "count": 3
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 3
         }
       ]
@@ -57,11 +57,11 @@
           "count": 13
         },
         {
-          "domain": "(no domain)",
+          "domain": "anthropic.com",
           "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "(no domain)",
           "count": 2
         },
         {
@@ -103,15 +103,15 @@
       "domain_count": 3,
       "top_domains": [
         {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
+        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
