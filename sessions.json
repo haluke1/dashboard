@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:45:39Z",
+  "updated_at": "2026-04-16T23:46:12Z",
   "counts": {
     "active": 2,
     "recent": 5,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Yes \u2014 your voice watchdog is live. Process 23686, `voice-watchdog.sh`, is running alongside the voice controller and dashboard. Everything's up.",
       "message_count": 9,
       "file_size_kb": 54,
-      "modified_ts": 1776383138.4405887,
-      "modified_iso": "2026-04-16T19:45:38.440589",
-      "minutes_since_active": 0.0
+      "modified_ts": 1776383138.5985472,
+      "modified_iso": "2026-04-16T19:45:38.598547",
+      "minutes_since_active": 0.5
     },
     {
       "id": "b7bc6825",
@@ -37,7 +37,7 @@
       "file_size_kb": 754,
       "modified_ts": 1776383102.0191646,
       "modified_iso": "2026-04-16T19:45:02.019165",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 1.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2591,
       "modified_ts": 1776382797.0410824,
       "modified_iso": "2026-04-16T19:39:57.041082",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.2
     },
     {
       "id": "e4560b62",
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 162.9
+      "minutes_since_active": 163.4
     },
     {
       "id": "0c6b86f4",
@@ -87,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 175.2
+      "minutes_since_active": 175.8
     },
     {
       "id": "e6be09c4",
@@ -103,7 +103,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 258.4
+      "minutes_since_active": 258.9
     },
     {
       "id": "2b17952f",
@@ -119,7 +119,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1193.9
+      "minutes_since_active": 1194.5
     }
   ]
 }
