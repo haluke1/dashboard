@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T23:15:21Z",
-  "total_tabs": 230,
+  "updated_at": "2026-04-16T23:16:25Z",
+  "total_tabs": 223,
   "total_windows": 4,
   "duplicate_tabs": 37,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 107,
-      "domain_count": 64,
+      "count": 104,
+      "domain_count": 62,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,18 +34,18 @@
     },
     {
       "name": "video",
-      "count": 62,
+      "count": 61,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 62
+          "count": 61
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 42,
+      "count": 40,
       "domain_count": 6,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 13
+          "count": 11
         },
         {
           "domain": "huggingface.co",
@@ -72,16 +72,12 @@
     },
     {
       "name": "local",
-      "count": 8,
-      "domain_count": 6,
+      "count": 7,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "localhost:8080",
           "count": 3
-        },
-        {
-          "domain": "127.0.0.1:8765",
-          "count": 1
         },
         {
           "domain": "localhost:8888",
@@ -93,6 +89,10 @@
         },
         {
           "domain": "localhost:61304",
+          "count": 1
+        },
+        {
+          "domain": "localhost:61302",
           "count": 1
         }
       ]
