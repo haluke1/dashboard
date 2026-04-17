@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T02:47:01Z",
+  "updated_at": "2026-04-17T02:48:06Z",
   "total_tabs": 223,
   "total_windows": 4,
   "duplicate_tabs": 38,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 103,
-      "domain_count": 60,
+      "count": 102,
+      "domain_count": 59,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 39,
+      "count": 40,
       "domain_count": 5,
       "top_domains": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "(no domain)",
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
           "count": 1
         }
       ]
