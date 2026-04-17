@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T18:29:46Z",
-  "total_tabs": 243,
+  "updated_at": "2026-04-17T18:31:20Z",
+  "total_tabs": 241,
   "total_windows": 4,
   "duplicate_tabs": 42,
   "bridge_online": true,
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 44,
-      "domain_count": 7,
+      "count": 42,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "github.com",
@@ -65,7 +65,7 @@
           "count": 2
         },
         {
-          "domain": "openai.com",
+          "domain": "devpost.com",
           "count": 1
         }
       ]
