@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:41:48Z",
+  "updated_at": "2026-04-17T18:41:57Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -7,22 +7,6 @@
     "total": 256
   },
   "active": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "<task-notification> <task-id>a88be391c297a5174</task-id> <tool-use-id>toolu_01J4aQWvud2mhsBTBtWURfLz</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
-      "last_assistant_snippet": "# Status \u2014 4 Phase 1 Gate agents running in parallel All 4 dispatched in background, non-overlapping write paths, each with Gate A self-test embedded. Current state: | Gate | Agent\u2026",
-      "message_count": 568,
-      "file_size_kb": 6258,
-      "modified_ts": 1776451307.1223419,
-      "modified_iso": "2026-04-17T14:41:47.122342",
-      "minutes_since_active": 0.0
-    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -32,11 +16,27 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_Bh98uT/Screenshot 2026-04-17 at 14.38.23.png]",
-      "last_assistant_snippet": "Also hiding the duplicate title (pandoc auto-adds `<h1 class=\"title\">` from metadata, and the markdown's own H1 is already inside content).",
-      "message_count": 163,
-      "file_size_kb": 1384,
-      "modified_ts": 1776451304.556551,
-      "modified_iso": "2026-04-17T14:41:44.556551",
+      "last_assistant_snippet": "Fixed. Two CSS overrides applied: 1. **`body { max-width: none !important }`** \u2014 overrides pandoc's default `body { max-width: 36em }` that was constraining everything to ~576px. C\u2026",
+      "message_count": 164,
+      "file_size_kb": 1388,
+      "modified_ts": 1776451316.6414242,
+      "modified_iso": "2026-04-17T14:41:56.641424",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "<task-notification> <task-id>a258c022a476434d6</task-id> <tool-use-id>toolu_01Chh9wiLEY3V2NLjUu1F9YT</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
+      "last_assistant_snippet": "# Status \u2014 4 Phase 1 Gate agents running in parallel All 4 dispatched in background, non-overlapping write paths, each with Gate A self-test embedded. Current state: | Gate | Agent\u2026",
+      "message_count": 569,
+      "file_size_kb": 6262,
+      "modified_ts": 1776451309.3837302,
+      "modified_iso": "2026-04-17T14:41:49.383730",
       "minutes_since_active": 0.1
     }
   ],
@@ -55,7 +55,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 26.1
+      "minutes_since_active": 26.2
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 844.5
+      "minutes_since_active": 844.7
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 952.5
+      "minutes_since_active": 952.7
     },
     {
       "id": "e4560b62",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1299.0
+      "minutes_since_active": 1299.2
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1311.4
+      "minutes_since_active": 1311.5
     },
     {
       "id": "e6be09c4",
@@ -135,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1394.5
+      "minutes_since_active": 1394.7
     }
   ]
 }
