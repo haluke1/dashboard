@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T02:48:47Z",
+  "updated_at": "2026-04-17T02:49:12Z",
   "counts": {
     "active": 2,
     "recent": 5,
@@ -18,10 +18,10 @@
       "last_user_msg": "also watch these youtube videos with notebook lm and tell me principles we can use from them -> https://www.youtube.com/watch?v=TL527yTpxlk / https://www.youtube.com/watch?v=BsWxPI\u2026",
       "last_assistant_snippet": "Videos identified and NotebookLM-grounded. Both are on AI evals \u2014 directly relevant to the infrastructure we just built. Two research agents now running in background (expect 15-20\u2026",
       "message_count": 381,
-      "file_size_kb": 2997,
-      "modified_ts": 1776394126.5060694,
-      "modified_iso": "2026-04-16T22:48:46.506069",
-      "minutes_since_active": 0.0
+      "file_size_kb": 2999,
+      "modified_ts": 1776394127.7837853,
+      "modified_iso": "2026-04-16T22:48:47.783785",
+      "minutes_since_active": 0.4
     },
     {
       "id": "e508fda2",
@@ -37,7 +37,7 @@
       "file_size_kb": 2606,
       "modified_ts": 1776394121.78907,
       "modified_iso": "2026-04-16T22:48:41.789070",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776383138.5985472,
       "modified_iso": "2026-04-16T19:45:38.598547",
-      "minutes_since_active": 183.1
+      "minutes_since_active": 183.5
     },
     {
       "id": "e4560b62",
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 346.0
+      "minutes_since_active": 346.4
     },
     {
       "id": "0c6b86f4",
@@ -87,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 358.4
+      "minutes_since_active": 358.8
     },
     {
       "id": "e6be09c4",
@@ -103,7 +103,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 441.5
+      "minutes_since_active": 441.9
     },
     {
       "id": "2b17952f",
@@ -119,7 +119,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776311503.789128,
       "modified_iso": "2026-04-15T23:51:43.789128",
-      "minutes_since_active": 1377.0
+      "minutes_since_active": 1377.5
     }
   ]
 }
