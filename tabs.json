@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-17T18:05:13Z",
-  "total_tabs": 235,
+  "updated_at": "2026-04-17T18:06:17Z",
+  "total_tabs": 237,
   "total_windows": 4,
-  "duplicate_tabs": 39,
+  "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 108,
+      "count": 109,
       "domain_count": 63,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
+          "domain": "keep.google.com",
+          "count": 4
+        },
+        {
           "domain": "mountainside-medical.com",
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
-          "count": 3
-        },
-        {
-          "domain": "keep.google.com",
+          "domain": "google.com",
           "count": 3
         }
       ]
@@ -35,26 +35,22 @@
     {
       "name": "video",
       "count": 67,
-      "domain_count": 2,
+      "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 66
-        },
-        {
-          "domain": "studio.youtube.com",
-          "count": 1
+          "count": 67
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 41,
+      "count": 42,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "claude.ai",
@@ -130,15 +126,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "simonw.substack.com",
-          "count": 1
-        },
-        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
