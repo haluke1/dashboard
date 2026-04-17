@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T02:35:21Z",
+  "updated_at": "2026-04-17T02:36:24Z",
   "total_tabs": 222,
   "total_windows": 4,
   "duplicate_tabs": 38,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 103,
+      "count": 102,
       "domain_count": 59,
       "top_domains": [
         {
@@ -19,12 +19,12 @@
           "count": 8
         },
         {
-          "domain": "google.com",
+          "domain": "mountainside-medical.com",
           "count": 4
         },
         {
-          "domain": "mountainside-medical.com",
-          "count": 4
+          "domain": "google.com",
+          "count": 3
         },
         {
           "domain": "exa.ai",
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 38,
+      "count": 39,
       "domain_count": 5,
       "top_domains": [
         {
@@ -57,11 +57,11 @@
           "count": 10
         },
         {
-          "domain": "(no domain)",
-          "count": 2
+          "domain": "anthropic.com",
+          "count": 3
         },
         {
-          "domain": "anthropic.com",
+          "domain": "(no domain)",
           "count": 2
         },
         {
