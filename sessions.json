@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:11:05Z",
+  "updated_at": "2026-04-17T18:11:25Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -7,22 +7,6 @@
     "total": 256
   },
   "active": [
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "i think we changed mcp's in some way and we cant find it now. i want you to look at what happened and activate the mcp's",
-      "last_assistant_snippet": "I'll investigate the current state, then compare against the backup to see what changed.",
-      "message_count": 14,
-      "file_size_kb": 124,
-      "modified_ts": 1776449455.7343206,
-      "modified_iso": "2026-04-17T14:10:55.734321",
-      "minutes_since_active": 0.1
-    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "okey execute this step by step using sub agents, build the system step by step, test every feature within itself and together with the system across batches. run tests and evals wi\u2026",
-      "last_assistant_snippet": "# Findings from parallel burst Adversarial review sub-agent running in background. Three facts from the synchronous research: ## 1. `codex-plugin-cc` \u2014 exactly what you need | Prop\u2026",
-      "message_count": 438,
-      "file_size_kb": 5592,
-      "modified_ts": 1776449448.2172785,
-      "modified_iso": "2026-04-17T14:10:48.217278",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "## Prerequisite status \u2014 blockers before install | Prereq | Status | What to do | |---|---|---| | Node \u2265 18.18 | \u2713 v24.12 | \u2014 | | `codex` CLI binary | \u2717 not installed | `npm instal\u2026",
+      "message_count": 440,
+      "file_size_kb": 5600,
+      "modified_ts": 1776449484.2607718,
+      "modified_iso": "2026-04-17T14:11:24.260772",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "i think we changed mcp's in some way and we cant find it now. i want you to look at what happened and activate the mcp's",
+      "last_assistant_snippet": "Good news \u2014 MCPs aren't missing. They're registered. Some just need re-authentication and a few are failing. Let me check the backups to see what changed.",
+      "message_count": 25,
+      "file_size_kb": 148,
+      "modified_ts": 1776449475.6053545,
+      "modified_iso": "2026-04-17T14:11:15.605355",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 586,
       "modified_ts": 1776448464.4796026,
       "modified_iso": "2026-04-17T13:54:24.479603",
-      "minutes_since_active": 16.7
+      "minutes_since_active": 17.0
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 813.8
+      "minutes_since_active": 814.1
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 921.8
+      "minutes_since_active": 922.1
     },
     {
       "id": "e4560b62",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1268.3
+      "minutes_since_active": 1268.6
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1280.7
+      "minutes_since_active": 1281.0
     },
     {
       "id": "e6be09c4",
@@ -135,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1363.8
+      "minutes_since_active": 1364.1
     }
   ]
 }
