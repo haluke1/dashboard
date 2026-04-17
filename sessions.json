@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T17:35:56Z",
+  "updated_at": "2026-04-17T17:36:01Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -18,10 +18,10 @@
       "last_user_msg": "yes -> - How can I use git worktrees to run parallel Claude sessions?",
       "last_assistant_snippet": "**What a git worktree is (analogy):** Imagine your project is a house and `.git` is the foundation. Normally you have one house on that foundation. A worktree lets you put a *secon\u2026",
       "message_count": 5,
-      "file_size_kb": 101,
-      "modified_ts": 1776447355.7693245,
-      "modified_iso": "2026-04-17T13:35:55.769325",
-      "minutes_since_active": 0.0
+      "file_size_kb": 102,
+      "modified_ts": 1776447357.1251423,
+      "modified_iso": "2026-04-17T13:35:57.125142",
+      "minutes_since_active": 0.1
     },
     {
       "id": "b256b68f",
@@ -37,7 +37,7 @@
       "file_size_kb": 202,
       "modified_ts": 1776447268.3857744,
       "modified_iso": "2026-04-17T13:34:28.385774",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 1.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 5342,
       "modified_ts": 1776446895.6836915,
       "modified_iso": "2026-04-17T13:28:15.683692",
-      "minutes_since_active": 7.7
+      "minutes_since_active": 7.8
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 778.7
+      "minutes_since_active": 778.8
     },
     {
       "id": "e508fda2",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1233.1
+      "minutes_since_active": 1233.2
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1245.5
+      "minutes_since_active": 1245.6
     },
     {
       "id": "e6be09c4",
