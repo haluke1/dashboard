@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T17:30:38Z",
-  "total_tabs": 231,
+  "updated_at": "2026-04-17T17:31:42Z",
+  "total_tabs": 232,
   "total_windows": 4,
   "duplicate_tabs": 38,
   "bridge_online": true,
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 3
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "google.com",
           "count": 3
         }
       ]
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
           "count": 1
         }
       ]
