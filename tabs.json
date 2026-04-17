@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-17T18:08:54Z",
+  "updated_at": "2026-04-17T18:09:58Z",
   "total_tabs": 240,
   "total_windows": 4,
-  "duplicate_tabs": 40,
+  "duplicate_tabs": 42,
   "bridge_online": true,
   "categories": [
     {
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 3
         }
       ]
@@ -71,6 +71,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 7,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 7,
       "domain_count": 5,
@@ -98,43 +121,20 @@
       ]
     },
     {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
       "top_domains": [
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]

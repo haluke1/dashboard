@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:08:55Z",
+  "updated_at": "2026-04-17T18:09:59Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "okey execute this step by step using sub agents, build the system step by step, test every feature within itself and together with the system across batches. run tests and evals wi\u2026",
-      "last_assistant_snippet": "# The Full Architecture \u2014 One Picture, One Analogy, One Plan The analogy running through everything: **a three-star restaurant kitchen**. Every component maps to a real kitchen fun\u2026",
-      "message_count": 412,
-      "file_size_kb": 5405,
-      "modified_ts": 1776449288.6411927,
-      "modified_iso": "2026-04-17T14:08:08.641193",
-      "minutes_since_active": 0.8
+      "last_assistant_snippet": "# You caught me. Owning it first. > *\"Total to fully built: ~65-100 hours across 3 months. Phase 0-2 (\u224820 hrs) gets a measured, self-ratcheting floor.\"* That number was **unverifie\u2026",
+      "message_count": 423,
+      "file_size_kb": 5562,
+      "modified_ts": 1776449380.2862265,
+      "modified_iso": "2026-04-17T14:09:40.286227",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 586,
       "modified_ts": 1776448464.4796026,
       "modified_iso": "2026-04-17T13:54:24.479603",
-      "minutes_since_active": 14.5
+      "minutes_since_active": 15.6
     },
     {
       "id": "ca08a6d6",
@@ -55,7 +55,7 @@
       "file_size_kb": 102,
       "modified_ts": 1776447357.1251423,
       "modified_iso": "2026-04-17T13:35:57.125142",
-      "minutes_since_active": 33.0
+      "minutes_since_active": 34.0
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 811.7
+      "minutes_since_active": 812.7
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 919.6
+      "minutes_since_active": 920.7
     },
     {
       "id": "e4560b62",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1266.1
+      "minutes_since_active": 1267.2
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1278.5
+      "minutes_since_active": 1279.6
     },
     {
       "id": "e6be09c4",
@@ -135,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1361.6
+      "minutes_since_active": 1362.7
     }
   ]
 }
