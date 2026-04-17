@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-17T17:34:58Z",
+  "updated_at": "2026-04-17T17:35:06Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 6,
     "archived": 248,
-    "total": 255
+    "total": 256
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_assistant_snippet": "Your message looks cut off \u2014 it ends at \"how can i\" and then shows a Claude Code tip about git worktrees. What did you want to ask? A few guesses: - How can I use git worktrees to \u2026",
+      "message_count": 2,
+      "file_size_kb": 88,
+      "modified_ts": 1776447305.3746717,
+      "modified_iso": "2026-04-17T13:35:05.374672",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -21,7 +37,7 @@
       "file_size_kb": 202,
       "modified_ts": 1776447268.3857744,
       "modified_iso": "2026-04-17T13:34:28.385774",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 5342,
       "modified_ts": 1776446895.6836915,
       "modified_iso": "2026-04-17T13:28:15.683692",
-      "minutes_since_active": 6.7
+      "minutes_since_active": 6.8
     },
     {
       "id": "4533584f",
@@ -55,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 777.7
+      "minutes_since_active": 777.8
     },
     {
       "id": "e508fda2",
@@ -71,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 885.7
+      "minutes_since_active": 885.8
     },
     {
       "id": "e4560b62",
@@ -87,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1232.2
+      "minutes_since_active": 1232.3
     },
     {
       "id": "0c6b86f4",
@@ -103,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1244.5
+      "minutes_since_active": 1244.7
     },
     {
       "id": "e6be09c4",
@@ -119,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1327.7
+      "minutes_since_active": 1327.8
     }
   ]
 }
