@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-17T02:11:56Z",
+  "updated_at": "2026-04-17T02:12:59Z",
   "total_tabs": 219,
   "total_windows": 4,
-  "duplicate_tabs": 38,
+  "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
