@@ -1,16 +1,50 @@
 {
-  "updated_at": "2026-04-17T22:39:34Z",
+  "updated_at": "2026-04-17T22:45:52Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
-    "archived": 251,
+    "active": 2,
+    "recent": 5,
+    "archived": 249,
     "total": 256
   },
   "active": [
     {
+      "id": "026df754",
+      "full_id": "026df754-3584-4ea4-8094-491039e54868",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can i now run multiple claude code instances within the app",
+      "last_user_msg": "could you make it more interactive where when i click that section i can see all the skills or mcp's or whatever",
+      "last_assistant_snippet": "**Deployed.** Interactive version live at: **https://claude-system-mindmap.vercel.app** `interactive.html` is also visible in the Launch preview panel \u2014 open it there to test local\u2026",
+      "message_count": 298,
+      "file_size_kb": 2246,
+      "modified_ts": 1776465819.1879315,
+      "modified_iso": "2026-04-17T18:43:39.187932",
+      "minutes_since_active": 2.2
+    },
+    {
+      "id": "7bf56971",
+      "full_id": "7bf56971-9581-42be-91c0-b3c5dd954c58",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you have access to the mcp's and skills of claude code in the terminal or do i gotta do it again for you",
+      "last_user_msg": "an_sk_990ccbc014edcf910761d3507db25a9968f9a003b319d5f572d81a938c3fbc36 21. dev",
+      "last_assistant_snippet": "--- ## \u2705 Full Integration Complete `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Three-tier defense for tool activation:** 1. **CLAUDE.md rules** (semantic, flexible) \u2014 Claud\u2026",
+      "message_count": 284,
+      "file_size_kb": 1420,
+      "modified_ts": 1776465819.1873624,
+      "modified_iso": "2026-04-17T18:43:39.187362",
+      "minutes_since_active": 2.2
+    }
+  ],
+  "recent": [
+    {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -19,12 +53,10 @@
       "last_assistant_snippet": "Token budget answer: **yes, comfortable margin** if I delegate the heavy synthesis to a sub-agent (their context, not mine). The 20 files total ~900KB = ~225K tokens if I read them\u2026",
       "message_count": 331,
       "file_size_kb": 2727,
-      "modified_ts": 1776465465.6153426,
-      "modified_iso": "2026-04-17T18:37:45.615343",
-      "minutes_since_active": 1.8
-    }
-  ],
-  "recent": [
+      "modified_ts": 1776465612.7845235,
+      "modified_iso": "2026-04-17T18:40:12.784523",
+      "minutes_since_active": 5.6
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -39,7 +71,7 @@
       "file_size_kb": 7012,
       "modified_ts": 1776453426.4107502,
       "modified_iso": "2026-04-17T15:17:06.410750",
-      "minutes_since_active": 202.5
+      "minutes_since_active": 208.7
     },
     {
       "id": "ca08a6d6",
@@ -55,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 263.8
+      "minutes_since_active": 270.1
     },
     {
       "id": "4533584f",
@@ -71,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1082.3
+      "minutes_since_active": 1088.5
     },
     {
       "id": "e508fda2",
@@ -87,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1190.3
+      "minutes_since_active": 1196.5
     }
   ]
 }
