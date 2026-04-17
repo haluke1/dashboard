@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-17T19:38:40Z",
-  "total_tabs": 248,
-  "total_windows": 6,
+  "updated_at": "2026-04-17T19:40:07Z",
+  "total_tabs": 249,
+  "total_windows": 5,
   "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 117,
-      "domain_count": 67,
+      "count": 118,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 28
+          "count": 27
         },
         {
           "domain": "skool.com",
@@ -121,14 +121,25 @@
       ]
     },
     {
-      "name": "research",
-      "count": 4,
-      "domain_count": 4,
+      "name": "productivity",
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
-          "domain": "adamtooze.substack.com",
-          "count": 1
+          "domain": "notion.so",
+          "count": 2
         },
+        {
+          "domain": "mail.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
@@ -140,17 +151,6 @@
         {
           "domain": "simonw.substack.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
         }
       ]
     },
