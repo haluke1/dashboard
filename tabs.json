@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-17T02:49:11Z",
-  "total_tabs": 223,
+  "updated_at": "2026-04-17T02:50:14Z",
+  "total_tabs": 224,
   "total_windows": 4,
-  "duplicate_tabs": 40,
+  "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 63,
+      "count": 64,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 63
+          "count": 64
         }
       ]
     },
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
           "count": 1
         }
       ]
