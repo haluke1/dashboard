@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T19:37:24Z",
-  "total_tabs": 247,
+  "updated_at": "2026-04-17T19:38:40Z",
+  "total_tabs": 248,
   "total_windows": 6,
   "duplicate_tabs": 44,
   "bridge_online": true,
@@ -122,9 +122,13 @@
     },
     {
       "name": "research",
-      "count": 3,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 4,
       "top_domains": [
+        {
+          "domain": "adamtooze.substack.com",
+          "count": 1
+        },
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
