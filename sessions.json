@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:36:51Z",
+  "updated_at": "2026-04-17T18:37:55Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -7,22 +7,6 @@
     "total": 256
   },
   "active": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "<task-notification> <task-id>a88be391c297a5174</task-id> <tool-use-id>toolu_01J4aQWvud2mhsBTBtWURfLz</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
-      "last_assistant_snippet": "Agent B completed with Gate A green. Plugins reloaded successfully (31 plugins, 38 skills, 49 agents, 16 hooks, 7 MCP servers, 2 LSPs). Codex slash commands now live (`/codex:setup\u2026",
-      "message_count": 532,
-      "file_size_kb": 6089,
-      "modified_ts": 1776450993.6121876,
-      "modified_iso": "2026-04-17T14:36:33.612188",
-      "minutes_since_active": 0.3
-    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -33,11 +17,27 @@
       "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
       "last_user_msg": "open this in a webpage",
       "last_assistant_snippet": "I'll convert INDEX.md to a styled HTML page (brand system: dark bg, white text, orange accent) and open in Arc.",
-      "message_count": 125,
-      "file_size_kb": 680,
-      "modified_ts": 1776450974.7222304,
-      "modified_iso": "2026-04-17T14:36:14.722230",
-      "minutes_since_active": 0.6
+      "message_count": 138,
+      "file_size_kb": 725,
+      "modified_ts": 1776451070.6643841,
+      "modified_iso": "2026-04-17T14:37:50.664384",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "<task-notification> <task-id>a88be391c297a5174</task-id> <tool-use-id>toolu_01J4aQWvud2mhsBTBtWURfLz</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
+      "last_assistant_snippet": "Three of four agents in. Status: | Agent | Status | Headline | |---|---|---| | A (fixture split) | \u26a0\ufe0f Count mismatch exposed | Source has **16**, not \"24.\" Agent correctly refused \u2026",
+      "message_count": 540,
+      "file_size_kb": 6138,
+      "modified_ts": 1776451057.0701635,
+      "modified_iso": "2026-04-17T14:37:37.070163",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 21.1
+      "minutes_since_active": 22.2
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 839.6
+      "minutes_since_active": 840.7
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 947.6
+      "minutes_since_active": 948.6
     },
     {
       "id": "e4560b62",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1294.0
+      "minutes_since_active": 1295.1
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1306.4
+      "minutes_since_active": 1307.5
     },
     {
       "id": "e6be09c4",
@@ -135,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1389.6
+      "minutes_since_active": 1390.6
     }
   ]
 }
