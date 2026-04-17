@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-17T17:47:27Z",
+  "updated_at": "2026-04-17T17:48:33Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 248,
     "total": 256
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "Batch 1 complete \u2014 157 entities across 10 agents. Updating tracker, extracting names for batch-2 exclusion, then launching batch 2.",
-      "message_count": 69,
-      "file_size_kb": 366,
-      "modified_ts": 1776447699.7783475,
-      "modified_iso": "2026-04-17T13:41:39.778347",
-      "minutes_since_active": 5.8
-    },
+      "last_assistant_snippet": "Batch 1 complete. Updating tracker, writing exclusion file, launching batch 2.",
+      "message_count": 89,
+      "file_size_kb": 466,
+      "modified_ts": 1776448088.195387,
+      "modified_iso": "2026-04-17T13:48:08.195387",
+      "minutes_since_active": 0.4
+    }
+  ],
+  "recent": [
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -38,7 +39,7 @@
       "file_size_kb": 5382,
       "modified_ts": 1776447518.7280035,
       "modified_iso": "2026-04-17T13:38:38.728004",
-      "minutes_since_active": 8.8
+      "minutes_since_active": 9.9
     },
     {
       "id": "ca08a6d6",
@@ -54,7 +55,7 @@
       "file_size_kb": 102,
       "modified_ts": 1776447357.1251423,
       "modified_iso": "2026-04-17T13:35:57.125142",
-      "minutes_since_active": 11.5
+      "minutes_since_active": 12.6
     },
     {
       "id": "4533584f",
@@ -70,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 790.2
+      "minutes_since_active": 791.3
     },
     {
       "id": "e508fda2",
@@ -86,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 898.2
+      "minutes_since_active": 899.3
     },
     {
       "id": "e4560b62",
@@ -102,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1244.6
+      "minutes_since_active": 1245.7
     },
     {
       "id": "0c6b86f4",
@@ -118,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1257.0
+      "minutes_since_active": 1258.1
     },
     {
       "id": "e6be09c4",
@@ -134,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1340.2
+      "minutes_since_active": 1341.3
     }
   ]
 }
