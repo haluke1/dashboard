@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T22:09:28Z",
+  "updated_at": "2026-04-17T22:10:32Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Relaunching the 20-agent findings sweep now.",
       "message_count": 250,
       "file_size_kb": 1730,
-      "modified_ts": 1776463760.0615447,
-      "modified_iso": "2026-04-17T18:09:20.061545",
-      "minutes_since_active": 0.1
+      "modified_ts": 1776463820.7707064,
+      "modified_iso": "2026-04-17T18:10:20.770706",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 7012,
       "modified_ts": 1776453426.4107502,
       "modified_iso": "2026-04-17T15:17:06.410750",
-      "minutes_since_active": 172.4
+      "minutes_since_active": 173.4
     },
     {
       "id": "ca08a6d6",
@@ -55,7 +55,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 233.7
+      "minutes_since_active": 234.8
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1052.2
+      "minutes_since_active": 1053.3
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1160.2
+      "minutes_since_active": 1161.2
     }
   ]
 }
