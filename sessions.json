@@ -1,17 +1,32 @@
 {
-  "updated_at": "2026-04-17T22:59:25Z",
+  "updated_at": "2026-04-17T23:02:07Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 2,
+    "recent": 5,
     "archived": 249,
     "total": 256
   },
-  "active": [],
-  "recent": [
+  "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "could we schedule this to the next claude token reset session? i am running a paralel session thats eating too many tokens",
+      "last_assistant_snippet": "# \ud83c\udf89 Phase 2 CLOSED \u2014 all three gates green | Gate | Scope | Result | |---|---|---| | **F \u2014 regression sweep** | 22 Phase 0/1 carryover + 10 Phase 2 new checks | **32/32 pass** | | \u2026",
+      "message_count": 750,
+      "file_size_kb": 7014,
+      "modified_ts": 1776466916.6310062,
+      "modified_iso": "2026-04-17T19:01:56.631006",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -19,11 +34,13 @@
       "last_user_msg": "dont do this -> delivering the 20 paper ideas + publication strategy NOW (these don't require agent output \u2014 they're grounded in my synthesis knowledge of the 168-entity database).\u2026",
       "last_assistant_snippet": "Synthesis didn't write. Pivoting to parallel agents with explicit full-context instructions + incremental writes to survive any mid-run errors.",
       "message_count": 340,
-      "file_size_kb": 2768,
-      "modified_ts": 1776466382.7805505,
-      "modified_iso": "2026-04-17T18:53:02.780550",
-      "minutes_since_active": 6.4
-    },
+      "file_size_kb": 2769,
+      "modified_ts": 1776466847.477417,
+      "modified_iso": "2026-04-17T19:00:47.477417",
+      "minutes_since_active": 1.3
+    }
+  ],
+  "recent": [
     {
       "id": "026df754",
       "full_id": "026df754-3584-4ea4-8094-491039e54868",
@@ -38,7 +55,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 15.8
+      "minutes_since_active": 18.5
     },
     {
       "id": "7bf56971",
@@ -54,23 +71,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 15.8
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "<task-notification> <task-id>a38b0feaa6a940d17</task-id> <tool-use-id>toolu_01SrNecG8rXnzmVYbc2qYbEi</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
-      "last_assistant_snippet": "# \ud83c\udf89 Phase 2 CLOSED \u2014 all three gates green | Gate | Scope | Result | |---|---|---| | **F \u2014 regression sweep** | 22 Phase 0/1 carryover + 10 Phase 2 new checks | **32/32 pass** | | \u2026",
-      "message_count": 749,
-      "file_size_kb": 7012,
-      "modified_ts": 1776453426.4107502,
-      "modified_iso": "2026-04-17T15:17:06.410750",
-      "minutes_since_active": 222.3
+      "minutes_since_active": 18.5
     },
     {
       "id": "ca08a6d6",
@@ -86,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 283.7
+      "minutes_since_active": 286.4
     },
     {
       "id": "4533584f",
@@ -102,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1102.1
+      "minutes_since_active": 1104.8
     },
     {
       "id": "e508fda2",
@@ -118,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1210.1
+      "minutes_since_active": 1212.8
     }
   ]
 }
