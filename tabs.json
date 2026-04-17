@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-17T21:22:07Z",
-  "total_tabs": 250,
+  "updated_at": "2026-04-17T21:24:21Z",
+  "total_tabs": 251,
   "total_windows": 5,
   "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 119,
-      "domain_count": 68,
+      "count": 120,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
+          "domain": "open.spotify.com",
+          "count": 4
+        },
+        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "mountainside-medical.com",
-          "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 4
         }
       ]
@@ -71,6 +71,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 7,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 7,
       "domain_count": 5,
@@ -93,29 +116,6 @@
         },
         {
           "domain": "localhost:61302",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "x.com",
           "count": 1
         }
       ]
