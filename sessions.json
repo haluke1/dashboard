@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T23:10:15Z",
+  "updated_at": "2026-04-17T23:10:42Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "yes just prompt yourself in this session chat to continue in the next token reset time (check your internal tools and clock of whenever that is) and activate yourself",
-      "last_assistant_snippet": "Honest assessment: **the prompt gets you about 80% there, not 100%.** ## What the wake-up prompt DOES activate - The cron enqueues a new user message into **this same session**, so\u2026",
-      "message_count": 774,
-      "file_size_kb": 7122,
-      "modified_ts": 1776467332.2568016,
-      "modified_iso": "2026-04-17T19:08:52.256802",
-      "minutes_since_active": 1.4
+      "last_assistant_snippet": "# Scheduled \u2014 resume fires at 2026-04-18 00:23 EDT | Detail | Value | |---|---| | Cron ID | `8c4d5f8c` | | Fires at | 2026-04-18 00:23 EDT (\u2248 5h 15m from 19:08 now) | | Type | One-\u2026",
+      "message_count": 784,
+      "file_size_kb": 7175,
+      "modified_ts": 1776467441.8385077,
+      "modified_iso": "2026-04-17T19:10:41.838508",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2787,
       "modified_ts": 1776466987.9819658,
       "modified_iso": "2026-04-17T19:03:07.981966",
-      "minutes_since_active": 7.1
+      "minutes_since_active": 7.6
     },
     {
       "id": "026df754",
@@ -55,7 +55,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 26.6
+      "minutes_since_active": 27.1
     },
     {
       "id": "7bf56971",
@@ -71,7 +71,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 26.6
+      "minutes_since_active": 27.1
     },
     {
       "id": "ca08a6d6",
@@ -87,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 294.5
+      "minutes_since_active": 295.0
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1113.0
+      "minutes_since_active": 1113.4
     },
     {
       "id": "e508fda2",
@@ -119,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1221.0
+      "minutes_since_active": 1221.4
     }
   ]
 }
