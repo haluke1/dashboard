@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T17:22:45Z",
+  "updated_at": "2026-04-17T17:25:15Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_7E0R0y/Screenshot 2026-04-17 at 13.18.14.png] [Image: source: /var/folders/9l/\u2026",
-      "last_assistant_snippet": "# Plan \u2014 10 Principles + 10 \u00d7 100x Suggestions Both agent reports integrated. 72 distinct resources total (35 + 37). The videos are the floor; the research is the ceiling. ## The m\u2026",
-      "message_count": 401,
-      "file_size_kb": 5320,
-      "modified_ts": 1776446540.5823462,
-      "modified_iso": "2026-04-17T13:22:20.582346",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "API Error: 500 {\"type\":\"error\",\"error\":{\"type\":\"api_error\",\"message\":\"Internal server error\"},\"request_id\":\"req_011Ca9jTVRx5JrbNcJ8qLrk8\"} \u00b7 check status.claude.com",
+      "message_count": 405,
+      "file_size_kb": 5341,
+      "modified_ts": 1776446700.4764743,
+      "modified_iso": "2026-04-17T13:25:00.476474",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 765.5
+      "minutes_since_active": 768.0
     },
     {
       "id": "e508fda2",
@@ -55,7 +55,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 873.4
+      "minutes_since_active": 876.0
     },
     {
       "id": "e4560b62",
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1219.9
+      "minutes_since_active": 1222.4
     },
     {
       "id": "0c6b86f4",
@@ -87,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1232.3
+      "minutes_since_active": 1234.8
     },
     {
       "id": "e6be09c4",
@@ -103,7 +103,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1315.5
+      "minutes_since_active": 1318.0
     }
   ]
 }
