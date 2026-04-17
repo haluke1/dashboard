@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-17T02:45:57Z",
-  "total_tabs": 222,
+  "updated_at": "2026-04-17T02:47:01Z",
+  "total_tabs": 223,
   "total_windows": 4,
   "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 102,
-      "domain_count": 59,
+      "count": 103,
+      "domain_count": 60,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -126,15 +126,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "simonw.substack.com",
-          "count": 1
-        },
-        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
