@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T19:13:12Z",
+  "updated_at": "2026-04-17T19:14:16Z",
   "total_tabs": 247,
   "total_windows": 6,
   "duplicate_tabs": 44,
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
+          "domain": "open.spotify.com",
+          "count": 4
+        },
+        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "mountainside-medical.com",
-          "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 4
         }
       ]
@@ -71,6 +71,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 7,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "x.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 7,
       "domain_count": 5,
@@ -98,43 +121,20 @@
       ]
     },
     {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "x.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
       "top_domains": [
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
