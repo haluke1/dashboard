@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T18:38:58Z",
-  "total_tabs": 242,
+  "updated_at": "2026-04-17T18:40:02Z",
+  "total_tabs": 243,
   "total_windows": 4,
   "duplicate_tabs": 42,
   "bridge_online": true,
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "google.com",
           "count": 3
         }
       ]
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 42,
+      "count": 43,
       "domain_count": 5,
       "top_domains": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "(no domain)",
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "simonw.substack.com",
-          "count": 1
-        },
-        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
