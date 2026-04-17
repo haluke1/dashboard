@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-17T17:36:00Z",
-  "total_tabs": 232,
+  "updated_at": "2026-04-17T17:37:07Z",
+  "total_tabs": 222,
   "total_windows": 4,
-  "duplicate_tabs": 38,
+  "duplicate_tabs": 74,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 106,
-      "domain_count": 62,
+      "count": 91,
+      "domain_count": 56,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 25
+          "count": 15
         },
         {
           "domain": "skool.com",
@@ -27,34 +27,34 @@
           "count": 3
         },
         {
-          "domain": "open.spotify.com",
-          "count": 3
+          "domain": "midjourney.com",
+          "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 66,
+      "count": 82,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 66
+          "count": 82
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 41,
+      "count": 35,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 23
+          "count": 22
         },
         {
           "domain": "claude.ai",
-          "count": 11
+          "count": 7
         },
         {
           "domain": "anthropic.com",
@@ -62,7 +62,7 @@
         },
         {
           "domain": "(no domain)",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "devpost.com",
@@ -72,20 +72,12 @@
     },
     {
       "name": "local",
-      "count": 7,
-      "domain_count": 5,
+      "count": 5,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "localhost:8080",
           "count": 3
-        },
-        {
-          "domain": "localhost:8888",
-          "count": 1
-        },
-        {
-          "domain": "localhost:60561",
-          "count": 1
         },
         {
           "domain": "localhost:61304",
@@ -99,12 +91,12 @@
     },
     {
       "name": "social",
-      "count": 6,
+      "count": 5,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 3
+          "count": 2
         },
         {
           "domain": "reddit.com",
@@ -122,31 +114,16 @@
     },
     {
       "name": "research",
-      "count": 3,
-      "domain_count": 3,
+      "count": 2,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
-          "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
           "domain": "simonw.substack.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
         }
       ]
     },
@@ -157,6 +134,17 @@
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 1
         }
       ]
