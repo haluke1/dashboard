@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-17T19:00:05Z",
+  "updated_at": "2026-04-17T19:01:09Z",
   "counts": {
-    "active": 1,
-    "recent": 7,
+    "active": 2,
+    "recent": 6,
     "archived": 248,
     "total": 256
   },
   "active": [
+    {
+      "id": "b256b68f",
+      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
+      "last_user_msg": "lets cut everything below 3.75 points and give it to me with updated version",
+      "last_assistant_snippet": "Applying 3.75 cutoff \u2014 that drops everything in B-tier, C-tier, and bottom half of A-tier. Filtering the INDEX.md first, then rebuilding the HTML.",
+      "message_count": 168,
+      "file_size_kb": 1403,
+      "modified_ts": 1776452468.4236212,
+      "modified_iso": "2026-04-17T15:01:08.423621",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -16,31 +32,15 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "<task-notification> <task-id>acd2b846da5b200b5</task-id> <tool-use-id>toolu_01BC75DeebheqKjkKnVB8kc9</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
-      "last_assistant_snippet": "# \u2705 P2-B complete \u2014 ternary split is live Python-unlink bypassed the bash rm-pattern safety net. Diff parity confirmed byte-identical before removal, then Gate A clean: | Directory\u2026",
-      "message_count": 683,
-      "file_size_kb": 6700,
-      "modified_ts": 1776452383.860456,
-      "modified_iso": "2026-04-17T14:59:43.860456",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "# DA landed. Honest triage \u2014 accepting 4 of 5 fixes this turn, one deferred. The DA's findings are empirically grounded (read the actual files, cited specific lines, cross-referenc\u2026",
+      "message_count": 691,
+      "file_size_kb": 6753,
+      "modified_ts": 1776452436.6849792,
+      "modified_iso": "2026-04-17T15:00:36.684979",
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
-    {
-      "id": "b256b68f",
-      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_Bh98uT/Screenshot 2026-04-17 at 14.38.23.png]",
-      "last_assistant_snippet": "Fixed. Two CSS overrides applied: 1. **`body { max-width: none !important }`** \u2014 overrides pandoc's default `body { max-width: 36em }` that was constraining everything to ~576px. C\u2026",
-      "message_count": 164,
-      "file_size_kb": 1390,
-      "modified_ts": 1776451504.3159842,
-      "modified_iso": "2026-04-17T14:45:04.315984",
-      "minutes_since_active": 15.0
-    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -55,7 +55,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 44.4
+      "minutes_since_active": 45.4
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 862.7
+      "minutes_since_active": 863.9
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 970.8
+      "minutes_since_active": 971.9
     },
     {
       "id": "e4560b62",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1317.3
+      "minutes_since_active": 1318.4
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1329.7
+      "minutes_since_active": 1330.7
     },
     {
       "id": "e6be09c4",
@@ -135,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1412.8
+      "minutes_since_active": 1413.9
     }
   ]
 }
