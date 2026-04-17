@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-17T18:06:18Z",
+  "updated_at": "2026-04-17T18:08:55Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 248,
     "total": 256
   },
-  "active": [],
+  "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "okey execute this step by step using sub agents, build the system step by step, test every feature within itself and together with the system across batches. run tests and evals wi\u2026",
+      "last_assistant_snippet": "# The Full Architecture \u2014 One Picture, One Analogy, One Plan The analogy running through everything: **a three-star restaurant kitchen**. Every component maps to a real kitchen fun\u2026",
+      "message_count": 412,
+      "file_size_kb": 5405,
+      "modified_ts": 1776449288.6411927,
+      "modified_iso": "2026-04-17T14:08:08.641193",
+      "minutes_since_active": 0.8
+    }
+  ],
   "recent": [
     {
       "id": "b256b68f",
@@ -22,23 +39,7 @@
       "file_size_kb": 586,
       "modified_ts": 1776448464.4796026,
       "modified_iso": "2026-04-17T13:54:24.479603",
-      "minutes_since_active": 11.9
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "# The Full Architecture \u2014 One Picture, One Analogy, One Plan The analogy running through everything: **a three-star restaurant kitchen**. Every component maps to a real kitchen fun\u2026",
-      "message_count": 408,
-      "file_size_kb": 5382,
-      "modified_ts": 1776447518.7280035,
-      "modified_iso": "2026-04-17T13:38:38.728004",
-      "minutes_since_active": 27.7
+      "minutes_since_active": 14.5
     },
     {
       "id": "ca08a6d6",
@@ -54,7 +55,7 @@
       "file_size_kb": 102,
       "modified_ts": 1776447357.1251423,
       "modified_iso": "2026-04-17T13:35:57.125142",
-      "minutes_since_active": 30.3
+      "minutes_since_active": 33.0
     },
     {
       "id": "4533584f",
@@ -70,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 809.0
+      "minutes_since_active": 811.7
     },
     {
       "id": "e508fda2",
@@ -86,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 917.0
+      "minutes_since_active": 919.6
     },
     {
       "id": "e4560b62",
@@ -102,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1263.5
+      "minutes_since_active": 1266.1
     },
     {
       "id": "0c6b86f4",
@@ -118,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1275.9
+      "minutes_since_active": 1278.5
     },
     {
       "id": "e6be09c4",
@@ -134,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1359.0
+      "minutes_since_active": 1361.6
     }
   ]
 }
