@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T02:37:28Z",
+  "updated_at": "2026-04-17T02:38:31Z",
   "total_tabs": 222,
   "total_windows": 4,
   "duplicate_tabs": 38,
@@ -126,15 +126,15 @@
       "domain_count": 3,
       "top_domains": [
         {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
+        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
