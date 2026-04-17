@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:18:41Z",
+  "updated_at": "2026-04-17T18:19:45Z",
   "total_tabs": 242,
   "total_windows": 4,
   "duplicate_tabs": 42,
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 3
         }
       ]
@@ -71,6 +71,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 7,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 7,
       "domain_count": 5,
@@ -93,29 +116,6 @@
         },
         {
           "domain": "localhost:61302",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
           "count": 1
         }
       ]
