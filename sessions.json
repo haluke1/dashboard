@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T02:49:12Z",
+  "updated_at": "2026-04-17T02:49:16Z",
   "counts": {
     "active": 2,
     "recent": 5,
@@ -7,6 +7,22 @@
     "total": 254
   },
   "active": [
+    {
+      "id": "e508fda2",
+      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
+      "last_user_msg": "are ai agents and claude just a bunch of functions and loops nested inside each other? can we explain this in a very simplified way to a non technical person ultrathink",
+      "last_assistant_snippet": "Yes. At the mechanical level, that's exactly what they are. But saying \"agents are just functions and loops\" is like saying \"a restaurant is just a room with a stove.\" Technically \u2026",
+      "message_count": 675,
+      "file_size_kb": 2611,
+      "modified_ts": 1776394155.8201857,
+      "modified_iso": "2026-04-16T22:49:15.820186",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -21,22 +37,6 @@
       "file_size_kb": 2999,
       "modified_ts": 1776394127.7837853,
       "modified_iso": "2026-04-16T22:48:47.783785",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "e508fda2",
-      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
-      "last_user_msg": "are ai agents and claude just a bunch of functions and loops nested inside each other? can we explain this in a very simplified way to a non technical person ultrathink",
-      "last_assistant_snippet": "Done. Both mic and speaker are on AirPods now (index 3 in, index 4 out). Try \"hey claude.\"",
-      "message_count": 674,
-      "file_size_kb": 2606,
-      "modified_ts": 1776394121.78907,
-      "modified_iso": "2026-04-16T22:48:41.789070",
       "minutes_since_active": 0.5
     }
   ],
@@ -55,7 +55,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776383138.5985472,
       "modified_iso": "2026-04-16T19:45:38.598547",
-      "minutes_since_active": 183.5
+      "minutes_since_active": 183.6
     },
     {
       "id": "e4560b62",
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 346.4
+      "minutes_since_active": 346.5
     },
     {
       "id": "0c6b86f4",
@@ -87,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 358.8
+      "minutes_since_active": 358.9
     },
     {
       "id": "e6be09c4",
@@ -103,7 +103,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 441.9
+      "minutes_since_active": 442.0
     },
     {
       "id": "2b17952f",
