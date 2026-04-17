@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T18:00:40Z",
-  "total_tabs": 233,
+  "updated_at": "2026-04-17T18:01:59Z",
+  "total_tabs": 234,
   "total_windows": 4,
   "duplicate_tabs": 39,
   "bridge_online": true,
@@ -23,23 +23,27 @@
           "count": 4
         },
         {
-          "domain": "keep.google.com",
+          "domain": "open.spotify.com",
           "count": 3
         },
         {
-          "domain": "google.com",
+          "domain": "keep.google.com",
           "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 66,
-      "domain_count": 1,
+      "count": 67,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "youtube.com",
           "count": 66
+        },
+        {
+          "domain": "studio.youtube.com",
+          "count": 1
         }
       ]
     },
@@ -126,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
+        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
