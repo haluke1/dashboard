@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-17T17:11:20Z",
-  "total_tabs": 230,
+  "updated_at": "2026-04-17T17:16:44Z",
+  "total_tabs": 231,
   "total_windows": 4,
-  "duplicate_tabs": 38,
+  "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 105,
+      "count": 106,
       "domain_count": 62,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 4
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 3
         },
         {
-          "domain": "exa.ai",
-          "count": 2
+          "domain": "google.com",
+          "count": 3
         }
       ]
     },
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
