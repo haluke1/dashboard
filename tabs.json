@@ -1,22 +1,26 @@
 {
-  "updated_at": "2026-04-17T18:41:06Z",
-  "total_tabs": 243,
-  "total_windows": 4,
-  "duplicate_tabs": 42,
+  "updated_at": "2026-04-17T18:42:10Z",
+  "total_tabs": 246,
+  "total_windows": 5,
+  "duplicate_tabs": 46,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 112,
+      "count": 115,
       "domain_count": 65,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 26
+          "count": 28
         },
         {
           "domain": "skool.com",
           "count": 8
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 4
         },
         {
           "domain": "keep.google.com",
@@ -25,10 +29,6 @@
         {
           "domain": "mountainside-medical.com",
           "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 3
         }
       ]
     },
