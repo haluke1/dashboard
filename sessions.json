@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-17T18:19:49Z",
+  "updated_at": "2026-04-17T18:22:35Z",
   "counts": {
-    "active": 2,
-    "recent": 6,
+    "active": 1,
+    "recent": 7,
     "archived": 248,
     "total": 256
   },
@@ -16,17 +16,19 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "get rid of the artifact or o1 thing. we gotta build the thing before shipping. resume the entire 9 layer architecture plan and build it. key execute this step by step using sub age\u2026",
-      "last_assistant_snippet": "# The DA was right. Owning it. Reading the full report. The critique lands on seven points. Each one I'm accepting as correct, not hedging. | # | DA finding | My response | |---|--\u2026",
-      "message_count": 450,
-      "file_size_kb": 5748,
-      "modified_ts": 1776449959.5242186,
-      "modified_iso": "2026-04-17T14:19:19.524219",
-      "minutes_since_active": 0.5
-    },
+      "last_assistant_snippet": "Both marketplaces registered. Now installing the plugins.",
+      "message_count": 472,
+      "file_size_kb": 5811,
+      "modified_ts": 1776450142.4218652,
+      "modified_iso": "2026-04-17T14:22:22.421865",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 4.1
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.9
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -55,7 +55,7 @@
       "file_size_kb": 586,
       "modified_ts": 1776448464.4796026,
       "modified_iso": "2026-04-17T13:54:24.479603",
-      "minutes_since_active": 25.4
+      "minutes_since_active": 28.2
     },
     {
       "id": "4533584f",
@@ -71,7 +71,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 822.5
+      "minutes_since_active": 825.3
     },
     {
       "id": "e508fda2",
@@ -87,7 +87,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 930.5
+      "minutes_since_active": 933.3
     },
     {
       "id": "e4560b62",
@@ -103,7 +103,7 @@
       "file_size_kb": 140,
       "modified_ts": 1776373368.0467556,
       "modified_iso": "2026-04-16T17:02:48.046756",
-      "minutes_since_active": 1277.0
+      "minutes_since_active": 1279.8
     },
     {
       "id": "0c6b86f4",
@@ -119,7 +119,7 @@
       "file_size_kb": 197,
       "modified_ts": 1776372624.78073,
       "modified_iso": "2026-04-16T16:50:24.780730",
-      "minutes_since_active": 1289.4
+      "minutes_since_active": 1292.2
     },
     {
       "id": "e6be09c4",
@@ -135,7 +135,7 @@
       "file_size_kb": 2537,
       "modified_ts": 1776367636.1467075,
       "modified_iso": "2026-04-16T15:27:16.146708",
-      "minutes_since_active": 1372.5
+      "minutes_since_active": 1375.3
     }
   ]
 }
