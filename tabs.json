@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T18:12:08Z",
-  "total_tabs": 240,
+  "updated_at": "2026-04-17T18:13:12Z",
+  "total_tabs": 242,
   "total_windows": 4,
   "duplicate_tabs": 42,
   "bridge_online": true,
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 3
         }
       ]
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 42,
-      "domain_count": 5,
+      "count": 44,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "github.com",
@@ -65,7 +65,30 @@
           "count": 2
         },
         {
-          "domain": "devpost.com",
+          "domain": "openai.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 7,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
           "count": 1
         }
       ]
@@ -98,43 +121,20 @@
       ]
     },
     {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
       "top_domains": [
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
