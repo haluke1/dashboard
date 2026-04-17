@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T19:50:15Z",
+  "updated_at": "2026-04-17T20:58:21Z",
   "total_tabs": 250,
   "total_windows": 5,
   "duplicate_tabs": 44,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 67,
+      "count": 68,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 67
+          "count": 68
         }
       ]
     },
@@ -121,21 +121,6 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 3,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -151,6 +136,17 @@
         {
           "domain": "simonw.substack.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 2
         }
       ]
     },
