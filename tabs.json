@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-17T18:43:15Z",
-  "total_tabs": 246,
-  "total_windows": 5,
+  "updated_at": "2026-04-17T18:44:31Z",
+  "total_tabs": 247,
+  "total_windows": 6,
   "duplicate_tabs": 46,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 115,
-      "domain_count": 65,
+      "count": 116,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
-          "domain": "open.spotify.com",
-          "count": 4
-        },
-        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "mountainside-medical.com",
+          "count": 4
+        },
+        {
+          "domain": "open.spotify.com",
           "count": 4
         }
       ]
@@ -84,15 +84,15 @@
           "count": 2
         },
         {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "x.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
           "count": 1
         }
       ]
