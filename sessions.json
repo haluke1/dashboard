@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:48:57Z",
+  "updated_at": "2026-04-18T04:49:04Z",
   "counts": {
     "active": 9,
     "recent": 8,
@@ -7,6 +7,38 @@
     "total": 268
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "continue with what you think is best you have full permissions on",
+      "last_assistant_snippet": "**Session summary (5 items closed, 1.40h direct work):** | BIS | What shipped | Ledger | h | |---|---|---|---| | 11 | Ollama + qwen3:4b replaces Anthropic SDK in judge-processor | \u2026",
+      "message_count": 1186,
+      "file_size_kb": 9410,
+      "modified_ts": 1776487744.0018394,
+      "modified_iso": "2026-04-18T00:49:04.001839",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "can we implement this solution and activate it on a session we open to test it?",
+      "last_assistant_snippet": "Yes \u2014 packaging it as a slash command you can invoke from any Claude Code session. One file, then you open a fresh session and type `/advisor <your task>`.",
+      "message_count": 247,
+      "file_size_kb": 1614,
+      "modified_ts": 1776487743.2855258,
+      "modified_iso": "2026-04-18T00:49:03.285526",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "20bfe23e",
       "full_id": "20bfe23e-84ac-40bd-a5be-25dd34f3e71c",
@@ -21,23 +53,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487733.0750635,
       "modified_iso": "2026-04-18T00:48:53.075063",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "can we implement this solution and activate it on a session we open to test it?",
-      "last_assistant_snippet": "Yes \u2014 packaging it as a slash command you can invoke from any Claude Code session. One file, then you open a fresh session and type `/advisor <your task>`.",
-      "message_count": 243,
-      "file_size_kb": 1604,
-      "modified_ts": 1776487731.6421146,
-      "modified_iso": "2026-04-18T00:48:51.642115",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "6f542fc9",
@@ -53,23 +69,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue with what you think is best you have full permissions on",
-      "last_assistant_snippet": "Clearing leftover test data from `last.md` so it doesn't surface on next SessionStart.",
-      "message_count": 1184,
-      "file_size_kb": 9404,
-      "modified_ts": 1776487727.8653088,
-      "modified_iso": "2026-04-18T00:48:47.865309",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "9ee451c3",
@@ -85,7 +85,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.5
     },
     {
       "id": "29a5c278",
@@ -101,7 +101,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 3.1
+      "minutes_since_active": 3.2
     },
     {
       "id": "356a456e",
@@ -117,7 +117,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 3.5
     },
     {
       "id": "d5133c71",
@@ -133,7 +133,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 4.1
+      "minutes_since_active": 4.3
     },
     {
       "id": "204380d7",
@@ -149,7 +149,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 4.5
     }
   ],
   "recent": [
@@ -167,7 +167,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 5.4
+      "minutes_since_active": 5.5
     },
     {
       "id": "a2bc5eb9",
@@ -183,7 +183,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 7.9
+      "minutes_since_active": 8.0
     },
     {
       "id": "4ea5b550",
@@ -199,7 +199,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 8.3
+      "minutes_since_active": 8.4
     },
     {
       "id": "277e61c4",
@@ -215,7 +215,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 8.5
+      "minutes_since_active": 8.6
     },
     {
       "id": "9cc0e1df",
@@ -231,7 +231,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 9.5
+      "minutes_since_active": 9.6
     },
     {
       "id": "b256b68f",
@@ -247,7 +247,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 234.9
+      "minutes_since_active": 235.0
     },
     {
       "id": "026df754",
@@ -263,7 +263,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 365.3
+      "minutes_since_active": 365.4
     },
     {
       "id": "7bf56971",
@@ -279,7 +279,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 365.3
+      "minutes_since_active": 365.4
     }
   ]
 }
