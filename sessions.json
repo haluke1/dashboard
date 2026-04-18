@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T04:29:44Z",
+  "updated_at": "2026-04-18T04:30:53Z",
   "counts": {
-    "active": 1,
-    "recent": 5,
+    "active": 2,
+    "recent": 4,
     "archived": 250,
     "total": 256
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "continue. also now do we have ollama and qwen installed now? what happened",
+      "last_assistant_snippet": "**What's installed now:** ``` ollama 0.21.0 /opt/homebrew/bin/ollama (brew, auto-starts at login) qwen3:4b ~/.ollama/models/... (2.5GB) (local inference model) ``` **What happened \u2026",
+      "message_count": 1088,
+      "file_size_kb": 8834,
+      "modified_ts": 1776486643.5542903,
+      "modified_iso": "2026-04-18T00:30:43.554290",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -21,26 +37,10 @@
       "file_size_kb": 1319,
       "modified_ts": 1776486530.4846492,
       "modified_iso": "2026-04-18T00:28:50.484649",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 2.0
     }
   ],
   "recent": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "okey go",
-      "last_assistant_snippet": "BIS-11 shipped. Both judges tested E2E against qwen3:4b, grammar-enforced schema worked, queue moves clean, heartbeat green. **What's live:** - `ollama` 0.21.0 via brew, auto-start\u2026",
-      "message_count": 1083,
-      "file_size_kb": 8790,
-      "modified_ts": 1776485069.9658718,
-      "modified_iso": "2026-04-18T00:04:29.965872",
-      "minutes_since_active": 25.2
-    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 215.7
+      "minutes_since_active": 216.8
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 346.1
+      "minutes_since_active": 347.2
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 346.1
+      "minutes_since_active": 347.2
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1432.5
+      "minutes_since_active": 1433.6
     }
   ]
 }
