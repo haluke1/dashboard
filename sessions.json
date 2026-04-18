@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:28:50Z",
+  "updated_at": "2026-04-18T04:29:44Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -18,10 +18,10 @@
       "last_user_msg": "yes",
       "last_assistant_snippet": "Confirmed: `401 authentication_error \u2014 invalid x-api-key`. Your token is a Claude Code subscription OAuth (`sk-ant-oat01...`) \u2014 those don't work for direct Messages API calls with \u2026",
       "message_count": 180,
-      "file_size_kb": 1318,
-      "modified_ts": 1776486529.235024,
-      "modified_iso": "2026-04-18T00:28:49.235024",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1319,
+      "modified_ts": 1776486530.4846492,
+      "modified_iso": "2026-04-18T00:28:50.484649",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 8790,
       "modified_ts": 1776485069.9658718,
       "modified_iso": "2026-04-18T00:04:29.965872",
-      "minutes_since_active": 24.3
+      "minutes_since_active": 25.2
     },
     {
       "id": "b256b68f",
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 214.8
+      "minutes_since_active": 215.7
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 345.2
+      "minutes_since_active": 346.1
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 345.2
+      "minutes_since_active": 346.1
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1431.6
+      "minutes_since_active": 1432.5
     }
   ]
 }
