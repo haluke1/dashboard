@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T04:40:18Z",
+  "updated_at": "2026-04-18T04:40:27Z",
   "counts": {
-    "active": 3,
+    "active": 4,
     "recent": 3,
     "archived": 251,
-    "total": 257
+    "total": 258
   },
   "active": [
+    {
+      "id": "277e61c4",
+      "full_id": "277e61c4-7a5f-469e-a4d5-b93f77c42af5",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_assistant_snippet": "CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended pattern \u2014 channel-based job queue with WaitGroup + context cancellation, \u2026",
+      "message_count": 3,
+      "file_size_kb": 52,
+      "modified_ts": 1776487226.0987546,
+      "modified_iso": "2026-04-18T00:40:26.098755",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -21,7 +37,7 @@
       "file_size_kb": 1500,
       "modified_ts": 1776487216.2320023,
       "modified_iso": "2026-04-18T00:40:16.232002",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "9cc0e1df",
@@ -37,7 +53,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.0
     },
     {
       "id": "b7bc6825",
@@ -53,7 +69,7 @@
       "file_size_kb": 9103,
       "modified_ts": 1776487157.6944854,
       "modified_iso": "2026-04-18T00:39:17.694485",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.2
     }
   ],
   "recent": [
@@ -71,7 +87,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 226.3
+      "minutes_since_active": 226.4
     },
     {
       "id": "026df754",
@@ -87,7 +103,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 356.7
+      "minutes_since_active": 356.8
     },
     {
       "id": "7bf56971",
@@ -103,7 +119,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 356.7
+      "minutes_since_active": 356.8
     }
   ]
 }
