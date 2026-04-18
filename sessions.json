@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-18T04:44:40Z",
+  "updated_at": "2026-04-18T04:44:48Z",
   "counts": {
-    "active": 7,
+    "active": 8,
     "recent": 4,
     "archived": 251,
-    "total": 262
+    "total": 263
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "continue with what you think is best you have full permissions on",
+      "last_assistant_snippet": "Taking (A+B): BIS-01 + BIS-02 together. Both small, both in the Stop-hook layer, both directly affect daily signal quality. Infrastructure checkpoints (BIS-04, BIS-08) need dedicat\u2026",
+      "message_count": 1146,
+      "file_size_kb": 9199,
+      "modified_ts": 1776487487.129677,
+      "modified_iso": "2026-04-18T00:44:47.129677",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "d5133c71",
+      "full_id": "d5133c71-6237-48c5-8a49-ba2f011de132",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "say 'ok' and stop",
+      "last_user_msg": "say 'ok' and stop",
+      "last_assistant_snippet": "ok",
+      "message_count": 2,
+      "file_size_kb": 50,
+      "modified_ts": 1776487485.9321585,
+      "modified_iso": "2026-04-18T00:44:45.932158",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -21,7 +53,7 @@
       "file_size_kb": 1533,
       "modified_ts": 1776487476.1316652,
       "modified_iso": "2026-04-18T00:44:36.131665",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "204380d7",
@@ -37,23 +69,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue with what you think is best you have full permissions on",
-      "last_assistant_snippet": "Taking (A+B): BIS-01 + BIS-02 together. Both small, both in the Stop-hook layer, both directly affect daily signal quality. Infrastructure checkpoints (BIS-04, BIS-08) need dedicat\u2026",
-      "message_count": 1142,
-      "file_size_kb": 9159,
-      "modified_ts": 1776487457.0645626,
-      "modified_iso": "2026-04-18T00:44:17.064563",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.2
     },
     {
       "id": "855ced88",
@@ -69,7 +85,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.2
     },
     {
       "id": "a2bc5eb9",
@@ -85,7 +101,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 3.7
     },
     {
       "id": "4ea5b550",
@@ -101,7 +117,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 3.9
+      "minutes_since_active": 4.1
     },
     {
       "id": "277e61c4",
@@ -117,7 +133,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 4.1
+      "minutes_since_active": 4.3
     }
   ],
   "recent": [
@@ -135,7 +151,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 5.3
     },
     {
       "id": "b256b68f",
@@ -151,7 +167,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 230.6
+      "minutes_since_active": 230.7
     },
     {
       "id": "026df754",
@@ -167,7 +183,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 361.0
+      "minutes_since_active": 361.1
     },
     {
       "id": "7bf56971",
@@ -183,7 +199,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 361.0
+      "minutes_since_active": 361.1
     }
   ]
 }
