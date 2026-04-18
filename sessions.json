@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:55:50Z",
+  "updated_at": "2026-04-18T04:56:27Z",
   "counts": {
     "active": 2,
     "recent": 15,
@@ -7,22 +7,6 @@
     "total": 268
   },
   "active": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "also watch these 3 videos with notebooklm or exa and give me top points we could implement to our system -> https://www.youtube.com/watch?v=cv6rwHTGT5w https://www.youtube.com/watc\u2026",
-      "last_assistant_snippet": "Noted on the glaze violations \u2014 those were all `[quoted]` from me demonstrating the banned-phrase list itself. The BIS-01 fix correctly tagged them rather than hiding them. I'll av\u2026",
-      "message_count": 1204,
-      "file_size_kb": 9527,
-      "modified_ts": 1776488144.557659,
-      "modified_iso": "2026-04-18T00:55:44.557659",
-      "minutes_since_active": 0.1
-    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "okey integrate these 4 things.",
-      "last_assistant_snippet": "Checking current settings.json before patching.",
-      "message_count": 265,
-      "file_size_kb": 1759,
-      "modified_ts": 1776488130.8853369,
-      "modified_iso": "2026-04-18T00:55:30.885337",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "All four integrated. ## What's live now **1. Default model \u2192 Sonnet 4.6** (`~/.claude/settings.json` line 268) Every new session opens as Sonnet unless you override with `/model op\u2026",
+      "message_count": 277,
+      "file_size_kb": 1811,
+      "modified_ts": 1776488183.0869184,
+      "modified_iso": "2026-04-18T00:56:23.086918",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "also watch these 3 videos with notebooklm or exa and give me top points we could implement to our system -> https://www.youtube.com/watch?v=cv6rwHTGT5w https://www.youtube.com/watc\u2026",
+      "last_assistant_snippet": "Videos 1 and 2 loaded cleanly; video 3 returned only YouTube boilerplate. Checking if it's unique content or a re-upload of video 1.",
+      "message_count": 1212,
+      "file_size_kb": 9641,
+      "modified_ts": 1776488174.9518483,
+      "modified_iso": "2026-04-18T00:56:14.951848",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 6.6
+      "minutes_since_active": 7.2
     },
     {
       "id": "6f542fc9",
@@ -71,7 +71,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 7.0
+      "minutes_since_active": 7.6
     },
     {
       "id": "9ee451c3",
@@ -87,7 +87,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 7.2
+      "minutes_since_active": 7.8
     },
     {
       "id": "29a5c278",
@@ -103,7 +103,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 9.9
+      "minutes_since_active": 10.5
     },
     {
       "id": "356a456e",
@@ -119,7 +119,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 10.2
+      "minutes_since_active": 10.8
     },
     {
       "id": "d5133c71",
@@ -135,7 +135,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 11.0
+      "minutes_since_active": 11.6
     },
     {
       "id": "204380d7",
@@ -151,7 +151,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 11.2
+      "minutes_since_active": 11.8
     },
     {
       "id": "855ced88",
@@ -167,7 +167,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 12.3
+      "minutes_since_active": 12.8
     },
     {
       "id": "a2bc5eb9",
@@ -183,7 +183,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 14.8
+      "minutes_since_active": 15.4
     },
     {
       "id": "4ea5b550",
@@ -199,7 +199,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 15.2
+      "minutes_since_active": 15.7
     },
     {
       "id": "277e61c4",
@@ -215,7 +215,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 15.4
+      "minutes_since_active": 15.9
     },
     {
       "id": "9cc0e1df",
@@ -231,7 +231,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 16.3
+      "minutes_since_active": 16.9
     },
     {
       "id": "b256b68f",
@@ -247,7 +247,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 241.8
+      "minutes_since_active": 242.4
     },
     {
       "id": "026df754",
@@ -263,7 +263,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 372.2
+      "minutes_since_active": 372.8
     },
     {
       "id": "7bf56971",
@@ -279,7 +279,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 372.2
+      "minutes_since_active": 372.8
     }
   ]
 }
