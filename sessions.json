@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T01:32:16Z",
+  "updated_at": "2026-04-18T01:32:40Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -18,10 +18,10 @@
       "last_user_msg": "get rid of the shipped artifact. compact now and continue. we are currently at 90% context window",
       "last_assistant_snippet": "C-PERSISTENT removed from the ledger. Ledger is now C-01 through C-19, no standing meta-risk. DA findings on that axis won't resurface in future corrections work. `/compact` whenev\u2026",
       "message_count": 944,
-      "file_size_kb": 7918,
-      "modified_ts": 1776475935.0763783,
-      "modified_iso": "2026-04-17T21:32:15.076378",
-      "minutes_since_active": 0.0
+      "file_size_kb": 7920,
+      "modified_ts": 1776475936.5106149,
+      "modified_iso": "2026-04-17T21:32:16.510615",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 38.2
+      "minutes_since_active": 38.6
     },
     {
       "id": "ca08a6d6",
@@ -55,7 +55,7 @@
       "file_size_kb": 534,
       "modified_ts": 1776473619.26985,
       "modified_iso": "2026-04-17T20:53:39.269850",
-      "minutes_since_active": 38.6
+      "minutes_since_active": 39.0
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 168.6
+      "minutes_since_active": 169.0
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 168.6
+      "minutes_since_active": 169.0
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1255.0
+      "minutes_since_active": 1255.4
     },
     {
       "id": "e508fda2",
@@ -119,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1363.0
+      "minutes_since_active": 1363.4
     }
   ]
 }
