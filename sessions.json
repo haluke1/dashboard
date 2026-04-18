@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:42:15Z",
+  "updated_at": "2026-04-18T04:43:21Z",
   "counts": {
     "active": 6,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 260
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "continue with what you think is best you have full permissions on",
+      "last_assistant_snippet": "Taking (A+B): BIS-01 + BIS-02 together. Both small, both in the Stop-hook layer, both directly affect daily signal quality. Infrastructure checkpoints (BIS-04, BIS-08) need dedicat\u2026",
+      "message_count": 1140,
+      "file_size_kb": 9140,
+      "modified_ts": 1776487391.2897587,
+      "modified_iso": "2026-04-18T00:43:11.289759",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -21,7 +37,7 @@
       "file_size_kb": 1520,
       "modified_ts": 1776487289.4333086,
       "modified_iso": "2026-04-18T00:41:29.433309",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.9
     },
     {
       "id": "a2bc5eb9",
@@ -37,7 +53,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 2.3
     },
     {
       "id": "4ea5b550",
@@ -53,7 +69,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 2.7
     },
     {
       "id": "277e61c4",
@@ -69,7 +85,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 1.8
+      "minutes_since_active": 2.9
     },
     {
       "id": "9cc0e1df",
@@ -85,23 +101,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 2.8
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "**Three P3-bis items closed this session (0.95h total):** | BIS | What | Time | Ledger | |---|---|---|---| | 11 | Ollama migration replaces Anthropic SDK | 0.50h | C-20 | | 09+10 |\u2026",
-      "message_count": 1135,
-      "file_size_kb": 9103,
-      "modified_ts": 1776487157.6944854,
-      "modified_iso": "2026-04-18T00:39:17.694485",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 3.8
     }
   ],
   "recent": [
@@ -119,7 +119,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 228.2
+      "minutes_since_active": 229.3
     },
     {
       "id": "026df754",
@@ -135,7 +135,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 358.6
+      "minutes_since_active": 359.7
     },
     {
       "id": "7bf56971",
@@ -151,7 +151,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 358.6
+      "minutes_since_active": 359.7
     }
   ]
 }
