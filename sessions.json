@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-18T05:37:13Z",
+  "updated_at": "2026-04-18T05:38:17Z",
   "counts": {
-    "active": 3,
-    "recent": 17,
+    "active": 2,
+    "recent": 18,
     "archived": 251,
     "total": 271
   },
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "create this and make sure its enforced across all sessions. test it on a few sessions by opening them up and configuring it so it works all the time -> 2. Audit trail \u2014 there's no \u2026",
-      "last_assistant_snippet": "Bug in my hook: conflict between stdin-pipe and heredoc. Refactoring to use a separate Python file (cleaner).",
-      "message_count": 1345,
-      "file_size_kb": 11021,
-      "modified_ts": 1776490611.2049618,
-      "modified_iso": "2026-04-18T01:36:51.204962",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "Unit tests green. Now wiring PostToolUse into global settings.json.",
+      "message_count": 1357,
+      "file_size_kb": 11070,
+      "modified_ts": 1776490696.6200495,
+      "modified_iso": "2026-04-18T01:38:16.620049",
+      "minutes_since_active": 0.0
     },
     {
       "id": "ca08a6d6",
@@ -37,12 +37,14 @@
       "file_size_kb": 3337,
       "modified_ts": 1776490565.8647423,
       "modified_iso": "2026-04-18T01:36:05.864742",
-      "minutes_since_active": 1.0
-    },
+      "minutes_since_active": 2.2
+    }
+  ],
+  "recent": [
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 3159,
       "modified_ts": 1776490335.4751847,
       "modified_iso": "2026-04-18T01:32:15.475185",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "262480d6",
       "full_id": "262480d6-2d69-4196-9e97-6d58b4fe1716",
@@ -71,7 +71,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776489650.4870565,
       "modified_iso": "2026-04-18T01:20:50.487056",
-      "minutes_since_active": 16.3
+      "minutes_since_active": 17.4
     },
     {
       "id": "ff187ad2",
@@ -87,7 +87,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 20.6
+      "minutes_since_active": 21.7
     },
     {
       "id": "20832521",
@@ -103,7 +103,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 22.9
+      "minutes_since_active": 24.0
     },
     {
       "id": "20bfe23e",
@@ -119,7 +119,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 47.9
+      "minutes_since_active": 49.0
     },
     {
       "id": "6f542fc9",
@@ -135,7 +135,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 48.3
+      "minutes_since_active": 49.5
     },
     {
       "id": "9ee451c3",
@@ -151,7 +151,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 48.5
+      "minutes_since_active": 49.7
     },
     {
       "id": "29a5c278",
@@ -167,7 +167,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 51.3
+      "minutes_since_active": 52.4
     },
     {
       "id": "356a456e",
@@ -183,7 +183,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 51.5
+      "minutes_since_active": 52.7
     },
     {
       "id": "d5133c71",
@@ -199,7 +199,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 52.3
+      "minutes_since_active": 53.5
     },
     {
       "id": "204380d7",
@@ -215,7 +215,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 52.5
+      "minutes_since_active": 53.7
     },
     {
       "id": "855ced88",
@@ -231,7 +231,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 53.6
+      "minutes_since_active": 54.7
     },
     {
       "id": "a2bc5eb9",
@@ -247,7 +247,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 56.1
+      "minutes_since_active": 57.2
     },
     {
       "id": "4ea5b550",
@@ -263,7 +263,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 56.5
+      "minutes_since_active": 57.6
     },
     {
       "id": "277e61c4",
@@ -279,7 +279,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 56.7
+      "minutes_since_active": 57.8
     },
     {
       "id": "9cc0e1df",
@@ -295,7 +295,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 57.6
+      "minutes_since_active": 58.8
     },
     {
       "id": "026df754",
@@ -311,7 +311,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 413.6
+      "minutes_since_active": 414.6
     },
     {
       "id": "7bf56971",
@@ -327,7 +327,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 413.6
+      "minutes_since_active": 414.6
     }
   ]
 }
