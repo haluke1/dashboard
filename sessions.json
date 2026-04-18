@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T05:15:44Z",
+  "updated_at": "2026-04-18T05:15:51Z",
   "counts": {
     "active": 4,
     "recent": 14,
@@ -7,22 +7,6 @@
     "total": 269
   },
   "active": [
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "give me a list of things we can disable with logical arguments ultrathink",
-      "last_assistant_snippet": "## Ultrathink: what to disable, with reasoning Tiered by confidence. Each row shows the plugin/component, what it loads into context, and why it's safe (or risky) to cut. --- ### T\u2026",
-      "message_count": 298,
-      "file_size_kb": 2138,
-      "modified_ts": 1776489342.730955,
-      "modified_iso": "2026-04-18T01:15:42.730955",
-      "minutes_since_active": 0.0
-    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "continue and make sure that the entire architecture, logic gates, references etc work throughout our entire architecture ultrathink use triple ultrathink go ultra deep to make sure\u2026",
-      "last_assistant_snippet": "Advisor agent type doesn't exist (the hook template is broken \u2014 `advisor` is a skill, not an agent; incidental finding for later). Falling back to direct structured verification wi\u2026",
-      "message_count": 1287,
-      "file_size_kb": 10606,
-      "modified_ts": 1776489281.3572938,
-      "modified_iso": "2026-04-18T01:14:41.357294",
-      "minutes_since_active": 1.0
+      "last_assistant_snippet": "Kicking off Phase 1-4 in parallel: static integrity + wiring + dependencies + basic E2E behavior.",
+      "message_count": 1293,
+      "file_size_kb": 10636,
+      "modified_ts": 1776489345.5249634,
+      "modified_iso": "2026-04-18T01:15:45.524963",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_CDJb8I/Screenshot 2026-04-18 at 01.14.30.png]",
+      "last_assistant_snippet": "## Ultrathink: what to disable, with reasoning Tiered by confidence. Each row shows the plugin/component, what it loads into context, and why it's safe (or risky) to cut. --- ### T\u2026",
+      "message_count": 301,
+      "file_size_kb": 2645,
+      "modified_ts": 1776489344.821041,
+      "modified_iso": "2026-04-18T01:15:44.821041",
+      "minutes_since_active": 0.1
     },
     {
       "id": "20832521",
@@ -53,7 +53,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 1.6
     },
     {
       "id": "b256b68f",
@@ -69,7 +69,7 @@
       "file_size_kb": 3066,
       "modified_ts": 1776489105.6472192,
       "modified_iso": "2026-04-18T01:11:45.647219",
-      "minutes_since_active": 4.0
+      "minutes_since_active": 4.1
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 26.5
+      "minutes_since_active": 26.6
     },
     {
       "id": "6f542fc9",
@@ -103,7 +103,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 26.9
+      "minutes_since_active": 27.0
     },
     {
       "id": "9ee451c3",
@@ -119,7 +119,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 27.1
+      "minutes_since_active": 27.2
     },
     {
       "id": "29a5c278",
@@ -135,7 +135,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 29.8
+      "minutes_since_active": 30.0
     },
     {
       "id": "356a456e",
@@ -151,7 +151,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 30.1
+      "minutes_since_active": 30.2
     },
     {
       "id": "d5133c71",
@@ -167,7 +167,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 30.9
+      "minutes_since_active": 31.0
     },
     {
       "id": "204380d7",
@@ -183,7 +183,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 31.1
+      "minutes_since_active": 31.2
     },
     {
       "id": "855ced88",
@@ -199,7 +199,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 32.2
+      "minutes_since_active": 32.3
     },
     {
       "id": "a2bc5eb9",
@@ -215,7 +215,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 34.7
+      "minutes_since_active": 34.8
     },
     {
       "id": "4ea5b550",
@@ -231,7 +231,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 35.1
+      "minutes_since_active": 35.2
     },
     {
       "id": "277e61c4",
@@ -247,7 +247,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 35.3
+      "minutes_since_active": 35.4
     },
     {
       "id": "9cc0e1df",
@@ -263,7 +263,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 36.2
+      "minutes_since_active": 36.4
     },
     {
       "id": "026df754",
@@ -279,7 +279,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 392.1
+      "minutes_since_active": 392.2
     },
     {
       "id": "7bf56971",
@@ -295,7 +295,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 392.1
+      "minutes_since_active": 392.2
     }
   ]
 }
