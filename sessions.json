@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T03:57:15Z",
+  "updated_at": "2026-04-18T03:58:29Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 256
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "okey go",
+      "last_assistant_snippet": "E2E works. Let me verify file movement + check the Ollama service autostart state, then update architecture docs.",
+      "message_count": 1059,
+      "file_size_kb": 8673,
+      "modified_ts": 1776484700.0085347,
+      "modified_iso": "2026-04-17T23:58:20.008535",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -17,27 +33,11 @@
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "lets try 1. also delete the o1a evidence thing from claude.md",
       "last_assistant_snippet": "On it. Scanning CLAUDE.md for O-1A references first, then building the demo.",
-      "message_count": 131,
-      "file_size_kb": 1130,
-      "modified_ts": 1776484631.1738014,
-      "modified_iso": "2026-04-17T23:57:11.173801",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "okey go",
-      "last_assistant_snippet": "Model downloaded. Smoke testing the full pipeline.",
-      "message_count": 1046,
-      "file_size_kb": 8645,
-      "modified_ts": 1776484630.9178183,
-      "modified_iso": "2026-04-17T23:57:10.917818",
-      "minutes_since_active": 0.1
+      "message_count": 136,
+      "file_size_kb": 1153,
+      "modified_ts": 1776484698.023184,
+      "modified_iso": "2026-04-17T23:58:18.023184",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 183.2
+      "minutes_since_active": 184.4
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 313.6
+      "minutes_since_active": 314.8
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 313.6
+      "minutes_since_active": 314.8
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1399.9
+      "minutes_since_active": 1401.2
     }
   ]
 }
