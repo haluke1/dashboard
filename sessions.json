@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T01:01:52Z",
+  "updated_at": "2026-04-18T01:02:05Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -18,10 +18,10 @@
       "last_user_msg": "whats the next step lets go",
       "last_assistant_snippet": "Ledger entries landed \u2014 C-10 through C-15 document each DA-accepted fix with its failure class, plus C-PERSISTENT for the standing-risk (zero-shipped-artifacts) that can't be close\u2026",
       "message_count": 865,
-      "file_size_kb": 7582,
-      "modified_ts": 1776474110.839655,
-      "modified_iso": "2026-04-17T21:01:50.839655",
-      "minutes_since_active": 0.0
+      "file_size_kb": 7584,
+      "modified_ts": 1776474113.1852758,
+      "modified_iso": "2026-04-17T21:01:53.185276",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 7.8
+      "minutes_since_active": 8.0
     },
     {
       "id": "ca08a6d6",
@@ -55,7 +55,7 @@
       "file_size_kb": 534,
       "modified_ts": 1776473619.26985,
       "modified_iso": "2026-04-17T20:53:39.269850",
-      "minutes_since_active": 8.2
+      "minutes_since_active": 8.4
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 138.2
+      "minutes_since_active": 138.4
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 138.2
+      "minutes_since_active": 138.4
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1224.6
+      "minutes_since_active": 1224.8
     },
     {
       "id": "e508fda2",
@@ -119,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1332.6
+      "minutes_since_active": 1332.8
     }
   ]
 }
