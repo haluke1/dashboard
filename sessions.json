@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T04:43:28Z",
+  "updated_at": "2026-04-18T04:44:22Z",
   "counts": {
-    "active": 6,
+    "active": 7,
     "recent": 3,
     "archived": 251,
-    "total": 260
+    "total": 261
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "this is what i got when i ran it -> (.venv) halukgul@Haluks-MacBook-Air advisor-demo % cd ~/advisor-demo && python3 main.py ========================================================\u2026",
+      "last_assistant_snippet": "**It ran. End-to-end. Zero dollars.** ## What just happened ``` advisor calls: 1 executor turns: 2 cost: $0.00 (all calls via Max subscription) ``` **Executor (Sonnet) turn 1** \u2192 C\u2026",
+      "message_count": 222,
+      "file_size_kb": 1531,
+      "modified_ts": 1776487460.2170565,
+      "modified_iso": "2026-04-18T00:44:20.217057",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -17,27 +33,27 @@
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "continue with what you think is best you have full permissions on",
       "last_assistant_snippet": "Taking (A+B): BIS-01 + BIS-02 together. Both small, both in the Stop-hook layer, both directly affect daily signal quality. Infrastructure checkpoints (BIS-04, BIS-08) need dedicat\u2026",
-      "message_count": 1140,
-      "file_size_kb": 9140,
-      "modified_ts": 1776487391.2897587,
-      "modified_iso": "2026-04-18T00:43:11.289759",
-      "minutes_since_active": 0.3
+      "message_count": 1142,
+      "file_size_kb": 9159,
+      "modified_ts": 1776487457.0645626,
+      "modified_iso": "2026-04-18T00:44:17.064563",
+      "minutes_since_active": 0.1
     },
     {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "id": "855ced88",
+      "full_id": "855ced88-a000-4efe-982e-11bb0ae3ff13",
       "status": "active",
       "project": "/Users/halukgul/advisor-demo",
       "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
-      "last_assistant_snippet": "**It ran. End-to-end. Zero dollars.** ## What just happened ``` advisor calls: 1 executor turns: 2 cost: $0.00 (all calls via Max subscription) ``` **Executor (Sonnet) turn 1** \u2192 C\u2026",
-      "message_count": 218,
-      "file_size_kb": 1520,
-      "modified_ts": 1776487289.4333086,
-      "modified_iso": "2026-04-18T00:41:29.433309",
-      "minutes_since_active": 2.0
+      "permission_mode": null,
+      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_assistant_snippet": "Invalid API key \u00b7 Fix external API key",
+      "message_count": 2,
+      "file_size_kb": 50,
+      "modified_ts": 1776487412.3362753,
+      "modified_iso": "2026-04-18T00:43:32.336275",
+      "minutes_since_active": 0.8
     },
     {
       "id": "a2bc5eb9",
@@ -53,7 +69,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 2.4
+      "minutes_since_active": 3.3
     },
     {
       "id": "4ea5b550",
@@ -69,7 +85,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 2.8
+      "minutes_since_active": 3.7
     },
     {
       "id": "277e61c4",
@@ -85,7 +101,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 3.9
     },
     {
       "id": "9cc0e1df",
@@ -101,7 +117,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 4.0
+      "minutes_since_active": 4.9
     }
   ],
   "recent": [
@@ -119,7 +135,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 229.4
+      "minutes_since_active": 230.3
     },
     {
       "id": "026df754",
@@ -135,7 +151,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 359.8
+      "minutes_since_active": 360.7
     },
     {
       "id": "7bf56971",
@@ -151,7 +167,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 359.8
+      "minutes_since_active": 360.7
     }
   ]
 }
