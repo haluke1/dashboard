@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:49:13Z",
+  "updated_at": "2026-04-18T04:49:33Z",
   "counts": {
     "active": 9,
     "recent": 8,
@@ -7,6 +7,38 @@
     "total": 268
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "can we implement this solution and activate it on a session we open to test it?",
+      "last_assistant_snippet": "`/advisor` is live \u2014 I can see it in the skill list (`- advisor: Run the advisor pattern...`). **To test:** Open a fresh Claude Code session in a new terminal tab: ```bash claude `\u2026",
+      "message_count": 252,
+      "file_size_kb": 1671,
+      "modified_ts": 1776487772.2914603,
+      "modified_iso": "2026-04-18T00:49:32.291460",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20bfe23e",
+      "full_id": "20bfe23e-84ac-40bd-a5be-25dd34f3e71c",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue wi\u2026",
+      "last_user_msg": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue wi\u2026",
+      "last_assistant_snippet": "Here's the Go worker pool implementation based on the advisor's guidance: ```go package workerpool import ( \"context\" \"fmt\" \"os/signal\" \"sync\" \"syscall\" ) type Job struct { ID int \u2026",
+      "message_count": 3,
+      "file_size_kb": 59,
+      "modified_ts": 1776487753.8113341,
+      "modified_iso": "2026-04-18T00:49:13.811334",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -21,39 +53,7 @@
       "file_size_kb": 9411,
       "modified_ts": 1776487745.3341563,
       "modified_iso": "2026-04-18T00:49:05.334156",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "can we implement this solution and activate it on a session we open to test it?",
-      "last_assistant_snippet": "Yes \u2014 packaging it as a slash command you can invoke from any Claude Code session. One file, then you open a fresh session and type `/advisor <your task>`.",
-      "message_count": 247,
-      "file_size_kb": 1614,
-      "modified_ts": 1776487743.2855258,
-      "modified_iso": "2026-04-18T00:49:03.285526",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "20bfe23e",
-      "full_id": "20bfe23e-84ac-40bd-a5be-25dd34f3e71c",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue wi\u2026",
-      "last_user_msg": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue wi\u2026",
-      "last_assistant_snippet": null,
-      "message_count": 1,
-      "file_size_kb": 51,
-      "modified_ts": 1776487733.0750635,
-      "modified_iso": "2026-04-18T00:48:53.075063",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.5
     },
     {
       "id": "6f542fc9",
@@ -69,7 +69,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     },
     {
       "id": "9ee451c3",
@@ -85,7 +85,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 0.9
     },
     {
       "id": "29a5c278",
@@ -101,7 +101,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 3.3
+      "minutes_since_active": 3.7
     },
     {
       "id": "356a456e",
@@ -117,7 +117,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 3.9
     },
     {
       "id": "d5133c71",
@@ -133,7 +133,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 4.7
     },
     {
       "id": "204380d7",
@@ -149,7 +149,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 4.6
+      "minutes_since_active": 4.9
     }
   ],
   "recent": [
@@ -167,7 +167,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.0
     },
     {
       "id": "a2bc5eb9",
@@ -183,7 +183,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 8.2
+      "minutes_since_active": 8.5
     },
     {
       "id": "4ea5b550",
@@ -199,7 +199,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 8.6
+      "minutes_since_active": 8.9
     },
     {
       "id": "277e61c4",
@@ -215,7 +215,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 8.8
+      "minutes_since_active": 9.1
     },
     {
       "id": "9cc0e1df",
@@ -231,7 +231,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 9.7
+      "minutes_since_active": 10.1
     },
     {
       "id": "b256b68f",
@@ -247,7 +247,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 235.2
+      "minutes_since_active": 235.5
     },
     {
       "id": "026df754",
@@ -263,7 +263,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 365.6
+      "minutes_since_active": 365.9
     },
     {
       "id": "7bf56971",
@@ -279,7 +279,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 365.6
+      "minutes_since_active": 365.9
     }
   ]
 }
