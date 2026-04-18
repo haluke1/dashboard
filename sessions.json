@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T05:04:24Z",
+  "updated_at": "2026-04-18T05:05:29Z",
   "counts": {
-    "active": 2,
-    "recent": 15,
+    "active": 3,
+    "recent": 14,
     "archived": 251,
     "total": 268
   },
   "active": [
+    {
+      "id": "b256b68f",
+      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
+      "last_user_msg": "are we able to name our sessions and color them to differentiate them in terminal? how can we separate them?",
+      "last_assistant_snippet": "**CiteDB live.** cite.html opened in Arc. CLI working \u2014 tests above returned proper attributions in <100ms. ## What you have | Artifact | Path | Purpose | |---|---|---| | `findings\u2026",
+      "message_count": 382,
+      "file_size_kb": 2975,
+      "modified_ts": 1776488728.5921104,
+      "modified_iso": "2026-04-18T01:05:28.592110",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -16,12 +32,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_1MLycs/Screenshot 2026-04-18 at 01.03.35.png]",
-      "last_assistant_snippet": "Concrete example helps here. Pulled a real fixture so this is grounded, not hand-wavy. ## What your fixture actually looks like today One of your 19 fixtures is `calibrate-own-repo\u2026",
-      "message_count": 1230,
-      "file_size_kb": 10317,
-      "modified_ts": 1776488629.4778156,
-      "modified_iso": "2026-04-18T01:03:49.477816",
-      "minutes_since_active": 0.6
+      "last_assistant_snippet": "Starting with Bundle A (#1 + #2 + #5) \u2014 the \"stop new debt\" set. Starting on #1 now. Checking the slash command format first to match existing conventions.",
+      "message_count": 1234,
+      "file_size_kb": 10340,
+      "modified_ts": 1776488700.5751429,
+      "modified_iso": "2026-04-18T01:05:00.575143",
+      "minutes_since_active": 0.5
     },
     {
       "id": "ca08a6d6",
@@ -31,13 +47,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "okey integrate these 4 things.",
+      "last_user_msg": "can we turn this to a hook?",
       "last_assistant_snippet": "All four integrated. ## What's live now **1. Default model \u2192 Sonnet 4.6** (`~/.claude/settings.json` line 268) Every new session opens as Sonnet unless you override with `/model op\u2026",
-      "message_count": 277,
-      "file_size_kb": 1813,
-      "modified_ts": 1776488371.7587512,
-      "modified_iso": "2026-04-18T00:59:31.758751",
-      "minutes_since_active": 4.9
+      "message_count": 278,
+      "file_size_kb": 1815,
+      "modified_ts": 1776488687.8855593,
+      "modified_iso": "2026-04-18T01:04:47.885559",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -55,7 +71,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 15.2
+      "minutes_since_active": 16.2
     },
     {
       "id": "6f542fc9",
@@ -71,7 +87,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 15.6
+      "minutes_since_active": 16.6
     },
     {
       "id": "9ee451c3",
@@ -87,7 +103,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 15.8
+      "minutes_since_active": 16.8
     },
     {
       "id": "29a5c278",
@@ -103,7 +119,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 18.5
+      "minutes_since_active": 19.6
     },
     {
       "id": "356a456e",
@@ -119,7 +135,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 18.8
+      "minutes_since_active": 19.9
     },
     {
       "id": "d5133c71",
@@ -135,7 +151,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 19.6
+      "minutes_since_active": 20.6
     },
     {
       "id": "204380d7",
@@ -151,7 +167,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 19.8
+      "minutes_since_active": 20.9
     },
     {
       "id": "855ced88",
@@ -167,7 +183,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 20.8
+      "minutes_since_active": 21.9
     },
     {
       "id": "a2bc5eb9",
@@ -183,7 +199,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 23.4
+      "minutes_since_active": 24.4
     },
     {
       "id": "4ea5b550",
@@ -199,7 +215,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 23.7
+      "minutes_since_active": 24.8
     },
     {
       "id": "277e61c4",
@@ -215,7 +231,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 23.9
+      "minutes_since_active": 25.0
     },
     {
       "id": "9cc0e1df",
@@ -231,23 +247,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 24.9
-    },
-    {
-      "id": "b256b68f",
-      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "open your findings in a web page and yes launch it.",
-      "last_assistant_snippet": "**CiteDB live.** cite.html opened in Arc. CLI working \u2014 tests above returned proper attributions in <100ms. ## What you have | Artifact | Path | Purpose | |---|---|---| | `findings\u2026",
-      "message_count": 381,
-      "file_size_kb": 2924,
-      "modified_ts": 1776473643.246187,
-      "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 250.3
+      "minutes_since_active": 26.0
     },
     {
       "id": "026df754",
@@ -263,7 +263,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 380.8
+      "minutes_since_active": 381.8
     },
     {
       "id": "7bf56971",
@@ -279,7 +279,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 380.8
+      "minutes_since_active": 381.8
     }
   ]
 }
