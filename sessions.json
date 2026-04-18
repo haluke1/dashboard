@@ -1,45 +1,46 @@
 {
-  "updated_at": "2026-04-18T00:34:08Z",
+  "updated_at": "2026-04-18T00:35:12Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 2,
+    "recent": 5,
     "archived": 249,
     "total": 256
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "dont do this -> delivering the 20 paper ideas + publication strategy NOW (these don't require agent output \u2014 they're grounded in my synthesis knowledge of the 168-entity database).\u2026",
+      "last_user_msg": "<local-command-stdout>Login successful</local-command-stdout>",
       "last_assistant_snippet": "Both HTML files built + opened in Arc. ## What's live now | File | Lines | Size | Purpose | |---|---|---|---| | **findings.html** (new tab) | 5,651 | 538KB | Your info-pull source:\u2026",
-      "message_count": 361,
-      "file_size_kb": 2852,
-      "modified_ts": 1776471678.3962429,
-      "modified_iso": "2026-04-17T20:21:18.396243",
-      "minutes_since_active": 12.8
+      "message_count": 364,
+      "file_size_kb": 2854,
+      "modified_ts": 1776472492.5420625,
+      "modified_iso": "2026-04-17T20:34:52.542063",
+      "minutes_since_active": 0.3
     },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "actually lets just continue i just added extra usage.",
+      "last_user_msg": "lets do a but make sure you scan through our session to make sure the right things get passed on ultrathink",
       "last_assistant_snippet": "# Cleanup done \u2014 461 MB reclaimed, every kept item is referenced | | | | |---|---|---| | Deleted | 20 items | 461 MB 274 KB | | Kept | 7 files + 1 dir | ~87 KB \u2014 all cited by livin\u2026",
-      "message_count": 802,
-      "file_size_kb": 7262,
-      "modified_ts": 1776471564.8432946,
-      "modified_iso": "2026-04-17T20:19:24.843295",
-      "minutes_since_active": 14.7
-    },
+      "message_count": 803,
+      "file_size_kb": 7266,
+      "modified_ts": 1776472457.4040017,
+      "modified_iso": "2026-04-17T20:34:17.404002",
+      "minutes_since_active": 0.9
+    }
+  ],
+  "recent": [
     {
       "id": "026df754",
       "full_id": "026df754-3584-4ea4-8094-491039e54868",
@@ -54,7 +55,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 110.5
+      "minutes_since_active": 111.6
     },
     {
       "id": "7bf56971",
@@ -70,7 +71,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 110.5
+      "minutes_since_active": 111.5
     },
     {
       "id": "ca08a6d6",
@@ -86,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 378.4
+      "minutes_since_active": 379.5
     },
     {
       "id": "4533584f",
@@ -102,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1196.9
+      "minutes_since_active": 1197.9
     },
     {
       "id": "e508fda2",
@@ -118,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1304.8
+      "minutes_since_active": 1305.9
     }
   ]
 }
