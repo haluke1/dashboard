@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-18T05:16:25Z",
+  "updated_at": "2026-04-18T05:16:31Z",
   "counts": {
-    "active": 4,
+    "active": 5,
     "recent": 14,
     "archived": 251,
-    "total": 269
+    "total": 270
   },
   "active": [
+    {
+      "id": "ff187ad2",
+      "full_id": "ff187ad2-b6da-4c36-930a-3fa7a1b3594d",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "just say hi",
+      "last_user_msg": "just say hi",
+      "last_assistant_snippet": "Hi",
+      "message_count": 2,
+      "file_size_kb": 51,
+      "modified_ts": 1776489390.9138987,
+      "modified_iso": "2026-04-18T01:16:30.913899",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b256b68f",
+      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
+      "last_user_msg": "lets try claude squad tui, would it close current sessions on terminal?",
+      "last_assistant_snippet": "Good instinct to ask first. Let me verify before you launch it \u2014 running `cs` shouldn't touch this session, but I want to confirm its actual architecture.",
+      "message_count": 395,
+      "file_size_kb": 3092,
+      "modified_ts": 1776489389.776733,
+      "modified_iso": "2026-04-18T01:16:29.776733",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -21,7 +53,7 @@
       "file_size_kb": 2662,
       "modified_ts": 1776489383.4324577,
       "modified_iso": "2026-04-18T01:16:23.432458",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "b7bc6825",
@@ -37,22 +69,6 @@
       "file_size_kb": 10654,
       "modified_ts": 1776489366.0659177,
       "modified_iso": "2026-04-18T01:16:06.065918",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "b256b68f",
-      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "lets try claude squad tui, would it close current sessions on terminal?",
-      "last_assistant_snippet": "Short answer: yes, three ways \u2014 one is already built into Claude Code, the other two need ~20 lines of setup I can add for you right now. **Analogy first:** think of your Claude Co\u2026",
-      "message_count": 391,
-      "file_size_kb": 3067,
-      "modified_ts": 1776489360.6539314,
-      "modified_iso": "2026-04-18T01:16:00.653931",
       "minutes_since_active": 0.4
     },
     {
@@ -69,7 +85,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.2
     }
   ],
   "recent": [
@@ -87,7 +103,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 27.2
+      "minutes_since_active": 27.3
     },
     {
       "id": "6f542fc9",
@@ -103,7 +119,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 27.6
+      "minutes_since_active": 27.7
     },
     {
       "id": "9ee451c3",
@@ -119,7 +135,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 27.8
+      "minutes_since_active": 27.9
     },
     {
       "id": "29a5c278",
@@ -135,7 +151,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 30.5
+      "minutes_since_active": 30.6
     },
     {
       "id": "356a456e",
@@ -151,7 +167,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 30.8
+      "minutes_since_active": 30.9
     },
     {
       "id": "d5133c71",
@@ -167,7 +183,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 31.6
+      "minutes_since_active": 31.7
     },
     {
       "id": "204380d7",
@@ -183,7 +199,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 31.8
+      "minutes_since_active": 31.9
     },
     {
       "id": "855ced88",
@@ -199,7 +215,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 32.9
+      "minutes_since_active": 33.0
     },
     {
       "id": "a2bc5eb9",
@@ -215,7 +231,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 35.4
+      "minutes_since_active": 35.5
     },
     {
       "id": "4ea5b550",
@@ -231,7 +247,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 35.8
+      "minutes_since_active": 35.9
     },
     {
       "id": "277e61c4",
@@ -247,7 +263,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 35.9
+      "minutes_since_active": 36.1
     },
     {
       "id": "9cc0e1df",
@@ -263,7 +279,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 36.9
+      "minutes_since_active": 37.0
     },
     {
       "id": "026df754",
@@ -279,7 +295,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 392.8
+      "minutes_since_active": 392.9
     },
     {
       "id": "7bf56971",
@@ -295,7 +311,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 392.8
+      "minutes_since_active": 392.9
     }
   ]
 }
