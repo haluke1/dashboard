@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:48:36Z",
+  "updated_at": "2026-04-18T04:48:38Z",
   "counts": {
     "active": 7,
     "recent": 8,
@@ -18,9 +18,9 @@
       "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
       "last_assistant_snippet": "CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue with WaitGroup + context cancellatio\u2026",
       "message_count": 3,
-      "file_size_kb": 58,
-      "modified_ts": 1776487715.3506882,
-      "modified_iso": "2026-04-18T00:48:35.350688",
+      "file_size_kb": 59,
+      "modified_ts": 1776487716.6993897,
+      "modified_iso": "2026-04-18T00:48:36.699390",
       "minutes_since_active": 0.0
     },
     {
@@ -37,7 +37,7 @@
       "file_size_kb": 9395,
       "modified_ts": 1776487707.46089,
       "modified_iso": "2026-04-18T00:48:27.460890",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "ca08a6d6",
@@ -53,7 +53,7 @@
       "file_size_kb": 1590,
       "modified_ts": 1776487695.1102045,
       "modified_iso": "2026-04-18T00:48:15.110204",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "29a5c278",
@@ -69,7 +69,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 2.8
     },
     {
       "id": "356a456e",
@@ -167,7 +167,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 7.9
+      "minutes_since_active": 8.0
     },
     {
       "id": "277e61c4",
@@ -183,7 +183,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 8.1
+      "minutes_since_active": 8.2
     },
     {
       "id": "9cc0e1df",
@@ -215,7 +215,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 234.5
+      "minutes_since_active": 234.6
     },
     {
       "id": "026df754",
