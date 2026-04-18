@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T03:59:51Z",
+  "updated_at": "2026-04-18T04:00:42Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 256
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "okey go",
+      "last_assistant_snippet": "Running one more E2E with the current script state (post keep_alive edit) + the other judge.",
+      "message_count": 1080,
+      "file_size_kb": 8775,
+      "modified_ts": 1776484822.3034954,
+      "modified_iso": "2026-04-18T00:00:22.303495",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -18,26 +34,10 @@
       "last_user_msg": "lets try 1. also delete the o1a evidence thing from claude.md",
       "last_assistant_snippet": "Done. Here's what I shipped: **CLAUDE.md cleanup** \u2014 removed both O-1A references (line 4 and line 70). **Advisor demo at `~/advisor-demo/`** \u2014 three files: ``` advisor-demo/ \u251c\u2500\u2500 m\u2026",
       "message_count": 158,
-      "file_size_kb": 1249,
-      "modified_ts": 1776484790.5446744,
-      "modified_iso": "2026-04-17T23:59:50.544674",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "okey go",
-      "last_assistant_snippet": "Ledger ends at line 148. Appending C-20 and updating the manifest.",
-      "message_count": 1071,
-      "file_size_kb": 8745,
-      "modified_ts": 1776484777.9534252,
-      "modified_iso": "2026-04-17T23:59:37.953425",
-      "minutes_since_active": 0.2
+      "file_size_kb": 1251,
+      "modified_ts": 1776484791.7666647,
+      "modified_iso": "2026-04-17T23:59:51.766665",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 185.8
+      "minutes_since_active": 186.6
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 316.2
+      "minutes_since_active": 317.0
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 316.2
+      "minutes_since_active": 317.0
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1402.6
+      "minutes_since_active": 1403.4
     }
   ]
 }
