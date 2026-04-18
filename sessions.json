@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T04:48:28Z",
+  "updated_at": "2026-04-18T04:48:36Z",
   "counts": {
     "active": 7,
-    "recent": 7,
+    "recent": 8,
     "archived": 251,
-    "total": 265
+    "total": 266
   },
   "active": [
+    {
+      "id": "9ee451c3",
+      "full_id": "9ee451c3-1698-447c-9ec1-091eac703893",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_assistant_snippet": "CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue with WaitGroup + context cancellatio\u2026",
+      "message_count": 3,
+      "file_size_kb": 58,
+      "modified_ts": 1776487715.3506882,
+      "modified_iso": "2026-04-18T00:48:35.350688",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -21,7 +37,7 @@
       "file_size_kb": 9395,
       "modified_ts": 1776487707.46089,
       "modified_iso": "2026-04-18T00:48:27.460890",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "ca08a6d6",
@@ -37,7 +53,7 @@
       "file_size_kb": 1590,
       "modified_ts": 1776487695.1102045,
       "modified_iso": "2026-04-18T00:48:15.110204",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "29a5c278",
@@ -53,7 +69,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 2.6
+      "minutes_since_active": 2.7
     },
     {
       "id": "356a456e",
@@ -69,7 +85,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 3.0
     },
     {
       "id": "d5133c71",
@@ -85,7 +101,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 3.8
     },
     {
       "id": "204380d7",
@@ -101,12 +117,14 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 3.9
-    },
+      "minutes_since_active": 4.0
+    }
+  ],
+  "recent": [
     {
       "id": "855ced88",
       "full_id": "855ced88-a000-4efe-982e-11bb0ae3ff13",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/advisor-demo",
       "git_branch": "master",
       "permission_mode": null,
@@ -117,10 +135,8 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "a2bc5eb9",
       "full_id": "a2bc5eb9-2abf-4b6f-a778-bac33da33afe",
@@ -135,7 +151,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 7.4
+      "minutes_since_active": 7.6
     },
     {
       "id": "4ea5b550",
@@ -151,7 +167,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 7.8
+      "minutes_since_active": 7.9
     },
     {
       "id": "277e61c4",
@@ -167,7 +183,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 8.0
+      "minutes_since_active": 8.1
     },
     {
       "id": "9cc0e1df",
@@ -183,7 +199,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 9.0
+      "minutes_since_active": 9.1
     },
     {
       "id": "b256b68f",
@@ -199,7 +215,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 234.4
+      "minutes_since_active": 234.5
     },
     {
       "id": "026df754",
@@ -215,7 +231,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 364.8
+      "minutes_since_active": 365.0
     },
     {
       "id": "7bf56971",
@@ -231,7 +247,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 364.8
+      "minutes_since_active": 365.0
     }
   ]
 }
