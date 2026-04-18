@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:38:52Z",
+  "updated_at": "2026-04-18T04:39:17Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,22 +7,6 @@
     "total": 257
   },
   "active": [
-    {
-      "id": "9cc0e1df",
-      "full_id": "9cc0e1df-a0e6-42b5-81d5-d1537d7a28bf",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo/workerpool",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
-      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
-      "last_assistant_snippet": "The project is Python-based, so I'll create a standalone Go module at `workerpool/`. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - A **worker pool** is like a restaurant kitc\u2026",
-      "message_count": 9,
-      "file_size_kb": 72,
-      "modified_ts": 1776487125.491175,
-      "modified_iso": "2026-04-18T00:38:45.491175",
-      "minutes_since_active": 0.1
-    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "All 5 test cases pass as expected. Updating ledger and manifest.",
-      "message_count": 1130,
-      "file_size_kb": 9064,
-      "modified_ts": 1776487120.805683,
-      "modified_iso": "2026-04-18T00:38:40.805683",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "**Three P3-bis items closed this session (0.95h total):** | BIS | What | Time | Ledger | |---|---|---|---| | 11 | Ollama migration replaces Anthropic SDK | 0.50h | C-20 | | 09+10 |\u2026",
+      "message_count": 1135,
+      "file_size_kb": 9101,
+      "modified_ts": 1776487155.7397478,
+      "modified_iso": "2026-04-18T00:39:15.739748",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "9cc0e1df",
+      "full_id": "9cc0e1df-a0e6-42b5-81d5-d1537d7a28bf",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo/workerpool",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_assistant_snippet": "Now the tests: `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - The test for graceful shutdown uses an `atomic.Int32` counter \u2014 atomics let multiple goroutines safely increment \u2026",
+      "message_count": 15,
+      "file_size_kb": 89,
+      "modified_ts": 1776487150.5464394,
+      "modified_iso": "2026-04-18T00:39:10.546439",
+      "minutes_since_active": 0.1
     },
     {
       "id": "ca08a6d6",
@@ -53,7 +53,7 @@
       "file_size_kb": 1448,
       "modified_ts": 1776487078.9690137,
       "modified_iso": "2026-04-18T00:37:58.969014",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 224.8
+      "minutes_since_active": 225.2
     },
     {
       "id": "026df754",
@@ -87,7 +87,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 355.2
+      "minutes_since_active": 355.6
     },
     {
       "id": "7bf56971",
@@ -103,7 +103,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 355.2
+      "minutes_since_active": 355.6
     }
   ]
 }
