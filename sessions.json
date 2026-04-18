@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:39:28Z",
+  "updated_at": "2026-04-18T04:40:01Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 257
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
+      "last_assistant_snippet": "## The actual solution Your Max plan runs Claude Code. Claude Code CLI has non-interactive mode (`claude -p \"...\" --model sonnet`) that makes model calls through your subscription.\u2026",
+      "message_count": 203,
+      "file_size_kb": 1461,
+      "modified_ts": 1776487183.745213,
+      "modified_iso": "2026-04-18T00:39:43.745213",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "9cc0e1df",
       "full_id": "9cc0e1df-a0e6-42b5-81d5-d1537d7a28bf",
@@ -19,9 +35,9 @@
       "last_assistant_snippet": "All 6 tests pass, race detector clean. --- **What was built** (`workerpool/pool.go`, 55 lines): | API | Behavior | |---|---| | `New(workers, queueSize)` | Starts N goroutines, buff\u2026",
       "message_count": 17,
       "file_size_kb": 94,
-      "modified_ts": 1776487167.436154,
-      "modified_iso": "2026-04-18T00:39:27.436154",
-      "minutes_since_active": 0.0
+      "modified_ts": 1776487169.0251927,
+      "modified_iso": "2026-04-18T00:39:29.025193",
+      "minutes_since_active": 0.5
     },
     {
       "id": "b7bc6825",
@@ -37,23 +53,7 @@
       "file_size_kb": 9103,
       "modified_ts": 1776487157.6944854,
       "modified_iso": "2026-04-18T00:39:17.694485",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
-      "last_assistant_snippet": "## The actual solution Your Max plan runs Claude Code. Claude Code CLI has non-interactive mode (`claude -p \"...\" --model sonnet`) that makes model calls through your subscription.\u2026",
-      "message_count": 199,
-      "file_size_kb": 1448,
-      "modified_ts": 1776487078.9690137,
-      "modified_iso": "2026-04-18T00:37:58.969014",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 225.4
+      "minutes_since_active": 226.0
     },
     {
       "id": "026df754",
@@ -87,7 +87,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 355.8
+      "minutes_since_active": 356.4
     },
     {
       "id": "7bf56971",
@@ -103,7 +103,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 355.8
+      "minutes_since_active": 356.4
     }
   ]
 }
