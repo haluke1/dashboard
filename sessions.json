@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:01:50Z",
+  "updated_at": "2026-04-18T04:06:04Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "BIS-11 shipped. Both judges tested E2E against qwen3:4b, grammar-enforced schema worked, queue moves clean, heartbeat green. **What's live:** - `ollama` 0.21.0 via brew, auto-start\u2026",
       "message_count": 1083,
       "file_size_kb": 8790,
-      "modified_ts": 1776484876.7917874,
-      "modified_iso": "2026-04-18T00:01:16.791787",
-      "minutes_since_active": 0.6
+      "modified_ts": 1776485069.9658718,
+      "modified_iso": "2026-04-18T00:04:29.965872",
+      "minutes_since_active": 1.6
     },
     {
       "id": "ca08a6d6",
@@ -35,9 +35,9 @@
       "last_assistant_snippet": "Done. Here's what I shipped: **CLAUDE.md cleanup** \u2014 removed both O-1A references (line 4 and line 70). **Advisor demo at `~/advisor-demo/`** \u2014 three files: ``` advisor-demo/ \u251c\u2500\u2500 m\u2026",
       "message_count": 158,
       "file_size_kb": 1251,
-      "modified_ts": 1776484791.7666647,
-      "modified_iso": "2026-04-17T23:59:51.766665",
-      "minutes_since_active": 2.0
+      "modified_ts": 1776484978.2380526,
+      "modified_iso": "2026-04-18T00:02:58.238053",
+      "minutes_since_active": 3.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 187.8
+      "minutes_since_active": 192.0
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 318.2
+      "minutes_since_active": 322.4
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 318.2
+      "minutes_since_active": 322.4
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1404.6
+      "minutes_since_active": 1408.8
     }
   ]
 }
