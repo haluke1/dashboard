@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-18T04:53:41Z",
+  "updated_at": "2026-04-18T04:54:47Z",
   "counts": {
-    "active": 4,
-    "recent": 13,
+    "active": 2,
+    "recent": 15,
     "archived": 251,
     "total": 268
   },
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "explain everything we did like you are explaining to a non technical person",
-      "last_assistant_snippet": "## What's built \u2014 before + after compact ### Before compact (\u22485.14h across 4 phases) | Phase | Shipped | Artifacts | |---|---|---| | **P0** (0.24h) | Tooling + architecture scaffol\u2026",
-      "message_count": 1190,
-      "file_size_kb": 9460,
-      "modified_ts": 1776487972.6017694,
-      "modified_iso": "2026-04-18T00:52:52.601769",
-      "minutes_since_active": 0.8
+      "last_assistant_snippet": "## The big-picture story You hired me to build a **quality control system for yourself** \u2014 a set of invisible watchers that scan every message I (Claude) send you and flag bad habi\u2026",
+      "message_count": 1192,
+      "file_size_kb": 9484,
+      "modified_ts": 1776488085.3790882,
+      "modified_iso": "2026-04-18T00:54:45.379088",
+      "minutes_since_active": 0.0
     },
     {
       "id": "ca08a6d6",
@@ -37,12 +37,14 @@
       "file_size_kb": 1712,
       "modified_ts": 1776487953.9046082,
       "modified_iso": "2026-04-18T00:52:33.904608",
-      "minutes_since_active": 1.1
-    },
+      "minutes_since_active": 2.2
+    }
+  ],
+  "recent": [
     {
       "id": "20bfe23e",
       "full_id": "20bfe23e-84ac-40bd-a5be-25dd34f3e71c",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/advisor-demo",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,12 +55,12 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 5.5
     },
     {
       "id": "6f542fc9",
       "full_id": "6f542fc9-4636-49c5-b70b-753ab61510aa",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/advisor-demo",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,10 +71,8 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "9ee451c3",
       "full_id": "9ee451c3-1698-447c-9ec1-091eac703893",
@@ -87,7 +87,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 6.1
     },
     {
       "id": "29a5c278",
@@ -103,7 +103,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 7.8
+      "minutes_since_active": 8.9
     },
     {
       "id": "356a456e",
@@ -119,7 +119,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 8.1
+      "minutes_since_active": 9.2
     },
     {
       "id": "d5133c71",
@@ -135,7 +135,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 8.9
+      "minutes_since_active": 9.9
     },
     {
       "id": "204380d7",
@@ -151,7 +151,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 9.1
+      "minutes_since_active": 10.2
     },
     {
       "id": "855ced88",
@@ -167,7 +167,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 10.1
+      "minutes_since_active": 11.2
     },
     {
       "id": "a2bc5eb9",
@@ -183,7 +183,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 12.6
+      "minutes_since_active": 13.7
     },
     {
       "id": "4ea5b550",
@@ -199,7 +199,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 13.0
+      "minutes_since_active": 14.1
     },
     {
       "id": "277e61c4",
@@ -215,7 +215,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 13.2
+      "minutes_since_active": 14.3
     },
     {
       "id": "9cc0e1df",
@@ -231,7 +231,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 14.2
+      "minutes_since_active": 15.3
     },
     {
       "id": "b256b68f",
@@ -247,7 +247,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 239.6
+      "minutes_since_active": 240.7
     },
     {
       "id": "026df754",
@@ -263,7 +263,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 370.0
+      "minutes_since_active": 371.1
     },
     {
       "id": "7bf56971",
@@ -279,7 +279,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 370.0
+      "minutes_since_active": 371.1
     }
   ]
 }
