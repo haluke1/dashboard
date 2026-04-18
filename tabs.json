@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-18T00:38:22Z",
-  "total_tabs": 260,
+  "updated_at": "2026-04-18T00:39:26Z",
+  "total_tabs": 261,
   "total_windows": 5,
   "duplicate_tabs": 49,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 120,
-      "domain_count": 68,
+      "count": 121,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,11 +23,11 @@
           "count": 5
         },
         {
-          "domain": "mountainside-medical.com",
+          "domain": "open.spotify.com",
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "mountainside-medical.com",
           "count": 4
         }
       ]
@@ -71,6 +71,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 7,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 7,
       "domain_count": 5,
@@ -98,43 +121,20 @@
       ]
     },
     {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
       "top_domains": [
+        {
+          "domain": "simonw.substack.com",
+          "count": 1
+        },
         {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
