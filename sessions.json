@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:35:28Z",
+  "updated_at": "2026-04-18T04:36:13Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "continue. also now do we have ollama and qwen installed now? what happened",
-      "last_assistant_snippet": "All edge cases behaving correctly. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - **EDGE 1 dual-flag is working as designed**: \"Redis is the best caching solution\" hits both `\u2026",
-      "message_count": 1109,
-      "file_size_kb": 8980,
-      "modified_ts": 1776486925.6455586,
-      "modified_iso": "2026-04-18T00:35:25.645559",
+      "last_assistant_snippet": "**Closed this turn:** - **BIS-11 \u2192 C-20** \u2014 Ollama + qwen3:4b replaces Anthropic SDK; async judge pipeline now actually runs - **BIS-09/10 \u2192 C-21** \u2014 Stop-hook denylist (~70 nouns)\u2026",
+      "message_count": 1117,
+      "file_size_kb": 8999,
+      "modified_ts": 1776486972.677218,
+      "modified_iso": "2026-04-18T00:36:12.677218",
       "minutes_since_active": 0.0
     },
     {
@@ -37,7 +37,7 @@
       "file_size_kb": 1352,
       "modified_ts": 1776486915.2543142,
       "modified_iso": "2026-04-18T00:35:15.254314",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 221.4
+      "minutes_since_active": 222.2
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 351.8
+      "minutes_since_active": 352.6
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 351.8
+      "minutes_since_active": 352.6
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1438.2
+      "minutes_since_active": 1439.0
     }
   ]
 }
