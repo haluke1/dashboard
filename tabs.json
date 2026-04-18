@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-18T21:49:07Z",
-  "total_tabs": 271,
+  "updated_at": "2026-04-18T22:00:13Z",
+  "total_tabs": 273,
   "total_windows": 5,
   "duplicate_tabs": 53,
   "bridge_online": true,
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 45,
+      "count": 46,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 24
+          "count": 25
         },
         {
           "domain": "claude.ai",
@@ -140,6 +140,17 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 2,
       "domain_count": 1,
@@ -147,17 +158,6 @@
         {
           "domain": "notion.so",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
         }
       ]
     }
