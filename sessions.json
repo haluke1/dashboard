@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:37:46Z",
+  "updated_at": "2026-04-18T04:38:01Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,22 +7,6 @@
     "total": 256
   },
   "active": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "Running (A): the Pattern 1 `per [A-Z]` case-sensitivity fix.",
-      "message_count": 1122,
-      "file_size_kb": 9022,
-      "modified_ts": 1776487061.863249,
-      "modified_iso": "2026-04-18T00:37:41.863249",
-      "minutes_since_active": 0.1
-    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -33,11 +17,27 @@
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
       "last_assistant_snippet": "## The actual solution Your Max plan runs Claude Code. Claude Code CLI has non-interactive mode (`claude -p \"...\" --model sonnet`) that makes model calls through your subscription.\u2026",
-      "message_count": 195,
-      "file_size_kb": 1404,
-      "modified_ts": 1776487017.1402154,
-      "modified_iso": "2026-04-18T00:36:57.140215",
-      "minutes_since_active": 0.8
+      "message_count": 199,
+      "file_size_kb": 1448,
+      "modified_ts": 1776487078.9690137,
+      "modified_iso": "2026-04-18T00:37:58.969014",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Running (A): the Pattern 1 `per [A-Z]` case-sensitivity fix.",
+      "message_count": 1124,
+      "file_size_kb": 9027,
+      "modified_ts": 1776487072.3247898,
+      "modified_iso": "2026-04-18T00:37:52.324790",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 223.7
+      "minutes_since_active": 224.0
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 354.1
+      "minutes_since_active": 354.4
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 354.1
+      "minutes_since_active": 354.4
     }
   ]
 }
