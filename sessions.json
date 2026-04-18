@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T00:15:25Z",
+  "updated_at": "2026-04-18T00:16:19Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "actually lets just continue i just added extra usage.",
-      "last_assistant_snippet": "Context at 78% is tight \u2014 auto-compact fires around 83%. Dispatching 4 Phase 3 agents with ~8K tokens of prompts + their return summaries would push us over. Better to clean up fir\u2026",
-      "message_count": 797,
-      "file_size_kb": 7241,
-      "modified_ts": 1776471312.9467313,
-      "modified_iso": "2026-04-17T20:15:12.946731",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "# Cleanup done \u2014 461 MB reclaimed, every kept item is referenced | | | | |---|---|---| | Deleted | 20 items | 461 MB 274 KB | | Kept | 7 files + 1 dir | ~87 KB \u2014 all cited by livin\u2026",
+      "message_count": 802,
+      "file_size_kb": 7260,
+      "modified_ts": 1776471378.2437062,
+      "modified_iso": "2026-04-17T20:16:18.243706",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2787,
       "modified_ts": 1776467514.924742,
       "modified_iso": "2026-04-17T19:11:54.924742",
-      "minutes_since_active": 63.5
+      "minutes_since_active": 64.4
     },
     {
       "id": "026df754",
@@ -55,7 +55,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 91.8
+      "minutes_since_active": 92.7
     },
     {
       "id": "7bf56971",
@@ -71,7 +71,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 91.8
+      "minutes_since_active": 92.7
     },
     {
       "id": "ca08a6d6",
@@ -87,7 +87,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776449742.3594224,
       "modified_iso": "2026-04-17T14:15:42.359422",
-      "minutes_since_active": 359.7
+      "minutes_since_active": 360.6
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1178.2
+      "minutes_since_active": 1179.1
     },
     {
       "id": "e508fda2",
@@ -119,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1286.1
+      "minutes_since_active": 1287.0
     }
   ]
 }
