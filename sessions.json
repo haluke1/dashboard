@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:44:48Z",
+  "updated_at": "2026-04-18T04:45:24Z",
   "counts": {
     "active": 8,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 263
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "this is what i got when i ran it -> (.venv) halukgul@Haluks-MacBook-Air advisor-demo % cd ~/advisor-demo && python3 main.py ========================================================\u2026",
+      "last_assistant_snippet": "Silent exit 1 suggests the error is going to stdout, not stderr. Let me upgrade the error handling and diagnose.",
+      "message_count": 229,
+      "file_size_kb": 1556,
+      "modified_ts": 1776487522.3882794,
+      "modified_iso": "2026-04-18T00:45:22.388279",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -16,12 +32,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "continue with what you think is best you have full permissions on",
-      "last_assistant_snippet": "Taking (A+B): BIS-01 + BIS-02 together. Both small, both in the Stop-hook layer, both directly affect daily signal quality. Infrastructure checkpoints (BIS-04, BIS-08) need dedicat\u2026",
-      "message_count": 1146,
-      "file_size_kb": 9199,
-      "modified_ts": 1776487487.129677,
-      "modified_iso": "2026-04-18T00:44:47.129677",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Only docs and self-references \u2014 safe to change the function contract. Rewriting both hook patches now.",
+      "message_count": 1150,
+      "file_size_kb": 9233,
+      "modified_ts": 1776487518.5358326,
+      "modified_iso": "2026-04-18T00:45:18.535833",
+      "minutes_since_active": 0.1
     },
     {
       "id": "d5133c71",
@@ -34,26 +50,10 @@
       "last_user_msg": "say 'ok' and stop",
       "last_assistant_snippet": "ok",
       "message_count": 2,
-      "file_size_kb": 50,
-      "modified_ts": 1776487485.9321585,
-      "modified_iso": "2026-04-18T00:44:45.932158",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "this is what i got when i ran it -> (.venv) halukgul@Haluks-MacBook-Air advisor-demo % cd ~/advisor-demo && python3 main.py ========================================================\u2026",
-      "last_assistant_snippet": "**It ran. End-to-end. Zero dollars.** ## What just happened ``` advisor calls: 1 executor turns: 2 cost: $0.00 (all calls via Max subscription) ``` **Executor (Sonnet) turn 1** \u2192 C\u2026",
-      "message_count": 223,
-      "file_size_kb": 1533,
-      "modified_ts": 1776487476.1316652,
-      "modified_iso": "2026-04-18T00:44:36.131665",
-      "minutes_since_active": 0.2
+      "file_size_kb": 51,
+      "modified_ts": 1776487488.6581264,
+      "modified_iso": "2026-04-18T00:44:48.658126",
+      "minutes_since_active": 0.6
     },
     {
       "id": "204380d7",
@@ -69,7 +69,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.8
     },
     {
       "id": "855ced88",
@@ -85,7 +85,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 1.8
     },
     {
       "id": "a2bc5eb9",
@@ -101,7 +101,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 3.7
+      "minutes_since_active": 4.4
     },
     {
       "id": "4ea5b550",
@@ -117,7 +117,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 4.1
+      "minutes_since_active": 4.7
     },
     {
       "id": "277e61c4",
@@ -133,7 +133,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 4.9
     }
   ],
   "recent": [
@@ -151,7 +151,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 5.3
+      "minutes_since_active": 5.9
     },
     {
       "id": "b256b68f",
@@ -167,7 +167,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 230.7
+      "minutes_since_active": 231.4
     },
     {
       "id": "026df754",
@@ -183,7 +183,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 361.1
+      "minutes_since_active": 361.8
     },
     {
       "id": "7bf56971",
@@ -199,7 +199,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 361.1
+      "minutes_since_active": 361.8
     }
   ]
 }
