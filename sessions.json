@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-18T05:28:58Z",
+  "updated_at": "2026-04-18T05:29:39Z",
   "counts": {
-    "active": 3,
-    "recent": 17,
+    "active": 2,
+    "recent": 18,
     "archived": 251,
     "total": 271
   },
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
       "last_user_msg": "would we be able to add or create a system where when i say save this to your system it automatically adds to global settings? do we already have this? i wanna be able to write thi\u2026",
-      "last_assistant_snippet": "Using sequential thinking for this one \u2014 it's a workflow-design question where pushback is explicitly invited. Skipping the advisor agent (the auto-trigger template references a su\u2026",
-      "message_count": 1328,
-      "file_size_kb": 10844,
-      "modified_ts": 1776490133.9084582,
-      "modified_iso": "2026-04-18T01:28:53.908458",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "## Short answer: you already have **~70% of this**. The missing 30% isn't more automation \u2014 it's ambiguity management. And building the full system before you've written one real p\u2026",
+      "message_count": 1329,
+      "file_size_kb": 10854,
+      "modified_ts": 1776490178.0602093,
+      "modified_iso": "2026-04-18T01:29:38.060209",
+      "minutes_since_active": 0.0
     },
     {
       "id": "ca08a6d6",
@@ -32,17 +32,19 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "okey disable it and tell me if i should disable anything else to reduce from context window.",
-      "last_assistant_snippet": "## What CodeRabbit is [VENDOR, coderabbit.ai, fetched 2026-04-18] AI code reviewer that lives on your pull requests. When you push a PR to GitHub/GitLab/Bitbucket/Azure DevOps, a b\u2026",
-      "message_count": 337,
-      "file_size_kb": 3250,
-      "modified_ts": 1776490133.8629076,
-      "modified_iso": "2026-04-18T01:28:53.862908",
+      "last_assistant_snippet": "Disabling coderabbit now, then giving you the rest of the list.",
+      "message_count": 341,
+      "file_size_kb": 3264,
+      "modified_ts": 1776490173.0425048,
+      "modified_iso": "2026-04-18T01:29:33.042505",
       "minutes_since_active": 0.1
-    },
+    }
+  ],
+  "recent": [
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 3126,
       "modified_ts": 1776489854.0388615,
       "modified_iso": "2026-04-18T01:24:14.038862",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.4
+    },
     {
       "id": "262480d6",
       "full_id": "262480d6-2d69-4196-9e97-6d58b4fe1716",
@@ -71,7 +71,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776489650.4870565,
       "modified_iso": "2026-04-18T01:20:50.487056",
-      "minutes_since_active": 8.1
+      "minutes_since_active": 8.8
     },
     {
       "id": "ff187ad2",
@@ -87,7 +87,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 12.4
+      "minutes_since_active": 13.1
     },
     {
       "id": "20832521",
@@ -103,7 +103,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 14.7
+      "minutes_since_active": 15.4
     },
     {
       "id": "20bfe23e",
@@ -119,7 +119,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 39.7
+      "minutes_since_active": 40.4
     },
     {
       "id": "6f542fc9",
@@ -135,7 +135,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 40.1
+      "minutes_since_active": 40.8
     },
     {
       "id": "9ee451c3",
@@ -151,7 +151,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 40.3
+      "minutes_since_active": 41.0
     },
     {
       "id": "29a5c278",
@@ -167,7 +167,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 43.1
+      "minutes_since_active": 43.8
     },
     {
       "id": "356a456e",
@@ -183,7 +183,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 43.4
+      "minutes_since_active": 44.0
     },
     {
       "id": "d5133c71",
@@ -199,7 +199,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 44.1
+      "minutes_since_active": 44.8
     },
     {
       "id": "204380d7",
@@ -215,7 +215,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 44.4
+      "minutes_since_active": 45.0
     },
     {
       "id": "855ced88",
@@ -231,7 +231,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 45.4
+      "minutes_since_active": 46.1
     },
     {
       "id": "a2bc5eb9",
@@ -247,7 +247,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 47.9
+      "minutes_since_active": 48.6
     },
     {
       "id": "4ea5b550",
@@ -263,7 +263,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 48.3
+      "minutes_since_active": 49.0
     },
     {
       "id": "277e61c4",
@@ -279,7 +279,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 48.5
+      "minutes_since_active": 49.2
     },
     {
       "id": "9cc0e1df",
@@ -295,7 +295,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 49.5
+      "minutes_since_active": 50.2
     },
     {
       "id": "026df754",
@@ -311,7 +311,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 405.3
+      "minutes_since_active": 406.0
     },
     {
       "id": "7bf56971",
@@ -327,7 +327,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 405.3
+      "minutes_since_active": 406.0
     }
   ]
 }
