@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:39:17Z",
+  "updated_at": "2026-04-18T04:39:28Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 257
   },
   "active": [
+    {
+      "id": "9cc0e1df",
+      "full_id": "9cc0e1df-a0e6-42b5-81d5-d1537d7a28bf",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo/workerpool",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
+      "last_assistant_snippet": "All 6 tests pass, race detector clean. --- **What was built** (`workerpool/pool.go`, 55 lines): | API | Behavior | |---|---| | `New(workers, queueSize)` | Starts N goroutines, buff\u2026",
+      "message_count": 17,
+      "file_size_kb": 94,
+      "modified_ts": 1776487167.436154,
+      "modified_iso": "2026-04-18T00:39:27.436154",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -18,26 +34,10 @@
       "last_user_msg": "continue",
       "last_assistant_snippet": "**Three P3-bis items closed this session (0.95h total):** | BIS | What | Time | Ledger | |---|---|---|---| | 11 | Ollama migration replaces Anthropic SDK | 0.50h | C-20 | | 09+10 |\u2026",
       "message_count": 1135,
-      "file_size_kb": 9101,
-      "modified_ts": 1776487155.7397478,
-      "modified_iso": "2026-04-18T00:39:15.739748",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "9cc0e1df",
-      "full_id": "9cc0e1df-a0e6-42b5-81d5-d1537d7a28bf",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo/workerpool",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
-      "last_user_msg": "Task: Build a concurrent worker pool in Go with graceful shutdown.",
-      "last_assistant_snippet": "Now the tests: `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - The test for graceful shutdown uses an `atomic.Int32` counter \u2014 atomics let multiple goroutines safely increment \u2026",
-      "message_count": 15,
-      "file_size_kb": 89,
-      "modified_ts": 1776487150.5464394,
-      "modified_iso": "2026-04-18T00:39:10.546439",
-      "minutes_since_active": 0.1
+      "file_size_kb": 9103,
+      "modified_ts": 1776487157.6944854,
+      "modified_iso": "2026-04-18T00:39:17.694485",
+      "minutes_since_active": 0.2
     },
     {
       "id": "ca08a6d6",
@@ -53,7 +53,7 @@
       "file_size_kb": 1448,
       "modified_ts": 1776487078.9690137,
       "modified_iso": "2026-04-18T00:37:58.969014",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 1.5
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 225.2
+      "minutes_since_active": 225.4
     },
     {
       "id": "026df754",
@@ -87,7 +87,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 355.6
+      "minutes_since_active": 355.8
     },
     {
       "id": "7bf56971",
@@ -103,7 +103,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 355.6
+      "minutes_since_active": 355.8
     }
   ]
 }
