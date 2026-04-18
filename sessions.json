@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-18T04:36:41Z",
+  "updated_at": "2026-04-18T04:37:46Z",
   "counts": {
     "active": 2,
-    "recent": 4,
-    "archived": 250,
+    "recent": 3,
+    "archived": 251,
     "total": 256
   },
   "active": [
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue. also now do we have ollama and qwen installed now? what happened",
-      "last_assistant_snippet": "**Closed this turn:** - **BIS-11 \u2192 C-20** \u2014 Ollama + qwen3:4b replaces Anthropic SDK; async judge pipeline now actually runs - **BIS-09/10 \u2192 C-21** \u2014 Stop-hook denylist (~70 nouns)\u2026",
-      "message_count": 1117,
-      "file_size_kb": 9001,
-      "modified_ts": 1776486974.134791,
-      "modified_iso": "2026-04-18T00:36:14.134791",
-      "minutes_since_active": 0.5
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Running (A): the Pattern 1 `per [A-Z]` case-sensitivity fix.",
+      "message_count": 1122,
+      "file_size_kb": 9022,
+      "modified_ts": 1776487061.863249,
+      "modified_iso": "2026-04-18T00:37:41.863249",
+      "minutes_since_active": 0.1
     },
     {
       "id": "ca08a6d6",
@@ -32,12 +32,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
-      "last_assistant_snippet": "You're right. I gave up too fast. Here's the real solution. ## Adding to CLAUDE.md first",
-      "message_count": 191,
-      "file_size_kb": 1380,
-      "modified_ts": 1776486973.6148663,
-      "modified_iso": "2026-04-18T00:36:13.614866",
-      "minutes_since_active": 0.5
+      "last_assistant_snippet": "## The actual solution Your Max plan runs Claude Code. Claude Code CLI has non-interactive mode (`claude -p \"...\" --model sonnet`) that makes model calls through your subscription.\u2026",
+      "message_count": 195,
+      "file_size_kb": 1404,
+      "modified_ts": 1776487017.1402154,
+      "modified_iso": "2026-04-18T00:36:57.140215",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 222.6
+      "minutes_since_active": 223.7
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 353.0
+      "minutes_since_active": 354.1
     },
     {
       "id": "7bf56971",
@@ -87,23 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 353.0
-    },
-    {
-      "id": "4533584f",
-      "full_id": "4533584f-b051-48f9-a45e-00d7621ffe69",
-      "status": "recent",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Is the watchdog live now?",
-      "last_user_msg": "Is the watchdog live now?",
-      "last_assistant_snippet": "Yes \u2014 your voice watchdog is live. Process 23686, `voice-watchdog.sh`, is running alongside the voice controller and dashboard. Everything's up.",
-      "message_count": 9,
-      "file_size_kb": 54,
-      "modified_ts": 1776400635.178895,
-      "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1439.4
+      "minutes_since_active": 354.1
     }
   ]
 }
