@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-18T01:31:23Z",
+  "updated_at": "2026-04-18T01:32:16Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 1,
+    "recent": 6,
     "archived": 249,
     "total": 256
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "<task-notification> <task-id>adfe0f7c00ac0e29c</task-id> <tool-use-id>toolu_017rDXJwFxfMqBoazZVNtYMN</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
-      "last_assistant_snippet": "# \ud83c\udf89 Phase 3 CLOSED \u2014 all three gates accounted for, 2 inline fixes applied | Gate | Raw result | After inline fixes | Status | |---|---|---|---| | **F \u2014 regression sweep** | 19/19 \u2026",
-      "message_count": 939,
-      "file_size_kb": 7903,
-      "modified_ts": 1776475494.0994372,
-      "modified_iso": "2026-04-17T21:24:54.099437",
-      "minutes_since_active": 6.4
-    },
+      "last_user_msg": "get rid of the shipped artifact. compact now and continue. we are currently at 90% context window",
+      "last_assistant_snippet": "C-PERSISTENT removed from the ledger. Ledger is now C-01 through C-19, no standing meta-risk. DA findings on that axis won't resurface in future corrections work. `/compact` whenev\u2026",
+      "message_count": 944,
+      "file_size_kb": 7918,
+      "modified_ts": 1776475935.0763783,
+      "modified_iso": "2026-04-17T21:32:15.076378",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -38,7 +39,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 37.3
+      "minutes_since_active": 38.2
     },
     {
       "id": "ca08a6d6",
@@ -54,7 +55,7 @@
       "file_size_kb": 534,
       "modified_ts": 1776473619.26985,
       "modified_iso": "2026-04-17T20:53:39.269850",
-      "minutes_since_active": 37.6
+      "minutes_since_active": 38.6
     },
     {
       "id": "026df754",
@@ -70,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 167.7
+      "minutes_since_active": 168.6
     },
     {
       "id": "7bf56971",
@@ -86,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 167.7
+      "minutes_since_active": 168.6
     },
     {
       "id": "4533584f",
@@ -102,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1253.9
+      "minutes_since_active": 1255.0
     },
     {
       "id": "e508fda2",
@@ -118,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1361.9
+      "minutes_since_active": 1363.0
     }
   ]
 }
