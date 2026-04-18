@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T03:58:29Z",
+  "updated_at": "2026-04-18T03:59:35Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,22 +7,6 @@
     "total": 256
   },
   "active": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "okey go",
-      "last_assistant_snippet": "E2E works. Let me verify file movement + check the Ollama service autostart state, then update architecture docs.",
-      "message_count": 1059,
-      "file_size_kb": 8673,
-      "modified_ts": 1776484700.0085347,
-      "modified_iso": "2026-04-17T23:58:20.008535",
-      "minutes_since_active": 0.1
-    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "lets try 1. also delete the o1a evidence thing from claude.md",
-      "last_assistant_snippet": "On it. Scanning CLAUDE.md for O-1A references first, then building the demo.",
-      "message_count": 136,
-      "file_size_kb": 1153,
-      "modified_ts": 1776484698.023184,
-      "modified_iso": "2026-04-17T23:58:18.023184",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Yes \u2014 exactly matching the blog's 3 steps. Header, tool, system prompt. Writing the files now.",
+      "message_count": 154,
+      "file_size_kb": 1239,
+      "modified_ts": 1776484767.5427175,
+      "modified_iso": "2026-04-17T23:59:27.542717",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "okey go",
+      "last_assistant_snippet": "Pipeline green. Queue moves clean, Ollama auto-starts on login. BIS-11 is done. Updating the architecture docs now.",
+      "message_count": 1067,
+      "file_size_kb": 8717,
+      "modified_ts": 1776484712.8812988,
+      "modified_iso": "2026-04-17T23:58:32.881299",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 184.4
+      "minutes_since_active": 185.5
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 314.8
+      "minutes_since_active": 315.9
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 314.8
+      "minutes_since_active": 315.9
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1401.2
+      "minutes_since_active": 1402.3
     }
   ]
 }
