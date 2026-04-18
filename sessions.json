@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T01:21:47Z",
+  "updated_at": "2026-04-18T01:22:27Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>adfe0f7c00ac0e29c</task-id> <tool-use-id>toolu_017rDXJwFxfMqBoazZVNtYMN</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b7bc6825-71d\u2026",
       "last_assistant_snippet": "# \ud83c\udf89 Phase 3 CLOSED \u2014 all three gates accounted for, 2 inline fixes applied | Gate | Raw result | After inline fixes | Status | |---|---|---|---| | **F \u2014 regression sweep** | 19/19 \u2026",
       "message_count": 939,
-      "file_size_kb": 7901,
-      "modified_ts": 1776475306.7659461,
-      "modified_iso": "2026-04-17T21:21:46.765946",
-      "minutes_since_active": 0.0
+      "file_size_kb": 7902,
+      "modified_ts": 1776475308.028177,
+      "modified_iso": "2026-04-17T21:21:48.028177",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 27.7
+      "minutes_since_active": 28.4
     },
     {
       "id": "ca08a6d6",
@@ -55,7 +55,7 @@
       "file_size_kb": 534,
       "modified_ts": 1776473619.26985,
       "modified_iso": "2026-04-17T20:53:39.269850",
-      "minutes_since_active": 28.1
+      "minutes_since_active": 28.8
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 158.1
+      "minutes_since_active": 158.8
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 158.1
+      "minutes_since_active": 158.8
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1244.5
+      "minutes_since_active": 1245.2
     },
     {
       "id": "e508fda2",
@@ -119,7 +119,7 @@
       "file_size_kb": 2613,
       "modified_ts": 1776394156.8139932,
       "modified_iso": "2026-04-16T22:49:16.813993",
-      "minutes_since_active": 1352.5
+      "minutes_since_active": 1353.2
     }
   ]
 }
