@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-18T05:20:36Z",
+  "updated_at": "2026-04-18T05:20:45Z",
   "counts": {
-    "active": 4,
+    "active": 5,
     "recent": 15,
     "archived": 251,
-    "total": 270
+    "total": 271
   },
   "active": [
+    {
+      "id": "262480d6",
+      "full_id": "262480d6-2d69-4196-9e97-6d58b4fe1716",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "hello",
+      "last_user_msg": "hello",
+      "last_assistant_snippet": "Hey! What are we working on today?",
+      "message_count": 3,
+      "file_size_kb": 52,
+      "modified_ts": 1776489644.466021,
+      "modified_iso": "2026-04-18T01:20:44.466021",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "continue and make sure that the entire architecture, logic gates, references etc work throughout our entire architecture ultrathink use triple ultrathink go ultra deep to make sure\u2026",
+      "last_assistant_snippet": "Logging the Pattern 3 + denylist-extension fix that surfaced during verification.",
+      "message_count": 1319,
+      "file_size_kb": 10785,
+      "modified_ts": 1776489640.4312592,
+      "modified_iso": "2026-04-18T01:20:40.431259",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -21,7 +53,7 @@
       "file_size_kb": 3117,
       "modified_ts": 1776489634.0749147,
       "modified_iso": "2026-04-18T01:20:34.074915",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "ca08a6d6",
@@ -37,23 +69,7 @@
       "file_size_kb": 3132,
       "modified_ts": 1776489623.8909369,
       "modified_iso": "2026-04-18T01:20:23.890937",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "continue and make sure that the entire architecture, logic gates, references etc work throughout our entire architecture ultrathink use triple ultrathink go ultra deep to make sure\u2026",
-      "last_assistant_snippet": "Pattern 3 + denylist fix green on 7 cases. Proceeding to Phase 5 (data flow) and Phase 6 (reference consistency) in parallel.",
-      "message_count": 1315,
-      "file_size_kb": 10768,
-      "modified_ts": 1776489612.6845288,
-      "modified_iso": "2026-04-18T01:20:12.684529",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.3
     },
     {
       "id": "ff187ad2",
@@ -69,7 +85,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 4.0
+      "minutes_since_active": 4.2
     }
   ],
   "recent": [
@@ -87,7 +103,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 6.3
+      "minutes_since_active": 6.5
     },
     {
       "id": "20bfe23e",
@@ -103,7 +119,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 31.3
+      "minutes_since_active": 31.5
     },
     {
       "id": "6f542fc9",
@@ -119,7 +135,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 31.8
+      "minutes_since_active": 31.9
     },
     {
       "id": "9ee451c3",
@@ -135,7 +151,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 32.0
+      "minutes_since_active": 32.1
     },
     {
       "id": "29a5c278",
@@ -151,7 +167,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 34.7
+      "minutes_since_active": 34.9
     },
     {
       "id": "356a456e",
@@ -167,7 +183,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 35.0
+      "minutes_since_active": 35.2
     },
     {
       "id": "d5133c71",
@@ -183,7 +199,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 35.8
+      "minutes_since_active": 35.9
     },
     {
       "id": "204380d7",
@@ -199,7 +215,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 36.0
+      "minutes_since_active": 36.2
     },
     {
       "id": "855ced88",
@@ -215,7 +231,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 37.0
+      "minutes_since_active": 37.2
     },
     {
       "id": "a2bc5eb9",
@@ -231,7 +247,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 39.5
+      "minutes_since_active": 39.7
     },
     {
       "id": "4ea5b550",
@@ -247,7 +263,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 39.9
+      "minutes_since_active": 40.1
     },
     {
       "id": "277e61c4",
@@ -263,7 +279,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 40.1
+      "minutes_since_active": 40.3
     },
     {
       "id": "9cc0e1df",
@@ -279,7 +295,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 41.1
+      "minutes_since_active": 41.3
     },
     {
       "id": "026df754",
@@ -295,7 +311,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 396.9
+      "minutes_since_active": 397.1
     },
     {
       "id": "7bf56971",
@@ -311,7 +327,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 396.9
+      "minutes_since_active": 397.1
     }
   ]
 }
