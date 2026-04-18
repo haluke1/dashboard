@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T03:46:48Z",
+  "updated_at": "2026-04-18T03:47:08Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 256
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "Base directory for this skill: /private/tmp/claude-501/bundled-skills/2.1.112/ff5f34d2512e60939d4ba9619b4beeb7/claude-api # Building LLM-Powered Applications with Claude This skill\u2026",
+      "last_assistant_snippet": "Invoking the Claude API skill before writing SDK code.",
+      "message_count": 65,
+      "file_size_kb": 785,
+      "modified_ts": 1776484021.6212988,
+      "modified_iso": "2026-04-17T23:47:01.621299",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -18,26 +34,10 @@
       "last_user_msg": "whatever you think is right. i dont wanna pay extra anthropic credits for anything. if you need it for red teaming or checking find an alternative",
       "last_assistant_snippet": "59GB free, brew 5.1.6 ready. Need your call before I run the installs: **(A)** `qwen2.5:7b` \u2014 4.7GB, best JSON reliability **(B)** `qwen2.5:3b` \u2014 2GB, 2x faster, parse-failures rar\u2026",
       "message_count": 987,
-      "file_size_kb": 8155,
-      "modified_ts": 1776484007.4222007,
-      "modified_iso": "2026-04-17T23:46:47.422201",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "okey sure. sonnet 4.6 for execution opus 4.7 for review",
-      "last_assistant_snippet": "You're right. I missed this. **The Advisor Strategy** shipped April 9, 2026 \u2014 8 days ago. I should have known. ## What it actually is [VENDOR, claude.com/blog/the-advisor-strategy,\u2026",
-      "message_count": 60,
-      "file_size_kb": 534,
-      "modified_ts": 1776484003.3381608,
-      "modified_iso": "2026-04-17T23:46:43.338161",
-      "minutes_since_active": 0.1
+      "file_size_kb": 8157,
+      "modified_ts": 1776484009.1917734,
+      "modified_iso": "2026-04-17T23:46:49.191773",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 172.8
+      "minutes_since_active": 173.1
     },
     {
       "id": "026df754",
@@ -71,7 +71,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 303.2
+      "minutes_since_active": 303.5
     },
     {
       "id": "7bf56971",
@@ -87,7 +87,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 303.2
+      "minutes_since_active": 303.5
     },
     {
       "id": "4533584f",
@@ -103,7 +103,7 @@
       "file_size_kb": 54,
       "modified_ts": 1776400635.178895,
       "modified_iso": "2026-04-17T00:37:15.178895",
-      "minutes_since_active": 1389.5
+      "minutes_since_active": 1389.9
     }
   ]
 }
