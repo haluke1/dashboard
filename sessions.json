@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T05:20:23Z",
+  "updated_at": "2026-04-18T05:20:24Z",
   "counts": {
     "active": 4,
     "recent": 15,
@@ -18,9 +18,9 @@
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_7gSXHT/Screenshot 2026-04-18 at 01.17.27.png]",
       "last_assistant_snippet": "Done. 10 plugins flipped to `false`, JSON valid, 24 plugins still enabled (down from 34). ## What was disabled ``` huggingface-skills, agent-sdk-dev, evals-skills, codex, greptile,\u2026",
       "message_count": 327,
-      "file_size_kb": 3131,
-      "modified_ts": 1776489622.5345035,
-      "modified_iso": "2026-04-18T01:20:22.534503",
+      "file_size_kb": 3132,
+      "modified_ts": 1776489623.8909369,
+      "modified_iso": "2026-04-18T01:20:23.890937",
       "minutes_since_active": 0.0
     },
     {
@@ -69,7 +69,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 3.8
+      "minutes_since_active": 3.9
     }
   ],
   "recent": [
@@ -103,7 +103,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 31.1
+      "minutes_since_active": 31.2
     },
     {
       "id": "6f542fc9",
@@ -215,7 +215,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 36.8
+      "minutes_since_active": 36.9
     },
     {
       "id": "a2bc5eb9",
@@ -231,7 +231,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 39.3
+      "minutes_since_active": 39.4
     },
     {
       "id": "4ea5b550",
@@ -247,7 +247,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 39.7
+      "minutes_since_active": 39.8
     },
     {
       "id": "277e61c4",
@@ -295,7 +295,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 396.7
+      "minutes_since_active": 396.8
     },
     {
       "id": "7bf56971",
@@ -311,7 +311,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 396.7
+      "minutes_since_active": 396.8
     }
   ]
 }
