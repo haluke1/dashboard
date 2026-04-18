@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T05:30:04Z",
+  "updated_at": "2026-04-18T05:30:22Z",
   "counts": {
-    "active": 2,
-    "recent": 18,
+    "active": 3,
+    "recent": 17,
     "archived": 251,
     "total": 271
   },
   "active": [
+    {
+      "id": "b256b68f",
+      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
+      "last_user_msg": "what is the usecase for this. i am a I wanna learn how I can use these processes for myself. I don't know how to deploy to GitHub. I don't know what separate worktrees do, and I wa\u2026",
+      "last_assistant_snippet": "Ready. Here's your walkthrough \u2014 step by step, with what to expect at each point. ## Step 1 \u2014 Open a NEW Terminal tab `cmd+T` in Terminal.app. **Keep this current tab alive** \u2014 thi\u2026",
+      "message_count": 405,
+      "file_size_kb": 3130,
+      "modified_ts": 1776490215.867119,
+      "modified_iso": "2026-04-18T01:30:15.867119",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -18,10 +34,10 @@
       "last_user_msg": "okey disable it and tell me if i should disable anything else to reduce from context window.",
       "last_assistant_snippet": "coderabbit \u2192 `false`. Done. ## What else to disable Two tiers: what I'd cut without asking, and what depends on *your* usage. ### Tier A \u2014 Clear cuts (overlap with tools you alread\u2026",
       "message_count": 342,
-      "file_size_kb": 3270,
-      "modified_ts": 1776490198.2613328,
-      "modified_iso": "2026-04-18T01:29:58.261333",
-      "minutes_since_active": 0.0
+      "file_size_kb": 3271,
+      "modified_ts": 1776490204.8029356,
+      "modified_iso": "2026-04-18T01:30:04.802936",
+      "minutes_since_active": 0.3
     },
     {
       "id": "b7bc6825",
@@ -37,26 +53,10 @@
       "file_size_kb": 10856,
       "modified_ts": 1776490179.4490473,
       "modified_iso": "2026-04-18T01:29:39.449047",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
-    {
-      "id": "b256b68f",
-      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "yea",
-      "last_assistant_snippet": "Ready. Here's your walkthrough \u2014 step by step, with what to expect at each point. ## Step 1 \u2014 Open a NEW Terminal tab `cmd+T` in Terminal.app. **Keep this current tab alive** \u2014 thi\u2026",
-      "message_count": 404,
-      "file_size_kb": 3126,
-      "modified_ts": 1776489854.0388615,
-      "modified_iso": "2026-04-18T01:24:14.038862",
-      "minutes_since_active": 5.8
-    },
     {
       "id": "262480d6",
       "full_id": "262480d6-2d69-4196-9e97-6d58b4fe1716",
@@ -71,7 +71,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776489650.4870565,
       "modified_iso": "2026-04-18T01:20:50.487056",
-      "minutes_since_active": 9.1
+      "minutes_since_active": 9.5
     },
     {
       "id": "ff187ad2",
@@ -87,7 +87,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 13.4
+      "minutes_since_active": 13.7
     },
     {
       "id": "20832521",
@@ -103,7 +103,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 15.7
+      "minutes_since_active": 16.1
     },
     {
       "id": "20bfe23e",
@@ -119,7 +119,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 40.7
+      "minutes_since_active": 41.0
     },
     {
       "id": "6f542fc9",
@@ -135,7 +135,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 41.2
+      "minutes_since_active": 41.4
     },
     {
       "id": "9ee451c3",
@@ -151,7 +151,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 41.4
+      "minutes_since_active": 41.6
     },
     {
       "id": "29a5c278",
@@ -167,7 +167,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 44.1
+      "minutes_since_active": 44.3
     },
     {
       "id": "356a456e",
@@ -183,7 +183,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 44.4
+      "minutes_since_active": 44.6
     },
     {
       "id": "d5133c71",
@@ -199,7 +199,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 45.2
+      "minutes_since_active": 45.4
     },
     {
       "id": "204380d7",
@@ -215,7 +215,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 45.4
+      "minutes_since_active": 45.6
     },
     {
       "id": "855ced88",
@@ -231,7 +231,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 46.4
+      "minutes_since_active": 46.7
     },
     {
       "id": "a2bc5eb9",
@@ -247,7 +247,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 48.9
+      "minutes_since_active": 49.2
     },
     {
       "id": "4ea5b550",
@@ -263,7 +263,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 49.3
+      "minutes_since_active": 49.5
     },
     {
       "id": "277e61c4",
@@ -279,7 +279,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 49.5
+      "minutes_since_active": 49.7
     },
     {
       "id": "9cc0e1df",
@@ -295,7 +295,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 50.5
+      "minutes_since_active": 50.7
     },
     {
       "id": "026df754",
@@ -311,7 +311,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 406.4
+      "minutes_since_active": 406.7
     },
     {
       "id": "7bf56971",
@@ -327,7 +327,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 406.4
+      "minutes_since_active": 406.7
     }
   ]
 }
