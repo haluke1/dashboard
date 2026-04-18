@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-18T04:52:37Z",
+  "updated_at": "2026-04-18T04:53:41Z",
   "counts": {
-    "active": 5,
-    "recent": 12,
+    "active": 4,
+    "recent": 13,
     "archived": 251,
     "total": 268
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "explain everything we did like you are explaining to a non technical person",
+      "last_assistant_snippet": "## What's built \u2014 before + after compact ### Before compact (\u22485.14h across 4 phases) | Phase | Shipped | Artifacts | |---|---|---| | **P0** (0.24h) | Tooling + architecture scaffol\u2026",
+      "message_count": 1190,
+      "file_size_kb": 9460,
+      "modified_ts": 1776487972.6017694,
+      "modified_iso": "2026-04-18T00:52:52.601769",
+      "minutes_since_active": 0.8
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -21,23 +37,7 @@
       "file_size_kb": 1712,
       "modified_ts": 1776487953.9046082,
       "modified_iso": "2026-04-18T00:52:33.904608",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "what have we achieved so far before and after compaction and what do you need from me",
-      "last_assistant_snippet": "## What's built \u2014 before + after compact ### Before compact (\u22485.14h across 4 phases) | Phase | Shipped | Artifacts | |---|---|---| | **P0** (0.24h) | Tooling + architecture scaffol\u2026",
-      "message_count": 1189,
-      "file_size_kb": 9457,
-      "modified_ts": 1776487915.7295396,
-      "modified_iso": "2026-04-18T00:51:55.729540",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.1
     },
     {
       "id": "20bfe23e",
@@ -53,7 +53,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 4.4
     },
     {
       "id": "6f542fc9",
@@ -69,12 +69,14 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 3.8
-    },
+      "minutes_since_active": 4.9
+    }
+  ],
+  "recent": [
     {
       "id": "9ee451c3",
       "full_id": "9ee451c3-1698-447c-9ec1-091eac703893",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/advisor-demo",
       "git_branch": "master",
       "permission_mode": null,
@@ -85,10 +87,8 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 4.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "29a5c278",
       "full_id": "29a5c278-1f46-426b-8b23-bcf2a1f219b0",
@@ -103,7 +103,7 @@
       "file_size_kb": 49,
       "modified_ts": 1776487552.1308336,
       "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 6.7
+      "minutes_since_active": 7.8
     },
     {
       "id": "356a456e",
@@ -119,7 +119,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487535.256843,
       "modified_iso": "2026-04-18T00:45:35.256843",
-      "minutes_since_active": 7.0
+      "minutes_since_active": 8.1
     },
     {
       "id": "d5133c71",
@@ -135,7 +135,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776487488.6581264,
       "modified_iso": "2026-04-18T00:44:48.658126",
-      "minutes_since_active": 7.8
+      "minutes_since_active": 8.9
     },
     {
       "id": "204380d7",
@@ -151,7 +151,7 @@
       "file_size_kb": 52,
       "modified_ts": 1776487475.2914798,
       "modified_iso": "2026-04-18T00:44:35.291480",
-      "minutes_since_active": 8.0
+      "minutes_since_active": 9.1
     },
     {
       "id": "855ced88",
@@ -167,7 +167,7 @@
       "file_size_kb": 50,
       "modified_ts": 1776487412.3362753,
       "modified_iso": "2026-04-18T00:43:32.336275",
-      "minutes_since_active": 9.1
+      "minutes_since_active": 10.1
     },
     {
       "id": "a2bc5eb9",
@@ -183,7 +183,7 @@
       "file_size_kb": 58,
       "modified_ts": 1776487261.8647444,
       "modified_iso": "2026-04-18T00:41:01.864744",
-      "minutes_since_active": 11.6
+      "minutes_since_active": 12.6
     },
     {
       "id": "4ea5b550",
@@ -199,7 +199,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 12.0
+      "minutes_since_active": 13.0
     },
     {
       "id": "277e61c4",
@@ -215,7 +215,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 12.2
+      "minutes_since_active": 13.2
     },
     {
       "id": "9cc0e1df",
@@ -231,7 +231,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 13.1
+      "minutes_since_active": 14.2
     },
     {
       "id": "b256b68f",
@@ -247,7 +247,7 @@
       "file_size_kb": 2924,
       "modified_ts": 1776473643.246187,
       "modified_iso": "2026-04-17T20:54:03.246187",
-      "minutes_since_active": 238.6
+      "minutes_since_active": 239.6
     },
     {
       "id": "026df754",
@@ -263,7 +263,7 @@
       "file_size_kb": 2246,
       "modified_ts": 1776465819.1879315,
       "modified_iso": "2026-04-17T18:43:39.187932",
-      "minutes_since_active": 369.0
+      "minutes_since_active": 370.0
     },
     {
       "id": "7bf56971",
@@ -279,7 +279,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1776465819.1873624,
       "modified_iso": "2026-04-17T18:43:39.187362",
-      "minutes_since_active": 369.0
+      "minutes_since_active": 370.0
     }
   ]
 }
