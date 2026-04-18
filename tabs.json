@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-04-18T01:18:11Z",
-  "total_tabs": 263,
+  "updated_at": "2026-04-18T01:19:14Z",
+  "total_tabs": 307,
   "total_windows": 6,
   "duplicate_tabs": 51,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 122,
-      "domain_count": 70,
+      "count": 164,
+      "domain_count": 88,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 28
         },
         {
+          "domain": "eporner.com",
+          "count": 11
+        },
+        {
           "domain": "skool.com",
           "count": 8
         },
         {
-          "domain": "keep.google.com",
+          "domain": "maxboobs.com",
+          "count": 7
+        },
+        {
+          "domain": "theyarehuge.com",
           "count": 5
-        },
-        {
-          "domain": "mountainside-medical.com",
-          "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 4
         }
       ]
     },
@@ -71,6 +71,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 9,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "discord.com",
+          "count": 2
+        },
+        {
+          "domain": "anysex.com",
+          "count": 1
+        },
+        {
+          "domain": "abxxx.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 7,
       "domain_count": 5,
@@ -93,29 +120,6 @@
         },
         {
           "domain": "localhost:61302",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "discord.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
           "count": 1
         }
       ]
