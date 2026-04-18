@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T04:41:01Z",
+  "updated_at": "2026-04-18T04:41:05Z",
   "counts": {
     "active": 6,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 260
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
+      "last_assistant_snippet": "Sonnet ignored the advisor pattern and just wrote files. Two fixes: force the advisor-call-first behavior via a stronger prompt, and disallow file-writing tools so the executor can\u2026",
+      "message_count": 216,
+      "file_size_kb": 1511,
+      "modified_ts": 1776487262.3701553,
+      "modified_iso": "2026-04-18T00:41:02.370155",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "a2bc5eb9",
       "full_id": "a2bc5eb9-2abf-4b6f-a778-bac33da33afe",
@@ -18,10 +34,10 @@
       "last_user_msg": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended pattern \u2014 channel-based job queue with \u2026",
       "last_assistant_snippet": "Here's a concurrent worker pool in Go with graceful shutdown: ```go package workerpool import ( \"context\" \"sync\" ) type Job[T, R any] struct { Input T Result chan<- Result[R] } typ\u2026",
       "message_count": 3,
-      "file_size_kb": 57,
-      "modified_ts": 1776487259.831367,
-      "modified_iso": "2026-04-18T00:40:59.831367",
-      "minutes_since_active": 0.0
+      "file_size_kb": 58,
+      "modified_ts": 1776487261.8647444,
+      "modified_iso": "2026-04-18T00:41:01.864744",
+      "minutes_since_active": 0.1
     },
     {
       "id": "4ea5b550",
@@ -37,7 +53,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487239.0573835,
       "modified_iso": "2026-04-18T00:40:39.057384",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "277e61c4",
@@ -53,23 +69,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487227.4358757,
       "modified_iso": "2026-04-18T00:40:27.435876",
-      "minutes_since_active": 0.5
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "bro I AM NOT FUCKING PAYING FOR EXTRA CREDITS YOU GOT THAT WHAT THE FUCK BRO",
-      "last_assistant_snippet": "Sonnet ignored the advisor pattern and just wrote files. Two fixes: force the advisor-call-first behavior via a stronger prompt, and disallow file-writing tools so the executor can\u2026",
-      "message_count": 215,
-      "file_size_kb": 1500,
-      "modified_ts": 1776487216.2320023,
-      "modified_iso": "2026-04-18T00:40:16.232002",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 0.6
     },
     {
       "id": "9cc0e1df",
@@ -85,7 +85,7 @@
       "file_size_kb": 94,
       "modified_ts": 1776487169.0251927,
       "modified_iso": "2026-04-18T00:39:29.025193",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 1.6
     },
     {
       "id": "b7bc6825",
@@ -101,7 +101,7 @@
       "file_size_kb": 9103,
       "modified_ts": 1776487157.6944854,
       "modified_iso": "2026-04-18T00:39:17.694485",
-      "minutes_since_active": 1.7
+      "minutes_since_active": 1.8
     }
   ],
   "recent": [
