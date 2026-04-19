@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T16:54:49Z",
-  "total_tabs": 273,
+  "updated_at": "2026-04-19T16:55:53Z",
+  "total_tabs": 272,
   "total_windows": 5,
-  "duplicate_tabs": 51,
+  "duplicate_tabs": 49,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 75,
+      "count": 74,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 75
+          "count": 74
         }
       ]
     },
@@ -126,15 +126,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "simonw.substack.com",
-          "count": 1
-        },
-        {
           "domain": "hannahstulberg.substack.com",
           "count": 1
         },
         {
           "domain": "pmarca.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "simonw.substack.com",
           "count": 1
         }
       ]
