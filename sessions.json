@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:19:38Z",
+  "updated_at": "2026-04-19T17:20:42Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Subagent delivered. Here's the distilled editorial layer. ## claude-architect-guide.html \u2014 worth 30-45 min 100-concept Anthropic certification study guide, 60% you already know, 20\u2026",
       "message_count": 443,
       "file_size_kb": 3845,
-      "modified_ts": 1776619003.868218,
-      "modified_iso": "2026-04-19T13:16:43.868218",
-      "minutes_since_active": 2.9
+      "modified_ts": 1776619199.2034426,
+      "modified_iso": "2026-04-19T13:19:59.203443",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 8.1
+      "minutes_since_active": 9.2
     },
     {
       "id": "b256b68f",
@@ -55,7 +55,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 10.2
+      "minutes_since_active": 11.3
     }
   ]
 }
