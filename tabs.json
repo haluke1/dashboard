@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T20:02:30Z",
-  "total_tabs": 17,
+  "updated_at": "2026-04-19T20:03:37Z",
+  "total_tabs": 16,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -19,15 +19,15 @@
           "count": 2
         },
         {
-          "domain": "freepik.com",
-          "count": 1
-        },
-        {
           "domain": "motion.dev",
           "count": 1
         },
         {
           "domain": "bacteriostaticwater.com",
+          "count": 1
+        },
+        {
+          "domain": "freepik.com",
           "count": 1
         }
       ]
@@ -62,17 +62,6 @@
         {
           "domain": "youtube.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "reddit.com",
-          "count": 1
         }
       ]
     }
