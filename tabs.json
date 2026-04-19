@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-19T17:00:11Z",
-  "total_tabs": 267,
+  "updated_at": "2026-04-19T17:01:15Z",
+  "total_tabs": 262,
   "total_windows": 5,
-  "duplicate_tabs": 49,
+  "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 127,
+      "count": 125,
       "domain_count": 73,
       "top_domains": [
         {
@@ -19,11 +19,11 @@
           "count": 8
         },
         {
-          "domain": "keep.google.com",
-          "count": 7
+          "domain": "open.spotify.com",
+          "count": 5
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "keep.google.com",
           "count": 5
         },
         {
@@ -34,18 +34,18 @@
     },
     {
       "name": "video",
-      "count": 70,
+      "count": 69,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 70
+          "count": 69
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 46,
+      "count": 45,
       "domain_count": 5,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 13
+          "count": 12
         },
         {
           "domain": "anthropic.com",
@@ -72,7 +72,7 @@
     },
     {
       "name": "social",
-      "count": 10,
+      "count": 9,
       "domain_count": 4,
       "top_domains": [
         {
@@ -80,15 +80,15 @@
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 2
-        },
-        {
           "domain": "discord.com",
           "count": 2
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
           "count": 1
         }
       ]
