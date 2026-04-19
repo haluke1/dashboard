@@ -1,16 +1,34 @@
 {
-  "updated_at": "2026-04-19T16:55:54Z",
+  "updated_at": "2026-04-19T16:56:58Z",
   "counts": {
     "active": 1,
-    "recent": 0,
-    "archived": 271,
+    "recent": 1,
+    "archived": 270,
     "total": 272
   },
   "active": [
     {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "okey so what is the next step and can we create a dashboard that includes all the logic of all the json / .md / hooks / rules / how system behaves?",
+      "last_assistant_snippet": "All 3 cross-session features live. Final summary. --- ## What shipped (all global via `~/.claude/settings.json`) | Feature | Files | Hook wiring | What it does | |---|---|---|---| \u2026",
+      "message_count": 1472,
+      "file_size_kb": 12068,
+      "modified_ts": 1776617775.922345,
+      "modified_iso": "2026-04-19T12:56:15.922345",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
+    {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/reports/elite-reports-database",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,8 +39,7 @@
       "file_size_kb": 4154,
       "modified_ts": 1776617502.9923394,
       "modified_iso": "2026-04-19T12:51:42.992339",
-      "minutes_since_active": 4.2
+      "minutes_since_active": 5.3
     }
-  ],
-  "recent": []
+  ]
 }
