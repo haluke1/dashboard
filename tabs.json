@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T19:44:21Z",
-  "total_tabs": 16,
+  "updated_at": "2026-04-19T19:45:26Z",
+  "total_tabs": 17,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -8,19 +8,15 @@
     {
       "name": "other",
       "count": 9,
-      "domain_count": 8,
+      "domain_count": 7,
       "top_domains": [
         {
-          "domain": "(no domain)",
+          "domain": "higgsfield.ai",
           "count": 2
         },
         {
-          "domain": "higgsfield.ai",
-          "count": 1
-        },
-        {
-          "domain": "accounts.google.com",
-          "count": 1
+          "domain": "(no domain)",
+          "count": 2
         },
         {
           "domain": "freepik.com",
@@ -28,6 +24,10 @@
         },
         {
           "domain": "motion.dev",
+          "count": 1
+        },
+        {
+          "domain": "bacteriostaticwater.com",
           "count": 1
         }
       ]
@@ -62,6 +62,17 @@
         {
           "domain": "youtube.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
+          "count": 1
         }
       ]
     }
