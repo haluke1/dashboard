@@ -1,26 +1,22 @@
 {
-  "updated_at": "2026-04-19T18:01:34Z",
-  "total_tabs": 108,
+  "updated_at": "2026-04-19T18:02:37Z",
+  "total_tabs": 93,
   "total_windows": 4,
-  "duplicate_tabs": 15,
+  "duplicate_tabs": 13,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 54,
-      "domain_count": 34,
+      "count": 48,
+      "domain_count": 31,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 15
+          "count": 13
         },
         {
           "domain": "open.spotify.com",
           "count": 4
-        },
-        {
-          "domain": "google.com",
-          "count": 2
         },
         {
           "domain": "21st.dev",
@@ -29,23 +25,16 @@
         {
           "domain": "keep.google.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 22,
-      "domain_count": 1,
-      "top_domains": [
+        },
         {
-          "domain": "youtube.com",
-          "count": 22
+          "domain": "motion.dev",
+          "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 19,
+      "count": 18,
       "domain_count": 3,
       "top_domains": [
         {
@@ -53,23 +42,34 @@
           "count": 14
         },
         {
-          "domain": "anthropic.com",
-          "count": 3
+          "domain": "claude.ai",
+          "count": 2
         },
         {
-          "domain": "claude.ai",
+          "domain": "anthropic.com",
           "count": 2
         }
       ]
     },
     {
+      "name": "video",
+      "count": 18,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 18
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 7,
+      "count": 6,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "web.whatsapp.com",
@@ -78,17 +78,6 @@
         {
           "domain": "discord.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 2
         }
       ]
     },
@@ -104,23 +93,12 @@
       ]
     },
     {
-      "name": "local",
+      "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "localhost:8080",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "pmarca.substack.com",
+          "domain": "amazon.com",
           "count": 1
         }
       ]
