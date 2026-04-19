@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T17:53:05Z",
-  "total_tabs": 144,
+  "updated_at": "2026-04-19T17:54:09Z",
+  "total_tabs": 140,
   "total_windows": 4,
   "duplicate_tabs": 19,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 73,
-      "domain_count": 47,
+      "count": 72,
+      "domain_count": 46,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,27 +34,27 @@
     },
     {
       "name": "video",
-      "count": 30,
+      "count": 29,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 30
+          "count": 29
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 24,
+      "count": 22,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 16
+          "count": 15
         },
         {
           "domain": "claude.ai",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "anthropic.com",
