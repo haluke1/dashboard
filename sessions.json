@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T16:58:03Z",
+  "updated_at": "2026-04-19T16:59:08Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "okey so what is the next step and can we create a dashboard that includes all the logic of all the json / .md / hooks / rules / how system behaves?",
       "last_assistant_snippet": "Skipping the advisor auto-trigger again (subagent type doesn't exist). Honest answers to both questions: --- ## What's the next step (strategic, not infrastructure) Per the red-tea\u2026",
       "message_count": 1474,
-      "file_size_kb": 12087,
-      "modified_ts": 1776617882.985874,
-      "modified_iso": "2026-04-19T12:58:02.985874",
-      "minutes_since_active": 0.0
+      "file_size_kb": 12089,
+      "modified_ts": 1776617883.9254382,
+      "modified_iso": "2026-04-19T12:58:03.925438",
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 4154,
       "modified_ts": 1776617502.9923394,
       "modified_iso": "2026-04-19T12:51:42.992339",
-      "minutes_since_active": 6.3
+      "minutes_since_active": 7.4
     }
   ]
 }
