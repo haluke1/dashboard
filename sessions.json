@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-19T04:48:52Z",
+  "updated_at": "2026-04-19T04:49:56Z",
   "counts": {
     "active": 0,
-    "recent": 8,
-    "archived": 264,
+    "recent": 7,
+    "archived": 265,
     "total": 272
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4093,
       "modified_ts": 1776542335.7200139,
       "modified_iso": "2026-04-18T15:58:55.720014",
-      "minutes_since_active": 529.9
+      "minutes_since_active": 531.0
     },
     {
       "id": "304e5ed3",
@@ -38,7 +38,7 @@
       "file_size_kb": 132,
       "modified_ts": 1776493121.749903,
       "modified_iso": "2026-04-18T02:18:41.749903",
-      "minutes_since_active": 1350.2
+      "minutes_since_active": 1351.2
     },
     {
       "id": "b7bc6825",
@@ -54,7 +54,7 @@
       "file_size_kb": 12058,
       "modified_ts": 1776492687.9981027,
       "modified_iso": "2026-04-18T02:11:27.998103",
-      "minutes_since_active": 1357.4
+      "minutes_since_active": 1358.5
     },
     {
       "id": "ca08a6d6",
@@ -70,7 +70,7 @@
       "file_size_kb": 3514,
       "modified_ts": 1776491760.9527488,
       "modified_iso": "2026-04-18T01:56:00.952749",
-      "minutes_since_active": 1372.8
+      "minutes_since_active": 1373.9
     },
     {
       "id": "262480d6",
@@ -86,7 +86,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776489650.4870565,
       "modified_iso": "2026-04-18T01:20:50.487056",
-      "minutes_since_active": 1408.0
+      "minutes_since_active": 1409.1
     },
     {
       "id": "ff187ad2",
@@ -102,7 +102,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 1412.3
+      "minutes_since_active": 1413.4
     },
     {
       "id": "20832521",
@@ -118,23 +118,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 1414.6
-    },
-    {
-      "id": "20bfe23e",
-      "full_id": "20bfe23e-84ac-40bd-a5be-25dd34f3e71c",
-      "status": "recent",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue wi\u2026",
-      "last_user_msg": "Previous conversation: [executor] CALL_ADVISOR: The user wants a concurrent worker pool in Go with graceful shutdown. What's the recommended Go pattern \u2014 channel-based job queue wi\u2026",
-      "last_assistant_snippet": "Here's the Go worker pool implementation based on the advisor's guidance: ```go package workerpool import ( \"context\" \"fmt\" \"os/signal\" \"sync\" \"syscall\" ) type Job struct { ID int \u2026",
-      "message_count": 3,
-      "file_size_kb": 59,
-      "modified_ts": 1776487753.8113341,
-      "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 1439.6
+      "minutes_since_active": 1415.6
     }
   ]
 }

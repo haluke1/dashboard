@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T04:48:51Z",
-  "total_tabs": 277,
+  "updated_at": "2026-04-19T04:49:55Z",
+  "total_tabs": 279,
   "total_windows": 5,
   "duplicate_tabs": 54,
   "bridge_online": true,
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 47,
+      "count": 48,
       "domain_count": 5,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 13
+          "count": 14
         },
         {
           "domain": "anthropic.com",
@@ -121,6 +121,17 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 3,
       "domain_count": 3,
@@ -146,17 +157,6 @@
       "top_domains": [
         {
           "domain": "notion.so",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 2
         }
       ]
