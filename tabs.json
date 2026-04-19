@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T22:04:47Z",
-  "total_tabs": 16,
+  "updated_at": "2026-04-19T22:05:50Z",
+  "total_tabs": 15,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -11,12 +11,16 @@
       "domain_count": 7,
       "top_domains": [
         {
+          "domain": "(no domain)",
+          "count": 2
+        },
+        {
           "domain": "higgsfield.ai",
           "count": 2
         },
         {
-          "domain": "(no domain)",
-          "count": 2
+          "domain": "open.spotify.com",
+          "count": 1
         },
         {
           "domain": "motion.dev",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "bacteriostaticwater.com",
-          "count": 1
-        },
-        {
-          "domain": "freepik.com",
           "count": 1
         }
       ]
@@ -61,17 +61,6 @@
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "tiktok.com",
           "count": 1
         }
       ]

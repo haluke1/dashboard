@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-19T22:04:48Z",
+  "updated_at": "2026-04-19T22:05:52Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 268,
     "total": 276
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "da78fa86",
       "full_id": "da78fa86-f4a7-4706-af3a-3fb69a2eebd9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/hyperframes-test/philly-ai-scene",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
-      "last_user_msg": "open it",
-      "last_assistant_snippet": "Opening in QuickTime now.",
-      "message_count": 429,
-      "file_size_kb": 4242,
-      "modified_ts": 1776634237.3270335,
-      "modified_iso": "2026-04-19T17:30:37.327034",
-      "minutes_since_active": 34.2
-    },
+      "last_user_msg": "how could we improve upon this? could we get videos from higgsfield or freepik?",
+      "last_assistant_snippet": "API Error: 500 {\"type\":\"error\",\"error\":{\"type\":\"api_error\",\"message\":\"Internal server error\"},\"request_id\":\"req_011CaDtTkB2mHLxYjXcf3K2b\"} \u00b7 check status.claude.com",
+      "message_count": 431,
+      "file_size_kb": 4246,
+      "modified_ts": 1776636306.716549,
+      "modified_iso": "2026-04-19T18:05:06.716549",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -38,7 +39,7 @@
       "file_size_kb": 5469,
       "modified_ts": 1776633238.0053911,
       "modified_iso": "2026-04-19T17:13:58.005391",
-      "minutes_since_active": 50.8
+      "minutes_since_active": 51.9
     },
     {
       "id": "05f57455",
@@ -54,7 +55,7 @@
       "file_size_kb": 61,
       "modified_ts": 1776626908.1460888,
       "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 156.3
+      "minutes_since_active": 157.4
     },
     {
       "id": "8d73c511",
@@ -70,7 +71,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 250.9
+      "minutes_since_active": 252.0
     },
     {
       "id": "45397608",
@@ -86,7 +87,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 263.2
+      "minutes_since_active": 264.2
     },
     {
       "id": "ca08a6d6",
@@ -102,7 +103,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 268.5
+      "minutes_since_active": 269.5
     },
     {
       "id": "b7bc6825",
@@ -118,7 +119,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 293.3
+      "minutes_since_active": 294.3
     },
     {
       "id": "b256b68f",
@@ -134,7 +135,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 295.4
+      "minutes_since_active": 296.4
     }
   ]
 }
