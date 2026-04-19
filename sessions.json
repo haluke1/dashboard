@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-19T17:31:26Z",
+  "updated_at": "2026-04-19T17:32:31Z",
   "counts": {
-    "active": 2,
+    "active": 3,
     "recent": 2,
-    "archived": 269,
+    "archived": 268,
     "total": 273
   },
   "active": [
+    {
+      "id": "e508fda2",
+      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
+      "last_user_msg": "can you take a look at these github repos and tell me if we could use them or if it will be helpful -> https://github.com/louislva/claude-peers-mcp / https://github.com/HKUDS/OpenS\u2026",
+      "last_assistant_snippet": "Yes. At the mechanical level, that's exactly what they are. But saying \"agents are just functions and loops\" is like saying \"a restaurant is just a room with a stove.\" Technically \u2026",
+      "message_count": 678,
+      "file_size_kb": 2619,
+      "modified_ts": 1776619948.5063903,
+      "modified_iso": "2026-04-19T13:32:28.506390",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -17,11 +33,11 @@
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "yes lets do all 3",
       "last_assistant_snippet": "Now the Phase 2 decisions doc \u2014 the genius-grade artifact.",
-      "message_count": 463,
-      "file_size_kb": 3993,
-      "modified_ts": 1776619808.65987,
-      "modified_iso": "2026-04-19T13:30:08.659870",
-      "minutes_since_active": 1.3
+      "message_count": 466,
+      "file_size_kb": 4000,
+      "modified_ts": 1776619921.894381,
+      "modified_iso": "2026-04-19T13:32:01.894381",
+      "minutes_since_active": 0.5
     },
     {
       "id": "8d73c511",
@@ -37,7 +53,7 @@
       "file_size_kb": 913,
       "modified_ts": 1776619798.64745,
       "modified_iso": "2026-04-19T13:29:58.647450",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 2.5
     }
   ],
   "recent": [
@@ -55,7 +71,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 19.9
+      "minutes_since_active": 21.0
     },
     {
       "id": "b256b68f",
@@ -71,7 +87,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 22.0
+      "minutes_since_active": 23.1
     }
   ]
 }
