@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:09:12Z",
+  "updated_at": "2026-04-19T17:09:49Z",
   "counts": {
     "active": 3,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 272
   },
   "active": [
+    {
+      "id": "b256b68f",
+      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
+      "status": "active",
+      "project": "/Users/halukgul/reports/elite-reports-database",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
+      "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
+      "last_assistant_snippet": "Live in Arc. 5 archetypes + synthesis picker combined into one navigable page (7,989 lines of HTML). ## What's on disk | File | Lines | |---|---| | `archetype-1-consulting-report.m\u2026",
+      "message_count": 573,
+      "file_size_kb": 4260,
+      "modified_ts": 1776618567.0027976,
+      "modified_iso": "2026-04-19T13:09:27.002798",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -18,10 +34,10 @@
       "last_user_msg": "can you check out this repo and see if there's value here -> https://github.com/humanlayer/12-factor-agents",
       "last_assistant_snippet": "[VENDOR, github.com/humanlayer/12-factor-agents, fetched 2026-04-19] ## What it is A 12-principle methodology doc by Dex Horthy (HumanLayer, ex-YC, 100+ founder convos), 19k stars,\u2026",
       "message_count": 412,
-      "file_size_kb": 3655,
-      "modified_ts": 1776618551.1593297,
-      "modified_iso": "2026-04-19T13:09:11.159330",
-      "minutes_since_active": 0.0
+      "file_size_kb": 3656,
+      "modified_ts": 1776618552.6537778,
+      "modified_iso": "2026-04-19T13:09:12.653778",
+      "minutes_since_active": 0.6
     },
     {
       "id": "b7bc6825",
@@ -37,23 +53,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618503.193289,
       "modified_iso": "2026-04-19T13:08:23.193289",
-      "minutes_since_active": 0.8
-    },
-    {
-      "id": "b256b68f",
-      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "active",
-      "project": "/Users/halukgul/reports/elite-reports-database",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
-      "last_assistant_snippet": "Live in Arc. 5 archetypes + synthesis picker combined into one navigable page (7,989 lines of HTML). ## What's on disk | File | Lines | |---|---| | `archetype-1-consulting-report.m\u2026",
-      "message_count": 573,
-      "file_size_kb": 4259,
-      "modified_ts": 1776618376.682239,
-      "modified_iso": "2026-04-19T13:06:16.682239",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 1.4
     }
   ],
   "recent": []
