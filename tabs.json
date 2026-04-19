@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T22:38:50Z",
+  "updated_at": "2026-04-19T22:39:53Z",
   "total_tabs": 15,
   "total_windows": 4,
   "duplicate_tabs": 0,
@@ -11,16 +11,12 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "(no domain)",
-          "count": 2
-        },
-        {
           "domain": "higgsfield.ai",
           "count": 2
         },
         {
-          "domain": "open.spotify.com",
-          "count": 1
+          "domain": "(no domain)",
+          "count": 2
         },
         {
           "domain": "motion.dev",
@@ -28,6 +24,10 @@
         },
         {
           "domain": "bacteriostaticwater.com",
+          "count": 1
+        },
+        {
+          "domain": "freepik.com",
           "count": 1
         }
       ]
