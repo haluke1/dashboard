@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-19T19:02:44Z",
+  "updated_at": "2026-04-19T19:03:47Z",
   "counts": {
-    "active": 1,
-    "recent": 5,
+    "active": 0,
+    "recent": 6,
     "archived": 268,
     "total": 274
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-peers-mcp",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 3136,
       "modified_ts": 1776625081.3287587,
       "modified_iso": "2026-04-19T14:58:01.328759",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.8
+    },
     {
       "id": "8d73c511",
       "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
@@ -39,7 +38,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 68.9
+      "minutes_since_active": 69.9
     },
     {
       "id": "45397608",
@@ -55,7 +54,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 81.1
+      "minutes_since_active": 82.1
     },
     {
       "id": "ca08a6d6",
@@ -71,7 +70,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 86.4
+      "minutes_since_active": 87.5
     },
     {
       "id": "b7bc6825",
@@ -87,7 +86,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 111.2
+      "minutes_since_active": 112.2
     },
     {
       "id": "b256b68f",
@@ -103,7 +102,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 113.3
+      "minutes_since_active": 114.3
     }
   ]
 }
