@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-19T06:11:03Z",
+  "updated_at": "2026-04-19T06:12:07Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 269,
+    "recent": 2,
+    "archived": 270,
     "total": 272
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4093,
       "modified_ts": 1776542335.7200139,
       "modified_iso": "2026-04-18T15:58:55.720014",
-      "minutes_since_active": 612.1
+      "minutes_since_active": 613.2
     },
     {
       "id": "304e5ed3",
@@ -38,23 +38,7 @@
       "file_size_kb": 132,
       "modified_ts": 1776493121.749903,
       "modified_iso": "2026-04-18T02:18:41.749903",
-      "minutes_since_active": 1432.4
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_H5jVGJ/Screenshot 2026-04-18 at 01.57.15.png]",
-      "last_assistant_snippet": "All 3 cross-session features live. Final summary. --- ## What shipped (all global via `~/.claude/settings.json`) | Feature | Files | Hook wiring | What it does | |---|---|---|---| \u2026",
-      "message_count": 1471,
-      "file_size_kb": 12058,
-      "modified_ts": 1776492687.9981027,
-      "modified_iso": "2026-04-18T02:11:27.998103",
-      "minutes_since_active": 1439.6
+      "minutes_since_active": 1433.4
     }
   ]
 }
