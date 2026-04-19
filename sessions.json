@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T17:02:21Z",
+  "updated_at": "2026-04-19T17:03:25Z",
   "counts": {
-    "active": 2,
-    "recent": 0,
+    "active": 1,
+    "recent": 1,
     "archived": 270,
     "total": 272
   },
@@ -17,16 +17,18 @@
       "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
       "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
       "last_assistant_snippet": "Plan: launch 5 agents in parallel, each reverse-engineers one report archetype using the 8-lens framework. Output = 5 reproducible blueprints + 1 synthesis you can pick from per ar\u2026",
-      "message_count": 555,
-      "file_size_kb": 4181,
-      "modified_ts": 1776618089.9563909,
-      "modified_iso": "2026-04-19T13:01:29.956391",
-      "minutes_since_active": 0.9
-    },
+      "message_count": 556,
+      "file_size_kb": 4190,
+      "modified_ts": 1776618184.311362,
+      "modified_iso": "2026-04-19T13:03:04.311362",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,8 +39,7 @@
       "file_size_kb": 12089,
       "modified_ts": 1776617883.9254382,
       "modified_iso": "2026-04-19T12:58:03.925438",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 5.4
     }
-  ],
-  "recent": []
+  ]
 }
