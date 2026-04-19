@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:45:24Z",
+  "updated_at": "2026-04-19T17:45:28Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 274
   },
   "active": [
+    {
+      "id": "8d73c511",
+      "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "so i had lots of youtube tabs summarized but dont have the time to go over them. i want you to go over them and give me things we could use and implement. i dont want to learn the \u2026",
+      "last_user_msg": "did you integrate stuff from here? -> file:///Users/halukgul/AI_Image_Prompting_Techniques_MasterGuide.md file:///Users/halukgul/FREEPIK_SPACES_MASTER_GUIDE.md file:///Users/halukg\u2026",
+      "last_assistant_snippet": "Let me check what's actually in those files before answering.",
+      "message_count": 90,
+      "file_size_kb": 1051,
+      "modified_ts": 1776620727.1747825,
+      "modified_iso": "2026-04-19T13:45:27.174783",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -18,26 +34,10 @@
       "last_user_msg": "i want dangerously skip permissions auto activated whenever any session opens and want claude peers system working",
       "last_assistant_snippet": "claude-peers MCP is registered and will auto-load in every new Claude Code session. Here's the setup: **Done:** - `bun` installed - `claude-peers-mcp` cloned to `~/claude-peers-mcp\u2026",
       "message_count": 722,
-      "file_size_kb": 2712,
-      "modified_ts": 1776620723.6557176,
-      "modified_iso": "2026-04-19T13:45:23.655718",
+      "file_size_kb": 2714,
+      "modified_ts": 1776620725.167093,
+      "modified_iso": "2026-04-19T13:45:25.167093",
       "minutes_since_active": 0.0
-    },
-    {
-      "id": "8d73c511",
-      "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "so i had lots of youtube tabs summarized but dont have the time to go over them. i want you to go over them and give me things we could use and implement. i dont want to learn the \u2026",
-      "last_user_msg": "did you integrate stuff from here? -> file:///Users/halukgul/AI_Image_Prompting_Techniques_MasterGuide.md file:///Users/halukgul/FREEPIK_SPACES_MASTER_GUIDE.md file:///Users/halukg\u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The webpage separates \"what to build\" (the agent intelligence) from \"how to prompt it\" (the video keyword DBs) \u2014 keeping both laye\u2026",
-      "message_count": 84,
-      "file_size_kb": 1011,
-      "modified_ts": 1776620710.7590027,
-      "modified_iso": "2026-04-19T13:45:10.759003",
-      "minutes_since_active": 0.2
     },
     {
       "id": "45397608",

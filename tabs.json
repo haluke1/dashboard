@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-04-19T17:44:21Z",
-  "total_tabs": 204,
-  "total_windows": 5,
-  "duplicate_tabs": 27,
+  "updated_at": "2026-04-19T17:45:27Z",
+  "total_tabs": 187,
+  "total_windows": 4,
+  "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 95,
-      "domain_count": 56,
+      "count": 83,
+      "domain_count": 55,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 24
-        },
-        {
-          "domain": "skool.com",
-          "count": 5
+          "count": 17
         },
         {
           "domain": "mountainside-medical.com",
@@ -29,6 +25,10 @@
         {
           "domain": "keep.google.com",
           "count": 3
+        },
+        {
+          "domain": "bacteriostaticwater.com",
+          "count": 2
         }
       ]
     },
@@ -45,24 +45,20 @@
     },
     {
       "name": "ai-dev",
-      "count": 30,
-      "domain_count": 5,
+      "count": 27,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 17
+          "count": 16
         },
         {
           "domain": "claude.ai",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "anthropic.com",
           "count": 3
-        },
-        {
-          "domain": "devpost.com",
-          "count": 1
         },
         {
           "domain": "(no domain)",
@@ -95,20 +91,12 @@
     },
     {
       "name": "local",
-      "count": 6,
-      "domain_count": 4,
+      "count": 4,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "localhost:8080",
           "count": 3
-        },
-        {
-          "domain": "localhost:61304",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8888",
-          "count": 1
         },
         {
           "domain": "localhost:60561",
