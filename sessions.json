@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T18:16:48Z",
+  "updated_at": "2026-04-19T18:17:39Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "this is what came up when i opened a new session -> --dangerously-load-development-channels ignored (server:claude-peers) Channels are not currently available",
-      "last_assistant_snippet": "Clean. No errors. Now reload your shell \u2014 run this: ``` ! source ~/.zshrc && echo \"cc is at: $(which cc)\" ``` No more openclaw errors. `cc` alias is ready for claude-peers.",
-      "message_count": 737,
-      "file_size_kb": 3092,
-      "modified_ts": 1776622606.8629804,
-      "modified_iso": "2026-04-19T14:16:46.862980",
+      "last_assistant_snippet": "Fixed. The peers MCP tools load automatically from `~/.claude.json` \u2014 no special flags needed. Every new Claude Code session can now `list_peers` and `send_message` to other runnin\u2026",
+      "message_count": 743,
+      "file_size_kb": 3099,
+      "modified_ts": 1776622658.1498508,
+      "modified_iso": "2026-04-19T14:17:38.149851",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 22.9
+      "minutes_since_active": 23.8
     },
     {
       "id": "45397608",
@@ -55,7 +55,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 35.2
+      "minutes_since_active": 36.0
     },
     {
       "id": "ca08a6d6",
@@ -71,7 +71,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 40.5
+      "minutes_since_active": 41.3
     },
     {
       "id": "b7bc6825",
@@ -87,7 +87,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 65.3
+      "minutes_since_active": 66.1
     },
     {
       "id": "b256b68f",
@@ -103,7 +103,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 67.4
+      "minutes_since_active": 68.2
     }
   ]
 }
