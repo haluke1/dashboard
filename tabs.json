@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-19T17:52:00Z",
-  "total_tabs": 148,
+  "updated_at": "2026-04-19T17:53:05Z",
+  "total_tabs": 144,
   "total_windows": 4,
   "duplicate_tabs": 19,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 76,
-      "domain_count": 48,
+      "count": 73,
+      "domain_count": 47,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 17
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 4
+          "count": 15
         },
         {
           "domain": "mountainside-medical.com",
+          "count": 4
+        },
+        {
+          "domain": "open.spotify.com",
           "count": 4
         },
         {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 31,
+      "count": 30,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 31
+          "count": 30
         }
       ]
     },
@@ -72,15 +72,15 @@
           "count": 5
         },
         {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
           "count": 1
         }
       ]
@@ -93,17 +93,6 @@
         {
           "domain": "localhost:8080",
           "count": 3
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
         }
       ]
     },
@@ -129,6 +118,17 @@
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 2
         }
       ]
