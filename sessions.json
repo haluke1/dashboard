@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-19T05:55:00Z",
+  "updated_at": "2026-04-19T05:56:04Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 268,
+    "recent": 3,
+    "archived": 269,
     "total": 272
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4093,
       "modified_ts": 1776542335.7200139,
       "modified_iso": "2026-04-18T15:58:55.720014",
-      "minutes_since_active": 596.1
+      "minutes_since_active": 597.1
     },
     {
       "id": "304e5ed3",
@@ -38,7 +38,7 @@
       "file_size_kb": 132,
       "modified_ts": 1776493121.749903,
       "modified_iso": "2026-04-18T02:18:41.749903",
-      "minutes_since_active": 1416.3
+      "minutes_since_active": 1417.4
     },
     {
       "id": "b7bc6825",
@@ -54,23 +54,7 @@
       "file_size_kb": 12058,
       "modified_ts": 1776492687.9981027,
       "modified_iso": "2026-04-18T02:11:27.998103",
-      "minutes_since_active": 1423.5
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "recent",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "shut it and move on just wanted to test it",
-      "last_assistant_snippet": "Team shut down and deleted. `~/.claude/teams/advisor-demo-audit/` and `~/.claude/tasks/advisor-demo-audit/` are gone. **What you've got at this point:** - Default Sonnet 4.6 sessio\u2026",
-      "message_count": 405,
-      "file_size_kb": 3514,
-      "modified_ts": 1776491760.9527488,
-      "modified_iso": "2026-04-18T01:56:00.952749",
-      "minutes_since_active": 1439.0
+      "minutes_since_active": 1424.6
     }
   ]
 }
