@@ -1,29 +1,67 @@
 {
-  "updated_at": "2026-04-19T21:21:58Z",
-  "total_tabs": 2,
-  "total_windows": 1,
+  "updated_at": "2026-04-19T21:23:20Z",
+  "total_tabs": 16,
+  "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 1,
-      "domain_count": 1,
+      "count": 9,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 2
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 1
+        },
+        {
+          "domain": "motion.dev",
+          "count": 1
+        },
+        {
+          "domain": "bacteriostaticwater.com",
           "count": 1
         }
       ]
     },
     {
-      "name": "local",
-      "count": 1,
+      "name": "ai-dev",
+      "count": 3,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "localhost:65504",
-          "count": 1
+          "domain": "github.com",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
+          "count": 2
         }
       ]
     }
