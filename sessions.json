@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T17:42:14Z",
+  "updated_at": "2026-04-19T17:43:18Z",
   "counts": {
-    "active": 3,
-    "recent": 3,
+    "active": 2,
+    "recent": 4,
     "archived": 268,
     "total": 274
   },
@@ -17,11 +17,11 @@
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "i want dangerously skip permissions auto activated whenever any session opens and want claude peers system working",
       "last_assistant_snippet": "You already have `bypassPermissions` as default mode and `skipDangerousModePermissionPrompt: true` \u2014 so permissions are already auto-skipped for your sessions. Now let me install c\u2026",
-      "message_count": 706,
-      "file_size_kb": 2682,
-      "modified_ts": 1776620531.9783628,
-      "modified_iso": "2026-04-19T13:42:11.978363",
-      "minutes_since_active": 0.0
+      "message_count": 708,
+      "file_size_kb": 2684,
+      "modified_ts": 1776620583.5002177,
+      "modified_iso": "2026-04-19T13:43:03.500218",
+      "minutes_since_active": 0.2
     },
     {
       "id": "45397608",
@@ -37,12 +37,14 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 0.6
-    },
+      "minutes_since_active": 1.7
+    }
+  ],
+  "recent": [
     {
       "id": "8d73c511",
       "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 1009,
       "modified_ts": 1776620267.4644387,
       "modified_iso": "2026-04-19T13:37:47.464439",
-      "minutes_since_active": 4.4
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.5
+    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -71,7 +71,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 5.9
+      "minutes_since_active": 7.0
     },
     {
       "id": "b7bc6825",
@@ -87,7 +87,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 30.7
+      "minutes_since_active": 31.8
     },
     {
       "id": "b256b68f",
@@ -103,7 +103,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 32.8
+      "minutes_since_active": 33.9
     }
   ]
 }
