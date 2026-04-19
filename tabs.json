@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T19:28:25Z",
+  "updated_at": "2026-04-19T19:29:28Z",
   "total_tabs": 12,
   "total_windows": 4,
   "duplicate_tabs": 0,
@@ -15,7 +15,7 @@
           "count": 2
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "open.spotify.com",
           "count": 1
         },
         {
@@ -27,7 +27,7 @@
           "count": 1
         },
         {
-          "domain": "keep.google.com",
+          "domain": "higgsfield.ai",
           "count": 1
         }
       ]
@@ -44,23 +44,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3001",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "video",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
           "count": 1
         }
       ]
