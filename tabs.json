@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-04-19T18:57:26Z",
-  "total_tabs": 14,
+  "updated_at": "2026-04-19T18:58:29Z",
+  "total_tabs": 17,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 9,
-      "domain_count": 8,
+      "count": 11,
+      "domain_count": 9,
       "top_domains": [
         {
           "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "google.com",
           "count": 2
         },
         {
@@ -24,10 +28,6 @@
         },
         {
           "domain": "shots.so",
-          "count": 1
-        },
-        {
-          "domain": "motion.dev",
           "count": 1
         }
       ]
@@ -51,6 +51,17 @@
         {
           "domain": "youtube.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 1
         }
       ]
     }
