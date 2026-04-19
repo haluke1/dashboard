@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:32:31Z",
+  "updated_at": "2026-04-19T17:32:46Z",
   "counts": {
     "active": 3,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 273
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "yes lets do all 3",
+      "last_assistant_snippet": "All three landed. Verified. ## Summary **A. `~/agent-runtime/PHASE-2-DECISIONS.md`** \u2014 227 lines, 13KB Three decisions locked with options, recommendations, code sketches, analogie\u2026",
+      "message_count": 467,
+      "file_size_kb": 4005,
+      "modified_ts": 1776619964.397539,
+      "modified_iso": "2026-04-19T13:32:44.397539",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -21,23 +37,7 @@
       "file_size_kb": 2619,
       "modified_ts": 1776619948.5063903,
       "modified_iso": "2026-04-19T13:32:28.506390",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "yes lets do all 3",
-      "last_assistant_snippet": "Now the Phase 2 decisions doc \u2014 the genius-grade artifact.",
-      "message_count": 466,
-      "file_size_kb": 4000,
-      "modified_ts": 1776619921.894381,
-      "modified_iso": "2026-04-19T13:32:01.894381",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.3
     },
     {
       "id": "8d73c511",
@@ -53,7 +53,7 @@
       "file_size_kb": 913,
       "modified_ts": 1776619798.64745,
       "modified_iso": "2026-04-19T13:29:58.647450",
-      "minutes_since_active": 2.5
+      "minutes_since_active": 2.8
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 21.0
+      "minutes_since_active": 21.2
     },
     {
       "id": "b256b68f",
@@ -87,7 +87,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 23.1
+      "minutes_since_active": 23.3
     }
   ]
 }
