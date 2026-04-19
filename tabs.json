@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-19T17:49:44Z",
-  "total_tabs": 180,
+  "updated_at": "2026-04-19T17:50:48Z",
+  "total_tabs": 179,
   "total_windows": 4,
   "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 81,
-      "domain_count": 53,
+      "count": 80,
+      "domain_count": 52,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 17
         },
         {
-          "domain": "mountainside-medical.com",
+          "domain": "open.spotify.com",
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "mountainside-medical.com",
           "count": 4
         },
         {
@@ -72,15 +72,15 @@
           "count": 5
         },
         {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
@@ -93,6 +93,17 @@
         {
           "domain": "localhost:8080",
           "count": 3
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 2
         }
       ]
     },
@@ -118,17 +129,6 @@
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
           "count": 2
         }
       ]
