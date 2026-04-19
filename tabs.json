@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-04-19T02:00:13Z",
-  "total_tabs": 276,
+  "updated_at": "2026-04-19T02:01:17Z",
+  "total_tabs": 322,
   "total_windows": 6,
   "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 129,
-      "domain_count": 75,
+      "count": 175,
+      "domain_count": 76,
       "top_domains": [
+        {
+          "domain": "xhamster.com",
+          "count": 46
+        },
         {
           "domain": "(no domain)",
           "count": 28
@@ -21,10 +25,6 @@
         {
           "domain": "keep.google.com",
           "count": 7
-        },
-        {
-          "domain": "mountainside-medical.com",
-          "count": 4
         },
         {
           "domain": "open.spotify.com",
@@ -80,11 +80,11 @@
           "count": 5
         },
         {
-          "domain": "discord.com",
+          "domain": "web.whatsapp.com",
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "discord.com",
           "count": 2
         },
         {
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "notion.so",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 2
         }
       ]
