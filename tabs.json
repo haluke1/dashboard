@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T17:54:09Z",
-  "total_tabs": 140,
+  "updated_at": "2026-04-19T17:55:12Z",
+  "total_tabs": 135,
   "total_windows": 4,
-  "duplicate_tabs": 19,
+  "duplicate_tabs": 18,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 72,
-      "domain_count": 46,
+      "count": 69,
+      "domain_count": 43,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -87,27 +87,12 @@
     },
     {
       "name": "local",
-      "count": 3,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:8080",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "hannahstulberg.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "pmarca.substack.com",
-          "count": 1
+          "count": 2
         }
       ]
     },
@@ -130,6 +115,17 @@
         {
           "domain": "notion.so",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "pmarca.substack.com",
+          "count": 1
         }
       ]
     }
