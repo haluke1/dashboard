@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-04-19T23:25:35Z",
-  "total_tabs": 19,
+  "updated_at": "2026-04-19T23:26:40Z",
+  "total_tabs": 17,
   "total_windows": 4,
-  "duplicate_tabs": 12,
+  "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 11,
-      "domain_count": 6,
+      "count": 10,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
-          "count": 4
-        },
-        {
-          "domain": "freepik.com",
           "count": 2
         },
         {
@@ -23,55 +19,59 @@
           "count": 2
         },
         {
-          "domain": "keep.google.com",
+          "domain": "freepik.com",
           "count": 1
         },
         {
-          "domain": "hydrahd.ru",
+          "domain": "motion.dev",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 3,
-      "domain_count": 1,
-      "top_domains": [
+        },
         {
-          "domain": "localhost:3001",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 2
+          "domain": "bacteriostaticwater.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 1,
+      "count": 3,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "github.com",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
