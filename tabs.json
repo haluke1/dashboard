@@ -1,51 +1,51 @@
 {
-  "updated_at": "2026-04-19T17:58:23Z",
-  "total_tabs": 128,
+  "updated_at": "2026-04-19T17:59:27Z",
+  "total_tabs": 118,
   "total_windows": 4,
-  "duplicate_tabs": 18,
+  "duplicate_tabs": 17,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 67,
-      "domain_count": 41,
+      "count": 60,
+      "domain_count": 38,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 15
         },
         {
-          "domain": "mountainside-medical.com",
-          "count": 4
-        },
-        {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
-          "domain": "keep.google.com",
-          "count": 3
+          "domain": "bacteriostaticwater.com",
+          "count": 2
         },
         {
-          "domain": "bacteriostaticwater.com",
+          "domain": "peptidefoundry.com",
+          "count": 2
+        },
+        {
+          "domain": "google.com",
           "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 26,
+      "count": 24,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 26
+          "count": 24
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 20,
+      "count": 19,
       "domain_count": 3,
       "top_domains": [
         {
@@ -53,12 +53,12 @@
           "count": 14
         },
         {
-          "domain": "claude.ai",
+          "domain": "anthropic.com",
           "count": 3
         },
         {
-          "domain": "anthropic.com",
-          "count": 3
+          "domain": "claude.ai",
+          "count": 2
         }
       ]
     },

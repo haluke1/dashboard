@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T17:58:25Z",
+  "updated_at": "2026-04-19T17:59:29Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 1,
+    "recent": 5,
     "archived": 268,
     "total": 274
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 3090,
       "modified_ts": 1776621273.581441,
       "modified_iso": "2026-04-19T13:54:33.581441",
-      "minutes_since_active": 3.8
-    },
+      "minutes_since_active": 4.9
+    }
+  ],
+  "recent": [
     {
       "id": "8d73c511",
       "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 4.5
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.6
+    },
     {
       "id": "45397608",
       "full_id": "45397608-e288-4356-ac94-21823fdba0af",
@@ -55,7 +55,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 16.8
+      "minutes_since_active": 17.8
     },
     {
       "id": "ca08a6d6",
@@ -71,7 +71,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 22.1
+      "minutes_since_active": 23.1
     },
     {
       "id": "b7bc6825",
@@ -87,7 +87,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 46.9
+      "minutes_since_active": 47.9
     },
     {
       "id": "b256b68f",
@@ -103,7 +103,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 49.0
+      "minutes_since_active": 50.0
     }
   ]
 }
