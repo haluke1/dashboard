@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-19T17:06:37Z",
+  "updated_at": "2026-04-19T17:07:41Z",
   "counts": {
-    "active": 2,
+    "active": 3,
     "recent": 0,
-    "archived": 270,
+    "archived": 269,
     "total": 272
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "can you check out this repo and see if there's value here -> https://github.com/humanlayer/12-factor-agents",
+      "last_assistant_snippet": "Team shut down and deleted. `~/.claude/teams/advisor-demo-audit/` and `~/.claude/tasks/advisor-demo-audit/` are gone. **What you've got at this point:** - Default Sonnet 4.6 sessio\u2026",
+      "message_count": 406,
+      "file_size_kb": 3524,
+      "modified_ts": 1776618446.5664167,
+      "modified_iso": "2026-04-19T13:07:26.566417",
+      "minutes_since_active": 0.2
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "do A",
+      "last_assistant_snippet": "Building Option A. Brand system from CLAUDE.md (already defined, so skipping the ui-ux-pro-max skill lookup \u2014 it's for unknown contexts). Render script + slash command + single HTM\u2026",
+      "message_count": 1481,
+      "file_size_kb": 12197,
+      "modified_ts": 1776618444.6792674,
+      "modified_iso": "2026-04-19T13:07:24.679267",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -21,23 +53,7 @@
       "file_size_kb": 4259,
       "modified_ts": 1776618376.682239,
       "modified_iso": "2026-04-19T13:06:16.682239",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "do A",
-      "last_assistant_snippet": "Skipping the advisor auto-trigger again (subagent type doesn't exist). Honest answers to both questions: --- ## What's the next step (strategic, not infrastructure) Per the red-tea\u2026",
-      "message_count": 1475,
-      "file_size_kb": 12093,
-      "modified_ts": 1776618250.7717822,
-      "modified_iso": "2026-04-19T13:04:10.771782",
-      "minutes_since_active": 2.4
+      "minutes_since_active": 1.4
     }
   ],
   "recent": []
