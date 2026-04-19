@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T01:18:39Z",
+  "updated_at": "2026-04-19T01:20:47Z",
   "total_tabs": 275,
   "total_windows": 5,
   "duplicate_tabs": 53,
@@ -23,11 +23,11 @@
           "count": 7
         },
         {
-          "domain": "mountainside-medical.com",
+          "domain": "open.spotify.com",
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "mountainside-medical.com",
           "count": 4
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "notion.so",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 2
         }
       ]
