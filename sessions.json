@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:06:16Z",
+  "updated_at": "2026-04-19T17:06:37Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -18,10 +18,10 @@
       "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
       "last_assistant_snippet": "Live in Arc. 5 archetypes + synthesis picker combined into one navigable page (7,989 lines of HTML). ## What's on disk | File | Lines | |---|---| | `archetype-1-consulting-report.m\u2026",
       "message_count": 573,
-      "file_size_kb": 4257,
-      "modified_ts": 1776618375.3172312,
-      "modified_iso": "2026-04-19T13:06:15.317231",
-      "minutes_since_active": 0.0
+      "file_size_kb": 4259,
+      "modified_ts": 1776618376.682239,
+      "modified_iso": "2026-04-19T13:06:16.682239",
+      "minutes_since_active": 0.3
     },
     {
       "id": "b7bc6825",
@@ -37,7 +37,7 @@
       "file_size_kb": 12093,
       "modified_ts": 1776618250.7717822,
       "modified_iso": "2026-04-19T13:04:10.771782",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.4
     }
   ],
   "recent": []
