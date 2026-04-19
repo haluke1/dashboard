@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T21:13:57Z",
+  "updated_at": "2026-04-19T21:14:12Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -7,6 +7,22 @@
     "total": 276
   },
   "active": [
+    {
+      "id": "da78fa86",
+      "full_id": "da78fa86-f4a7-4706-af3a-3fb69a2eebd9",
+      "status": "active",
+      "project": "/Users/halukgul/hyperframes-test/my-video",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
+      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
+      "last_assistant_snippet": "The prompt is already populated with a ClaudePhilly-relevant prompt. Let me find the input selector and click Generate.",
+      "message_count": 316,
+      "file_size_kb": 2023,
+      "modified_ts": 1776633250.886416,
+      "modified_iso": "2026-04-19T17:14:10.886416",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -18,26 +34,10 @@
       "last_user_msg": "where is it i dont see it",
       "last_assistant_snippet": "Generate clicked. It's generating now. Check the Freepik tab in Arc \u2014 you should see images appearing. The pipeline proof-of-concept works: **CDP \u2192 focus prompt field \u2192 type text \u2192\u2026",
       "message_count": 968,
-      "file_size_kb": 5467,
-      "modified_ts": 1776633235.956149,
-      "modified_iso": "2026-04-19T17:13:55.956149",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "da78fa86",
-      "full_id": "da78fa86-f4a7-4706-af3a-3fb69a2eebd9",
-      "status": "active",
-      "project": "/Users/halukgul/hyperframes-test/my-video",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "The prompt is already populated with a ClaudePhilly-relevant prompt. Let me find the input selector and click Generate.",
-      "message_count": 307,
-      "file_size_kb": 2011,
-      "modified_ts": 1776633235.3583286,
-      "modified_iso": "2026-04-19T17:13:55.358329",
-      "minutes_since_active": 0.0
+      "file_size_kb": 5469,
+      "modified_ts": 1776633238.0053911,
+      "modified_iso": "2026-04-19T17:13:58.005391",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 61,
       "modified_ts": 1776626908.1460888,
       "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 105.5
+      "minutes_since_active": 105.7
     },
     {
       "id": "8d73c511",
@@ -71,7 +71,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 200.1
+      "minutes_since_active": 200.3
     },
     {
       "id": "45397608",
@@ -87,7 +87,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 212.3
+      "minutes_since_active": 212.6
     },
     {
       "id": "ca08a6d6",
@@ -103,7 +103,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 217.6
+      "minutes_since_active": 217.9
     },
     {
       "id": "b7bc6825",
@@ -119,7 +119,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 242.4
+      "minutes_since_active": 242.7
     },
     {
       "id": "b256b68f",
@@ -135,7 +135,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 244.5
+      "minutes_since_active": 244.8
     }
   ]
 }
