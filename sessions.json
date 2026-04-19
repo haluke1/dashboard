@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T22:37:45Z",
+  "updated_at": "2026-04-19T22:37:46Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
       "last_user_msg": "bro what happened",
-      "last_assistant_snippet": "API Error: 500 {\"type\":\"error\",\"error\":{\"type\":\"api_error\",\"message\":\"Internal server error\"},\"request_id\":\"req_011CaDtTkB2mHLxYjXcf3K2b\"} \u00b7 check status.claude.com",
-      "message_count": 435,
-      "file_size_kb": 4262,
-      "modified_ts": 1776638254.6686983,
-      "modified_iso": "2026-04-19T18:37:34.668698",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "**What happened:** The Freepik images are 800\u00d7800 preview JPEGs. Blown up to 1920\u00d71080 \u2014 that's a 2.4\u00d7 upscale on a compressed JPEG. Blurry, pixelated, especially with the Ken Burn\u2026",
+      "message_count": 437,
+      "file_size_kb": 4266,
+      "modified_ts": 1776638265.3784142,
+      "modified_iso": "2026-04-19T18:37:45.378414",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
