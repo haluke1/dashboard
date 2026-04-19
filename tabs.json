@@ -1,25 +1,21 @@
 {
-  "updated_at": "2026-04-19T18:11:30Z",
-  "total_tabs": 80,
+  "updated_at": "2026-04-19T18:12:34Z",
+  "total_tabs": 61,
   "total_windows": 4,
-  "duplicate_tabs": 13,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 42,
-      "domain_count": 27,
+      "count": 32,
+      "domain_count": 20,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "open.spotify.com",
-          "count": 3
-        },
-        {
-          "domain": "keep.google.com",
           "count": 2
         },
         {
@@ -29,36 +25,32 @@
         {
           "domain": "spline.design",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 17,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "github.com",
-          "count": 14
         },
         {
-          "domain": "anthropic.com",
-          "count": 2
-        },
-        {
-          "domain": "claude.ai",
+          "domain": "skillsbench.ai",
           "count": 1
         }
       ]
     },
     {
+      "name": "ai-dev",
+      "count": 14,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 14
+        }
+      ]
+    },
+    {
       "name": "video",
-      "count": 16,
+      "count": 11,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 16
+          "count": 11
         }
       ]
     },
@@ -77,17 +69,6 @@
         },
         {
           "domain": "discord.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
           "count": 1
         }
       ]
