@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T18:13:37Z",
-  "total_tabs": 52,
+  "updated_at": "2026-04-19T18:14:40Z",
+  "total_tabs": 48,
   "total_windows": 4,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 30,
-      "domain_count": 19,
+      "count": 29,
+      "domain_count": 18,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,34 +23,34 @@
           "count": 2
         },
         {
-          "domain": "skillsbench.ai",
+          "domain": "claude.com",
           "count": 1
         },
         {
-          "domain": "claude.com",
+          "domain": "midjourney.com",
           "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 12,
+      "count": 10,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 12
+          "count": 10
         }
       ]
     },
     {
       "name": "video",
-      "count": 7,
+      "count": 6,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 7
+          "count": 6
         }
       ]
     },
