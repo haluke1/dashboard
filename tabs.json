@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:08:20Z",
-  "total_tabs": 84,
+  "updated_at": "2026-04-19T18:09:24Z",
+  "total_tabs": 82,
   "total_windows": 4,
   "duplicate_tabs": 13,
   "bridge_online": true,
@@ -33,17 +33,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 17,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 17
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
       "count": 17,
       "domain_count": 3,
@@ -63,13 +52,24 @@
       ]
     },
     {
+      "name": "video",
+      "count": 16,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 16
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 4,
+      "count": 3,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "web.whatsapp.com",
