@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-19T18:38:56Z",
-  "total_tabs": 16,
+  "updated_at": "2026-04-19T18:39:59Z",
+  "total_tabs": 13,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 10,
-      "domain_count": 9,
+      "count": 7,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 2
         },
         {
-          "domain": "lightcast.io",
-          "count": 1
-        },
-        {
-          "domain": "datocms-assets.com",
-          "count": 1
-        },
-        {
           "domain": "open.spotify.com",
           "count": 1
         },
         {
-          "domain": "magicui.design",
+          "domain": "motion.dev",
+          "count": 1
+        },
+        {
+          "domain": "bacteriostaticwater.com",
+          "count": 1
+        },
+        {
+          "domain": "higgsfield.ai",
           "count": 1
         }
       ]
