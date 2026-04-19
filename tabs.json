@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T19:27:22Z",
-  "total_tabs": 11,
+  "updated_at": "2026-04-19T19:28:25Z",
+  "total_tabs": 12,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -15,15 +15,15 @@
           "count": 2
         },
         {
+          "domain": "higgsfield.ai",
+          "count": 1
+        },
+        {
           "domain": "motion.dev",
           "count": 1
         },
         {
           "domain": "bacteriostaticwater.com",
-          "count": 1
-        },
-        {
-          "domain": "higgsfield.ai",
           "count": 1
         },
         {
@@ -40,6 +40,17 @@
         {
           "domain": "github.com",
           "count": 3
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
+          "count": 1
         }
       ]
     },
