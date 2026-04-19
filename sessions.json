@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-19T19:15:39Z",
+  "updated_at": "2026-04-19T19:16:43Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 268,
     "total": 274
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/claude-peers-mcp",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
-      "last_user_msg": "can you take a look at this and see if we can use it and compare it to remotion? -> https://github.com/heygen-com/hyperframes",
+      "last_user_msg": "when i use remotion it doesnt give me the best results and its not formatted correctly. can we create templates and formatting / design settings or systems so we can create high qu\u2026",
       "last_assistant_snippet": "**TLDR:** Hyperframes is like Remotion's simpler cousin. Where Remotion uses React components to build video frames, Hyperframes uses plain HTML files with timing tags. Both screen\u2026",
-      "message_count": 754,
-      "file_size_kb": 3136,
-      "modified_ts": 1776625081.3287587,
-      "modified_iso": "2026-04-19T14:58:01.328759",
-      "minutes_since_active": 17.6
-    },
+      "message_count": 757,
+      "file_size_kb": 3142,
+      "modified_ts": 1776626191.432001,
+      "modified_iso": "2026-04-19T15:16:31.432001",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "8d73c511",
       "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
@@ -38,7 +39,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 81.8
+      "minutes_since_active": 82.8
     },
     {
       "id": "45397608",
@@ -54,7 +55,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 94.0
+      "minutes_since_active": 95.1
     },
     {
       "id": "ca08a6d6",
@@ -70,7 +71,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 99.3
+      "minutes_since_active": 100.4
     },
     {
       "id": "b7bc6825",
@@ -86,7 +87,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 124.1
+      "minutes_since_active": 125.2
     },
     {
       "id": "b256b68f",
@@ -102,7 +103,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 126.2
+      "minutes_since_active": 127.3
     }
   ]
 }
