@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-19T18:12:34Z",
-  "total_tabs": 61,
+  "updated_at": "2026-04-19T18:13:37Z",
+  "total_tabs": 52,
   "total_windows": 4,
-  "duplicate_tabs": 10,
+  "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 32,
-      "domain_count": 20,
+      "count": 30,
+      "domain_count": 19,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "open.spotify.com",
@@ -23,41 +23,41 @@
           "count": 2
         },
         {
-          "domain": "spline.design",
+          "domain": "skillsbench.ai",
           "count": 1
         },
         {
-          "domain": "skillsbench.ai",
+          "domain": "claude.com",
           "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 14,
+      "count": 12,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 14
+          "count": 12
         }
       ]
     },
     {
       "name": "video",
-      "count": 11,
+      "count": 7,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 11
+          "count": 7
         }
       ]
     },
     {
       "name": "social",
-      "count": 3,
-      "domain_count": 3,
+      "count": 2,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -65,10 +65,6 @@
         },
         {
           "domain": "web.whatsapp.com",
-          "count": 1
-        },
-        {
-          "domain": "discord.com",
           "count": 1
         }
       ]
