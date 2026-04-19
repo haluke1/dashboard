@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T19:36:53Z",
-  "total_tabs": 13,
+  "updated_at": "2026-04-19T19:37:56Z",
+  "total_tabs": 14,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -15,10 +15,6 @@
           "count": 2
         },
         {
-          "domain": "open.spotify.com",
-          "count": 1
-        },
-        {
           "domain": "motion.dev",
           "count": 1
         },
@@ -28,6 +24,10 @@
         },
         {
           "domain": "higgsfield.ai",
+          "count": 1
+        },
+        {
+          "domain": "keep.google.com",
           "count": 1
         }
       ]
@@ -44,6 +44,17 @@
       ]
     },
     {
+      "name": "local",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "video",
       "count": 2,
       "domain_count": 1,
@@ -51,17 +62,6 @@
         {
           "domain": "youtube.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3001",
-          "count": 1
         }
       ]
     }
