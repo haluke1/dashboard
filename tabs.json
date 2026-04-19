@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-19T18:23:08Z",
-  "total_tabs": 31,
+  "updated_at": "2026-04-19T18:24:11Z",
+  "total_tabs": 26,
   "total_windows": 4,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 4,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 20,
-      "domain_count": 13,
+      "count": 15,
+      "domain_count": 12,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 6
+          "count": 4
         },
         {
-          "domain": "open.spotify.com",
-          "count": 2
-        },
-        {
-          "domain": "21st.dev",
-          "count": 2
-        },
-        {
-          "domain": "higgsfield.ai",
+          "domain": "keep.google.com",
           "count": 1
         },
         {
-          "domain": "claude-system-mindmap.vercel.app",
+          "domain": "motion.dev",
+          "count": 1
+        },
+        {
+          "domain": "bacteriostaticwater.com",
+          "count": 1
+        },
+        {
+          "domain": "higgsfield.ai",
           "count": 1
         }
       ]
