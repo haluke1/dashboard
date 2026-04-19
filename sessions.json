@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-19T16:59:08Z",
+  "updated_at": "2026-04-19T17:00:12Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 2,
+    "recent": 0,
     "archived": 270,
     "total": 272
   },
   "active": [
+    {
+      "id": "b256b68f",
+      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
+      "status": "active",
+      "project": "/Users/halukgul/reports/elite-reports-database",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
+      "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
+      "last_assistant_snippet": "Plan: launch 5 agents in parallel, each reverse-engineers one report archetype using the 8-lens framework. Output = 5 reproducible blueprints + 1 synthesis you can pick from per ar\u2026",
+      "message_count": 554,
+      "file_size_kb": 4172,
+      "modified_ts": 1776618000.545319,
+      "modified_iso": "2026-04-19T13:00:00.545319",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -21,25 +37,8 @@
       "file_size_kb": 12089,
       "modified_ts": 1776617883.9254382,
       "modified_iso": "2026-04-19T12:58:03.925438",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 2.1
     }
   ],
-  "recent": [
-    {
-      "id": "b256b68f",
-      "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
-      "status": "recent",
-      "project": "/Users/halukgul/reports/elite-reports-database",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
-      "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
-      "last_assistant_snippet": "Plan: launch 5 agents in parallel, each reverse-engineers one report archetype using the 8-lens framework. Output = 5 reproducible blueprints + 1 synthesis you can pick from per ar\u2026",
-      "message_count": 552,
-      "file_size_kb": 4154,
-      "modified_ts": 1776617502.9923394,
-      "modified_iso": "2026-04-19T12:51:42.992339",
-      "minutes_since_active": 7.4
-    }
-  ]
+  "recent": []
 }
