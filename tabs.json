@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T03:36:29Z",
+  "updated_at": "2026-04-19T03:37:33Z",
   "total_tabs": 326,
   "total_windows": 6,
-  "duplicate_tabs": 57,
+  "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 179,
-      "domain_count": 77,
+      "domain_count": 79,
       "top_domains": [
         {
           "domain": "xhamster.com",
@@ -28,7 +28,7 @@
         },
         {
           "domain": "mountainside-medical.com",
-          "count": 5
+          "count": 4
         }
       ]
     },
@@ -80,11 +80,11 @@
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "discord.com",
           "count": 2
         },
         {
-          "domain": "discord.com",
+          "domain": "web.whatsapp.com",
           "count": 2
         },
         {
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 2
         }
       ]
