@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-19T04:45:41Z",
+  "updated_at": "2026-04-19T04:46:44Z",
   "counts": {
     "active": 0,
-    "recent": 11,
-    "archived": 261,
+    "recent": 10,
+    "archived": 262,
     "total": 272
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4093,
       "modified_ts": 1776542335.7200139,
       "modified_iso": "2026-04-18T15:58:55.720014",
-      "minutes_since_active": 526.8
+      "minutes_since_active": 527.8
     },
     {
       "id": "304e5ed3",
@@ -38,7 +38,7 @@
       "file_size_kb": 132,
       "modified_ts": 1776493121.749903,
       "modified_iso": "2026-04-18T02:18:41.749903",
-      "minutes_since_active": 1347.0
+      "minutes_since_active": 1348.0
     },
     {
       "id": "b7bc6825",
@@ -54,7 +54,7 @@
       "file_size_kb": 12058,
       "modified_ts": 1776492687.9981027,
       "modified_iso": "2026-04-18T02:11:27.998103",
-      "minutes_since_active": 1354.2
+      "minutes_since_active": 1355.3
     },
     {
       "id": "ca08a6d6",
@@ -70,7 +70,7 @@
       "file_size_kb": 3514,
       "modified_ts": 1776491760.9527488,
       "modified_iso": "2026-04-18T01:56:00.952749",
-      "minutes_since_active": 1369.7
+      "minutes_since_active": 1370.7
     },
     {
       "id": "262480d6",
@@ -86,7 +86,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776489650.4870565,
       "modified_iso": "2026-04-18T01:20:50.487056",
-      "minutes_since_active": 1404.8
+      "minutes_since_active": 1405.9
     },
     {
       "id": "ff187ad2",
@@ -102,7 +102,7 @@
       "file_size_kb": 51,
       "modified_ts": 1776489392.256632,
       "modified_iso": "2026-04-18T01:16:32.256632",
-      "minutes_since_active": 1409.1
+      "minutes_since_active": 1410.2
     },
     {
       "id": "20832521",
@@ -118,7 +118,7 @@
       "file_size_kb": 71,
       "modified_ts": 1776489257.5476758,
       "modified_iso": "2026-04-18T01:14:17.547676",
-      "minutes_since_active": 1411.4
+      "minutes_since_active": 1412.4
     },
     {
       "id": "20bfe23e",
@@ -134,7 +134,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487753.8113341,
       "modified_iso": "2026-04-18T00:49:13.811334",
-      "minutes_since_active": 1436.4
+      "minutes_since_active": 1437.5
     },
     {
       "id": "6f542fc9",
@@ -150,7 +150,7 @@
       "file_size_kb": 53,
       "modified_ts": 1776487728.5840113,
       "modified_iso": "2026-04-18T00:48:48.584011",
-      "minutes_since_active": 1436.9
+      "minutes_since_active": 1437.9
     },
     {
       "id": "9ee451c3",
@@ -166,23 +166,7 @@
       "file_size_kb": 59,
       "modified_ts": 1776487716.6993897,
       "modified_iso": "2026-04-18T00:48:36.699390",
-      "minutes_since_active": 1437.1
-    },
-    {
-      "id": "29a5c278",
-      "full_id": "29a5c278-1f46-426b-8b23-bcf2a1f219b0",
-      "status": "recent",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "say hi",
-      "last_user_msg": "say hi",
-      "last_assistant_snippet": "Hi!",
-      "message_count": 2,
-      "file_size_kb": 49,
-      "modified_ts": 1776487552.1308336,
-      "modified_iso": "2026-04-18T00:45:52.130834",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1438.1
     }
   ]
 }
