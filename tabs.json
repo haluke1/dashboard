@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T23:09:39Z",
-  "total_tabs": 16,
+  "updated_at": "2026-04-19T23:10:42Z",
+  "total_tabs": 17,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -23,11 +23,11 @@
           "count": 1
         },
         {
-          "domain": "keep.google.com",
+          "domain": "motion.dev",
           "count": 1
         },
         {
-          "domain": "hydrahd.ru",
+          "domain": "bacteriostaticwater.com",
           "count": 1
         }
       ]
@@ -61,6 +61,17 @@
       "top_domains": [
         {
           "domain": "youtube.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
