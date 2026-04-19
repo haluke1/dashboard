@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T17:47:35Z",
-  "total_tabs": 183,
+  "updated_at": "2026-04-19T17:48:40Z",
+  "total_tabs": 180,
   "total_windows": 4,
   "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 82,
-      "domain_count": 54,
+      "count": 81,
+      "domain_count": 53,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 26,
+      "count": 25,
       "domain_count": 3,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "anthropic.com",
@@ -87,16 +87,12 @@
     },
     {
       "name": "local",
-      "count": 4,
-      "domain_count": 2,
+      "count": 3,
+      "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:8080",
           "count": 3
-        },
-        {
-          "domain": "localhost:60561",
-          "count": 1
         }
       ]
     },
