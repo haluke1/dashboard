@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-19T19:43:18Z",
-  "total_tabs": 14,
+  "updated_at": "2026-04-19T19:44:21Z",
+  "total_tabs": 16,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 7,
-      "domain_count": 6,
+      "count": 9,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 2
         },
         {
-          "domain": "motion.dev",
-          "count": 1
-        },
-        {
-          "domain": "bacteriostaticwater.com",
-          "count": 1
-        },
-        {
           "domain": "higgsfield.ai",
           "count": 1
         },
         {
-          "domain": "keep.google.com",
+          "domain": "accounts.google.com",
+          "count": 1
+        },
+        {
+          "domain": "freepik.com",
+          "count": 1
+        },
+        {
+          "domain": "motion.dev",
           "count": 1
         }
       ]
