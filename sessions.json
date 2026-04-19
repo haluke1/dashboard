@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:08:45Z",
+  "updated_at": "2026-04-19T17:09:12Z",
   "counts": {
     "active": 3,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 272
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "can you check out this repo and see if there's value here -> https://github.com/humanlayer/12-factor-agents",
+      "last_assistant_snippet": "[VENDOR, github.com/humanlayer/12-factor-agents, fetched 2026-04-19] ## What it is A 12-principle methodology doc by Dex Horthy (HumanLayer, ex-YC, 100+ founder convos), 19k stars,\u2026",
+      "message_count": 412,
+      "file_size_kb": 3655,
+      "modified_ts": 1776618551.1593297,
+      "modified_iso": "2026-04-19T13:09:11.159330",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
@@ -21,23 +37,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618503.193289,
       "modified_iso": "2026-04-19T13:08:23.193289",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "can you check out this repo and see if there's value here -> https://github.com/humanlayer/12-factor-agents",
-      "last_assistant_snippet": "Fetching the actual repo before assessing.",
-      "message_count": 410,
-      "file_size_kb": 3641,
-      "modified_ts": 1776618485.042458,
-      "modified_iso": "2026-04-19T13:08:05.042458",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 0.8
     },
     {
       "id": "b256b68f",
@@ -53,7 +53,7 @@
       "file_size_kb": 4259,
       "modified_ts": 1776618376.682239,
       "modified_iso": "2026-04-19T13:06:16.682239",
-      "minutes_since_active": 2.5
+      "minutes_since_active": 2.9
     }
   ],
   "recent": []
