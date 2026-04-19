@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T22:51:35Z",
+  "updated_at": "2026-04-19T22:52:40Z",
   "total_tabs": 15,
   "total_windows": 4,
   "duplicate_tabs": 0,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 9,
-      "domain_count": 7,
+      "count": 10,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 2
         },
         {
+          "domain": "hydrahd.ru",
+          "count": 1
+        },
+        {
           "domain": "open.spotify.com",
           "count": 1
         },
         {
           "domain": "motion.dev",
-          "count": 1
-        },
-        {
-          "domain": "bacteriostaticwater.com",
           "count": 1
         }
       ]
@@ -51,17 +51,6 @@
         {
           "domain": "localhost:3001",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 1
         }
       ]
     }
