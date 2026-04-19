@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T02:33:25Z",
+  "updated_at": "2026-04-19T02:34:29Z",
   "total_tabs": 326,
   "total_windows": 6,
   "duplicate_tabs": 53,
@@ -27,7 +27,7 @@
           "count": 7
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "mountainside-medical.com",
           "count": 4
         }
       ]
@@ -80,11 +80,11 @@
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "discord.com",
           "count": 2
         },
         {
-          "domain": "discord.com",
+          "domain": "web.whatsapp.com",
           "count": 2
         },
         {
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 2
         }
       ]
