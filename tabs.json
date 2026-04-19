@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T21:58:26Z",
-  "total_tabs": 15,
+  "updated_at": "2026-04-19T21:59:29Z",
+  "total_tabs": 16,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -61,6 +61,17 @@
       "top_domains": [
         {
           "domain": "youtube.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "tiktok.com",
           "count": 1
         }
       ]
