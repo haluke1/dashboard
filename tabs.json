@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T18:47:52Z",
+  "updated_at": "2026-04-19T18:48:57Z",
   "total_tabs": 15,
   "total_windows": 4,
   "duplicate_tabs": 0,
@@ -33,6 +33,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 3,
       "domain_count": 1,
@@ -40,28 +51,6 @@
         {
           "domain": "github.com",
           "count": 3
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
         }
       ]
     }
