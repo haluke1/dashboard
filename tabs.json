@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T18:14:40Z",
-  "total_tabs": 48,
+  "updated_at": "2026-04-19T18:15:44Z",
+  "total_tabs": 44,
   "total_windows": 4,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 29,
-      "domain_count": 18,
+      "count": 28,
+      "domain_count": 17,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,11 +23,11 @@
           "count": 2
         },
         {
-          "domain": "claude.com",
+          "domain": "midjourney.com",
           "count": 1
         },
         {
-          "domain": "midjourney.com",
+          "domain": "zeffy.com",
           "count": 1
         }
       ]
@@ -45,12 +45,12 @@
     },
     {
       "name": "video",
-      "count": 6,
+      "count": 3,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 6
+          "count": 3
         }
       ]
     },
