@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T17:44:23Z",
+  "updated_at": "2026-04-19T17:45:24Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 3,
+    "recent": 3,
     "archived": 268,
     "total": 274
   },
@@ -16,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
       "last_user_msg": "i want dangerously skip permissions auto activated whenever any session opens and want claude peers system working",
-      "last_assistant_snippet": "You already have `bypassPermissions` as default mode and `skipDangerousModePermissionPrompt: true` \u2014 so permissions are already auto-skipped for your sessions. Now let me install c\u2026",
-      "message_count": 716,
-      "file_size_kb": 2700,
-      "modified_ts": 1776620656.8164082,
-      "modified_iso": "2026-04-19T13:44:16.816408",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "claude-peers MCP is registered and will auto-load in every new Claude Code session. Here's the setup: **Done:** - `bun` installed - `claude-peers-mcp` cloned to `~/claude-peers-mcp\u2026",
+      "message_count": 722,
+      "file_size_kb": 2712,
+      "modified_ts": 1776620723.6557176,
+      "modified_iso": "2026-04-19T13:45:23.655718",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "8d73c511",
+      "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "so i had lots of youtube tabs summarized but dont have the time to go over them. i want you to go over them and give me things we could use and implement. i dont want to learn the \u2026",
+      "last_user_msg": "did you integrate stuff from here? -> file:///Users/halukgul/AI_Image_Prompting_Techniques_MasterGuide.md file:///Users/halukgul/FREEPIK_SPACES_MASTER_GUIDE.md file:///Users/halukg\u2026",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The webpage separates \"what to build\" (the agent intelligence) from \"how to prompt it\" (the video keyword DBs) \u2014 keeping both laye\u2026",
+      "message_count": 84,
+      "file_size_kb": 1011,
+      "modified_ts": 1776620710.7590027,
+      "modified_iso": "2026-04-19T13:45:10.759003",
+      "minutes_since_active": 0.2
     },
     {
       "id": "45397608",
@@ -37,26 +53,10 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 3.8
     }
   ],
   "recent": [
-    {
-      "id": "8d73c511",
-      "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "so i had lots of youtube tabs summarized but dont have the time to go over them. i want you to go over them and give me things we could use and implement. i dont want to learn the \u2026",
-      "last_user_msg": "so i had lots of youtube tabs summarized but dont have the time to go over them. i want you to go over them and give me things we could use and implement. i dont want to learn the \u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The webpage separates \"what to build\" (the agent intelligence) from \"how to prompt it\" (the video keyword DBs) \u2014 keeping both laye\u2026",
-      "message_count": 83,
-      "file_size_kb": 1009,
-      "modified_ts": 1776620267.4644387,
-      "modified_iso": "2026-04-19T13:37:47.464439",
-      "minutes_since_active": 6.6
-    },
     {
       "id": "ca08a6d6",
       "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
@@ -71,7 +71,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 8.1
+      "minutes_since_active": 9.1
     },
     {
       "id": "b7bc6825",
@@ -87,7 +87,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 32.8
+      "minutes_since_active": 33.9
     },
     {
       "id": "b256b68f",
@@ -103,7 +103,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 34.9
+      "minutes_since_active": 36.0
     }
   ]
 }
