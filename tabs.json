@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T18:00:30Z",
-  "total_tabs": 117,
+  "updated_at": "2026-04-19T18:01:34Z",
+  "total_tabs": 108,
   "total_windows": 4,
-  "duplicate_tabs": 17,
+  "duplicate_tabs": 15,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 59,
-      "domain_count": 37,
+      "count": 54,
+      "domain_count": 34,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,27 +19,27 @@
           "count": 4
         },
         {
-          "domain": "bacteriostaticwater.com",
-          "count": 2
-        },
-        {
-          "domain": "peptidefoundry.com",
-          "count": 2
-        },
-        {
           "domain": "google.com",
+          "count": 2
+        },
+        {
+          "domain": "21st.dev",
+          "count": 2
+        },
+        {
+          "domain": "keep.google.com",
           "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 24,
+      "count": 22,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 24
+          "count": 22
         }
       ]
     },
@@ -64,16 +64,12 @@
     },
     {
       "name": "social",
-      "count": 8,
-      "domain_count": 4,
+      "count": 7,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 5
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
         },
         {
           "domain": "web.whatsapp.com",
@@ -82,17 +78,6 @@
         {
           "domain": "discord.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:8080",
-          "count": 2
         }
       ]
     },
@@ -115,6 +100,17 @@
         {
           "domain": "notion.so",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:8080",
+          "count": 1
         }
       ]
     },
