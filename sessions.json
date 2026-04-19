@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T17:16:25Z",
+  "updated_at": "2026-04-19T17:16:43Z",
   "counts": {
-    "active": 2,
-    "recent": 1,
+    "active": 1,
+    "recent": 2,
     "archived": 269,
     "total": 272
   },
@@ -16,17 +16,19 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
       "last_user_msg": "also take a look at these and tell me if i should learn stuff from here or if there are things we can implement -> file:///Users/halukgul/Desktop/claude-architect-guide.html / file\u2026",
-      "last_assistant_snippet": "Advisor subagent isn't registered in this session's agent list (registry loaded before the file was created \u2014 same issue we saw earlier). Files both exist and are reasonable size. \u2026",
-      "message_count": 441,
-      "file_size_kb": 3832,
-      "modified_ts": 1776618949.5524144,
-      "modified_iso": "2026-04-19T13:15:49.552414",
-      "minutes_since_active": 0.6
-    },
+      "last_assistant_snippet": "Subagent delivered. Here's the distilled editorial layer. ## claude-architect-guide.html \u2014 worth 30-45 min 100-concept Anthropic certification study guide, 60% you already know, 20\u2026",
+      "message_count": 443,
+      "file_size_kb": 3843,
+      "modified_ts": 1776619002.4929295,
+      "modified_iso": "2026-04-19T13:16:42.492929",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "b7bc6825",
       "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.2
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -55,7 +55,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 7.0
+      "minutes_since_active": 7.3
     }
   ]
 }
