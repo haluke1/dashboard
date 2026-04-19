@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-19T18:21:01Z",
-  "total_tabs": 42,
+  "updated_at": "2026-04-19T18:22:05Z",
+  "total_tabs": 35,
   "total_windows": 4,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 28,
-      "domain_count": 17,
+      "count": 24,
+      "domain_count": 16,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 10
+          "count": 7
         },
         {
           "domain": "open.spotify.com",
@@ -23,38 +23,23 @@
           "count": 2
         },
         {
-          "domain": "midjourney.com",
+          "domain": "zeffy.com",
           "count": 1
         },
         {
-          "domain": "zeffy.com",
+          "domain": "keep.google.com",
           "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 9,
+      "count": 8,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 9
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 1
+          "count": 8
         }
       ]
     },
