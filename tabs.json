@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-04-19T19:18:50Z",
-  "total_tabs": 16,
+  "updated_at": "2026-04-19T19:19:53Z",
+  "total_tabs": 17,
   "total_windows": 4,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 11,
+      "count": 12,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "eksisozluk.com",
           "count": 2
         },
         {
@@ -20,10 +24,6 @@
         },
         {
           "domain": "open.spotify.com",
-          "count": 1
-        },
-        {
-          "domain": "land-book.com",
           "count": 1
         },
         {
