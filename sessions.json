@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:08:22Z",
+  "updated_at": "2026-04-19T17:08:45Z",
   "counts": {
     "active": 3,
     "recent": 0,
@@ -18,10 +18,10 @@
       "last_user_msg": "do A",
       "last_assistant_snippet": "Dashboard built. Opens now in your default browser at `~/.claude/dashboard/index.html`. **What's in the current render:** | Panel | Current data | |---|---| | Snapshot tiles (10) |\u2026",
       "message_count": 1486,
-      "file_size_kb": 12241,
-      "modified_ts": 1776618501.9879827,
-      "modified_iso": "2026-04-19T13:08:21.987983",
-      "minutes_since_active": 0.0
+      "file_size_kb": 12243,
+      "modified_ts": 1776618503.193289,
+      "modified_iso": "2026-04-19T13:08:23.193289",
+      "minutes_since_active": 0.4
     },
     {
       "id": "ca08a6d6",
@@ -37,7 +37,7 @@
       "file_size_kb": 3641,
       "modified_ts": 1776618485.042458,
       "modified_iso": "2026-04-19T13:08:05.042458",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.7
     },
     {
       "id": "b256b68f",
@@ -53,7 +53,7 @@
       "file_size_kb": 4259,
       "modified_ts": 1776618376.682239,
       "modified_iso": "2026-04-19T13:06:16.682239",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.5
     }
   ],
   "recent": []
