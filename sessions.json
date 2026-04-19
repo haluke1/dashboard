@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T17:10:53Z",
+  "updated_at": "2026-04-19T17:11:57Z",
   "counts": {
     "active": 3,
     "recent": 0,
@@ -7,6 +7,38 @@
     "total": 272
   },
   "active": [
+    {
+      "id": "ca08a6d6",
+      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
+      "status": "active",
+      "project": "/Users/halukgul/advisor-demo",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
+      "last_user_msg": "yes lets do it, use ultrathink",
+      "last_assistant_snippet": "Using sequential thinking to structure the audit, parallel-fetching the four factor docs + re-reading agent-runtime internals.",
+      "message_count": 428,
+      "file_size_kb": 3761,
+      "modified_ts": 1776618714.3074012,
+      "modified_iso": "2026-04-19T13:11:54.307401",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "do A",
+      "last_assistant_snippet": "Dashboard built. Opens now in your default browser at `~/.claude/dashboard/index.html`. **What's in the current render:** | Panel | Current data | |---|---| | Snapshot tiles (10) |\u2026",
+      "message_count": 1486,
+      "file_size_kb": 12243,
+      "modified_ts": 1776618692.9837143,
+      "modified_iso": "2026-04-19T13:11:32.983714",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -21,38 +53,6 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 1.4
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "active",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "can you check out this repo and see if there's value here -> https://github.com/humanlayer/12-factor-agents",
-      "last_assistant_snippet": "[VENDOR, github.com/humanlayer/12-factor-agents, fetched 2026-04-19] ## What it is A 12-principle methodology doc by Dex Horthy (HumanLayer, ex-YC, 100+ founder convos), 19k stars,\u2026",
-      "message_count": 412,
-      "file_size_kb": 3656,
-      "modified_ts": 1776618552.6537778,
-      "modified_iso": "2026-04-19T13:09:12.653778",
-      "minutes_since_active": 1.7
-    },
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "do A",
-      "last_assistant_snippet": "Dashboard built. Opens now in your default browser at `~/.claude/dashboard/index.html`. **What's in the current render:** | Panel | Current data | |---|---| | Snapshot tiles (10) |\u2026",
-      "message_count": 1486,
-      "file_size_kb": 12243,
-      "modified_ts": 1776618503.193289,
-      "modified_iso": "2026-04-19T13:08:23.193289",
       "minutes_since_active": 2.5
     }
   ],
