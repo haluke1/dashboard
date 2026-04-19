@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-19T17:03:25Z",
+  "updated_at": "2026-04-19T17:04:29Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 2,
+    "recent": 0,
     "archived": 270,
     "total": 272
   },
   "active": [
+    {
+      "id": "b7bc6825",
+      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
+      "last_user_msg": "do A",
+      "last_assistant_snippet": "Skipping the advisor auto-trigger again (subagent type doesn't exist). Honest answers to both questions: --- ## What's the next step (strategic, not infrastructure) Per the red-tea\u2026",
+      "message_count": 1475,
+      "file_size_kb": 12093,
+      "modified_ts": 1776618250.7717822,
+      "modified_iso": "2026-04-19T13:04:10.771782",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "b256b68f",
       "full_id": "b256b68f-d985-4958-9f9d-e0d5f9cdf66c",
@@ -17,29 +33,12 @@
       "first_prompt": "i want to create a database of top reports / content from top firms and entities like mckinsey, gartner, deloitte, pwc and more. search top 100 firms like these. - i want to be abl\u2026",
       "last_user_msg": "okey so could we do reverse engineering for the reports and get a structure or types of structures we can use? we already have the list of the top firms we selected",
       "last_assistant_snippet": "Plan: launch 5 agents in parallel, each reverse-engineers one report archetype using the 8-lens framework. Output = 5 reproducible blueprints + 1 synthesis you can pick from per ar\u2026",
-      "message_count": 556,
-      "file_size_kb": 4190,
-      "modified_ts": 1776618184.311362,
-      "modified_iso": "2026-04-19T13:03:04.311362",
-      "minutes_since_active": 0.3
+      "message_count": 557,
+      "file_size_kb": 4199,
+      "modified_ts": 1776618230.4343665,
+      "modified_iso": "2026-04-19T13:03:50.434366",
+      "minutes_since_active": 0.6
     }
   ],
-  "recent": [
-    {
-      "id": "b7bc6825",
-      "full_id": "b7bc6825-71d1-4389-b35d-6181a0286dd0",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this video with notebooklm and tell me how we can create this high level personal assistant -> https://www.youtube.com/watch?v=uUForkn00mk&t=498s",
-      "last_user_msg": "okey so what is the next step and can we create a dashboard that includes all the logic of all the json / .md / hooks / rules / how system behaves?",
-      "last_assistant_snippet": "Skipping the advisor auto-trigger again (subagent type doesn't exist). Honest answers to both questions: --- ## What's the next step (strategic, not infrastructure) Per the red-tea\u2026",
-      "message_count": 1474,
-      "file_size_kb": 12089,
-      "modified_ts": 1776617883.9254382,
-      "modified_iso": "2026-04-19T12:58:03.925438",
-      "minutes_since_active": 5.4
-    }
-  ]
+  "recent": []
 }
