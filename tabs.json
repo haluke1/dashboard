@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T18:19:57Z",
-  "total_tabs": 43,
+  "updated_at": "2026-04-19T18:21:01Z",
+  "total_tabs": 42,
   "total_windows": 4,
   "duplicate_tabs": 8,
   "bridge_online": true,
@@ -44,17 +44,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 3,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 3
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 2,
       "domain_count": 2,
@@ -66,6 +55,17 @@
         {
           "domain": "web.whatsapp.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 2
         }
       ]
     },
