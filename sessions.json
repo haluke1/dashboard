@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-20T17:35:24Z",
+  "updated_at": "2026-04-20T17:36:27Z",
   "counts": {
     "active": 0,
-    "recent": 6,
-    "archived": 270,
+    "recent": 5,
+    "archived": 271,
     "total": 276
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 36588,
       "modified_ts": 1776656001.626085,
       "modified_iso": "2026-04-19T23:33:21.626085",
-      "minutes_since_active": 842.0
+      "minutes_since_active": 843.1
     },
     {
       "id": "e508fda2",
@@ -38,7 +38,7 @@
       "file_size_kb": 8641,
       "modified_ts": 1776646828.3103354,
       "modified_iso": "2026-04-19T21:00:28.310335",
-      "minutes_since_active": 994.9
+      "minutes_since_active": 996.0
     },
     {
       "id": "05f57455",
@@ -54,7 +54,7 @@
       "file_size_kb": 61,
       "modified_ts": 1776626908.1460888,
       "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 1326.9
+      "minutes_since_active": 1328.0
     },
     {
       "id": "8d73c511",
@@ -70,7 +70,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 1421.5
+      "minutes_since_active": 1422.6
     },
     {
       "id": "45397608",
@@ -86,23 +86,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 1433.7
-    },
-    {
-      "id": "ca08a6d6",
-      "full_id": "ca08a6d6-36bf-48b6-9d22-79e204a4ba18",
-      "status": "recent",
-      "project": "/Users/halukgul/advisor-demo",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i \u23bf Tip: Use git worktrees to run multiple Claude sessions in parallel.",
-      "last_user_msg": "yes lets do all 3",
-      "last_assistant_snippet": "All three landed. Verified. ## Summary **A. `~/agent-runtime/PHASE-2-DECISIONS.md`** \u2014 227 lines, 13KB Three decisions locked with options, recommendations, code sketches, analogie\u2026",
-      "message_count": 467,
-      "file_size_kb": 4007,
-      "modified_ts": 1776620179.3914962,
-      "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 1439.1
+      "minutes_since_active": 1434.8
     }
   ]
 }
