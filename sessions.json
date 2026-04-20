@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-20T17:53:21Z",
+  "updated_at": "2026-04-20T17:54:24Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 272,
+    "recent": 3,
+    "archived": 273,
     "total": 276
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 36588,
       "modified_ts": 1776656001.626085,
       "modified_iso": "2026-04-19T23:33:21.626085",
-      "minutes_since_active": 860.0
+      "minutes_since_active": 861.0
     },
     {
       "id": "e508fda2",
@@ -38,7 +38,7 @@
       "file_size_kb": 8641,
       "modified_ts": 1776646828.3103354,
       "modified_iso": "2026-04-19T21:00:28.310335",
-      "minutes_since_active": 1012.9
+      "minutes_since_active": 1013.9
     },
     {
       "id": "05f57455",
@@ -54,23 +54,7 @@
       "file_size_kb": 61,
       "modified_ts": 1776626908.1460888,
       "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 1344.9
-    },
-    {
-      "id": "8d73c511",
-      "full_id": "8d73c511-707a-4356-9cbd-80aece065acf",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "so i had lots of youtube tabs summarized but dont have the time to go over them. i want you to go over them and give me things we could use and implement. i dont want to learn the \u2026",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The file grew from 425 to 720 lines. The three new sections add precision-control mechanics (CFG, denoising, multi-pass inpainting\u2026",
-      "message_count": 119,
-      "file_size_kb": 1655,
-      "modified_ts": 1776621231.831929,
-      "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 1439.5
+      "minutes_since_active": 1345.9
     }
   ]
 }
