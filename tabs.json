@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-04-20T03:57:46Z",
-  "total_tabs": 17,
+  "updated_at": "2026-04-20T03:58:56Z",
+  "total_tabs": 20,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 10,
-      "domain_count": 8,
+      "count": 12,
+      "domain_count": 9,
       "top_domains": [
         {
           "domain": "(no domain)",
+          "count": 2
+        },
+        {
+          "domain": "elearning.villanova.edu",
           "count": 2
         },
         {
@@ -25,21 +29,21 @@
         {
           "domain": "open.spotify.com",
           "count": 1
-        },
-        {
-          "domain": "motion.dev",
-          "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 3,
-      "domain_count": 1,
+      "count": 4,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "github.com",
           "count": 3
+        },
+        {
+          "domain": "claude.ai",
+          "count": 1
         }
       ]
     },
