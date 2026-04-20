@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T18:42:09Z",
-  "total_tabs": 23,
+  "updated_at": "2026-04-20T18:43:12Z",
+  "total_tabs": 25,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -44,6 +44,25 @@
       ]
     },
     {
+      "name": "social",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "discord.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 2,
       "domain_count": 1,
@@ -66,27 +85,16 @@
       ]
     },
     {
-      "name": "social",
+      "name": "productivity",
       "count": 2,
       "domain_count": 2,
       "top_domains": [
         {
-          "domain": "linkedin.com",
+          "domain": "notion.so",
           "count": 1
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
