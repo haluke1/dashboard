@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T21:38:07Z",
+  "updated_at": "2026-04-20T21:39:11Z",
   "total_tabs": 34,
   "total_windows": 4,
   "duplicate_tabs": 2,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 15,
-      "domain_count": 9,
+      "count": 16,
+      "domain_count": 10,
       "top_domains": [
         {
           "domain": "motion.dev",
@@ -68,12 +68,12 @@
     },
     {
       "name": "video",
-      "count": 4,
+      "count": 3,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 4
+          "count": 3
         }
       ]
     },
