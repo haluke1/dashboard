@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-04-20T21:30:40Z",
-  "total_tabs": 33,
+  "updated_at": "2026-04-20T21:31:43Z",
+  "total_tabs": 32,
   "total_windows": 4,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 15,
-      "domain_count": 10,
+      "count": 14,
+      "domain_count": 9,
       "top_domains": [
+        {
+          "domain": "keep.google.com",
+          "count": 2
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 2
+        },
         {
           "domain": "(no domain)",
           "count": 2
@@ -20,14 +28,6 @@
         },
         {
           "domain": "zeffy.com",
-          "count": 2
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 2
-        },
-        {
-          "domain": "higgsfield.ai",
           "count": 2
         }
       ]
