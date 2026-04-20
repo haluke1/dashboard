@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T01:13:57Z",
+  "updated_at": "2026-04-20T01:15:05Z",
   "total_tabs": 18,
   "total_windows": 4,
   "duplicate_tabs": 0,
@@ -11,23 +11,23 @@
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "higgsfield.ai",
-          "count": 2
-        },
-        {
           "domain": "(no domain)",
           "count": 2
         },
         {
+          "domain": "higgsfield.ai",
+          "count": 2
+        },
+        {
+          "domain": "hydrahd.ru",
+          "count": 1
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 1
+        },
+        {
           "domain": "motion.dev",
-          "count": 1
-        },
-        {
-          "domain": "bacteriostaticwater.com",
-          "count": 1
-        },
-        {
-          "domain": "freepik.com",
           "count": 1
         }
       ]
@@ -44,23 +44,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3001",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "video",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
           "count": 2
         }
       ]
