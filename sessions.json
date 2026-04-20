@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T01:20:29Z",
+  "updated_at": "2026-04-20T01:21:33Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Let me go back to image gen page and do a clean Animate flow for one test generation.",
-      "message_count": 1868,
-      "file_size_kb": 27339,
-      "modified_ts": 1776648024.6033916,
-      "modified_iso": "2026-04-19T21:20:24.603392",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "The prompt is already set from the Animate context. Let me click Generate now to test the flow.",
+      "message_count": 1888,
+      "file_size_kb": 27528,
+      "modified_ts": 1776648090.0327685,
+      "modified_iso": "2026-04-19T21:21:30.032768",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 8641,
       "modified_ts": 1776646828.3103354,
       "modified_iso": "2026-04-19T21:00:28.310335",
-      "minutes_since_active": 20.0
+      "minutes_since_active": 21.1
     },
     {
       "id": "05f57455",
@@ -55,7 +55,7 @@
       "file_size_kb": 61,
       "modified_ts": 1776626908.1460888,
       "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 352.0
+      "minutes_since_active": 353.1
     },
     {
       "id": "8d73c511",
@@ -71,7 +71,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 446.6
+      "minutes_since_active": 447.7
     },
     {
       "id": "45397608",
@@ -87,7 +87,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 458.8
+      "minutes_since_active": 459.9
     },
     {
       "id": "ca08a6d6",
@@ -103,7 +103,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 464.1
+      "minutes_since_active": 465.2
     },
     {
       "id": "b7bc6825",
@@ -119,7 +119,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 488.9
+      "minutes_since_active": 490.0
     },
     {
       "id": "b256b68f",
@@ -135,7 +135,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 491.0
+      "minutes_since_active": 492.1
     }
   ]
 }
