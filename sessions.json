@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-20T02:01:25Z",
+  "updated_at": "2026-04-20T02:02:28Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 268,
     "total": 276
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "da78fa86",
       "full_id": "da78fa86-f4a7-4706-af3a-3fb69a2eebd9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/hyperframes-test",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "Second video also downloaded. Now let me close the modal, navigate back to image gen, and restart the batch script (it will skip the 2 already downloaded).",
-      "message_count": 2067,
-      "file_size_kb": 30922,
-      "modified_ts": 1776649894.6301384,
-      "modified_iso": "2026-04-19T21:51:34.630138",
-      "minutes_since_active": 9.8
-    },
+      "message_count": 2069,
+      "file_size_kb": 30924,
+      "modified_ts": 1776650499.2952402,
+      "modified_iso": "2026-04-19T22:01:39.295240",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "e508fda2",
       "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
@@ -38,7 +39,7 @@
       "file_size_kb": 8641,
       "modified_ts": 1776646828.3103354,
       "modified_iso": "2026-04-19T21:00:28.310335",
-      "minutes_since_active": 60.9
+      "minutes_since_active": 62.0
     },
     {
       "id": "05f57455",
@@ -54,7 +55,7 @@
       "file_size_kb": 61,
       "modified_ts": 1776626908.1460888,
       "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 392.9
+      "minutes_since_active": 394.0
     },
     {
       "id": "8d73c511",
@@ -70,7 +71,7 @@
       "file_size_kb": 1655,
       "modified_ts": 1776621231.831929,
       "modified_iso": "2026-04-19T13:53:51.831929",
-      "minutes_since_active": 487.5
+      "minutes_since_active": 488.6
     },
     {
       "id": "45397608",
@@ -86,7 +87,7 @@
       "file_size_kb": 57,
       "modified_ts": 1776620499.2660506,
       "modified_iso": "2026-04-19T13:41:39.266051",
-      "minutes_since_active": 499.8
+      "minutes_since_active": 500.8
     },
     {
       "id": "ca08a6d6",
@@ -102,7 +103,7 @@
       "file_size_kb": 4007,
       "modified_ts": 1776620179.3914962,
       "modified_iso": "2026-04-19T13:36:19.391496",
-      "minutes_since_active": 505.1
+      "minutes_since_active": 506.1
     },
     {
       "id": "b7bc6825",
@@ -118,7 +119,7 @@
       "file_size_kb": 12243,
       "modified_ts": 1776618692.9837143,
       "modified_iso": "2026-04-19T13:11:32.983714",
-      "minutes_since_active": 529.9
+      "minutes_since_active": 530.9
     },
     {
       "id": "b256b68f",
@@ -134,7 +135,7 @@
       "file_size_kb": 4260,
       "modified_ts": 1776618567.0027976,
       "modified_iso": "2026-04-19T13:09:27.002798",
-      "minutes_since_active": 532.0
+      "minutes_since_active": 533.0
     }
   ]
 }
