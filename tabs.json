@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-20T18:25:11Z",
-  "total_tabs": 22,
+  "updated_at": "2026-04-20T18:26:14Z",
+  "total_tabs": 21,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 11,
-      "domain_count": 9,
+      "count": 10,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -27,7 +27,7 @@
           "count": 1
         },
         {
-          "domain": "zeffy.com",
+          "domain": "motion.dev",
           "count": 1
         }
       ]
