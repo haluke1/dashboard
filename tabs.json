@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-20T00:54:32Z",
-  "total_tabs": 17,
+  "updated_at": "2026-04-20T00:56:05Z",
+  "total_tabs": 18,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 10,
+      "count": 11,
       "domain_count": 8,
       "top_domains": [
-        {
-          "domain": "higgsfield.ai",
-          "count": 2
-        },
         {
           "domain": "(no domain)",
           "count": 2
         },
         {
+          "domain": "hydrahd.ru",
+          "count": 2
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 2
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 1
+        },
+        {
           "domain": "motion.dev",
-          "count": 1
-        },
-        {
-          "domain": "bacteriostaticwater.com",
-          "count": 1
-        },
-        {
-          "domain": "freepik.com",
           "count": 1
         }
       ]
