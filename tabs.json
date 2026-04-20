@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T18:11:15Z",
-  "total_tabs": 18,
+  "updated_at": "2026-04-20T18:12:19Z",
+  "total_tabs": 19,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -11,23 +11,23 @@
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "higgsfield.ai",
-          "count": 2
-        },
-        {
           "domain": "(no domain)",
           "count": 2
         },
         {
+          "domain": "higgsfield.ai",
+          "count": 2
+        },
+        {
+          "domain": "hydrahd.ru",
+          "count": 1
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 1
+        },
+        {
           "domain": "motion.dev",
-          "count": 1
-        },
-        {
-          "domain": "bacteriostaticwater.com",
-          "count": 1
-        },
-        {
-          "domain": "freepik.com",
           "count": 1
         }
       ]
@@ -62,6 +62,17 @@
         {
           "domain": "youtube.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 1
         }
       ]
     },
