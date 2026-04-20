@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-20T19:28:19Z",
+  "updated_at": "2026-04-20T19:29:23Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 273,
+    "recent": 2,
+    "archived": 274,
     "total": 276
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 36588,
       "modified_ts": 1776656001.626085,
       "modified_iso": "2026-04-19T23:33:21.626085",
-      "minutes_since_active": 955.0
+      "minutes_since_active": 956.0
     },
     {
       "id": "e508fda2",
@@ -38,23 +38,7 @@
       "file_size_kb": 8641,
       "modified_ts": 1776646828.3103354,
       "modified_iso": "2026-04-19T21:00:28.310335",
-      "minutes_since_active": 1107.8
-    },
-    {
-      "id": "05f57455",
-      "full_id": "05f57455-4cd7-4ba7-8580-e48b1822b206",
-      "status": "recent",
-      "project": "/Users/halukgul/.claude-squad/worktrees/halukgul/haluks-test_18a75c03dc074418",
-      "git_branch": "halukgul/haluks-test",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i open up the instances on claude",
-      "last_user_msg": "how can i open up the instances on claude",
-      "last_assistant_snippet": "Run `cs` in your terminal \u2014 Claude Squad's TUI opens and shows all running instances. You can navigate between them from there.",
-      "message_count": 3,
-      "file_size_kb": 61,
-      "modified_ts": 1776626908.1460888,
-      "modified_iso": "2026-04-19T15:28:28.146089",
-      "minutes_since_active": 1439.9
+      "minutes_since_active": 1108.9
     }
   ]
 }
