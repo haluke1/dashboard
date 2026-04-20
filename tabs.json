@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T18:15:31Z",
+  "updated_at": "2026-04-20T18:16:38Z",
   "total_tabs": 19,
   "total_windows": 4,
   "duplicate_tabs": 0,
@@ -11,23 +11,23 @@
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "(no domain)",
-          "count": 2
-        },
-        {
           "domain": "higgsfield.ai",
           "count": 2
         },
         {
-          "domain": "hydrahd.ru",
-          "count": 1
+          "domain": "(no domain)",
+          "count": 2
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "keep.google.com",
           "count": 1
         },
         {
           "domain": "motion.dev",
+          "count": 1
+        },
+        {
+          "domain": "bacteriostaticwater.com",
           "count": 1
         }
       ]
@@ -66,23 +66,23 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "notion.so",
           "count": 1
         }
       ]
