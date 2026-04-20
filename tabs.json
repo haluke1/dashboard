@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-04-20T00:31:46Z",
-  "total_tabs": 17,
-  "total_windows": 4,
+  "updated_at": "2026-04-20T00:32:54Z",
+  "total_tabs": 20,
+  "total_windows": 5,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 10,
-      "domain_count": 8,
+      "count": 13,
+      "domain_count": 9,
       "top_domains": [
+        {
+          "domain": "xhamster.com",
+          "count": 3
+        },
         {
           "domain": "higgsfield.ai",
           "count": 2
@@ -17,10 +21,6 @@
         {
           "domain": "(no domain)",
           "count": 2
-        },
-        {
-          "domain": "freepik.com",
-          "count": 1
         },
         {
           "domain": "motion.dev",
