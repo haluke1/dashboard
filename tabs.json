@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-20T20:09:57Z",
+  "updated_at": "2026-04-20T20:11:06Z",
   "total_tabs": 30,
-  "total_windows": 4,
+  "total_windows": 5,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 13,
+      "count": 14,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "open.spotify.com",
@@ -67,23 +67,23 @@
       ]
     },
     {
-      "name": "video",
-      "count": 3,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 3
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3001",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
           "count": 2
         }
       ]
