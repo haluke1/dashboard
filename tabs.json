@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-20T19:33:39Z",
-  "total_tabs": 27,
+  "updated_at": "2026-04-20T19:34:43Z",
+  "total_tabs": 28,
   "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 12,
+      "count": 13,
       "domain_count": 9,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 2
         },
         {
+          "domain": "zeffy.com",
+          "count": 2
+        },
+        {
           "domain": "higgsfield.ai",
           "count": 2
         },
         {
           "domain": "hydrahd.ru",
-          "count": 1
-        },
-        {
-          "domain": "zeffy.com",
           "count": 1
         }
       ]
