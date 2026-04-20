@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-04-20T21:31:43Z",
-  "total_tabs": 32,
+  "updated_at": "2026-04-20T21:32:48Z",
+  "total_tabs": 33,
   "total_windows": 4,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 14,
+      "count": 15,
       "domain_count": 9,
       "top_domains": [
+        {
+          "domain": "motion.dev",
+          "count": 2
+        },
         {
           "domain": "keep.google.com",
           "count": 2
@@ -24,10 +28,6 @@
         },
         {
           "domain": "open.spotify.com",
-          "count": 2
-        },
-        {
-          "domain": "zeffy.com",
           "count": 2
         }
       ]
