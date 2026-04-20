@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-20T20:12:38Z",
+  "updated_at": "2026-04-20T20:14:10Z",
   "total_tabs": 30,
-  "total_windows": 5,
+  "total_windows": 4,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 14,
+      "count": 13,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 3
+          "count": 2
         },
         {
           "domain": "open.spotify.com",
@@ -49,8 +49,8 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 3,
+      "count": 5,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -62,6 +62,10 @@
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
