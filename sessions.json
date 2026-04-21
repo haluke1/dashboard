@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-21T23:36:04Z",
+  "updated_at": "2026-04-21T23:37:08Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 2,
-    "archived": 274,
+    "archived": 273,
     "total": 277
   },
   "active": [
+    {
+      "id": "e4560b62",
+      "full_id": "e4560b62-866c-4667-be04-ef2fdbb2081d",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you add a copy of these links to the authority research archive folder on the desktop -> file:///Users/halukgul/AI_Image_Prompting_Techniques_MasterGuide.md file:///Users/hal\u2026",
+      "last_user_msg": "would we be able to create a cs instance workflow to test out different harness structures with different rules / folders / hooks / evals / tests etc for different tasks we wanna d\u2026",
+      "last_assistant_snippet": "All 4 files copied to `~/Desktop/authority-research-archive/`: - `AI_Image_Prompting_Techniques_MasterGuide.md` - `FREEPIK_SPACES_MASTER_GUIDE.md` - `video-research-index.html` (re\u2026",
+      "message_count": 36,
+      "file_size_kb": 192,
+      "modified_ts": 1776814627.5263815,
+      "modified_iso": "2026-04-21T19:37:07.526381",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e6be09c4",
       "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
@@ -16,12 +32,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "lets test it out with why most ai workshops fail and why corporates are failing in ai adoption. i want minimum 40 sources researched. ultrathink",
-      "last_assistant_snippet": "Here's my thinking on the quality problem. The multi-agent instinct is right \u2014 but the architecture matters more than the number of agents. --- ## What makes something AI slop vs a\u2026",
-      "message_count": 644,
-      "file_size_kb": 3079,
-      "modified_ts": 1776814557.0392082,
-      "modified_iso": "2026-04-21T19:35:57.039208",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Running the full pipeline. Phase 1 \u2014 four research agents in parallel, 10+ sources each, targeting 40+ total. Then I compress, draft, review, synthesize. **Phase 1: RESEARCH** \u2014 la\u2026",
+      "message_count": 651,
+      "file_size_kb": 3096,
+      "modified_ts": 1776814609.7435548,
+      "modified_iso": "2026-04-21T19:36:49.743555",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 64.1
+      "minutes_since_active": 65.2
     },
     {
       "id": "7532f257",
@@ -55,7 +71,7 @@
       "file_size_kb": 31,
       "modified_ts": 1776810687.8506522,
       "modified_iso": "2026-04-21T18:31:27.850652",
-      "minutes_since_active": 64.6
+      "minutes_since_active": 65.7
     }
   ]
 }
