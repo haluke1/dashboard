@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T23:42:25Z",
+  "updated_at": "2026-04-21T23:43:28Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 277
   },
   "active": [
+    {
+      "id": "e6be09c4",
+      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
+      "status": "active",
+      "project": "/Users/halukgul/reports/villanova-workshops",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
+      "last_user_msg": "lets test it out with why most ai workshops fail and why corporates are failing in ai adoption. i want minimum 40 sources researched. ultrathink",
+      "last_assistant_snippet": "Draft complete. **Phase 3: PARALLEL ADVERSARIAL REVIEW** \u2014 three reviewers with different lenses:",
+      "message_count": 665,
+      "file_size_kb": 3183,
+      "modified_ts": 1776814954.020116,
+      "modified_iso": "2026-04-21T19:42:34.020116",
+      "minutes_since_active": 0.9
+    },
     {
       "id": "7532f257",
       "full_id": "7532f257-dbb8-4794-a8b6-d03dcc95193d",
@@ -21,23 +37,7 @@
       "file_size_kb": 262,
       "modified_ts": 1776814937.5341463,
       "modified_iso": "2026-04-21T19:42:17.534146",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "e6be09c4",
-      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
-      "status": "active",
-      "project": "/Users/halukgul/reports/villanova-workshops",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
-      "last_user_msg": "lets test it out with why most ai workshops fail and why corporates are failing in ai adoption. i want minimum 40 sources researched. ultrathink",
-      "last_assistant_snippet": "Phase 1 complete. 3 of 4 agents returned (~40 sources across ~28 data points). Agent C (what works) hit an API error \u2014 but Agent D captured enough positive evidence to cover it. **\u2026",
-      "message_count": 661,
-      "file_size_kb": 3176,
-      "modified_ts": 1776814927.1944394,
-      "modified_iso": "2026-04-21T19:42:07.194439",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 1.2
     },
     {
       "id": "e4560b62",
@@ -53,7 +53,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 2.8
+      "minutes_since_active": 3.9
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 70.5
+      "minutes_since_active": 71.5
     }
   ]
 }
