@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T23:37:08Z",
+  "updated_at": "2026-04-21T23:38:11Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 277
   },
   "active": [
+    {
+      "id": "e6be09c4",
+      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
+      "status": "active",
+      "project": "/Users/halukgul/reports/villanova-workshops",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
+      "last_user_msg": "lets test it out with why most ai workshops fail and why corporates are failing in ai adoption. i want minimum 40 sources researched. ultrathink",
+      "last_assistant_snippet": "Running the full pipeline. Phase 1 \u2014 four research agents in parallel, 10+ sources each, targeting 40+ total. Then I compress, draft, review, synthesize. **Phase 1: RESEARCH** \u2014 la\u2026",
+      "message_count": 652,
+      "file_size_kb": 3101,
+      "modified_ts": 1776814680.4260094,
+      "modified_iso": "2026-04-21T19:38:00.426009",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "e4560b62",
       "full_id": "e4560b62-866c-4667-be04-ef2fdbb2081d",
@@ -21,23 +37,7 @@
       "file_size_kb": 192,
       "modified_ts": 1776814627.5263815,
       "modified_iso": "2026-04-21T19:37:07.526381",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "e6be09c4",
-      "full_id": "e6be09c4-8217-40a8-8e5d-7a0ad889bd15",
-      "status": "active",
-      "project": "/Users/halukgul/reports/villanova-workshops",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
-      "last_user_msg": "lets test it out with why most ai workshops fail and why corporates are failing in ai adoption. i want minimum 40 sources researched. ultrathink",
-      "last_assistant_snippet": "Running the full pipeline. Phase 1 \u2014 four research agents in parallel, 10+ sources each, targeting 40+ total. Then I compress, draft, review, synthesize. **Phase 1: RESEARCH** \u2014 la\u2026",
-      "message_count": 651,
-      "file_size_kb": 3096,
-      "modified_ts": 1776814609.7435548,
-      "modified_iso": "2026-04-21T19:36:49.743555",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 65.2
+      "minutes_since_active": 66.3
     },
     {
       "id": "7532f257",
@@ -71,7 +71,7 @@
       "file_size_kb": 31,
       "modified_ts": 1776810687.8506522,
       "modified_iso": "2026-04-21T18:31:27.850652",
-      "minutes_since_active": 65.7
+      "minutes_since_active": 66.7
     }
   ]
 }
