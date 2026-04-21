@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T23:23:22Z",
+  "updated_at": "2026-04-21T23:23:52Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "can you give me a potential decision making structure that uses an evaluation framework that has evals, tests, cass and cness-like filters, folder structure maximizing context-savi\u2026",
-      "last_assistant_snippet": "Now a few essential templates:",
-      "message_count": 623,
-      "file_size_kb": 2942,
-      "modified_ts": 1776813788.857197,
-      "modified_iso": "2026-04-21T19:23:08.857197",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "## What's shipped **`~/studio/`** \u2014 your content production system. 7 files, zero bloat. ``` studio/ \u251c\u2500\u2500 SYSTEM.md \u2190 Master context (Claude reads this first) \u251c\u2500\u2500 README.md \u2190 How th\u2026",
+      "message_count": 628,
+      "file_size_kb": 2960,
+      "modified_ts": 1776813831.6570528,
+      "modified_iso": "2026-04-21T19:23:51.657053",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 51.4
+      "minutes_since_active": 52.0
     },
     {
       "id": "7532f257",
@@ -55,7 +55,7 @@
       "file_size_kb": 31,
       "modified_ts": 1776810687.8506522,
       "modified_iso": "2026-04-21T18:31:27.850652",
-      "minutes_since_active": 51.9
+      "minutes_since_active": 52.4
     }
   ]
 }
