@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-21T00:59:29Z",
+  "updated_at": "2026-04-21T01:01:51Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 274,
+    "recent": 1,
+    "archived": 275,
     "total": 276
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 36588,
       "modified_ts": 1776656001.626085,
       "modified_iso": "2026-04-19T23:33:21.626085",
-      "minutes_since_active": 1286.1
-    },
-    {
-      "id": "e508fda2",
-      "full_id": "e508fda2-c593-4291-b2a1-b66b8f4e2672",
-      "status": "recent",
-      "project": "/Users/halukgul/projects/claudephilly-videos",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to take a look at the research we did yesterday regarding vercal's 80% reduction in tools.",
-      "last_user_msg": "continue to use freepik spaces to test for the next 1 hour. set a timer, check for 1 hour and conitnuously test different variations of node connections. make sure unlimited mode i\u2026",
-      "last_assistant_snippet": "I see the Spaces tab with `?log-in=google` \u2014 it redirected to Google auth. You need to complete the Google login in Arc. Can you check the Freepik tab and sign in? Once you're back\u2026",
-      "message_count": 1076,
-      "file_size_kb": 8641,
-      "modified_ts": 1776646828.3103354,
-      "modified_iso": "2026-04-19T21:00:28.310335",
-      "minutes_since_active": 1439.0
+      "minutes_since_active": 1288.5
     }
   ]
 }
