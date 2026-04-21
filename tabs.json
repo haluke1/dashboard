@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T21:53:28Z",
+  "updated_at": "2026-04-21T21:54:31Z",
   "total_tabs": 45,
   "total_windows": 4,
   "duplicate_tabs": 8,
@@ -75,32 +75,28 @@
       ]
     },
     {
-      "name": "productivity",
+      "name": "video",
       "count": 4,
-      "domain_count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "notion.so",
           "count": 2
         },
         {
-          "domain": "mail.google.com",
-          "count": 1
-        },
-        {
           "domain": "docs.google.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 3,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 3
         }
       ]
     },
