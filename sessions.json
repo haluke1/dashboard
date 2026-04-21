@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-21T22:36:29Z",
+  "updated_at": "2026-04-21T22:37:35Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 275,
     "total": 277
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "ec38cd63",
       "full_id": "ec38cd63-1afe-46ee-baa9-2c448e8a6c4f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/reports/quantum-quill-lyceum",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 4.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.7
+    },
     {
       "id": "7532f257",
       "full_id": "7532f257-dbb8-4794-a8b6-d03dcc95193d",
@@ -39,7 +38,7 @@
       "file_size_kb": 31,
       "modified_ts": 1776810687.8506522,
       "modified_iso": "2026-04-21T18:31:27.850652",
-      "minutes_since_active": 5.0
+      "minutes_since_active": 6.1
     }
   ]
 }
