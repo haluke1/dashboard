@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-21T23:43:28Z",
+  "updated_at": "2026-04-21T23:44:34Z",
   "counts": {
-    "active": 3,
-    "recent": 1,
+    "active": 2,
+    "recent": 2,
     "archived": 273,
     "total": 277
   },
@@ -17,11 +17,11 @@
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
       "last_user_msg": "lets test it out with why most ai workshops fail and why corporates are failing in ai adoption. i want minimum 40 sources researched. ultrathink",
       "last_assistant_snippet": "Draft complete. **Phase 3: PARALLEL ADVERSARIAL REVIEW** \u2014 three reviewers with different lenses:",
-      "message_count": 665,
-      "file_size_kb": 3183,
-      "modified_ts": 1776814954.020116,
-      "modified_iso": "2026-04-21T19:42:34.020116",
-      "minutes_since_active": 0.9
+      "message_count": 666,
+      "file_size_kb": 3190,
+      "modified_ts": 1776815051.259792,
+      "modified_iso": "2026-04-21T19:44:11.259792",
+      "minutes_since_active": 0.4
     },
     {
       "id": "7532f257",
@@ -37,12 +37,14 @@
       "file_size_kb": 262,
       "modified_ts": 1776814937.5341463,
       "modified_iso": "2026-04-21T19:42:17.534146",
-      "minutes_since_active": 1.2
-    },
+      "minutes_since_active": 2.3
+    }
+  ],
+  "recent": [
     {
       "id": "e4560b62",
       "full_id": "e4560b62-866c-4667-be04-ef2fdbb2081d",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 3.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.0
+    },
     {
       "id": "ec38cd63",
       "full_id": "ec38cd63-1afe-46ee-baa9-2c448e8a6c4f",
@@ -71,7 +71,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 71.5
+      "minutes_since_active": 72.6
     }
   ]
 }
