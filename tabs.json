@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T22:34:21Z",
+  "updated_at": "2026-04-21T22:35:25Z",
   "total_tabs": 45,
   "total_windows": 3,
   "duplicate_tabs": 6,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 23,
-      "domain_count": 16,
+      "count": 22,
+      "domain_count": 15,
       "top_domains": [
         {
           "domain": "open.spotify.com",
@@ -75,6 +75,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 3,
       "domain_count": 2,
@@ -107,17 +118,6 @@
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
           "count": 2
         }
       ]
