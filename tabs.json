@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T23:02:09Z",
+  "updated_at": "2026-04-21T23:03:13Z",
   "total_tabs": 43,
   "total_windows": 3,
   "duplicate_tabs": 6,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 23,
-      "domain_count": 16,
+      "count": 22,
+      "domain_count": 15,
       "top_domains": [
         {
           "domain": "open.spotify.com",
@@ -34,12 +34,16 @@
     },
     {
       "name": "social",
-      "count": 7,
+      "count": 8,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 3
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
         },
         {
           "domain": "web.whatsapp.com",
@@ -51,10 +55,6 @@
         },
         {
           "domain": "x.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
           "count": 1
         }
       ]
