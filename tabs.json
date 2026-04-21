@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-21T23:12:43Z",
-  "total_tabs": 42,
+  "updated_at": "2026-04-21T23:13:46Z",
+  "total_tabs": 43,
   "total_windows": 3,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 22,
+      "count": 23,
       "domain_count": 15,
       "top_domains": [
         {
@@ -15,19 +15,19 @@
           "count": 4
         },
         {
+          "domain": "(no domain)",
+          "count": 3
+        },
+        {
+          "domain": "zeffy.com",
+          "count": 2
+        },
+        {
           "domain": "motion.dev",
           "count": 2
         },
         {
           "domain": "higgsfield.ai",
-          "count": 2
-        },
-        {
-          "domain": "(no domain)",
-          "count": 2
-        },
-        {
-          "domain": "zeffy.com",
           "count": 2
         }
       ]
@@ -42,19 +42,19 @@
           "count": 3
         },
         {
-          "domain": "x.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 1
         },
         {
           "domain": "discord.com",
+          "count": 1
+        },
+        {
+          "domain": "x.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
