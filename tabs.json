@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T04:55:47Z",
+  "updated_at": "2026-04-21T04:56:51Z",
   "total_tabs": 37,
   "total_windows": 4,
   "duplicate_tabs": 4,
@@ -33,6 +33,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 6,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "discord.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 5,
       "domain_count": 2,
@@ -48,32 +71,13 @@
       ]
     },
     {
-      "name": "social",
-      "count": 5,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        },
-        {
-          "domain": "discord.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "video",
-      "count": 4,
+      "count": 3,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 4
+          "count": 3
         }
       ]
     },
