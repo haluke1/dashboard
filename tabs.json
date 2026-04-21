@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-04-21T21:37:23Z",
-  "total_tabs": 44,
-  "total_windows": 5,
+  "updated_at": "2026-04-21T21:38:26Z",
+  "total_tabs": 43,
+  "total_windows": 4,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 21,
+      "count": 20,
       "domain_count": 12,
       "top_domains": [
         {
           "domain": "open.spotify.com",
           "count": 4
-        },
-        {
-          "domain": "(no domain)",
-          "count": 3
         },
         {
           "domain": "motion.dev",
@@ -28,6 +24,10 @@
         },
         {
           "domain": "keep.google.com",
+          "count": 2
+        },
+        {
+          "domain": "(no domain)",
           "count": 2
         }
       ]
