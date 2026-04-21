@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T22:45:11Z",
-  "total_tabs": 45,
+  "updated_at": "2026-04-21T22:46:15Z",
+  "total_tabs": 42,
   "total_windows": 3,
   "duplicate_tabs": 6,
   "bridge_online": true,
@@ -15,11 +15,11 @@
           "count": 4
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "motion.dev",
           "count": 2
         },
         {
-          "domain": "motion.dev",
+          "domain": "higgsfield.ai",
           "count": 2
         },
         {
@@ -75,17 +75,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 3,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 3
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 3,
       "domain_count": 2,
@@ -112,12 +101,12 @@
       ]
     },
     {
-      "name": "shopping",
+      "name": "video",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "amazon.com",
+          "domain": "youtube.com",
           "count": 2
         }
       ]
