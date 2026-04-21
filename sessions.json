@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-04-21T03:31:35Z",
+  "updated_at": "2026-04-21T03:34:25Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 275,
+    "recent": 0,
+    "archived": 276,
     "total": 276
   },
   "active": [],
-  "recent": [
-    {
-      "id": "da78fa86",
-      "full_id": "da78fa86-f4a7-4706-af3a-3fb69a2eebd9",
-      "status": "recent",
-      "project": "/Users/halukgul/hyperframes-test",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we install this and test it out -> https://github.com/heygen-com/hyperframes",
-      "last_user_msg": "<local-command-stdout>\u001b[2mCompacted (ctrl+o to see full summary)\u001b[22m \u001b[2mPreCompact [bash \"$HOME/.claude/hooks/precompact-snapshot.sh\"] completed successfully: Snapshot saved: /Us\u2026",
-      "last_assistant_snippet": "Batch is running cleanly at 10 videos. Here's the summary of what happened and what's in progress: **What changed:** - Discovered Higgsfield's internal REST API (`fnf.higgsfield.ai\u2026",
-      "message_count": 2813,
-      "file_size_kb": 36588,
-      "modified_ts": 1776656001.626085,
-      "modified_iso": "2026-04-19T23:33:21.626085",
-      "minutes_since_active": 1438.2
-    }
-  ]
+  "recent": []
 }
