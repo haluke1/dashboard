@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T19:22:50Z",
-  "total_tabs": 40,
+  "updated_at": "2026-04-21T19:23:54Z",
+  "total_tabs": 41,
   "total_windows": 4,
   "duplicate_tabs": 4,
   "bridge_online": true,
@@ -86,21 +86,14 @@
       ]
     },
     {
-      "name": "local",
-      "count": 2,
-      "domain_count": 1,
+      "name": "productivity",
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
         {
-          "domain": "localhost:3001",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
+          "domain": "mail.google.com",
+          "count": 1
+        },
         {
           "domain": "notion.so",
           "count": 1
@@ -108,6 +101,17 @@
         {
           "domain": "docs.google.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3001",
+          "count": 2
         }
       ]
     },
