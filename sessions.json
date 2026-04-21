@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T23:24:25Z",
+  "updated_at": "2026-04-21T23:24:59Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue from the vercel + next.js project that we were doing. the terminal closed",
-      "last_user_msg": "can you give me a potential decision making structure that uses an evaluation framework that has evals, tests, cass and cness-like filters, folder structure maximizing context-savi\u2026",
-      "last_assistant_snippet": "## What's shipped **`~/studio/`** \u2014 your content production system. 7 files, zero bloat. ``` studio/ \u251c\u2500\u2500 SYSTEM.md \u2190 Master context (Claude reads this first) \u251c\u2500\u2500 README.md \u2190 How th\u2026",
-      "message_count": 628,
-      "file_size_kb": 2962,
-      "modified_ts": 1776813833.0547388,
-      "modified_iso": "2026-04-21T19:23:53.054739",
-      "minutes_since_active": 0.5
+      "last_user_msg": "get rid of this from claude.md -> \u258e \"A framework only counts as 'built' once it has been used to produce 3+ shipped artifacts. System depth without output = navel-gazing.\"",
+      "last_assistant_snippet": "Done. Removed the \"framework only counts as built once 3+ shipped artifacts\" line and the \"system depth without output = navel-gazing\" line. Kept the rest of the Tests section inta\u2026",
+      "message_count": 634,
+      "file_size_kb": 3003,
+      "modified_ts": 1776813897.8626204,
+      "modified_iso": "2026-04-21T19:24:57.862620",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 52.5
+      "minutes_since_active": 53.1
     },
     {
       "id": "7532f257",
@@ -55,7 +55,7 @@
       "file_size_kb": 31,
       "modified_ts": 1776810687.8506522,
       "modified_iso": "2026-04-21T18:31:27.850652",
-      "minutes_since_active": 52.9
+      "minutes_since_active": 53.5
     }
   ]
 }
