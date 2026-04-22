@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T01:43:34Z",
+  "updated_at": "2026-04-22T01:49:12Z",
   "counts": {
     "active": 2,
     "recent": 9,
@@ -7,6 +7,22 @@
     "total": 284
   },
   "active": [
+    {
+      "id": "b667454c",
+      "full_id": "b667454c-e4ff-4b52-88bf-3109ba5f2f4f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "# Master Prompt \u2014 Turkish Holdings Live Open Positions Research > Copy this entire document into Claude Code. Save as `.claude/commands/research-turkish-holdings.md` if you want it\u2026",
+      "last_user_msg": "<task-notification> <task-id>a56af53a10523bd6d</task-id> <tool-use-id>toolu_01FJhWnydALNkL3cphTH2mmp</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b667454c-e4f\u2026",
+      "last_assistant_snippet": "People intel agent done. **Major find:** **\ud83d\udd25 Priority \u2014 Anadolu Efes: Confirmed Vacant Executive Role** - Chief Strategy, Insight & Innovation Officer \u2014 **vacant since January 17, \u2026",
+      "message_count": 52,
+      "file_size_kb": 294,
+      "modified_ts": 1776822300.3804233,
+      "modified_iso": "2026-04-21T21:45:00.380423",
+      "minutes_since_active": 4.2
+    },
     {
       "id": "b02db417",
       "full_id": "b02db417-ba97-4b7e-926e-fb2ea9f54e9b",
@@ -16,28 +32,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "continue the project from this session -> \u276f # Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + \u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "Starting the dev server in the background, then opening it with CDP.",
-      "message_count": 115,
-      "file_size_kb": 378,
-      "modified_ts": 1776822213.1585548,
-      "modified_iso": "2026-04-21T21:43:33.158555",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "b667454c",
-      "full_id": "b667454c-e4ff-4b52-88bf-3109ba5f2f4f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "# Master Prompt \u2014 Turkish Holdings Live Open Positions Research > Copy this entire document into Claude Code. Save as `.claude/commands/research-turkish-holdings.md` if you want it\u2026",
-      "last_user_msg": "<task-notification> <task-id>aebb696fe9a6c2bcd</task-id> <tool-use-id>toolu_012TuviKKM2NvEco9r4xaR5L</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b667454c-e4f\u2026",
-      "last_assistant_snippet": "Exa agent done. Confirms \u00c7al\u0131k again (already in our list) and adds one important new discovery: **New finding \u2014 Corex Holding** - Founded 2024 by former YILDIRIM Group founder - 2\u2026",
-      "message_count": 49,
-      "file_size_kb": 280,
-      "modified_ts": 1776822173.9548357,
-      "modified_iso": "2026-04-21T21:42:53.954836",
-      "minutes_since_active": 0.7
+      "last_assistant_snippet": "Running on 3001. Opening it now.",
+      "message_count": 134,
+      "file_size_kb": 413,
+      "modified_ts": 1776822295.720081,
+      "modified_iso": "2026-04-21T21:44:55.720081",
+      "minutes_since_active": 4.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 67.6
+      "minutes_since_active": 73.2
     },
     {
       "id": "b557935a",
@@ -71,7 +71,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 68.2
+      "minutes_since_active": 73.9
     },
     {
       "id": "db1dee3f",
@@ -87,7 +87,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 73.6
+      "minutes_since_active": 79.2
     },
     {
       "id": "19093502",
@@ -103,7 +103,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 106.6
+      "minutes_since_active": 112.3
     },
     {
       "id": "7532f257",
@@ -119,7 +119,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 108.0
+      "minutes_since_active": 113.7
     },
     {
       "id": "96b69520",
@@ -135,7 +135,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 109.4
+      "minutes_since_active": 115.0
     },
     {
       "id": "e6be09c4",
@@ -151,7 +151,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 109.9
+      "minutes_since_active": 115.5
     },
     {
       "id": "e4560b62",
@@ -167,7 +167,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 124.0
+      "minutes_since_active": 129.6
     },
     {
       "id": "ec38cd63",
@@ -183,7 +183,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 191.6
+      "minutes_since_active": 197.3
     }
   ]
 }
