@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-22T00:11:39Z",
+  "updated_at": "2026-04-22T00:12:42Z",
   "counts": {
-    "active": 1,
-    "recent": 6,
+    "active": 0,
+    "recent": 7,
     "archived": 273,
     "total": 280
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "db1dee3f",
       "full_id": "db1dee3f-104c-483c-9107-ddefe94eb737",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 158,
       "modified_ts": 1776816440.861518,
       "modified_iso": "2026-04-21T20:07:20.861518",
-      "minutes_since_active": 4.3
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "19093502",
       "full_id": "19093502-d00d-47db-94cb-f98c2e71e3a6",
@@ -39,7 +38,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 14.7
+      "minutes_since_active": 15.8
     },
     {
       "id": "7532f257",
@@ -55,7 +54,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 16.1
+      "minutes_since_active": 17.2
     },
     {
       "id": "96b69520",
@@ -71,7 +70,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 17.5
+      "minutes_since_active": 18.5
     },
     {
       "id": "e6be09c4",
@@ -87,7 +86,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 18.0
+      "minutes_since_active": 19.1
     },
     {
       "id": "e4560b62",
@@ -103,7 +102,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 32.1
+      "minutes_since_active": 33.1
     },
     {
       "id": "ec38cd63",
@@ -119,7 +118,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 99.7
+      "minutes_since_active": 100.8
     }
   ]
 }
