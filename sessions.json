@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-22T01:42:53Z",
+  "updated_at": "2026-04-22T01:43:34Z",
   "counts": {
-    "active": 1,
-    "recent": 10,
+    "active": 2,
+    "recent": 9,
     "archived": 273,
     "total": 284
   },
   "active": [
+    {
+      "id": "b02db417",
+      "full_id": "b02db417-ba97-4b7e-926e-fb2ea9f54e9b",
+      "status": "active",
+      "project": "/Users/halukgul/portfolio",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "continue the project from this session -> \u276f # Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "Starting the dev server in the background, then opening it with CDP.",
+      "message_count": 115,
+      "file_size_kb": 378,
+      "modified_ts": 1776822213.1585548,
+      "modified_iso": "2026-04-21T21:43:33.158555",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b667454c",
       "full_id": "b667454c-e4ff-4b52-88bf-3109ba5f2f4f",
@@ -18,29 +34,13 @@
       "last_user_msg": "<task-notification> <task-id>aebb696fe9a6c2bcd</task-id> <tool-use-id>toolu_012TuviKKM2NvEco9r4xaR5L</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b667454c-e4f\u2026",
       "last_assistant_snippet": "Exa agent done. Confirms \u00c7al\u0131k again (already in our list) and adds one important new discovery: **New finding \u2014 Corex Holding** - Founded 2024 by former YILDIRIM Group founder - 2\u2026",
       "message_count": 49,
-      "file_size_kb": 279,
-      "modified_ts": 1776822172.5150273,
-      "modified_iso": "2026-04-21T21:42:52.515027",
-      "minutes_since_active": 0.0
+      "file_size_kb": 280,
+      "modified_ts": 1776822173.9548357,
+      "modified_iso": "2026-04-21T21:42:53.954836",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
-    {
-      "id": "b02db417",
-      "full_id": "b02db417-ba97-4b7e-926e-fb2ea9f54e9b",
-      "status": "recent",
-      "project": "/Users/halukgul/portfolio",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "continue the project from this session -> \u276f # Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + \u2026",
-      "last_user_msg": "continue the project from this session -> \u276f # Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + \u2026",
-      "last_assistant_snippet": "Committed. Now for the cloud question \u2014 **there's no GitHub remote yet**. The code is safe in local git, but closing the laptop doesn't lose it. To actually put it \"on the cloud\" s\u2026",
-      "message_count": 106,
-      "file_size_kb": 364,
-      "modified_ts": 1776820052.3422928,
-      "modified_iso": "2026-04-21T21:07:32.342293",
-      "minutes_since_active": 35.3
-    },
     {
       "id": "3ef58c97",
       "full_id": "3ef58c97-7925-4117-9706-999a6200d669",
@@ -55,7 +55,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 66.9
+      "minutes_since_active": 67.6
     },
     {
       "id": "b557935a",
@@ -71,7 +71,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 67.6
+      "minutes_since_active": 68.2
     },
     {
       "id": "db1dee3f",
@@ -87,7 +87,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 72.9
+      "minutes_since_active": 73.6
     },
     {
       "id": "19093502",
@@ -103,7 +103,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 106.0
+      "minutes_since_active": 106.6
     },
     {
       "id": "7532f257",
@@ -119,7 +119,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 107.4
+      "minutes_since_active": 108.0
     },
     {
       "id": "96b69520",
@@ -135,7 +135,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 108.7
+      "minutes_since_active": 109.4
     },
     {
       "id": "e6be09c4",
@@ -151,7 +151,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 109.2
+      "minutes_since_active": 109.9
     },
     {
       "id": "e4560b62",
@@ -167,7 +167,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 123.3
+      "minutes_since_active": 124.0
     },
     {
       "id": "ec38cd63",
@@ -183,7 +183,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 191.0
+      "minutes_since_active": 191.6
     }
   ]
 }
