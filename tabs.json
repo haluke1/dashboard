@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T20:41:46Z",
+  "updated_at": "2026-04-22T20:42:50Z",
   "total_tabs": 59,
   "total_windows": 4,
   "duplicate_tabs": 8,
@@ -12,11 +12,15 @@
       "top_domains": [
         {
           "domain": "elearning.villanova.edu",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "(no domain)",
           "count": 6
+        },
+        {
+          "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
+          "count": 3
         },
         {
           "domain": "open.spotify.com",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "motion.dev",
-          "count": 2
-        },
-        {
-          "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
           "count": 2
         }
       ]
