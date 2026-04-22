@@ -1,62 +1,61 @@
 {
-  "updated_at": "2026-04-22T00:29:48Z",
+  "updated_at": "2026-04-22T00:42:03Z",
   "counts": {
-    "active": 3,
-    "recent": 6,
+    "active": 0,
+    "recent": 9,
     "archived": 273,
     "total": 282
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "3ef58c97",
       "full_id": "3ef58c97-7925-4117-9706-999a6200d669",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/portfolio",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "# Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + React 19 + React Three Fiber v9 + GSAP Scrol\u2026",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "TypeScript: no errors. Dev server running on :3001 with Turbopack. Let me check for runtime errors.",
-      "message_count": 113,
-      "file_size_kb": 400,
-      "modified_ts": 1776817785.5739589,
-      "modified_iso": "2026-04-21T20:29:45.573959",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Tailwind resolution error \u2014 it's looking in `/Users/halukgul` (parent) instead of `/Users/halukgul/portfolio`. Let me check the PostCSS config and fix this.",
+      "message_count": 128,
+      "file_size_kb": 429,
+      "modified_ts": 1776818160.6478574,
+      "modified_iso": "2026-04-21T20:36:00.647857",
+      "minutes_since_active": 6.0
     },
     {
       "id": "b557935a",
       "full_id": "b557935a-a8d3-4e29-9802-a75ecbf8f272",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/portfolio/.worktrees/interactive-layer",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/using-git-worktrees # Using Git Worktrees ## Overview Git work\u2026",
       "last_assistant_snippet": "Worktree ready at `/Users/halukgul/portfolio/.worktrees/interactive-layer`. Now I need to read the full existing codebase before creating the task list.",
-      "message_count": 108,
-      "file_size_kb": 347,
-      "modified_ts": 1776817748.9257035,
-      "modified_iso": "2026-04-21T20:29:08.925704",
-      "minutes_since_active": 0.6
+      "message_count": 115,
+      "file_size_kb": 368,
+      "modified_ts": 1776818119.8822308,
+      "modified_iso": "2026-04-21T20:35:19.882231",
+      "minutes_since_active": 6.7
     },
     {
       "id": "db1dee3f",
       "full_id": "db1dee3f-104c-483c-9107-ddefe94eb737",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "highlight things like these -> That number means nothing. / underline things like these -> of employees say they cannot apply AI training to their actual work.[Image #3] -> make th\u2026",
       "last_user_msg": "add some animations",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The 20% word cut concentrated on \"evidence stacking\" \u2014 where 3 sources all said roughly the same thing (RAND root causes list, Ebb\u2026",
-      "message_count": 33,
-      "file_size_kb": 884,
-      "modified_ts": 1776817717.3619545,
-      "modified_iso": "2026-04-21T20:28:37.361954",
-      "minutes_since_active": 1.2
-    }
-  ],
-  "recent": [
+      "last_assistant_snippet": "Reading the current file to plan animations from the correct base.",
+      "message_count": 37,
+      "file_size_kb": 941,
+      "modified_ts": 1776817798.0451264,
+      "modified_iso": "2026-04-21T20:29:58.045126",
+      "minutes_since_active": 12.1
+    },
     {
       "id": "19093502",
       "full_id": "19093502-d00d-47db-94cb-f98c2e71e3a6",
@@ -71,7 +70,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 32.9
+      "minutes_since_active": 45.1
     },
     {
       "id": "7532f257",
@@ -87,7 +86,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 34.3
+      "minutes_since_active": 46.5
     },
     {
       "id": "96b69520",
@@ -103,7 +102,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 35.6
+      "minutes_since_active": 47.8
     },
     {
       "id": "e6be09c4",
@@ -119,7 +118,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 36.2
+      "minutes_since_active": 48.4
     },
     {
       "id": "e4560b62",
@@ -135,7 +134,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 50.2
+      "minutes_since_active": 62.5
     },
     {
       "id": "ec38cd63",
@@ -151,7 +150,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 117.9
+      "minutes_since_active": 130.1
     }
   ]
 }
