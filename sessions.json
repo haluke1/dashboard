@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T00:26:38Z",
+  "updated_at": "2026-04-22T00:27:41Z",
   "counts": {
     "active": 3,
     "recent": 6,
@@ -7,6 +7,38 @@
     "total": 282
   },
   "active": [
+    {
+      "id": "b557935a",
+      "full_id": "b557935a-a8d3-4e29-9802-a75ecbf8f272",
+      "status": "active",
+      "project": "/Users/halukgul/portfolio",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/using-git-worktrees # Using Git Worktrees ## Overview Git work\u2026",
+      "last_assistant_snippet": "Setting up an isolated workspace using git worktrees.",
+      "message_count": 75,
+      "file_size_kb": 237,
+      "modified_ts": 1776817658.2904117,
+      "modified_iso": "2026-04-21T20:27:38.290412",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "3ef58c97",
+      "full_id": "3ef58c97-7925-4117-9706-999a6200d669",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "# Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + React 19 + React Three Fiber v9 + GSAP Scrol\u2026",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Good. Here's everything synthesized before I write a line of code. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **The three zones of this system** \u2014 think of them like thr\u2026",
+      "message_count": 34,
+      "file_size_kb": 207,
+      "modified_ts": 1776817615.5019023,
+      "modified_iso": "2026-04-21T20:26:55.501902",
+      "minutes_since_active": 0.8
+    },
     {
       "id": "db1dee3f",
       "full_id": "db1dee3f-104c-483c-9107-ddefe94eb737",
@@ -21,39 +53,7 @@
       "file_size_kb": 883,
       "modified_ts": 1776817557.4713151,
       "modified_iso": "2026-04-21T20:25:57.471315",
-      "minutes_since_active": 0.7
-    },
-    {
-      "id": "b557935a",
-      "full_id": "b557935a-a8d3-4e29-9802-a75ecbf8f272",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
-      "last_user_msg": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` Three things to understand before reading the breakdown: 1. **Two RAF loops, one winner**: GSAP's ticker and R3F's `useFrame` both\u2026",
-      "message_count": 54,
-      "file_size_kb": 191,
-      "modified_ts": 1776817500.2323203,
-      "modified_iso": "2026-04-21T20:25:00.232320",
-      "minutes_since_active": 1.6
-    },
-    {
-      "id": "3ef58c97",
-      "full_id": "3ef58c97-7925-4117-9706-999a6200d669",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "# Cinematic Scroll Portfolio \u2014 Claude Code Scaffold Spec A camera-through-scene personal portfolio built with Next.js 16 (App Router) + React 19 + React Three Fiber v9 + GSAP Scrol\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/gsap-scrolltrigger # GSAP ScrollTrigger ## When to Use This Skill Apply when implementing scroll-driven animations: tr\u2026",
-      "last_assistant_snippet": "Good. Here's everything synthesized before I write a line of code. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **The three zones of this system** \u2014 think of them like thr\u2026",
-      "message_count": 33,
-      "file_size_kb": 206,
-      "modified_ts": 1776817339.4239962,
-      "modified_iso": "2026-04-21T20:22:19.423996",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 1.7
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 29.7
+      "minutes_since_active": 30.8
     },
     {
       "id": "7532f257",
@@ -87,7 +87,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 31.1
+      "minutes_since_active": 32.2
     },
     {
       "id": "96b69520",
@@ -103,7 +103,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 32.4
+      "minutes_since_active": 33.5
     },
     {
       "id": "e6be09c4",
@@ -119,7 +119,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 33.0
+      "minutes_since_active": 34.0
     },
     {
       "id": "e4560b62",
@@ -135,7 +135,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 47.1
+      "minutes_since_active": 48.1
     },
     {
       "id": "ec38cd63",
@@ -151,7 +151,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 114.7
+      "minutes_since_active": 115.8
     }
   ]
 }
