@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-22T06:50:03Z",
-  "total_tabs": 53,
+  "updated_at": "2026-04-22T06:51:06Z",
+  "total_tabs": 55,
   "total_windows": 4,
   "duplicate_tabs": 9,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 26,
-      "domain_count": 14,
+      "count": 27,
+      "domain_count": 15,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -33,24 +33,9 @@
       ]
     },
     {
-      "name": "ai-dev",
-      "count": 8,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "github.com",
-          "count": 4
-        },
-        {
-          "domain": "claude.ai",
-          "count": 4
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 8,
-      "domain_count": 5,
+      "count": 9,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -65,12 +50,27 @@
           "count": 1
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "instagram.com",
           "count": 1
         },
         {
-          "domain": "discord.com",
+          "domain": "web.whatsapp.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 8,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "claude.ai",
+          "count": 4
         }
       ]
     },
