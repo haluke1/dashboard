@@ -1,16 +1,34 @@
 {
-  "updated_at": "2026-04-22T00:01:18Z",
+  "updated_at": "2026-04-22T00:02:06Z",
   "counts": {
     "active": 1,
-    "recent": 5,
+    "recent": 6,
     "archived": 273,
-    "total": 279
+    "total": 280
   },
   "active": [
     {
+      "id": "db1dee3f",
+      "full_id": "db1dee3f-104c-483c-9107-ddefe94eb737",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "highlight things like these -> That number means nothing. / underline things like these -> of employees say they cannot apply AI training to their actual work.[Image #3] -> make th\u2026",
+      "last_user_msg": "highlight things like these -> That number means nothing. / underline things like these -> of employees say they cannot apply AI training to their actual work.[Image #3] -> make th\u2026",
+      "last_assistant_snippet": "Let me read the file first.",
+      "message_count": 5,
+      "file_size_kb": 93,
+      "modified_ts": 1776816080.7898583,
+      "modified_iso": "2026-04-21T20:01:20.789858",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
+    {
       "id": "19093502",
       "full_id": "19093502-d00d-47db-94cb-f98c2e71e3a6",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/.claude/skills/chrome-cdp",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +39,8 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 4.3
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "7532f257",
       "full_id": "7532f257-dbb8-4794-a8b6-d03dcc95193d",
@@ -39,7 +55,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.5
     },
     {
       "id": "96b69520",
@@ -55,7 +71,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 7.1
+      "minutes_since_active": 7.9
     },
     {
       "id": "e6be09c4",
@@ -71,7 +87,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 7.6
+      "minutes_since_active": 8.4
     },
     {
       "id": "e4560b62",
@@ -87,7 +103,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 21.7
+      "minutes_since_active": 22.5
     },
     {
       "id": "ec38cd63",
@@ -103,7 +119,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 89.3
+      "minutes_since_active": 90.1
     }
   ]
 }
