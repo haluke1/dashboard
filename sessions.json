@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T02:03:53Z",
+  "updated_at": "2026-04-22T02:04:19Z",
   "counts": {
     "active": 1,
     "recent": 11,
@@ -18,10 +18,10 @@
       "last_user_msg": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
       "last_assistant_snippet": "--- **Summary of what changed and why it won't happen again:** | Problem | Fix | |---|---| | Zombie servers from closed terminals | `npm run dev:kill` kills all of them before star\u2026",
       "message_count": 36,
-      "file_size_kb": 127,
-      "modified_ts": 1776823423.2723923,
-      "modified_iso": "2026-04-21T22:03:43.272392",
-      "minutes_since_active": 0.0
+      "file_size_kb": 129,
+      "modified_ts": 1776823437.682235,
+      "modified_iso": "2026-04-21T22:03:57.682235",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 18.9
+      "minutes_since_active": 19.3
     },
     {
       "id": "b02db417",
@@ -55,7 +55,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 18.8
+      "minutes_since_active": 19.4
     },
     {
       "id": "3ef58c97",
@@ -71,7 +71,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 87.7
+      "minutes_since_active": 88.3
     },
     {
       "id": "b557935a",
@@ -87,7 +87,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 88.4
+      "minutes_since_active": 89.0
     },
     {
       "id": "db1dee3f",
@@ -103,7 +103,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 93.8
+      "minutes_since_active": 94.3
     },
     {
       "id": "19093502",
@@ -119,7 +119,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 126.8
+      "minutes_since_active": 127.4
     },
     {
       "id": "7532f257",
@@ -135,7 +135,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 128.2
+      "minutes_since_active": 128.7
     },
     {
       "id": "96b69520",
@@ -151,7 +151,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 129.6
+      "minutes_since_active": 130.1
     },
     {
       "id": "e6be09c4",
@@ -167,7 +167,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 130.1
+      "minutes_since_active": 130.7
     },
     {
       "id": "e4560b62",
@@ -183,7 +183,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 144.2
+      "minutes_since_active": 144.8
     },
     {
       "id": "ec38cd63",
@@ -199,7 +199,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 211.8
+      "minutes_since_active": 212.4
     }
   ]
 }
