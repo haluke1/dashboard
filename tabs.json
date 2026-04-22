@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T02:02:06Z",
-  "total_tabs": 49,
+  "updated_at": "2026-04-22T02:03:09Z",
+  "total_tabs": 50,
   "total_windows": 4,
   "duplicate_tabs": 9,
   "bridge_online": true,
@@ -19,31 +19,16 @@
           "count": 5
         },
         {
-          "domain": "motion.dev",
+          "domain": "higgsfield.ai",
           "count": 2
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "motion.dev",
           "count": 2
         },
         {
           "domain": "zeffy.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 8,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "github.com",
-          "count": 4
-        },
-        {
-          "domain": "claude.ai",
-          "count": 4
         }
       ]
     },
@@ -75,6 +60,21 @@
       ]
     },
     {
+      "name": "ai-dev",
+      "count": 8,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "claude.ai",
+          "count": 4
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 3,
       "domain_count": 2,
@@ -102,12 +102,12 @@
     },
     {
       "name": "video",
-      "count": 1,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 1
+          "count": 2
         }
       ]
     }
