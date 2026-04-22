@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-04-22T20:32:06Z",
-  "total_tabs": 54,
+  "updated_at": "2026-04-22T20:33:12Z",
+  "total_tabs": 59,
   "total_windows": 4,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 29,
+      "count": 34,
       "domain_count": 16,
       "top_domains": [
         {
-          "domain": "(no domain)",
-          "count": 6
+          "domain": "elearning.villanova.edu",
+          "count": 9
         },
         {
-          "domain": "elearning.villanova.edu",
-          "count": 4
+          "domain": "(no domain)",
+          "count": 6
         },
         {
           "domain": "open.spotify.com",
