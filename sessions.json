@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-22T21:47:22Z",
+  "updated_at": "2026-04-22T21:48:24Z",
   "counts": {
-    "active": 0,
-    "recent": 12,
+    "active": 1,
+    "recent": 11,
     "archived": 273,
     "total": 285
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/portfolio",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
-      "last_user_msg": "close the voice agent for now i am getting random sounds from it",
-      "last_assistant_snippet": "All gone. The voice agent cluster (butler, voice controller, vision receiver, dashboard, and the launcher shell) is fully stopped. No more random sounds.",
-      "message_count": 47,
-      "file_size_kb": 158,
-      "modified_ts": 1776892939.4512746,
-      "modified_iso": "2026-04-22T17:22:19.451275",
-      "minutes_since_active": 25.0
-    },
+      "last_user_msg": "do you think i could use claude cowork to run tmux cs instances as well as terminal sessions? it has scheduled tasks that i could use",
+      "last_assistant_snippet": "Short answer: no, not directly \u2014 and you already have better tools for this. Claude Cowork's scheduled tasks fire **Claude conversations**, not shell commands. Think of it like set\u2026",
+      "message_count": 50,
+      "file_size_kb": 178,
+      "modified_ts": 1776894503.2170014,
+      "modified_iso": "2026-04-22T17:48:23.217001",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "b667454c",
       "full_id": "b667454c-e4ff-4b52-88bf-3109ba5f2f4f",
@@ -38,7 +39,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1202.4
+      "minutes_since_active": 1203.4
     },
     {
       "id": "b02db417",
@@ -54,7 +55,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1202.4
+      "minutes_since_active": 1203.5
     },
     {
       "id": "3ef58c97",
@@ -70,7 +71,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 1271.3
+      "minutes_since_active": 1272.4
     },
     {
       "id": "b557935a",
@@ -86,7 +87,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 1272.0
+      "minutes_since_active": 1273.1
     },
     {
       "id": "db1dee3f",
@@ -102,7 +103,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 1277.4
+      "minutes_since_active": 1278.4
     },
     {
       "id": "19093502",
@@ -118,7 +119,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 1310.4
+      "minutes_since_active": 1311.5
     },
     {
       "id": "7532f257",
@@ -134,7 +135,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 1311.8
+      "minutes_since_active": 1312.9
     },
     {
       "id": "96b69520",
@@ -150,7 +151,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 1313.2
+      "minutes_since_active": 1314.2
     },
     {
       "id": "e6be09c4",
@@ -166,7 +167,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 1313.7
+      "minutes_since_active": 1314.8
     },
     {
       "id": "e4560b62",
@@ -182,7 +183,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 1327.8
+      "minutes_since_active": 1328.8
     },
     {
       "id": "ec38cd63",
@@ -198,7 +199,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 1395.4
+      "minutes_since_active": 1396.5
     }
   ]
 }
