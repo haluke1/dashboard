@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-22T01:26:03Z",
-  "total_tabs": 47,
+  "updated_at": "2026-04-22T01:35:05Z",
+  "total_tabs": 48,
   "total_windows": 4,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 9,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 26,
+      "count": 27,
       "domain_count": 15,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "open.spotify.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "motion.dev",

@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-22T01:33:59Z",
+  "updated_at": "2026-04-22T01:35:06Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 10,
     "archived": 273,
-    "total": 283
+    "total": 284
   },
-  "active": [],
+  "active": [
+    {
+      "id": "b667454c",
+      "full_id": "b667454c-e4ff-4b52-88bf-3109ba5f2f4f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "# Master Prompt \u2014 Turkish Holdings Live Open Positions Research > Copy this entire document into Claude Code. Save as `.claude/commands/research-turkish-holdings.md` if you want it\u2026",
+      "last_user_msg": "# Master Prompt \u2014 Turkish Holdings Live Open Positions Research > Copy this entire document into Claude Code. Save as `.claude/commands/research-turkish-holdings.md` if you want it\u2026",
+      "last_assistant_snippet": "Looking at this prompt \u2014 a major multi-phase research task. I'll invoke the advisor per the pattern, and check the `deep-research` skill, before executing anything.",
+      "message_count": 5,
+      "file_size_kb": 86,
+      "modified_ts": 1776821699.8048835,
+      "modified_iso": "2026-04-21T21:34:59.804883",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "b02db417",
@@ -22,7 +39,7 @@
       "file_size_kb": 364,
       "modified_ts": 1776820052.3422928,
       "modified_iso": "2026-04-21T21:07:32.342293",
-      "minutes_since_active": 26.3
+      "minutes_since_active": 27.6
     },
     {
       "id": "3ef58c97",
@@ -38,7 +55,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 57.8
+      "minutes_since_active": 59.1
     },
     {
       "id": "b557935a",
@@ -54,7 +71,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 58.5
+      "minutes_since_active": 59.8
     },
     {
       "id": "db1dee3f",
@@ -70,7 +87,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 63.9
+      "minutes_since_active": 65.1
     },
     {
       "id": "19093502",
@@ -86,7 +103,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 96.9
+      "minutes_since_active": 98.2
     },
     {
       "id": "7532f257",
@@ -102,7 +119,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 90.6
+      "minutes_since_active": 99.6
     },
     {
       "id": "96b69520",
@@ -118,7 +135,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 91.9
+      "minutes_since_active": 100.9
     },
     {
       "id": "e6be09c4",
@@ -134,7 +151,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 100.2
+      "minutes_since_active": 101.5
     },
     {
       "id": "e4560b62",
@@ -150,7 +167,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 114.3
+      "minutes_since_active": 115.5
     },
     {
       "id": "ec38cd63",
@@ -166,7 +183,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 174.2
+      "minutes_since_active": 183.2
     }
   ]
 }
