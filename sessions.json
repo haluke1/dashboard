@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-22T00:14:57Z",
+  "updated_at": "2026-04-22T00:15:53Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 7,
     "archived": 273,
-    "total": 281
+    "total": 282
   },
   "active": [
+    {
+      "id": "b557935a",
+      "full_id": "b557935a-a8d3-4e29-9802-a75ecbf8f272",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
+      "last_user_msg": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 5,
+      "file_size_kb": 91,
+      "modified_ts": 1776816939.514257,
+      "modified_iso": "2026-04-21T20:15:39.514257",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "3ef58c97",
       "full_id": "3ef58c97-7925-4117-9706-999a6200d669",
@@ -21,7 +37,7 @@
       "file_size_kb": 84,
       "modified_ts": 1776816887.2449663,
       "modified_iso": "2026-04-21T20:14:47.244966",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 158,
       "modified_ts": 1776816440.861518,
       "modified_iso": "2026-04-21T20:07:20.861518",
-      "minutes_since_active": 7.6
+      "minutes_since_active": 8.5
     },
     {
       "id": "19093502",
@@ -55,7 +71,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 18.0
+      "minutes_since_active": 18.9
     },
     {
       "id": "7532f257",
@@ -71,7 +87,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 19.4
+      "minutes_since_active": 20.4
     },
     {
       "id": "96b69520",
@@ -87,7 +103,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 20.8
+      "minutes_since_active": 21.7
     },
     {
       "id": "e6be09c4",
@@ -103,7 +119,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 21.3
+      "minutes_since_active": 22.2
     },
     {
       "id": "e4560b62",
@@ -119,7 +135,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 35.4
+      "minutes_since_active": 36.3
     },
     {
       "id": "ec38cd63",
@@ -135,7 +151,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 103.0
+      "minutes_since_active": 104.0
     }
   ]
 }
