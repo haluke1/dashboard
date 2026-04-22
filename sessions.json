@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T21:19:12Z",
+  "updated_at": "2026-04-22T21:19:15Z",
   "counts": {
     "active": 1,
     "recent": 11,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
       "last_user_msg": "close the voice agent for now i am getting random sounds from it",
-      "last_assistant_snippet": "Found them. The voice agent is running as a full cluster \u2014 `butler.py`, `voice_controller.py`, `vision_receiver.py`, `dashboard_v2.py`, and the `ClaudeVoice.app` shell script. Kill\u2026",
-      "message_count": 44,
-      "file_size_kb": 153,
-      "modified_ts": 1776892748.8449178,
-      "modified_iso": "2026-04-22T17:19:08.844918",
+      "last_assistant_snippet": "All gone. The voice agent cluster (butler, voice controller, vision receiver, dashboard, and the launcher shell) is fully stopped. No more random sounds.",
+      "message_count": 47,
+      "file_size_kb": 156,
+      "modified_ts": 1776892754.887088,
+      "modified_iso": "2026-04-22T17:19:14.887088",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1174.2
+      "minutes_since_active": 1174.3
     },
     {
       "id": "b02db417",
@@ -103,7 +103,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 1249.2
+      "minutes_since_active": 1249.3
     },
     {
       "id": "19093502",
@@ -151,7 +151,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 1285.0
+      "minutes_since_active": 1285.1
     },
     {
       "id": "e6be09c4",
@@ -183,7 +183,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 1299.6
+      "minutes_since_active": 1299.7
     },
     {
       "id": "ec38cd63",
