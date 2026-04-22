@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-22T00:20:17Z",
-  "total_tabs": 47,
+  "updated_at": "2026-04-22T00:21:21Z",
+  "total_tabs": 48,
   "total_windows": 4,
   "duplicate_tabs": 8,
   "bridge_online": true,
@@ -97,6 +97,17 @@
         {
           "domain": "localhost:3001",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "wallstreetoasis.com",
+          "count": 1
         }
       ]
     },
