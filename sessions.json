@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T01:40:18Z",
+  "updated_at": "2026-04-22T01:40:23Z",
   "counts": {
     "active": 1,
     "recent": 10,
@@ -18,10 +18,10 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
       "last_assistant_snippet": "**7 agents running in background.** Here's what's deployed and why each is distinct: | Agent | Method | What makes it different | |---|---|---| | Kariyer.net | Exa crawl of Turkish\u2026",
       "message_count": 37,
-      "file_size_kb": 228,
-      "modified_ts": 1776822017.8258426,
-      "modified_iso": "2026-04-21T21:40:17.825843",
-      "minutes_since_active": 0.0
+      "file_size_kb": 230,
+      "modified_ts": 1776822019.223966,
+      "modified_iso": "2026-04-21T21:40:19.223966",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 64.3
+      "minutes_since_active": 64.4
     },
     {
       "id": "b557935a",
@@ -71,7 +71,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 65.0
+      "minutes_since_active": 65.1
     },
     {
       "id": "db1dee3f",
@@ -87,7 +87,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 70.3
+      "minutes_since_active": 70.4
     },
     {
       "id": "19093502",
@@ -103,7 +103,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 103.4
+      "minutes_since_active": 103.5
     },
     {
       "id": "7532f257",
@@ -119,7 +119,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 104.8
+      "minutes_since_active": 104.9
     },
     {
       "id": "96b69520",
@@ -135,7 +135,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 106.1
+      "minutes_since_active": 106.2
     },
     {
       "id": "e6be09c4",
@@ -167,7 +167,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 120.7
+      "minutes_since_active": 120.8
     },
     {
       "id": "ec38cd63",
@@ -183,7 +183,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 188.4
+      "minutes_since_active": 188.5
     }
   ]
 }
