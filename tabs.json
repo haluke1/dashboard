@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-22T02:07:28Z",
-  "total_tabs": 50,
-  "total_windows": 4,
+  "updated_at": "2026-04-22T02:08:32Z",
+  "total_tabs": 51,
+  "total_windows": 5,
   "duplicate_tabs": 9,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 27,
-      "domain_count": 15,
+      "count": 28,
+      "domain_count": 16,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,31 @@
           "count": 5
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "motion.dev",
           "count": 2
         },
         {
-          "domain": "motion.dev",
+          "domain": "higgsfield.ai",
           "count": 2
         },
         {
           "domain": "zeffy.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 8,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "claude.ai",
+          "count": 4
         }
       ]
     },
@@ -56,21 +71,6 @@
         {
           "domain": "discord.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 8,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "github.com",
-          "count": 4
-        },
-        {
-          "domain": "claude.ai",
-          "count": 4
         }
       ]
     },
