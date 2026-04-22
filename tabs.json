@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-22T19:17:35Z",
-  "total_tabs": 53,
+  "updated_at": "2026-04-22T19:18:46Z",
+  "total_tabs": 55,
   "total_windows": 4,
   "duplicate_tabs": 9,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 26,
-      "domain_count": 14,
+      "count": 28,
+      "domain_count": 15,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,11 +23,11 @@
           "count": 2
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "login.microsoftonline.com",
           "count": 2
         },
         {
-          "domain": "zeffy.com",
+          "domain": "higgsfield.ai",
           "count": 2
         }
       ]
