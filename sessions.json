@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T00:21:22Z",
+  "updated_at": "2026-04-22T00:21:56Z",
   "counts": {
     "active": 3,
     "recent": 6,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
       "last_user_msg": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
-      "last_assistant_snippet": "Now calling advisor before I give you the full breakdown.",
-      "message_count": 51,
-      "file_size_kb": 176,
-      "modified_ts": 1776817275.509048,
-      "modified_iso": "2026-04-21T20:21:15.509048",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` Three things to understand before reading the breakdown: 1. **Two RAF loops, one winner**: GSAP's ticker and R3F's `useFrame` both\u2026",
+      "message_count": 54,
+      "file_size_kb": 189,
+      "modified_ts": 1776817315.7717748,
+      "modified_iso": "2026-04-21T20:21:55.771775",
+      "minutes_since_active": 0.0
     },
     {
       "id": "3ef58c97",
@@ -37,7 +37,7 @@
       "file_size_kb": 205,
       "modified_ts": 1776817155.0935006,
       "modified_iso": "2026-04-21T20:19:15.093501",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.7
     },
     {
       "id": "db1dee3f",
@@ -53,7 +53,7 @@
       "file_size_kb": 782,
       "modified_ts": 1776817141.411066,
       "modified_iso": "2026-04-21T20:19:01.411066",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.9
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 24.4
+      "minutes_since_active": 25.0
     },
     {
       "id": "7532f257",
@@ -87,7 +87,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 25.8
+      "minutes_since_active": 26.4
     },
     {
       "id": "96b69520",
@@ -103,7 +103,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 27.2
+      "minutes_since_active": 27.8
     },
     {
       "id": "e6be09c4",
@@ -119,7 +119,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 27.7
+      "minutes_since_active": 28.3
     },
     {
       "id": "e4560b62",
@@ -135,7 +135,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 41.8
+      "minutes_since_active": 42.4
     },
     {
       "id": "ec38cd63",
@@ -151,7 +151,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 109.4
+      "minutes_since_active": 110.0
     }
   ]
 }
