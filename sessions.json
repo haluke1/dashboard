@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T01:37:14Z",
+  "updated_at": "2026-04-22T01:38:17Z",
   "counts": {
     "active": 1,
     "recent": 10,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "# Master Prompt \u2014 Turkish Holdings Live Open Positions Research > Copy this entire document into Claude Code. Save as `.claude/commands/research-turkish-holdings.md` if you want it\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/deep-research # Deep Research \u2014 Background Research Swarm ## Purpose Run a comprehensive multi-agent research operatio\u2026",
-      "last_assistant_snippet": "Good. Adapting the deep-research framework to this structured job scan. Per advisor: set expectations first, then launch by phase. **Realistic floor before I burn 2hrs:** Senior di\u2026",
-      "message_count": 14,
-      "file_size_kb": 109,
-      "modified_ts": 1776821750.118184,
-      "modified_iso": "2026-04-21T21:35:50.118184",
-      "minutes_since_active": 1.4
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "Got it. The 4 agents are running. Spinning up alternative-method agents now \u2014 different angles than the prompt prescribed.",
+      "message_count": 28,
+      "file_size_kb": 179,
+      "modified_ts": 1776821891.9281092,
+      "modified_iso": "2026-04-21T21:38:11.928109",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 364,
       "modified_ts": 1776820052.3422928,
       "modified_iso": "2026-04-21T21:07:32.342293",
-      "minutes_since_active": 29.7
+      "minutes_since_active": 30.7
     },
     {
       "id": "3ef58c97",
@@ -55,7 +55,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 61.2
+      "minutes_since_active": 62.3
     },
     {
       "id": "b557935a",
@@ -71,7 +71,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 61.9
+      "minutes_since_active": 62.9
     },
     {
       "id": "db1dee3f",
@@ -87,7 +87,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 67.3
+      "minutes_since_active": 68.3
     },
     {
       "id": "19093502",
@@ -103,7 +103,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 100.3
+      "minutes_since_active": 101.3
     },
     {
       "id": "7532f257",
@@ -119,7 +119,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 101.7
+      "minutes_since_active": 102.8
     },
     {
       "id": "96b69520",
@@ -135,7 +135,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 103.0
+      "minutes_since_active": 104.1
     },
     {
       "id": "e6be09c4",
@@ -151,7 +151,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 103.6
+      "minutes_since_active": 104.6
     },
     {
       "id": "e4560b62",
@@ -167,7 +167,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 117.7
+      "minutes_since_active": 118.7
     },
     {
       "id": "ec38cd63",
@@ -183,7 +183,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 185.3
+      "minutes_since_active": 186.4
     }
   ]
 }
