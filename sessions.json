@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-22T22:15:59Z",
+  "updated_at": "2026-04-22T22:16:38Z",
   "counts": {
-    "active": 0,
-    "recent": 13,
+    "active": 1,
+    "recent": 12,
     "archived": 273,
     "total": 286
   },
-  "active": [],
+  "active": [
+    {
+      "id": "ece24696",
+      "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
+      "status": "active",
+      "project": "/Users/halukgul/portfolio",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
+      "last_user_msg": "could you check out this repo and give me insights of how we could use it -> https://github.com/forrestchang/andrej-karpathy-skills",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` This repo is essentially a distillation of Andrej Karpathy's tweet thread into 4 Claude Code behavioral rules. The interesting par\u2026",
+      "message_count": 59,
+      "file_size_kb": 217,
+      "modified_ts": 1776896197.1133132,
+      "modified_iso": "2026-04-22T18:16:37.113313",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "1b475a0a",
@@ -22,23 +39,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 12.4
-    },
-    {
-      "id": "ece24696",
-      "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "recent",
-      "project": "/Users/halukgul/portfolio",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
-      "last_user_msg": "do you think i could use claude cowork to run tmux cs instances as well as terminal sessions? it has scheduled tasks that i could use",
-      "last_assistant_snippet": "Short answer: no, not directly \u2014 and you already have better tools for this. Claude Cowork's scheduled tasks fire **Claude conversations**, not shell commands. Think of it like set\u2026",
-      "message_count": 50,
-      "file_size_kb": 179,
-      "modified_ts": 1776894505.158682,
-      "modified_iso": "2026-04-22T17:48:25.158682",
-      "minutes_since_active": 27.6
+      "minutes_since_active": 13.1
     },
     {
       "id": "b667454c",
@@ -54,7 +55,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1231.0
+      "minutes_since_active": 1231.6
     },
     {
       "id": "b02db417",
@@ -70,7 +71,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1231.1
+      "minutes_since_active": 1231.7
     },
     {
       "id": "3ef58c97",
@@ -86,7 +87,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 1300.0
+      "minutes_since_active": 1300.6
     },
     {
       "id": "b557935a",
@@ -102,7 +103,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 1300.6
+      "minutes_since_active": 1301.3
     },
     {
       "id": "db1dee3f",
@@ -118,7 +119,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 1306.0
+      "minutes_since_active": 1306.7
     },
     {
       "id": "19093502",
@@ -134,7 +135,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 1339.0
+      "minutes_since_active": 1339.7
     },
     {
       "id": "7532f257",
@@ -150,7 +151,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 1340.5
+      "minutes_since_active": 1341.1
     },
     {
       "id": "96b69520",
@@ -166,7 +167,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 1341.8
+      "minutes_since_active": 1342.4
     },
     {
       "id": "e6be09c4",
@@ -182,7 +183,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 1342.3
+      "minutes_since_active": 1343.0
     },
     {
       "id": "e4560b62",
@@ -198,7 +199,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 1356.4
+      "minutes_since_active": 1357.1
     },
     {
       "id": "ec38cd63",
@@ -214,7 +215,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 1424.1
+      "minutes_since_active": 1424.7
     }
   ]
 }
