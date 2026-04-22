@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T00:19:14Z",
+  "updated_at": "2026-04-22T00:19:16Z",
   "counts": {
     "active": 3,
     "recent": 6,
@@ -18,9 +18,25 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/gsap-scrolltrigger # GSAP ScrollTrigger ## When to Use This Skill Apply when implementing scroll-driven animations: tr\u2026",
       "last_assistant_snippet": "Good. Here's everything synthesized before I write a line of code. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **The three zones of this system** \u2014 think of them like thr\u2026",
       "message_count": 33,
-      "file_size_kb": 204,
-      "modified_ts": 1776817153.4735658,
-      "modified_iso": "2026-04-21T20:19:13.473566",
+      "file_size_kb": 205,
+      "modified_ts": 1776817155.0935006,
+      "modified_iso": "2026-04-21T20:19:15.093501",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b557935a",
+      "full_id": "b557935a-a8d3-4e29-9802-a75ecbf8f272",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
+      "last_user_msg": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 30,
+      "file_size_kb": 133,
+      "modified_ts": 1776817153.921407,
+      "modified_iso": "2026-04-21T20:19:13.921407",
       "minutes_since_active": 0.0
     },
     {
@@ -38,22 +54,6 @@
       "modified_ts": 1776817141.411066,
       "modified_iso": "2026-04-21T20:19:01.411066",
       "minutes_since_active": 0.2
-    },
-    {
-      "id": "b557935a",
-      "full_id": "b557935a-a8d3-4e29-9802-a75ecbf8f272",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
-      "last_user_msg": "\u276f # Interactive Layer \u2014 Addendum to portfolio-scaffold.md This document upgrades the scroll-driven scaffold with interactive elements: clickable objects, draggable knobs, cinematic\u2026",
-      "last_assistant_snippet": null,
-      "message_count": 30,
-      "file_size_kb": 133,
-      "modified_ts": 1776817137.0719445,
-      "modified_iso": "2026-04-21T20:18:57.071944",
-      "minutes_since_active": 0.3
     }
   ],
   "recent": [
