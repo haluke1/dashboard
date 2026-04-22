@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T01:41:02Z",
+  "updated_at": "2026-04-22T01:41:16Z",
   "counts": {
     "active": 1,
     "recent": 10,
@@ -15,12 +15,12 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "# Master Prompt \u2014 Turkish Holdings Live Open Positions Research > Copy this entire document into Claude Code. Save as `.claude/commands/research-turkish-holdings.md` if you want it\u2026",
-      "last_user_msg": "<task-notification> <task-id>a5ffd4c4c8c804338</task-id> <tool-use-id>toolu_018bRw4goCXoBbJzVqtYjPNE</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b667454c-e4f\u2026",
-      "last_assistant_snippet": "Exec-search agent finished. Key findings: **4 verified public mandates** \u2014 all via Page Executive / Michael Page (they're the only firm that posts publicly): - Strategic Planning &\u2026",
-      "message_count": 40,
-      "file_size_kb": 244,
-      "modified_ts": 1776822060.9163554,
-      "modified_iso": "2026-04-21T21:41:00.916355",
+      "last_user_msg": "<task-notification> <task-id>a6250b4299e8e3eb1</task-id> <tool-use-id>toolu_01MyccPh6BpHT2P4dkJTJZTH</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b667454c-e4f\u2026",
+      "last_assistant_snippet": "Kariyer.net agent done. Confirms the structural reality: only 3 roles passed out of 40+ reviewed. **Kariyer.net results (passing filter):** | Company | Role | Fit | Location | |---\u2026",
+      "message_count": 43,
+      "file_size_kb": 253,
+      "modified_ts": 1776822075.2866812,
+      "modified_iso": "2026-04-21T21:41:15.286681",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 364,
       "modified_ts": 1776820052.3422928,
       "modified_iso": "2026-04-21T21:07:32.342293",
-      "minutes_since_active": 33.5
+      "minutes_since_active": 33.7
     },
     {
       "id": "3ef58c97",
@@ -55,7 +55,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 65.0
+      "minutes_since_active": 65.3
     },
     {
       "id": "b557935a",
@@ -71,7 +71,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 65.7
+      "minutes_since_active": 65.9
     },
     {
       "id": "db1dee3f",
@@ -87,7 +87,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 71.1
+      "minutes_since_active": 71.3
     },
     {
       "id": "19093502",
@@ -103,7 +103,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 104.1
+      "minutes_since_active": 104.3
     },
     {
       "id": "7532f257",
@@ -119,7 +119,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 105.5
+      "minutes_since_active": 105.7
     },
     {
       "id": "96b69520",
@@ -135,7 +135,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 106.8
+      "minutes_since_active": 107.1
     },
     {
       "id": "e6be09c4",
@@ -151,7 +151,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 107.4
+      "minutes_since_active": 107.6
     },
     {
       "id": "e4560b62",
@@ -167,7 +167,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 121.5
+      "minutes_since_active": 121.7
     },
     {
       "id": "ec38cd63",
@@ -183,7 +183,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 189.1
+      "minutes_since_active": 189.3
     }
   ]
 }
