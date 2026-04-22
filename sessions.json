@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-22T22:04:16Z",
+  "updated_at": "2026-04-22T22:12:49Z",
   "counts": {
-    "active": 1,
-    "recent": 12,
+    "active": 0,
+    "recent": 13,
     "archived": 273,
     "total": 286
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/VS Code Test",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 0.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 9.3
+    },
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -39,7 +38,7 @@
       "file_size_kb": 179,
       "modified_ts": 1776894505.158682,
       "modified_iso": "2026-04-22T17:48:25.158682",
-      "minutes_since_active": 15.8
+      "minutes_since_active": 24.4
     },
     {
       "id": "b667454c",
@@ -55,7 +54,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1219.3
+      "minutes_since_active": 1227.8
     },
     {
       "id": "b02db417",
@@ -71,7 +70,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1219.3
+      "minutes_since_active": 1227.9
     },
     {
       "id": "3ef58c97",
@@ -87,7 +86,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 1288.2
+      "minutes_since_active": 1296.8
     },
     {
       "id": "b557935a",
@@ -103,7 +102,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 1288.9
+      "minutes_since_active": 1297.5
     },
     {
       "id": "db1dee3f",
@@ -119,7 +118,7 @@
       "file_size_kb": 941,
       "modified_ts": 1776817798.0451264,
       "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 1294.3
+      "minutes_since_active": 1302.8
     },
     {
       "id": "19093502",
@@ -135,7 +134,7 @@
       "file_size_kb": 421,
       "modified_ts": 1776815815.8212879,
       "modified_iso": "2026-04-21T19:56:55.821288",
-      "minutes_since_active": 1327.3
+      "minutes_since_active": 1335.9
     },
     {
       "id": "7532f257",
@@ -151,7 +150,7 @@
       "file_size_kb": 661,
       "modified_ts": 1776815731.066409,
       "modified_iso": "2026-04-21T19:55:31.066409",
-      "minutes_since_active": 1328.7
+      "minutes_since_active": 1337.3
     },
     {
       "id": "96b69520",
@@ -167,7 +166,7 @@
       "file_size_kb": 137,
       "modified_ts": 1776815650.6149745,
       "modified_iso": "2026-04-21T19:54:10.614974",
-      "minutes_since_active": 1330.1
+      "minutes_since_active": 1338.6
     },
     {
       "id": "e6be09c4",
@@ -183,7 +182,7 @@
       "file_size_kb": 3394,
       "modified_ts": 1776815618.2017226,
       "modified_iso": "2026-04-21T19:53:38.201723",
-      "minutes_since_active": 1330.6
+      "minutes_since_active": 1339.2
     },
     {
       "id": "e4560b62",
@@ -199,7 +198,7 @@
       "file_size_kb": 228,
       "modified_ts": 1776814773.2156348,
       "modified_iso": "2026-04-21T19:39:33.215635",
-      "minutes_since_active": 1344.7
+      "minutes_since_active": 1353.2
     },
     {
       "id": "ec38cd63",
@@ -215,7 +214,7 @@
       "file_size_kb": 841,
       "modified_ts": 1776810714.7490013,
       "modified_iso": "2026-04-21T18:31:54.749001",
-      "minutes_since_active": 1412.3
+      "minutes_since_active": 1420.9
     }
   ]
 }
