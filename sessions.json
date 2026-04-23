@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-23T00:13:32Z",
+  "updated_at": "2026-04-23T00:33:28Z",
   "counts": {
     "active": 0,
-    "recent": 7,
-    "archived": 279,
+    "recent": 6,
+    "archived": 280,
     "total": 286
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 343,
       "modified_ts": 1776898494.7529104,
       "modified_iso": "2026-04-22T18:54:54.752910",
-      "minutes_since_active": 78.6
+      "minutes_since_active": 97.9
     },
     {
       "id": "1b475a0a",
@@ -38,7 +38,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 130.0
+      "minutes_since_active": 149.3
     },
     {
       "id": "b667454c",
@@ -54,7 +54,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1348.5
+      "minutes_since_active": 1367.8
     },
     {
       "id": "b02db417",
@@ -70,7 +70,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1348.6
+      "minutes_since_active": 1367.9
     },
     {
       "id": "3ef58c97",
@@ -86,7 +86,7 @@
       "file_size_kb": 429,
       "modified_ts": 1776818160.6478574,
       "modified_iso": "2026-04-21T20:36:00.647857",
-      "minutes_since_active": 1417.5
+      "minutes_since_active": 1436.8
     },
     {
       "id": "b557935a",
@@ -102,23 +102,7 @@
       "file_size_kb": 368,
       "modified_ts": 1776818119.8822308,
       "modified_iso": "2026-04-21T20:35:19.882231",
-      "minutes_since_active": 1418.2
-    },
-    {
-      "id": "db1dee3f",
-      "full_id": "db1dee3f-104c-483c-9107-ddefe94eb737",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "highlight things like these -> That number means nothing. / underline things like these -> of employees say they cannot apply AI training to their actual work.[Image #3] -> make th\u2026",
-      "last_user_msg": "add some animations",
-      "last_assistant_snippet": "Reading the current file to plan animations from the correct base.",
-      "message_count": 37,
-      "file_size_kb": 941,
-      "modified_ts": 1776817798.0451264,
-      "modified_iso": "2026-04-21T20:29:58.045126",
-      "minutes_since_active": 1423.6
+      "minutes_since_active": 1437.5
     }
   ]
 }
