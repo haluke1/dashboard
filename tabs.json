@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-23T02:11:20Z",
-  "total_tabs": 77,
+  "updated_at": "2026-04-23T02:12:24Z",
+  "total_tabs": 82,
   "total_windows": 5,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 49,
-      "domain_count": 20,
+      "count": 52,
+      "domain_count": 22,
       "top_domains": [
         {
           "domain": "eporner.com",
@@ -33,28 +33,17 @@
       ]
     },
     {
-      "name": "ai-dev",
-      "count": 9,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "github.com",
-          "count": 5
-        },
-        {
-          "domain": "claude.ai",
-          "count": 4
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 9,
-      "domain_count": 5,
+      "count": 11,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 5
+        },
+        {
+          "domain": "abxxx.com",
+          "count": 2
         },
         {
           "domain": "x.com",
@@ -67,10 +56,21 @@
         {
           "domain": "web.whatsapp.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 9,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 5
         },
         {
-          "domain": "discord.com",
-          "count": 1
+          "domain": "claude.ai",
+          "count": 4
         }
       ]
     },
