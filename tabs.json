@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-23T19:00:56Z",
-  "total_tabs": 76,
+  "updated_at": "2026-04-23T19:02:00Z",
+  "total_tabs": 98,
   "total_windows": 5,
-  "duplicate_tabs": 12,
+  "duplicate_tabs": 14,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 42,
-      "domain_count": 22,
+      "count": 51,
+      "domain_count": 27,
       "top_domains": [
         {
-          "domain": "elearning.villanova.edu",
-          "count": 7
+          "domain": "(no domain)",
+          "count": 8
         },
         {
-          "domain": "(no domain)",
-          "count": 5
+          "domain": "elearning.villanova.edu",
+          "count": 6
         },
         {
           "domain": "open.spotify.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
@@ -33,40 +33,51 @@
       ]
     },
     {
+      "name": "video",
+      "count": 16,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 16
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 10,
-      "domain_count": 6,
+      "count": 15,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 4
+          "count": 5
+        },
+        {
+          "domain": "instagram.com",
+          "count": 3
         },
         {
           "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "x.com",
-          "count": 1
-        },
-        {
-          "domain": "manage.wix.com",
-          "count": 1
-        },
-        {
           "domain": "web.whatsapp.com",
+          "count": 2
+        },
+        {
+          "domain": "x.com",
           "count": 1
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 9,
+      "count": 10,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "claude.ai",
@@ -75,17 +86,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 9,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 9
         }
       ]
     },
