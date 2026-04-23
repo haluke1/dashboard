@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T19:05:15Z",
+  "updated_at": "2026-04-23T19:06:20Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 287
   },
   "active": [
+    {
+      "id": "ece24696",
+      "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
+      "status": "active",
+      "project": "/Users/halukgul/portfolio",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
+      "last_user_msg": "could we get to change the name of the Sub-Agents to \"CEO Haluk\" so as \"Emperor CEO Haluk\" being me, i activate CEO Haluks when i am running agents and can we turn this to a global\u2026",
+      "last_assistant_snippet": "Done. Here's the hierarchy it creates: ``` Emperor CEO Haluk (you) \u2514\u2500\u2500 CEO Haluk \u2190 single agent tasks \u2514\u2500\u2500 CEO Haluk-1 \u2190 parallel agent 1 \u2514\u2500\u2500 CEO Haluk-2 \u2190 parallel agent 2 \u2514\u2500\u2500 CEO \u2026",
+      "message_count": 149,
+      "file_size_kb": 691,
+      "modified_ts": 1776971155.3086839,
+      "modified_iso": "2026-04-23T15:05:55.308684",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
@@ -21,23 +37,7 @@
       "file_size_kb": 4735,
       "modified_ts": 1776971054.48135,
       "modified_iso": "2026-04-23T15:04:14.481350",
-      "minutes_since_active": 1.0
-    },
-    {
-      "id": "ece24696",
-      "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "active",
-      "project": "/Users/halukgul/portfolio",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
-      "last_user_msg": "could we get to change the name of the Sub-Agents to \"CEO Haluk\" so as \"Emperor CEO Haluk\" being me, i activate CEO Haluks when i am running agents and can we turn this to a global\u2026",
-      "last_assistant_snippet": "Done. Here's the hierarchy it creates: ``` Emperor CEO Haluk (you) \u2514\u2500\u2500 CEO Haluk \u2190 single agent tasks \u2514\u2500\u2500 CEO Haluk-1 \u2190 parallel agent 1 \u2514\u2500\u2500 CEO Haluk-2 \u2190 parallel agent 2 \u2514\u2500\u2500 CEO \u2026",
-      "message_count": 149,
-      "file_size_kb": 690,
-      "modified_ts": 1776970960.0612075,
-      "modified_iso": "2026-04-23T15:02:40.061208",
-      "minutes_since_active": 2.6
+      "minutes_since_active": 2.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1261.7
+      "minutes_since_active": 1262.8
     }
   ]
 }
