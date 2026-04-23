@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-23T07:30:49Z",
-  "total_tabs": 73,
+  "updated_at": "2026-04-23T07:31:53Z",
+  "total_tabs": 71,
   "total_windows": 4,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 43,
+      "count": 42,
       "domain_count": 20,
       "top_domains": [
         {
@@ -27,8 +27,8 @@
           "count": 3
         },
         {
-          "domain": "fmovies.gd",
-          "count": 3
+          "domain": "motion.dev",
+          "count": 2
         }
       ]
     },
@@ -76,12 +76,12 @@
     },
     {
       "name": "video",
-      "count": 6,
+      "count": 5,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 6
+          "count": 5
         }
       ]
     },
