@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-23T19:34:28Z",
+  "updated_at": "2026-04-23T19:37:39Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 2,
+    "recent": 1,
     "archived": 284,
     "total": 287
   },
@@ -16,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_ObNFcQ/Screenshot 2026-04-23 at 15.04.03.png]",
-      "last_assistant_snippet": "Two issues: the deployment might not be live yet (mosques should be gone), and the sky shader is too bright \u2014 the ACES tone mapping Three.js applies is washing out the colors. Fixi\u2026",
-      "message_count": 748,
-      "file_size_kb": 4779,
-      "modified_ts": 1776972856.583988,
-      "modified_iso": "2026-04-23T15:34:16.583988",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Please run /login \u00b7 API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid authentication credentials\"},\"request_id\":\"req_011CaMGJDhoH31nrcY6h7QDF\u2026",
+      "message_count": 749,
+      "file_size_kb": 4781,
+      "modified_ts": 1776973021.9411058,
+      "modified_iso": "2026-04-23T15:37:01.941106",
+      "minutes_since_active": 0.6
+    },
+    {
+      "id": "1b475a0a",
+      "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
+      "status": "active",
+      "project": "/Users/halukgul/VS Code Test",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<ide_opened_file>The user opened the file Untitled-1 in the IDE. This may or may not be related to the current task.</ide_opened_file> how can i use claude code in visual studio?",
+      "last_user_msg": "<ide_opened_file>The user opened the file Untitled-1 in the IDE. This may or may not be related to the current task.</ide_opened_file> how can i use claude code in visual studio?",
+      "last_assistant_snippet": "Since you're already running Claude Code inside VS Code (you're talking to me through it right now), here's what you can do: **How to interact with me:** - Type in the chat panel o\u2026",
+      "message_count": 5,
+      "file_size_kb": 67,
+      "modified_ts": 1776972942.8955112,
+      "modified_iso": "2026-04-23T15:35:42.895511",
+      "minutes_since_active": 1.9
     }
   ],
   "recent": [
@@ -39,23 +55,7 @@
       "file_size_kb": 691,
       "modified_ts": 1776971155.3086839,
       "modified_iso": "2026-04-23T15:05:55.308684",
-      "minutes_since_active": 28.5
-    },
-    {
-      "id": "1b475a0a",
-      "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
-      "status": "recent",
-      "project": "/Users/halukgul/VS Code Test",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<ide_opened_file>The user opened the file Untitled-1 in the IDE. This may or may not be related to the current task.</ide_opened_file> how can i use claude code in visual studio?",
-      "last_user_msg": "<ide_opened_file>The user opened the file Untitled-1 in the IDE. This may or may not be related to the current task.</ide_opened_file> how can i use claude code in visual studio?",
-      "last_assistant_snippet": "Since you're already running Claude Code inside VS Code (you're talking to me through it right now), here's what you can do: **How to interact with me:** - Type in the chat panel o\u2026",
-      "message_count": 5,
-      "file_size_kb": 67,
-      "modified_ts": 1776895412.3509269,
-      "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1290.9
+      "minutes_since_active": 31.7
     }
   ]
 }

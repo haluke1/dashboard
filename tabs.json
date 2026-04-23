@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-23T19:34:19Z",
-  "total_tabs": 97,
-  "total_windows": 4,
-  "duplicate_tabs": 16,
+  "updated_at": "2026-04-23T19:37:34Z",
+  "total_tabs": 93,
+  "total_windows": 3,
+  "duplicate_tabs": 14,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 50,
+      "count": 49,
       "domain_count": 27,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "elearning.villanova.edu",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "open.spotify.com",
@@ -45,7 +45,7 @@
     },
     {
       "name": "social",
-      "count": 15,
+      "count": 12,
       "domain_count": 7,
       "top_domains": [
         {
@@ -53,19 +53,19 @@
           "count": 5
         },
         {
-          "domain": "instagram.com",
-          "count": 3
-        },
-        {
           "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 2
+          "domain": "x.com",
+          "count": 1
         },
         {
-          "domain": "x.com",
+          "domain": "manage.wix.com",
+          "count": 1
+        },
+        {
+          "domain": "instagram.com",
           "count": 1
         }
       ]
