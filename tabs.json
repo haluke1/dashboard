@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-23T02:36:06Z",
-  "total_tabs": 67,
+  "updated_at": "2026-04-23T02:37:09Z",
+  "total_tabs": 70,
   "total_windows": 4,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 39,
+      "count": 42,
       "domain_count": 18,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 6
         },
         {
+          "domain": "vertexmovies.com",
+          "count": 5
+        },
+        {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
           "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
           "count": 3
-        },
-        {
-          "domain": "motion.dev",
-          "count": 2
         }
       ]
     },
