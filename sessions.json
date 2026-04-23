@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-23T17:19:25Z",
+  "updated_at": "2026-04-23T17:20:29Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 0,
+    "recent": 3,
     "archived": 284,
     "total": 287
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/projects/claudephilly-site",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 1002,
       "modified_ts": 1776964511.7965693,
       "modified_iso": "2026-04-23T13:15:11.796569",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -39,7 +38,7 @@
       "file_size_kb": 660,
       "modified_ts": 1776905635.0169265,
       "modified_iso": "2026-04-22T20:53:55.016927",
-      "minutes_since_active": 985.5
+      "minutes_since_active": 986.6
     },
     {
       "id": "1b475a0a",
@@ -55,7 +54,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1155.9
+      "minutes_since_active": 1157.0
     }
   ]
 }
