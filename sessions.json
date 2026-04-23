@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-23T19:43:16Z",
+  "updated_at": "2026-04-23T19:44:20Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 0,
+    "recent": 3,
     "archived": 284,
     "total": 287
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/projects/claude-turkey",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 4781,
       "modified_ts": 1776973155.5749447,
       "modified_iso": "2026-04-23T15:39:15.574945",
-      "minutes_since_active": 4.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
@@ -39,7 +38,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 7.6
+      "minutes_since_active": 8.6
     },
     {
       "id": "ece24696",
@@ -55,7 +54,7 @@
       "file_size_kb": 691,
       "modified_ts": 1776971155.3086839,
       "modified_iso": "2026-04-23T15:05:55.308684",
-      "minutes_since_active": 37.3
+      "minutes_since_active": 38.4
     }
   ]
 }
