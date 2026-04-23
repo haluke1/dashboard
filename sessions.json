@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-23T00:48:13Z",
+  "updated_at": "2026-04-23T00:49:17Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 282,
     "total": 286
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/portfolio",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
-      "last_user_msg": "add the other 3 principles to our system to relevant locations or format",
-      "last_assistant_snippet": "All 4 Karpathy principles are now in the system. Here's where each landed and why: | Principle | Location | Why there | |---|---|---| | Think Before Coding | `output-standards.md` \u2026",
-      "message_count": 97,
-      "file_size_kb": 343,
-      "modified_ts": 1776898494.7529104,
-      "modified_iso": "2026-04-22T18:54:54.752910",
-      "minutes_since_active": 113.3
-    },
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_14oVzM/Screenshot 2026-04-22 at 20.48.45.png]",
+      "last_assistant_snippet": "Something in your system is repeatedly calling `open -a \"Arc\"`. Let me find the culprit.",
+      "message_count": 109,
+      "file_size_kb": 587,
+      "modified_ts": 1776905352.397054,
+      "modified_iso": "2026-04-22T20:49:12.397054",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
@@ -38,7 +39,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 164.7
+      "minutes_since_active": 165.7
     },
     {
       "id": "b667454c",
@@ -54,7 +55,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1383.2
+      "minutes_since_active": 1384.3
     },
     {
       "id": "b02db417",
@@ -70,7 +71,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1383.3
+      "minutes_since_active": 1384.3
     }
   ]
 }
