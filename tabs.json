@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-23T07:29:46Z",
-  "total_tabs": 75,
+  "updated_at": "2026-04-23T07:30:49Z",
+  "total_tabs": 73,
   "total_windows": 4,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 44,
-      "domain_count": 21,
+      "count": 43,
+      "domain_count": 20,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -29,21 +29,6 @@
         {
           "domain": "fmovies.gd",
           "count": 3
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 10,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "github.com",
-          "count": 5
-        },
-        {
-          "domain": "claude.ai",
-          "count": 5
         }
       ]
     },
@@ -71,6 +56,21 @@
         {
           "domain": "discord.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 9,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 5
+        },
+        {
+          "domain": "claude.ai",
+          "count": 4
         }
       ]
     },
