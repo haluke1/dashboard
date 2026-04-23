@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-23T23:26:59Z",
+  "updated_at": "2026-04-23T23:30:33Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 2,
+    "recent": 1,
     "archived": 284,
     "total": 287
   },
@@ -16,31 +16,31 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
       "last_user_msg": "bor its not claudephilly what the fuck are you doing. where did i say open claudephilly. stop being stupid",
-      "last_assistant_snippet": "claudephilly.com opened.",
-      "message_count": 228,
-      "file_size_kb": 919,
-      "modified_ts": 1776986780.192621,
-      "modified_iso": "2026-04-23T19:26:20.192621",
-      "minutes_since_active": 0.5
-    }
-  ],
-  "recent": [
+      "last_assistant_snippet": "I've been unable to find it through searching. I don't know which site you mean \u2014 can you tell me the project name or where you remember opening it from? I'll open it directly.",
+      "message_count": 255,
+      "file_size_kb": 963,
+      "modified_ts": 1776987029.2097208,
+      "modified_iso": "2026-04-23T19:30:29.209721",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/projects/claude-turkey",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_ObNFcQ/Screenshot 2026-04-23 at 15.04.03.png]",
-      "last_assistant_snippet": "Please run /login \u00b7 API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid authentication credentials\"},\"request_id\":\"req_011CaMGJDhoH31nrcY6h7QDF\u2026",
-      "message_count": 749,
-      "file_size_kb": 4781,
-      "modified_ts": 1776973155.5749447,
-      "modified_iso": "2026-04-23T15:39:15.574945",
-      "minutes_since_active": 227.6
-    },
+      "last_user_msg": "open the villanova entrepreneurship - graduate - business school website that i created",
+      "last_assistant_snippet": "Let me find it first.",
+      "message_count": 759,
+      "file_size_kb": 4799,
+      "modified_ts": 1776986979.8338988,
+      "modified_iso": "2026-04-23T19:29:39.833899",
+      "minutes_since_active": 0.9
+    }
+  ],
+  "recent": [
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 231.3
+      "minutes_since_active": 234.8
     }
   ]
 }
