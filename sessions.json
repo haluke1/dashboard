@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:53:42Z",
+  "updated_at": "2026-04-23T17:54:47Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The timer.html talks to your live Vercel API \u2014 so Start/Stop on the desktop widget and Start/Stop in the website badge are perfect\u2026",
       "message_count": 456,
-      "file_size_kb": 2491,
-      "modified_ts": 1776966696.509409,
-      "modified_iso": "2026-04-23T13:51:36.509409",
-      "minutes_since_active": 2.1
+      "file_size_kb": 2492,
+      "modified_ts": 1776966883.5718024,
+      "modified_iso": "2026-04-23T13:54:43.571802",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 660,
       "modified_ts": 1776905635.0169265,
       "modified_iso": "2026-04-22T20:53:55.016927",
-      "minutes_since_active": 1019.8
+      "minutes_since_active": 1020.9
     },
     {
       "id": "1b475a0a",
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1190.2
+      "minutes_since_active": 1191.3
     }
   ]
 }
