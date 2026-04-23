@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T04:08:29Z",
-  "total_tabs": 76,
+  "updated_at": "2026-04-23T04:09:33Z",
+  "total_tabs": 78,
   "total_windows": 4,
   "duplicate_tabs": 12,
   "bridge_online": true,
@@ -29,6 +29,17 @@
         {
           "domain": "fmovies.gd",
           "count": 3
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 11,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 11
         }
       ]
     },
@@ -71,17 +82,6 @@
         {
           "domain": "claude.ai",
           "count": 4
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 9,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 9
         }
       ]
     },
