@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T18:19:37Z",
-  "total_tabs": 89,
+  "updated_at": "2026-04-23T18:20:41Z",
+  "total_tabs": 90,
   "total_windows": 4,
   "duplicate_tabs": 14,
   "bridge_online": true,
@@ -33,6 +33,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 13,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 13
+        }
+      ]
+    },
+    {
       "name": "social",
       "count": 12,
       "domain_count": 6,
@@ -56,17 +67,6 @@
         {
           "domain": "manage.wix.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 12,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 12
         }
       ]
     },
