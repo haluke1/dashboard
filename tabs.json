@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T18:16:22Z",
-  "total_tabs": 88,
+  "updated_at": "2026-04-23T18:17:26Z",
+  "total_tabs": 90,
   "total_windows": 4,
   "duplicate_tabs": 14,
   "bridge_online": true,
@@ -27,8 +27,19 @@
           "count": 3
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "motion.dev",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 13,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 13
         }
       ]
     },
@@ -42,11 +53,11 @@
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "web.whatsapp.com",
           "count": 2
         },
         {
@@ -56,17 +67,6 @@
         {
           "domain": "manage.wix.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 11,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 11
         }
       ]
     },
