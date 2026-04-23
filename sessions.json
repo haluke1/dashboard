@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T16:59:11Z",
+  "updated_at": "2026-04-23T17:00:04Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -11,17 +11,17 @@
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
       "status": "active",
-      "project": "/Users/halukgul",
+      "project": "/Users/halukgul/projects/claudephilly-site",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
-      "last_user_msg": "okey we can deal with it later. lets build it",
-      "last_assistant_snippet": "Quick clarification before I start building \u2014 which site? - **claudephilly.com** \u2014 the existing Next.js project (`~/projects/claudephilly-site`), continue where it left off - **hal\u2026",
-      "message_count": 107,
-      "file_size_kb": 741,
-      "modified_ts": 1776963493.0821478,
-      "modified_iso": "2026-04-23T12:58:13.082148",
-      "minutes_since_active": 1.0
+      "last_user_msg": "claudephilly",
+      "last_assistant_snippet": "Two things at once \u2014 answering your parallel session question first, then the auto-deploy. --- **Yes \u2014 you can run parallel sessions using claude-squad.** You have it installed. Op\u2026",
+      "message_count": 118,
+      "file_size_kb": 773,
+      "modified_ts": 1776963603.6319864,
+      "modified_iso": "2026-04-23T13:00:03.631986",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 660,
       "modified_ts": 1776905635.0169265,
       "modified_iso": "2026-04-22T20:53:55.016927",
-      "minutes_since_active": 965.3
+      "minutes_since_active": 966.1
     },
     {
       "id": "1b475a0a",
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1135.7
+      "minutes_since_active": 1136.5
     }
   ]
 }
