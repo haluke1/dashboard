@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-04-23T18:31:24Z",
+  "updated_at": "2026-04-23T18:32:28Z",
   "total_tabs": 94,
   "total_windows": 4,
-  "duplicate_tabs": 27,
+  "duplicate_tabs": 14,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 52,
-      "domain_count": 26,
+      "count": 50,
+      "domain_count": 27,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 9
+          "count": 7
         },
         {
           "domain": "elearning.villanova.edu",
@@ -27,27 +27,19 @@
           "count": 3
         },
         {
-          "domain": "motion.dev",
+          "domain": "higgsfield.ai",
           "count": 2
         }
       ]
     },
     {
-      "name": "ai-dev",
-      "count": 12,
-      "domain_count": 3,
+      "name": "video",
+      "count": 16,
+      "domain_count": 1,
       "top_domains": [
         {
-          "domain": "claude.ai",
-          "count": 6
-        },
-        {
-          "domain": "github.com",
-          "count": 5
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
+          "domain": "youtube.com",
+          "count": 16
         }
       ]
     },
@@ -61,11 +53,11 @@
           "count": 5
         },
         {
-          "domain": "reddit.com",
+          "domain": "web.whatsapp.com",
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
@@ -79,13 +71,21 @@
       ]
     },
     {
-      "name": "video",
-      "count": 12,
-      "domain_count": 1,
+      "name": "ai-dev",
+      "count": 10,
+      "domain_count": 3,
       "top_domains": [
         {
-          "domain": "youtube.com",
-          "count": 12
+          "domain": "github.com",
+          "count": 5
+        },
+        {
+          "domain": "claude.ai",
+          "count": 4
+        },
+        {
+          "domain": "vercel.com",
+          "count": 1
         }
       ]
     },
