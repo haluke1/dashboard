@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T17:44:59Z",
+  "updated_at": "2026-04-23T17:45:07Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "but i want a simpler version where i can just click a button on my desktop to open and close sessions",
       "last_assistant_snippet": "Done. There's now a **\"Record Work\"** app sitting on your Desktop. Double-click it to clock in, double-click again to clock out. Mac notification pops up each time confirming which\u2026",
       "message_count": 420,
-      "file_size_kb": 2290,
-      "modified_ts": 1776966298.7907248,
-      "modified_iso": "2026-04-23T13:44:58.790725",
-      "minutes_since_active": 0.0
+      "file_size_kb": 2291,
+      "modified_ts": 1776966300.2368245,
+      "modified_iso": "2026-04-23T13:45:00.236825",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 660,
       "modified_ts": 1776905635.0169265,
       "modified_iso": "2026-04-22T20:53:55.016927",
-      "minutes_since_active": 1011.1
+      "minutes_since_active": 1011.2
     },
     {
       "id": "1b475a0a",
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1181.5
+      "minutes_since_active": 1181.6
     }
   ]
 }
