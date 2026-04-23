@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-23T23:41:18Z",
+  "updated_at": "2026-04-23T23:44:02Z",
   "counts": {
-    "active": 2,
-    "recent": 1,
+    "active": 1,
+    "recent": 2,
     "archived": 284,
     "total": 287
   },
@@ -17,16 +17,18 @@
       "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
       "last_user_msg": "open the villanova entrepreneurship - graduate - business school website that i created",
       "last_assistant_snippet": "Let me find it first.",
-      "message_count": 821,
-      "file_size_kb": 4914,
-      "modified_ts": 1776987650.0367253,
-      "modified_iso": "2026-04-23T19:40:50.036725",
-      "minutes_since_active": 0.5
-    },
+      "message_count": 831,
+      "file_size_kb": 4933,
+      "modified_ts": 1776987792.5979784,
+      "modified_iso": "2026-04-23T19:43:12.597978",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/portfolio",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 1031,
       "modified_ts": 1776987437.6378078,
       "modified_iso": "2026-04-23T19:37:17.637808",
-      "minutes_since_active": 4.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.7
+    },
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 245.6
+      "minutes_since_active": 248.3
     }
   ]
 }
