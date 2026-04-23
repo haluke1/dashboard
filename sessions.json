@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-23T19:39:55Z",
+  "updated_at": "2026-04-23T19:41:09Z",
   "counts": {
-    "active": 2,
-    "recent": 1,
+    "active": 1,
+    "recent": 2,
     "archived": 284,
     "total": 287
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 4781,
       "modified_ts": 1776973155.5749447,
       "modified_iso": "2026-04-23T15:39:15.574945",
-      "minutes_since_active": 0.6
-    },
+      "minutes_since_active": 1.9
+    }
+  ],
+  "recent": [
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/VS Code Test",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.4
+    },
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -55,7 +55,7 @@
       "file_size_kb": 691,
       "modified_ts": 1776971155.3086839,
       "modified_iso": "2026-04-23T15:05:55.308684",
-      "minutes_since_active": 34.0
+      "minutes_since_active": 35.2
     }
   ]
 }
