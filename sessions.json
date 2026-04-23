@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T23:35:26Z",
+  "updated_at": "2026-04-23T23:36:48Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 287
   },
   "active": [
+    {
+      "id": "9b1873da",
+      "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
+      "status": "active",
+      "project": "/Users/halukgul/projects/claude-turkey",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
+      "last_user_msg": "open the villanova entrepreneurship - graduate - business school website that i created",
+      "last_assistant_snippet": "Let me find it first.",
+      "message_count": 800,
+      "file_size_kb": 4863,
+      "modified_ts": 1776987406.8387246,
+      "modified_iso": "2026-04-23T19:36:46.838725",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -21,23 +37,7 @@
       "file_size_kb": 1031,
       "modified_ts": 1776987254.2792149,
       "modified_iso": "2026-04-23T19:34:14.279215",
-      "minutes_since_active": 1.2
-    },
-    {
-      "id": "9b1873da",
-      "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "active",
-      "project": "/Users/halukgul/projects/claude-turkey",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
-      "last_user_msg": "open the villanova entrepreneurship - graduate - business school website that i created",
-      "last_assistant_snippet": "Let me find it first.",
-      "message_count": 789,
-      "file_size_kb": 4847,
-      "modified_ts": 1776987226.0721254,
-      "modified_iso": "2026-04-23T19:33:46.072125",
-      "minutes_since_active": 1.7
+      "minutes_since_active": 2.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 239.7
+      "minutes_since_active": 241.1
     }
   ]
 }
