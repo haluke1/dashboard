@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-23T00:58:55Z",
+  "updated_at": "2026-04-23T00:59:58Z",
   "counts": {
-    "active": 1,
-    "recent": 3,
+    "active": 0,
+    "recent": 4,
     "archived": 282,
     "total": 286
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/portfolio",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 660,
       "modified_ts": 1776905635.0169265,
       "modified_iso": "2026-04-22T20:53:55.016927",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "1b475a0a",
       "full_id": "1b475a0a-d647-40ee-9067-be973487198f",
@@ -39,7 +38,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 175.4
+      "minutes_since_active": 176.4
     },
     {
       "id": "b667454c",
@@ -55,7 +54,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1393.9
+      "minutes_since_active": 1395.0
     },
     {
       "id": "b02db417",
@@ -71,7 +70,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1394.0
+      "minutes_since_active": 1395.0
     }
   ]
 }
