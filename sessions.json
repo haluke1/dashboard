@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-23T17:22:36Z",
+  "updated_at": "2026-04-23T17:23:40Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 284,
     "total": 287
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/projects/claudephilly-site",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
-      "last_user_msg": "lets build and confirm it works",
-      "last_assistant_snippet": "Everything confirmed. Here's what your Desktop folder now has: --- **`~/Desktop/HALUK MASTER PROJECTS/claudephilly.com/`** | File/Folder | What it is | |---|---| | `BRIEF.md` | Ful\u2026",
-      "message_count": 224,
-      "file_size_kb": 1002,
-      "modified_ts": 1776964511.7965693,
-      "modified_iso": "2026-04-23T13:15:11.796569",
-      "minutes_since_active": 7.4
-    },
+      "last_user_msg": "lets build then we can update. also open the webpage so i can see",
+      "last_assistant_snippet": "Dev server is live at `localhost:3002`. Now invoking advisor on which Phase 2 feature to build first for maximum visual impact.",
+      "message_count": 238,
+      "file_size_kb": 1022,
+      "modified_ts": 1776965014.7569916,
+      "modified_iso": "2026-04-23T13:23:34.756992",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -38,7 +39,7 @@
       "file_size_kb": 660,
       "modified_ts": 1776905635.0169265,
       "modified_iso": "2026-04-22T20:53:55.016927",
-      "minutes_since_active": 988.7
+      "minutes_since_active": 989.7
     },
     {
       "id": "1b475a0a",
@@ -54,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1159.1
+      "minutes_since_active": 1160.1
     }
   ]
 }
