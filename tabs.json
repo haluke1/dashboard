@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-23T21:06:48Z",
+  "updated_at": "2026-04-23T21:07:52Z",
   "total_tabs": 93,
   "total_windows": 3,
-  "duplicate_tabs": 14,
+  "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 49,
+      "count": 48,
       "domain_count": 27,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "open.spotify.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 16,
+      "count": 17,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 16
+          "count": 17
         }
       ]
     },
