@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T00:49:17Z",
+  "updated_at": "2026-04-23T00:50:20Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_14oVzM/Screenshot 2026-04-22 at 20.48.45.png]",
-      "last_assistant_snippet": "Something in your system is repeatedly calling `open -a \"Arc\"`. Let me find the culprit.",
-      "message_count": 109,
-      "file_size_kb": 587,
-      "modified_ts": 1776905352.397054,
-      "modified_iso": "2026-04-22T20:49:12.397054",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Found it in `.wakeup` \u2014 it calls `start_arc_debug.sh` whenever CDP port 9222 isn't responding. Let me check that script.",
+      "message_count": 127,
+      "file_size_kb": 636,
+      "modified_ts": 1776905400.5923753,
+      "modified_iso": "2026-04-22T20:50:00.592375",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 165.7
+      "minutes_since_active": 166.8
     },
     {
       "id": "b667454c",
@@ -55,7 +55,7 @@
       "file_size_kb": 294,
       "modified_ts": 1776822300.3804233,
       "modified_iso": "2026-04-21T21:45:00.380423",
-      "minutes_since_active": 1384.3
+      "minutes_since_active": 1385.3
     },
     {
       "id": "b02db417",
@@ -71,7 +71,7 @@
       "file_size_kb": 413,
       "modified_ts": 1776822295.720081,
       "modified_iso": "2026-04-21T21:44:55.720081",
-      "minutes_since_active": 1384.3
+      "minutes_since_active": 1385.4
     }
   ]
 }
