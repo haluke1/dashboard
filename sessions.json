@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T19:06:20Z",
+  "updated_at": "2026-04-23T19:07:24Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 287
   },
   "active": [
+    {
+      "id": "9b1873da",
+      "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
+      "status": "active",
+      "project": "/Users/halukgul/projects/claude-turkey",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_ObNFcQ/Screenshot 2026-04-23 at 15.04.03.png]",
+      "last_assistant_snippet": "Two issues: the deployment might not be live yet (mosques should be gone), and the sky shader is too bright \u2014 the ACES tone mapping Three.js applies is washing out the colors. Fixi\u2026",
+      "message_count": 748,
+      "file_size_kb": 4774,
+      "modified_ts": 1776971194.0443366,
+      "modified_iso": "2026-04-23T15:06:34.044337",
+      "minutes_since_active": 0.8
+    },
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -21,23 +37,7 @@
       "file_size_kb": 691,
       "modified_ts": 1776971155.3086839,
       "modified_iso": "2026-04-23T15:05:55.308684",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "9b1873da",
-      "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "active",
-      "project": "/Users/halukgul/projects/claude-turkey",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_ObNFcQ/Screenshot 2026-04-23 at 15.04.03.png]",
-      "last_assistant_snippet": "Now synthesizing all 5 agents into the top 15 workflows. --- ## Top 15 3D Workflows / Tools / Systems *(Synthesized from 5 parallel agents, 100+ resources, 2025-current)* --- ### T\u2026",
-      "message_count": 744,
-      "file_size_kb": 4735,
-      "modified_ts": 1776971054.48135,
-      "modified_iso": "2026-04-23T15:04:14.481350",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 1.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776895412.3509269,
       "modified_iso": "2026-04-22T18:03:32.350927",
-      "minutes_since_active": 1262.8
+      "minutes_since_active": 1263.9
     }
   ]
 }
