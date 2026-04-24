@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-24T19:52:21Z",
-  "total_tabs": 152,
-  "total_windows": 4,
+  "updated_at": "2026-04-24T19:53:40Z",
+  "total_tabs": 153,
+  "total_windows": 5,
   "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 83,
-      "domain_count": 53,
+      "count": 84,
+      "domain_count": 54,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 5
         },
         {
-          "domain": "o3xo.ai",
-          "count": 4
-        },
-        {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
           "domain": "keep.google.com",
+          "count": 4
+        },
+        {
+          "domain": "o3xo.ai",
           "count": 4
         }
       ]
@@ -57,15 +57,15 @@
           "count": 2
         },
         {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
           "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "optirix.com",
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "manage.wix.com",
           "count": 1
         }
       ]
