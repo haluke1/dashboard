@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-24T06:04:37Z",
+  "updated_at": "2026-04-24T06:05:42Z",
   "total_tabs": 127,
   "total_windows": 3,
-  "duplicate_tabs": 17,
+  "duplicate_tabs": 18,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 60,
-      "domain_count": 39,
+      "domain_count": 38,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -27,8 +27,8 @@
           "count": 3
         },
         {
-          "domain": "motion.dev",
-          "count": 2
+          "domain": "keep.google.com",
+          "count": 3
         }
       ]
     },
