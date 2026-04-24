@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T19:03:32Z",
-  "total_tabs": 137,
+  "updated_at": "2026-04-24T19:04:36Z",
+  "total_tabs": 138,
   "total_windows": 4,
   "duplicate_tabs": 20,
   "bridge_online": true,
@@ -33,24 +33,17 @@
       ]
     },
     {
-      "name": "video",
-      "count": 19,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 19
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 18,
+      "count": 19,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 8
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
         },
         {
           "domain": "reddit.com",
@@ -63,10 +56,17 @@
         {
           "domain": "x.com",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 19,
+      "domain_count": 1,
+      "top_domains": [
         {
-          "domain": "manage.wix.com",
-          "count": 1
+          "domain": "youtube.com",
+          "count": 19
         }
       ]
     },
