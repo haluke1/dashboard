@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-24T03:52:32Z",
+  "updated_at": "2026-04-24T03:53:36Z",
   "counts": {
-    "active": 1,
-    "recent": 3,
+    "active": 0,
+    "recent": 4,
     "archived": 284,
     "total": 288
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "65a38d51",
       "full_id": "65a38d51-2c89-4307-a3c7-3325f832a1c2",
-      "status": "active",
+      "status": "recent",
       "project": "(unknown)",
       "git_branch": null,
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 0,
       "modified_ts": 1777002506.677369,
       "modified_iso": "2026-04-23T23:48:26.677369",
-      "minutes_since_active": 4.1
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.2
+    },
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
@@ -39,7 +38,7 @@
       "file_size_kb": 4995,
       "modified_ts": 1776996788.9403734,
       "modified_iso": "2026-04-23T22:13:08.940373",
-      "minutes_since_active": 99.4
+      "minutes_since_active": 100.4
     },
     {
       "id": "ece24696",
@@ -55,7 +54,7 @@
       "file_size_kb": 1031,
       "modified_ts": 1776987437.6378078,
       "modified_iso": "2026-04-23T19:37:17.637808",
-      "minutes_since_active": 255.2
+      "minutes_since_active": 256.3
     },
     {
       "id": "1b475a0a",
@@ -71,7 +70,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 496.8
+      "minutes_since_active": 497.9
     }
   ]
 }
