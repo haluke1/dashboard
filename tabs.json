@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-24T18:09:45Z",
-  "total_tabs": 126,
+  "updated_at": "2026-04-24T18:10:49Z",
+  "total_tabs": 130,
   "total_windows": 4,
   "duplicate_tabs": 20,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 64,
-      "domain_count": 41,
+      "count": 68,
+      "domain_count": 42,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 5
         },
         {
+          "domain": "o3xo.ai",
+          "count": 4
+        },
+        {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
           "domain": "keep.google.com",
           "count": 4
-        },
-        {
-          "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
-          "count": 3
         }
       ]
     },
