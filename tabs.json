@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-24T19:57:31Z",
-  "total_tabs": 162,
+  "updated_at": "2026-04-24T19:58:35Z",
+  "total_tabs": 160,
   "total_windows": 5,
   "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 93,
+      "count": 94,
       "domain_count": 57,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "xhamster.com",
-          "count": 5
+          "count": 6
         },
         {
           "domain": "elearning.villanova.edu",
@@ -29,17 +29,6 @@
         {
           "domain": "keep.google.com",
           "count": 4
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 21,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 21
         }
       ]
     },
@@ -86,6 +75,17 @@
         {
           "domain": "vercel.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 18,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 18
         }
       ]
     },
