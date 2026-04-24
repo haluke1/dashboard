@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T04:09:31Z",
-  "total_tabs": 114,
+  "updated_at": "2026-04-24T04:10:35Z",
+  "total_tabs": 116,
   "total_windows": 3,
   "duplicate_tabs": 17,
   "bridge_online": true,
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 16,
+      "count": 18,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 10
+          "count": 12
         },
         {
           "domain": "github.com",
