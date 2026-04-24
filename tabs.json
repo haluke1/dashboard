@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-24T18:10:49Z",
-  "total_tabs": 130,
+  "updated_at": "2026-04-24T18:11:53Z",
+  "total_tabs": 132,
   "total_windows": 4,
   "duplicate_tabs": 20,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 68,
-      "domain_count": 42,
+      "count": 69,
+      "domain_count": 43,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -44,6 +44,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 18,
+      "domain_count": 10,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 8
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "optirix.com",
+          "count": 1
+        },
+        {
+          "domain": "x.com",
+          "count": 1
+        },
+        {
+          "domain": "manage.wix.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 17,
       "domain_count": 3,
@@ -58,33 +85,6 @@
         },
         {
           "domain": "vercel.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 17,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 8
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 1
-        },
-        {
-          "domain": "manage.wix.com",
-          "count": 1
-        },
-        {
-          "domain": "facebook.com",
           "count": 1
         }
       ]
