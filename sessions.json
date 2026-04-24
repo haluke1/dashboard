@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-24T00:27:32Z",
+  "updated_at": "2026-04-24T02:09:20Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 284,
     "total": 287
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "9b1873da",
       "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/projects/claude-turkey",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
       "last_user_msg": "<task-notification> <task-id>b4qlo1gup</task-id> <tool-use-id>toolu_01Ahj6H5VMuqUAgWVQVVeTcT</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9b1873da-2c1a-44e8-8\u2026",
       "last_assistant_snippet": "API Error: Stream idle timeout - partial response received",
-      "message_count": 842,
-      "file_size_kb": 4954,
-      "modified_ts": 1776989527.414783,
-      "modified_iso": "2026-04-23T20:12:07.414783",
-      "minutes_since_active": 15.4
-    },
+      "message_count": 844,
+      "file_size_kb": 4964,
+      "modified_ts": 1776996552.1476889,
+      "modified_iso": "2026-04-23T22:09:12.147689",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "ece24696",
       "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
@@ -38,7 +39,7 @@
       "file_size_kb": 1031,
       "modified_ts": 1776987437.6378078,
       "modified_iso": "2026-04-23T19:37:17.637808",
-      "minutes_since_active": 50.2
+      "minutes_since_active": 152.0
     },
     {
       "id": "1b475a0a",
@@ -54,7 +55,7 @@
       "file_size_kb": 67,
       "modified_ts": 1776972942.8955112,
       "modified_iso": "2026-04-23T15:35:42.895511",
-      "minutes_since_active": 291.8
+      "minutes_since_active": 393.6
     }
   ]
 }
