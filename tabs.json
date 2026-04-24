@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-04-24T19:58:35Z",
-  "total_tabs": 160,
+  "updated_at": "2026-04-24T19:59:45Z",
+  "total_tabs": 157,
   "total_windows": 5,
-  "duplicate_tabs": 21,
+  "duplicate_tabs": 20,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 94,
-      "domain_count": 57,
+      "count": 92,
+      "domain_count": 54,
       "top_domains": [
         {
-          "domain": "(no domain)",
+          "domain": "xhamster.com",
           "count": 7
         },
         {
-          "domain": "xhamster.com",
-          "count": 6
+          "domain": "(no domain)",
+          "count": 7
         },
         {
           "domain": "elearning.villanova.edu",
@@ -91,15 +91,15 @@
     },
     {
       "name": "productivity",
-      "count": 8,
+      "count": 7,
       "domain_count": 5,
       "top_domains": [
         {
-          "domain": "mail.google.com",
-          "count": 3
+          "domain": "notion.so",
+          "count": 2
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
