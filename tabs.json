@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-24T17:04:37Z",
+  "updated_at": "2026-04-24T17:05:40Z",
   "total_tabs": 123,
   "total_windows": 3,
-  "duplicate_tabs": 22,
+  "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
-          "count": 3
+          "domain": "keep.google.com",
+          "count": 4
         },
         {
-          "domain": "keep.google.com",
+          "domain": "learn-us-east-1-prod-fleet02-xythos.content.blackboardcdn.com",
           "count": 3
         }
       ]
