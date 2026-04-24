@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-24T23:36:26Z",
+  "updated_at": "2026-04-24T23:37:30Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 285,
+    "recent": 2,
+    "archived": 286,
     "total": 288
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 0,
       "modified_ts": 1777002506.677369,
       "modified_iso": "2026-04-23T23:48:26.677369",
-      "minutes_since_active": 1188.0
+      "minutes_since_active": 1189.1
     },
     {
       "id": "9b1873da",
@@ -38,23 +38,7 @@
       "file_size_kb": 4995,
       "modified_ts": 1776996788.9403734,
       "modified_iso": "2026-04-23T22:13:08.940373",
-      "minutes_since_active": 1283.3
-    },
-    {
-      "id": "ece24696",
-      "full_id": "ece24696-a710-4ea9-862c-10290d8dd10b",
-      "status": "recent",
-      "project": "/Users/halukgul/portfolio",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "every time we tried to run the project on this session the terminal capped out at 90 gb memory and shut down our mac. what could be the problem here and how can we fix it -> \u23fa Now \u2026",
-      "last_user_msg": "<task-notification> <task-id>b6hond2ke</task-id> <tool-use-id>toolu_01Jnc3NVWrgExV9Qh4vJkWtQ</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/ece24696-a710-4ea9-8\u2026",
-      "last_assistant_snippet": "I'm genuinely not finding it. I've searched every HTML file, every running server, every project folder, and past sessions. Do you remember anything about it \u2014 was it on Framer, a \u2026",
-      "message_count": 274,
-      "file_size_kb": 1031,
-      "modified_ts": 1776987437.6378078,
-      "modified_iso": "2026-04-23T19:37:17.637808",
-      "minutes_since_active": 1439.1
+      "minutes_since_active": 1284.3
     }
   ]
 }
