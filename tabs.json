@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-04-24T19:56:27Z",
-  "total_tabs": 158,
+  "updated_at": "2026-04-24T19:57:31Z",
+  "total_tabs": 162,
   "total_windows": 5,
   "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 89,
+      "count": 93,
       "domain_count": 57,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 7
+        },
+        {
+          "domain": "xhamster.com",
+          "count": 5
         },
         {
           "domain": "elearning.villanova.edu",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 4
-        },
-        {
-          "domain": "o3xo.ai",
           "count": 4
         }
       ]
