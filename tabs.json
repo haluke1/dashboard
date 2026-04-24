@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T20:26:26Z",
+  "updated_at": "2026-04-24T20:27:30Z",
   "total_tabs": 210,
   "total_windows": 5,
   "duplicate_tabs": 22,
@@ -92,19 +92,15 @@
     {
       "name": "productivity",
       "count": 9,
-      "domain_count": 6,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "notion.so",
           "count": 2
-        },
-        {
-          "domain": "accounts.google.com",
-          "count": 1
         },
         {
           "domain": "miro.com",
@@ -112,6 +108,10 @@
         },
         {
           "domain": "account.docusign.com",
+          "count": 1
+        },
+        {
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
