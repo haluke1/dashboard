@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T22:18:19Z",
+  "updated_at": "2026-04-24T22:19:24Z",
   "total_tabs": 237,
   "total_windows": 5,
   "duplicate_tabs": 22,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 164,
+      "count": 163,
       "domain_count": 76,
       "top_domains": [
         {
@@ -60,6 +60,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 19,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 19
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 18,
       "domain_count": 3,
@@ -75,17 +86,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 18,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 18
         }
       ]
     },
