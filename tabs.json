@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-24T03:58:53Z",
-  "total_tabs": 107,
+  "updated_at": "2026-04-24T03:59:57Z",
+  "total_tabs": 108,
   "total_windows": 3,
   "duplicate_tabs": 16,
   "bridge_online": true,
@@ -44,6 +44,25 @@
       ]
     },
     {
+      "name": "ai-dev",
+      "count": 14,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "claude.ai",
+          "count": 8
+        },
+        {
+          "domain": "github.com",
+          "count": 5
+        },
+        {
+          "domain": "vercel.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "social",
       "count": 13,
       "domain_count": 7,
@@ -71,27 +90,8 @@
       ]
     },
     {
-      "name": "ai-dev",
-      "count": 12,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 6
-        },
-        {
-          "domain": "github.com",
-          "count": 5
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "productivity",
-      "count": 7,
+      "count": 6,
       "domain_count": 4,
       "top_domains": [
         {
@@ -104,7 +104,7 @@
         },
         {
           "domain": "miro.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "docs.google.com",
