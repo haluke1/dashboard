@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-24T04:01:01Z",
-  "total_tabs": 109,
+  "updated_at": "2026-04-24T04:02:05Z",
+  "total_tabs": 111,
   "total_windows": 3,
-  "duplicate_tabs": 16,
+  "duplicate_tabs": 17,
   "bridge_online": true,
   "categories": [
     {
@@ -91,19 +91,23 @@
     },
     {
       "name": "productivity",
-      "count": 6,
-      "domain_count": 4,
+      "count": 8,
+      "domain_count": 5,
       "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 3
+        },
         {
           "domain": "notion.so",
           "count": 2
         },
         {
-          "domain": "mail.google.com",
-          "count": 2
+          "domain": "miro.com",
+          "count": 1
         },
         {
-          "domain": "miro.com",
+          "domain": "account.docusign.com",
           "count": 1
         },
         {
