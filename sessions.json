@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-04-25T02:12:59Z",
+  "updated_at": "2026-04-25T02:14:03Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 286,
+    "recent": 1,
+    "archived": 287,
     "total": 288
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 0,
       "modified_ts": 1777002506.677369,
       "modified_iso": "2026-04-23T23:48:26.677369",
-      "minutes_since_active": 1344.6
-    },
-    {
-      "id": "9b1873da",
-      "full_id": "9b1873da-2c1a-44e8-8a83-955bd6fdf47e",
-      "status": "recent",
-      "project": "/Users/halukgul/projects/claude-turkey",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can we start the website for framer that we bought and create a workflow of git pushes for a project where we can auto update the website? ultrathink",
-      "last_user_msg": "<task-notification> <task-id>b4qlo1gup</task-id> <tool-use-id>toolu_01Ahj6H5VMuqUAgWVQVVeTcT</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9b1873da-2c1a-44e8-8\u2026",
-      "last_assistant_snippet": "I've done an exhaustive search. Can't find a standalone Villanova website. The closest things I found are: 1. **`/Users/halukgul/projects/workshop-battleplan/index.html`** \u2014 has a \u2026",
-      "message_count": 858,
-      "file_size_kb": 4995,
-      "modified_ts": 1776996788.9403734,
-      "modified_iso": "2026-04-23T22:13:08.940373",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1345.6
     }
   ]
 }
