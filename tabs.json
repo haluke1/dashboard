@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-04-25T05:54:27Z",
-  "total_tabs": 158,
+  "updated_at": "2026-04-25T05:56:55Z",
+  "total_tabs": 153,
   "total_windows": 4,
   "duplicate_tabs": 26,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 91,
+      "count": 86,
       "domain_count": 53,
       "top_domains": [
-        {
-          "domain": "vertexmovies.com",
-          "count": 7
-        },
         {
           "domain": "(no domain)",
           "count": 7
@@ -28,6 +24,10 @@
         },
         {
           "domain": "o3xo.ai",
+          "count": 4
+        },
+        {
+          "domain": "open.spotify.com",
           "count": 4
         }
       ]
