@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-04-25T03:47:35Z",
+  "updated_at": "2026-04-25T03:48:39Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 287,
+    "recent": 0,
+    "archived": 288,
     "total": 288
   },
   "active": [],
-  "recent": [
-    {
-      "id": "65a38d51",
-      "full_id": "65a38d51-2c89-4307-a3c7-3325f832a1c2",
-      "status": "recent",
-      "project": "(unknown)",
-      "git_branch": null,
-      "permission_mode": null,
-      "first_prompt": null,
-      "last_user_msg": null,
-      "last_assistant_snippet": null,
-      "message_count": 0,
-      "file_size_kb": 0,
-      "modified_ts": 1777002506.677369,
-      "modified_iso": "2026-04-23T23:48:26.677369",
-      "minutes_since_active": 1439.1
-    }
-  ]
+  "recent": []
 }
