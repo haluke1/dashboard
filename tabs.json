@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-25T22:02:08Z",
-  "total_tabs": 186,
+  "updated_at": "2026-04-25T22:03:12Z",
+  "total_tabs": 182,
   "total_windows": 5,
-  "duplicate_tabs": 32,
+  "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 104,
+      "count": 103,
       "domain_count": 66,
       "top_domains": [
         {
@@ -23,23 +23,23 @@
           "count": 5
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "o3xo.ai",
           "count": 4
         },
         {
-          "domain": "o3xo.ai",
+          "domain": "open.spotify.com",
           "count": 4
         }
       ]
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 25,
       "domain_count": 11,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "reddit.com",
@@ -54,7 +54,7 @@
           "count": 2
         },
         {
-          "domain": "manage.wix.com",
+          "domain": "optirix.com",
           "count": 1
         }
       ]
@@ -84,23 +84,23 @@
           "count": 5
         },
         {
-          "domain": "vercel.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "vercel.com",
           "count": 1
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 12,
+      "count": 10,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 6
+          "count": 4
         },
         {
           "domain": "notion.so",
