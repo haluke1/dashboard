@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T21:04:19Z",
+  "updated_at": "2026-04-25T21:05:25Z",
   "total_tabs": 196,
   "total_windows": 4,
   "duplicate_tabs": 30,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 113,
-      "domain_count": 76,
+      "count": 112,
+      "domain_count": 75,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -124,6 +124,17 @@
         {
           "domain": "localhost:3001",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
         }
       ]
     }
