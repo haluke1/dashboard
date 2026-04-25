@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-25T03:21:01Z",
-  "total_tabs": 154,
+  "updated_at": "2026-04-25T03:22:04Z",
+  "total_tabs": 155,
   "total_windows": 4,
   "duplicate_tabs": 24,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 87,
+      "count": 88,
       "domain_count": 53,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 5
         },
         {
+          "domain": "vertexmovies.com",
+          "count": 5
+        },
+        {
           "domain": "elearning.villanova.edu",
           "count": 5
         },
         {
           "domain": "o3xo.ai",
-          "count": 4
-        },
-        {
-          "domain": "vertexmovies.com",
           "count": 4
         }
       ]
