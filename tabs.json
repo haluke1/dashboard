@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-25T21:10:44Z",
-  "total_tabs": 198,
+  "updated_at": "2026-04-25T21:12:16Z",
+  "total_tabs": 199,
   "total_windows": 4,
-  "duplicate_tabs": 30,
+  "duplicate_tabs": 32,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 113,
-      "domain_count": 76,
+      "count": 114,
+      "domain_count": 77,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,11 +23,11 @@
           "count": 5
         },
         {
-          "domain": "o3xo.ai",
+          "domain": "open.spotify.com",
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "o3xo.ai",
           "count": 4
         }
       ]
@@ -54,7 +54,7 @@
           "count": 2
         },
         {
-          "domain": "optirix.com",
+          "domain": "manage.wix.com",
           "count": 1
         }
       ]
@@ -84,11 +84,11 @@
           "count": 5
         },
         {
-          "domain": "openai.com",
+          "domain": "vercel.com",
           "count": 1
         },
         {
-          "domain": "vercel.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
