@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-26T21:59:29Z",
-  "total_tabs": 190,
+  "updated_at": "2026-04-26T22:00:33Z",
+  "total_tabs": 189,
   "total_windows": 6,
-  "duplicate_tabs": 27,
+  "duplicate_tabs": 23,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 100,
-      "domain_count": 70,
+      "domain_count": 71,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,12 +19,12 @@
           "count": 5
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "o3xo.ai",
           "count": 4
         },
         {
-          "domain": "o3xo.ai",
-          "count": 4
+          "domain": "open.spotify.com",
+          "count": 3
         },
         {
           "domain": "namecheap.com",
@@ -40,33 +40,6 @@
         {
           "domain": "youtube.com",
           "count": 34
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 22,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 9
-        },
-        {
-          "domain": "reddit.com",
-          "count": 3
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
         }
       ]
     },
@@ -94,9 +67,36 @@
       ]
     },
     {
+      "name": "social",
+      "count": 20,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 8
+        },
+        {
+          "domain": "reddit.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
-      "count": 10,
-      "domain_count": 5,
+      "count": 11,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "notion.so",
@@ -115,7 +115,7 @@
           "count": 1
         },
         {
-          "domain": "docs.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         }
       ]
