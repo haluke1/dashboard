@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-26T01:52:18Z",
-  "total_tabs": 184,
+  "updated_at": "2026-04-26T01:55:04Z",
+  "total_tabs": 180,
   "total_windows": 5,
-  "duplicate_tabs": 29,
+  "duplicate_tabs": 27,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 95,
-      "domain_count": 58,
+      "count": 92,
+      "domain_count": 57,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -35,11 +35,11 @@
     {
       "name": "social",
       "count": 31,
-      "domain_count": 11,
+      "domain_count": 10,
       "top_domains": [
         {
           "domain": "facebook.com",
-          "count": 10
+          "count": 11
         },
         {
           "domain": "linkedin.com",
@@ -95,15 +95,15 @@
     },
     {
       "name": "productivity",
-      "count": 10,
+      "count": 9,
       "domain_count": 5,
       "top_domains": [
         {
-          "domain": "mail.google.com",
-          "count": 4
+          "domain": "notion.so",
+          "count": 3
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 3
         },
         {
