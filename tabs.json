@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T08:44:21Z",
+  "updated_at": "2026-04-26T08:45:25Z",
   "total_tabs": 176,
   "total_windows": 6,
   "duplicate_tabs": 25,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 92,
+      "count": 91,
       "domain_count": 59,
       "top_domains": [
         {
@@ -15,11 +15,11 @@
           "count": 7
         },
         {
-          "domain": "google.com",
-          "count": 6
+          "domain": "keep.google.com",
+          "count": 5
         },
         {
-          "domain": "keep.google.com",
+          "domain": "google.com",
           "count": 5
         },
         {
@@ -45,7 +45,7 @@
     },
     {
       "name": "social",
-      "count": 24,
+      "count": 25,
       "domain_count": 10,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "facebook.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "reddit.com",
