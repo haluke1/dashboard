@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-26T17:42:06Z",
-  "total_tabs": 199,
+  "updated_at": "2026-04-26T17:47:55Z",
+  "total_tabs": 195,
   "total_windows": 6,
   "duplicate_tabs": 29,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 102,
+      "count": 103,
       "domain_count": 71,
       "top_domains": [
         {
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "namecheap.com",
+          "domain": "google.com",
           "count": 3
         }
       ]
@@ -45,16 +45,16 @@
     },
     {
       "name": "social",
-      "count": 29,
+      "count": 24,
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "reddit.com",
+          "domain": "linkedin.com",
           "count": 9
         },
         {
-          "domain": "linkedin.com",
-          "count": 9
+          "domain": "reddit.com",
+          "count": 4
         },
         {
           "domain": "x.com",
