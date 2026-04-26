@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-26T06:08:45Z",
-  "total_tabs": 171,
+  "updated_at": "2026-04-26T06:09:49Z",
+  "total_tabs": 168,
   "total_windows": 6,
   "duplicate_tabs": 25,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 89,
-      "domain_count": 60,
+      "count": 88,
+      "domain_count": 59,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "social",
-      "count": 25,
+      "count": 24,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "facebook.com",
@@ -95,7 +95,7 @@
     },
     {
       "name": "productivity",
-      "count": 10,
+      "count": 9,
       "domain_count": 5,
       "top_domains": [
         {
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "docs.google.com",
-          "count": 2
-        },
-        {
           "domain": "miro.com",
           "count": 1
         },
         {
           "domain": "account.docusign.com",
+          "count": 1
+        },
+        {
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
