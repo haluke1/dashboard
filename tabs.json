@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-04-26T04:30:18Z",
-  "total_tabs": 175,
+  "updated_at": "2026-04-26T04:31:22Z",
+  "total_tabs": 166,
   "total_windows": 5,
-  "duplicate_tabs": 27,
+  "duplicate_tabs": 23,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 91,
+      "count": 84,
       "domain_count": 57,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 7
-        },
-        {
-          "domain": "elearning.villanova.edu",
-          "count": 6
         },
         {
           "domain": "keep.google.com",
@@ -29,17 +25,21 @@
         {
           "domain": "o3xo.ai",
           "count": 4
+        },
+        {
+          "domain": "namecheap.com",
+          "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 28,
+      "count": 26,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 28
+          "count": 26
         }
       ]
     },
