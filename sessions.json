@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-04-26T05:38:49Z",
+  "updated_at": "2026-04-26T05:39:53Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 288,
     "total": 289
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "3da3f48b",
       "full_id": "3da3f48b-68f8-42d9-8d1b-3e93dcf8adae",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/The Task",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,8 +22,7 @@
       "file_size_kb": 909,
       "modified_ts": 1777181646.977778,
       "modified_iso": "2026-04-26T01:34:06.977778",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 5.8
     }
-  ],
-  "recent": []
+  ]
 }
