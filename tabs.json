@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T03:02:38Z",
+  "updated_at": "2026-04-27T03:03:42Z",
   "total_tabs": 182,
   "total_windows": 6,
   "duplicate_tabs": 23,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 96,
+      "count": 97,
       "domain_count": 67,
       "top_domains": [
         {
@@ -19,12 +19,12 @@
           "count": 5
         },
         {
-          "domain": "o3xo.ai",
+          "domain": "vertexmovies.com",
           "count": 4
         },
         {
-          "domain": "vertexmovies.com",
-          "count": 3
+          "domain": "o3xo.ai",
+          "count": 4
         },
         {
           "domain": "open.spotify.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 31,
+      "count": 30,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 31
+          "count": 30
         }
       ]
     },
