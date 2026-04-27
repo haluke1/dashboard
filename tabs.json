@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-27T21:40:21Z",
+  "updated_at": "2026-04-27T21:41:27Z",
   "total_tabs": 191,
   "total_windows": 5,
-  "duplicate_tabs": 33,
+  "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
@@ -23,7 +23,7 @@
           "count": 4
         },
         {
-          "domain": "vertexmovies.com",
+          "domain": "open.spotify.com",
           "count": 3
         },
         {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 26,
+      "count": 27,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 26
+          "count": 27
         }
       ]
     },
@@ -65,7 +65,7 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "web.whatsapp.com",
           "count": 1
         }
       ]
@@ -95,12 +95,12 @@
     },
     {
       "name": "productivity",
-      "count": 17,
+      "count": 16,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "notion.so",
@@ -111,11 +111,11 @@
           "count": 2
         },
         {
-          "domain": "miro.com",
+          "domain": "docs.google.com",
           "count": 1
         },
         {
-          "domain": "account.docusign.com",
+          "domain": "miro.com",
           "count": 1
         }
       ]
