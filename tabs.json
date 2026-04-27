@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T17:30:22Z",
+  "updated_at": "2026-04-27T17:31:26Z",
   "total_tabs": 182,
   "total_windows": 5,
   "duplicate_tabs": 23,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 96,
+      "count": 95,
       "domain_count": 66,
       "top_domains": [
         {
@@ -95,7 +95,7 @@
     },
     {
       "name": "productivity",
-      "count": 12,
+      "count": 13,
       "domain_count": 7,
       "top_domains": [
         {
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
+          "domain": "toolbox.googleapps.com",
+          "count": 2
+        },
+        {
           "domain": "miro.com",
           "count": 1
         },
         {
           "domain": "account.docusign.com",
-          "count": 1
-        },
-        {
-          "domain": "calendar.google.com",
           "count": 1
         }
       ]
