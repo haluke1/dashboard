@@ -1,17 +1,25 @@
 {
-  "updated_at": "2026-04-27T04:01:11Z",
-  "total_tabs": 184,
-  "total_windows": 6,
-  "duplicate_tabs": 23,
+  "updated_at": "2026-04-27T04:02:15Z",
+  "total_tabs": 232,
+  "total_windows": 7,
+  "duplicate_tabs": 25,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 98,
-      "domain_count": 67,
+      "count": 145,
+      "domain_count": 88,
       "top_domains": [
         {
+          "domain": "eporner.com",
+          "count": 11
+        },
+        {
           "domain": "(no domain)",
+          "count": 7
+        },
+        {
+          "domain": "maxboobs.com",
           "count": 7
         },
         {
@@ -21,25 +29,44 @@
         {
           "domain": "vertexmovies.com",
           "count": 5
-        },
-        {
-          "domain": "o3xo.ai",
-          "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 31,
+      "count": 30,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 31
+          "count": 30
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 22,
+      "domain_count": 11,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 8
+        },
+        {
+          "domain": "reddit.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
         }
       ]
     },
@@ -62,33 +89,6 @@
         },
         {
           "domain": "openai.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 20,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 8
-        },
-        {
-          "domain": "reddit.com",
-          "count": 3
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
           "count": 1
         }
       ]
