@@ -1,57 +1,34 @@
 {
-  "updated_at": "2026-04-28T17:49:34Z",
-  "total_tabs": 179,
-  "total_windows": 5,
+  "updated_at": "2026-04-28T17:51:44Z",
+  "total_tabs": 174,
+  "total_windows": 4,
   "duplicate_tabs": 28,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 98,
-      "domain_count": 67,
+      "count": 94,
+      "domain_count": 65,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 7
         },
         {
-          "domain": "elearning.villanova.edu",
-          "count": 6
-        },
-        {
           "domain": "keep.google.com",
           "count": 5
         },
         {
-          "domain": "namecheap.com",
-          "count": 4
+          "domain": "elearning.villanova.edu",
+          "count": 5
         },
         {
           "domain": "o3xo.ai",
           "count": 4
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 22,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 16
         },
         {
-          "domain": "github.com",
+          "domain": "namecheap.com",
           "count": 4
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
-        },
-        {
-          "domain": "openai.com",
-          "count": 1
         }
       ]
     },
@@ -63,6 +40,29 @@
         {
           "domain": "youtube.com",
           "count": 22
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 21,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "claude.ai",
+          "count": 15
+        },
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "vercel.com",
+          "count": 1
         }
       ]
     },
@@ -88,7 +88,7 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "optirix.com",
           "count": 1
         }
       ]
