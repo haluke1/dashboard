@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-28T01:44:40Z",
-  "total_tabs": 191,
+  "updated_at": "2026-04-28T01:45:44Z",
+  "total_tabs": 192,
   "total_windows": 5,
   "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 100,
+      "count": 99,
       "domain_count": 68,
       "top_domains": [
         {
@@ -19,27 +19,27 @@
           "count": 5
         },
         {
-          "domain": "vertexmovies.com",
-          "count": 4
-        },
-        {
           "domain": "o3xo.ai",
           "count": 4
         },
         {
           "domain": "open.spotify.com",
           "count": 3
+        },
+        {
+          "domain": "ap.namecheap.com",
+          "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 26,
+      "count": 28,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 26
+          "count": 28
         }
       ]
     },
