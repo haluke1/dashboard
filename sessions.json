@@ -1,30 +1,29 @@
 {
-  "updated_at": "2026-04-28T18:02:32Z",
+  "updated_at": "2026-04-28T18:20:39Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 288,
     "total": 290
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Good, the cleaned content is 12.5K. Now I'll create both the Reference & Archive page and read more of Personal OS & Identity in parallel:",
-      "message_count": 335,
-      "file_size_kb": 2461,
-      "modified_ts": 1777399348.2008348,
-      "modified_iso": "2026-04-28T14:02:28.200835",
-      "minutes_since_active": 0.1
-    }
-  ],
-  "recent": [
+      "last_assistant_snippet": "Now creating Personal OS & Identity \u2014 Part 1:",
+      "message_count": 355,
+      "file_size_kb": 2507,
+      "modified_ts": 1777399398.4746814,
+      "modified_iso": "2026-04-28T14:03:18.474681",
+      "minutes_since_active": 17.3
+    },
     {
       "id": "3da3f48b",
       "full_id": "3da3f48b-68f8-42d9-8d1b-3e93dcf8adae",
@@ -39,7 +38,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 31.7
+      "minutes_since_active": 49.7
     }
   ]
 }
