@@ -1,56 +1,49 @@
 {
-  "updated_at": "2026-04-28T01:51:19Z",
-  "total_tabs": 192,
+  "updated_at": "2026-04-28T01:52:28Z",
+  "total_tabs": 297,
   "total_windows": 6,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 100,
-      "domain_count": 68,
+      "count": 197,
+      "domain_count": 97,
       "top_domains": [
         {
-          "domain": "(no domain)",
-          "count": 7
+          "domain": "xhamster.com",
+          "count": 18
         },
         {
-          "domain": "keep.google.com",
-          "count": 5
+          "domain": "eporner.com",
+          "count": 15
         },
         {
-          "domain": "o3xo.ai",
-          "count": 4
+          "domain": "xvideos.com",
+          "count": 10
         },
         {
-          "domain": "vertexmovies.com",
-          "count": 3
+          "domain": "xtits.xxx",
+          "count": 9
         },
         {
-          "domain": "ap.namecheap.com",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 27,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 27
+          "domain": "xgroovy.com",
+          "count": 9
         }
       ]
     },
     {
       "name": "social",
-      "count": 24,
-      "domain_count": 9,
+      "count": 32,
+      "domain_count": 11,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 9
+        },
+        {
+          "domain": "abxxx.com",
+          "count": 7
         },
         {
           "domain": "instagram.com",
@@ -63,10 +56,17 @@
         {
           "domain": "x.com",
           "count": 2
-        },
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 27,
+      "domain_count": 1,
+      "top_domains": [
         {
-          "domain": "facebook.com",
-          "count": 1
+          "domain": "youtube.com",
+          "count": 27
         }
       ]
     },
