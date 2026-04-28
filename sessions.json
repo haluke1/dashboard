@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-28T19:04:15Z",
+  "updated_at": "2026-04-28T19:05:24Z",
   "counts": {
-    "active": 2,
-    "recent": 1,
+    "active": 1,
+    "recent": 2,
     "archived": 288,
     "total": 291
   },
@@ -17,16 +17,18 @@
       "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
       "last_assistant_snippet": "Good, I have the product picture. Let me also grab the pricing page and use Sequential Thinking before strategizing.",
-      "message_count": 28,
-      "file_size_kb": 148,
-      "modified_ts": 1777403053.0510886,
-      "modified_iso": "2026-04-28T15:04:13.051089",
-      "minutes_since_active": 0.0
-    },
+      "message_count": 35,
+      "file_size_kb": 166,
+      "modified_ts": 1777403104.597203,
+      "modified_iso": "2026-04-28T15:05:04.597203",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 3698,
       "modified_ts": 1777402766.8348315,
       "modified_iso": "2026-04-28T14:59:26.834831",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "3da3f48b",
       "full_id": "3da3f48b-68f8-42d9-8d1b-3e93dcf8adae",
@@ -55,7 +55,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 93.4
+      "minutes_since_active": 94.5
     }
   ]
 }
