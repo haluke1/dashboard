@@ -1,30 +1,30 @@
 {
-  "updated_at": "2026-04-28T17:13:51Z",
-  "total_tabs": 188,
+  "updated_at": "2026-04-28T17:14:57Z",
+  "total_tabs": 173,
   "total_windows": 6,
-  "duplicate_tabs": 31,
+  "duplicate_tabs": 25,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 98,
-      "domain_count": 68,
+      "count": 93,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 8
         },
         {
+          "domain": "namecheap.com",
+          "count": 4
+        },
+        {
           "domain": "keep.google.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "o3xo.ai",
           "count": 4
-        },
-        {
-          "domain": "ap.namecheap.com",
-          "count": 3
         },
         {
           "domain": "vertexmovies.com",
@@ -33,13 +33,24 @@
       ]
     },
     {
+      "name": "video",
+      "count": 22,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 22
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 27,
-      "domain_count": 9,
+      "count": 22,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 10
+          "count": 7
         },
         {
           "domain": "reddit.com",
@@ -54,30 +65,19 @@
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
     },
     {
-      "name": "video",
-      "count": 23,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 23
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
-      "count": 21,
+      "count": 20,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 15
+          "count": 14
         },
         {
           "domain": "github.com",
@@ -95,8 +95,8 @@
     },
     {
       "name": "productivity",
-      "count": 17,
-      "domain_count": 7,
+      "count": 15,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "mail.google.com",
@@ -104,29 +104,18 @@
         },
         {
           "domain": "notion.so",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "docs.google.com",
+          "domain": "miro.com",
           "count": 1
         },
         {
-          "domain": "miro.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3001",
+          "domain": "account.docusign.com",
           "count": 1
         }
       ]
