@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T19:09:17Z",
+  "updated_at": "2026-04-28T19:10:22Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,38 @@
     "total": 292
   },
   "active": [
+    {
+      "id": "31c8ff0e",
+      "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
+      "last_user_msg": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
+      "last_assistant_snippet": "Good \u2014 I have a solid picture of the company. Let me use sequential thinking to prioritize before writing the final output.",
+      "message_count": 32,
+      "file_size_kb": 157,
+      "modified_ts": 1777403409.343886,
+      "modified_iso": "2026-04-28T15:10:09.343886",
+      "minutes_since_active": 0.2
+    },
+    {
+      "id": "b638446e",
+      "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
+      "last_user_msg": "so kind of like an openclaw for businesses right?",
+      "last_assistant_snippet": "Here's what I found \u2014 and the strategic direction this points to. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Boss.tech is attempting the \"WeChat for business\" model in\u2026",
+      "message_count": 38,
+      "file_size_kb": 184,
+      "modified_ts": 1777403398.0751288,
+      "modified_iso": "2026-04-28T15:09:58.075129",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -21,39 +53,7 @@
       "file_size_kb": 3776,
       "modified_ts": 1777403342.9719038,
       "modified_iso": "2026-04-28T15:09:02.971904",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "31c8ff0e",
-      "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
-      "last_user_msg": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
-      "last_assistant_snippet": "Good \u2014 I have a solid picture of the company. Let me use sequential thinking to prioritize before writing the final output.",
-      "message_count": 24,
-      "file_size_kb": 141,
-      "modified_ts": 1777403268.42654,
-      "modified_iso": "2026-04-28T15:07:48.426540",
-      "minutes_since_active": 1.5
-    },
-    {
-      "id": "b638446e",
-      "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "Here's what I found \u2014 and the strategic direction this points to. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Boss.tech is attempting the \"WeChat for business\" model in\u2026",
-      "message_count": 37,
-      "file_size_kb": 184,
-      "modified_ts": 1777403163.763182,
-      "modified_iso": "2026-04-28T15:06:03.763182",
-      "minutes_since_active": 3.2
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 98.4
+      "minutes_since_active": 99.5
     }
   ]
 }
