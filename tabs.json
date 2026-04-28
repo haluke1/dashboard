@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-04-28T17:36:27Z",
-  "total_tabs": 173,
+  "updated_at": "2026-04-28T17:37:31Z",
+  "total_tabs": 175,
   "total_windows": 5,
   "duplicate_tabs": 26,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 95,
+      "count": 97,
       "domain_count": 67,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 7
+        },
+        {
+          "domain": "elearning.villanova.edu",
+          "count": 5
         },
         {
           "domain": "keep.google.com",
@@ -25,10 +29,6 @@
         {
           "domain": "o3xo.ai",
           "count": 4
-        },
-        {
-          "domain": "vertexmovies.com",
-          "count": 3
         }
       ]
     },
