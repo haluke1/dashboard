@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T19:05:37Z",
+  "updated_at": "2026-04-28T19:06:03Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "Good, I have the product picture. Let me also grab the pricing page and use Sequential Thinking before strategizing.",
-      "message_count": 35,
-      "file_size_kb": 166,
-      "modified_ts": 1777403104.597203,
-      "modified_iso": "2026-04-28T15:05:04.597203",
-      "minutes_since_active": 0.5
+      "last_assistant_snippet": "Here's what I found \u2014 and the strategic direction this points to. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Boss.tech is attempting the \"WeChat for business\" model in\u2026",
+      "message_count": 37,
+      "file_size_kb": 182,
+      "modified_ts": 1777403161.7039437,
+      "modified_iso": "2026-04-28T15:06:01.703944",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 3698,
       "modified_ts": 1777402766.8348315,
       "modified_iso": "2026-04-28T14:59:26.834831",
-      "minutes_since_active": 6.2
+      "minutes_since_active": 6.6
     },
     {
       "id": "3da3f48b",
@@ -55,7 +55,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 94.7
+      "minutes_since_active": 95.2
     }
   ]
 }
