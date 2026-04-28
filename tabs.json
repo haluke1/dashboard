@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-04-28T17:37:31Z",
-  "total_tabs": 175,
+  "updated_at": "2026-04-28T17:38:35Z",
+  "total_tabs": 177,
   "total_windows": 5,
   "duplicate_tabs": 26,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 97,
+      "count": 98,
       "domain_count": 67,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "elearning.villanova.edu",
-          "count": 5
+          "count": 6
         },
         {
           "domain": "keep.google.com",
@@ -29,6 +29,29 @@
         {
           "domain": "o3xo.ai",
           "count": 4
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 21,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "claude.ai",
+          "count": 15
+        },
+        {
+          "domain": "github.com",
+          "count": 4
+        },
+        {
+          "domain": "vercel.com",
+          "count": 1
+        },
+        {
+          "domain": "openai.com",
+          "count": 1
         }
       ]
     },
@@ -67,29 +90,6 @@
         {
           "domain": "youtube.com",
           "count": 21
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 20,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 14
-        },
-        {
-          "domain": "github.com",
-          "count": 4
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
-        },
-        {
-          "domain": "openai.com",
-          "count": 1
         }
       ]
     },
