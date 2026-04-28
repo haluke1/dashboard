@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-28T04:43:24Z",
-  "total_tabs": 189,
+  "updated_at": "2026-04-28T04:44:28Z",
+  "total_tabs": 185,
   "total_windows": 5,
-  "duplicate_tabs": 31,
+  "duplicate_tabs": 29,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 99,
-      "domain_count": 68,
+      "count": 97,
+      "domain_count": 67,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,23 +23,23 @@
           "count": 4
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "vertexmovies.com",
           "count": 3
         },
         {
-          "domain": "vertexmovies.com",
+          "domain": "ap.namecheap.com",
           "count": 3
         }
       ]
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 25,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "instagram.com",
@@ -122,12 +122,12 @@
     },
     {
       "name": "local",
-      "count": 2,
+      "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3001",
-          "count": 2
+          "count": 1
         }
       ]
     },
