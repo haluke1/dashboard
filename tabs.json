@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-28T04:24:08Z",
-  "total_tabs": 191,
+  "updated_at": "2026-04-28T04:25:13Z",
+  "total_tabs": 194,
   "total_windows": 5,
-  "duplicate_tabs": 31,
+  "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 27,
       "domain_count": 9,
       "top_domains": [
         {
@@ -42,11 +42,11 @@
           "count": 9
         },
         {
-          "domain": "instagram.com",
-          "count": 5
+          "domain": "reddit.com",
+          "count": 6
         },
         {
-          "domain": "reddit.com",
+          "domain": "instagram.com",
           "count": 5
         },
         {
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 25,
+      "count": 26,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 25
+          "count": 26
         }
       ]
     },
@@ -128,6 +128,17 @@
         {
           "domain": "localhost:3001",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 1
         }
       ]
     },
