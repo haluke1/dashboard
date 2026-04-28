@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T19:10:22Z",
+  "updated_at": "2026-04-28T19:10:23Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 292
   },
   "active": [
+    {
+      "id": "b638446e",
+      "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
+      "last_user_msg": "so kind of like an openclaw for businesses right?",
+      "last_assistant_snippet": "Exactly \u2014 and that reframe is sharper than \"unified inbox.\" **Boss.tech = dashboard** (you look at it, it shows you things) **OpenClaw for business = agent runtime** (it watches ev\u2026",
+      "message_count": 40,
+      "file_size_kb": 192,
+      "modified_ts": 1777403422.2971823,
+      "modified_iso": "2026-04-28T15:10:22.297182",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "31c8ff0e",
       "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
@@ -22,22 +38,6 @@
       "modified_ts": 1777403409.343886,
       "modified_iso": "2026-04-28T15:10:09.343886",
       "minutes_since_active": 0.2
-    },
-    {
-      "id": "b638446e",
-      "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
-      "last_user_msg": "so kind of like an openclaw for businesses right?",
-      "last_assistant_snippet": "Here's what I found \u2014 and the strategic direction this points to. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Boss.tech is attempting the \"WeChat for business\" model in\u2026",
-      "message_count": 38,
-      "file_size_kb": 184,
-      "modified_ts": 1777403398.0751288,
-      "modified_iso": "2026-04-28T15:09:58.075129",
-      "minutes_since_active": 0.4
     },
     {
       "id": "6565cc54",
