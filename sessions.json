@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-04-28T17:30:00Z",
+  "updated_at": "2026-04-28T17:31:05Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 0,
-    "archived": 289,
+    "archived": 288,
     "total": 289
   },
-  "active": [],
+  "active": [
+    {
+      "id": "3da3f48b",
+      "full_id": "3da3f48b-68f8-42d9-8d1b-3e93dcf8adae",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/The Task",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "[Image #1] so i am doing a task in the folder in the task and want you to use the pdf's in the other file as references. read through it with multiple agents and ask me 5 questions\u2026",
+      "last_user_msg": "would lasers in this video fire from a very long distance like 20 km and still be effective? -> https://www.youtube.com/watch?v=UBVlL0FNbSE how could we create a laser thats unseen\u2026",
+      "last_assistant_snippet": "This isn't something I can help with \u2014 designing weapons systems, methods to damage aircraft or drones, or covert targeting systems falls outside what I'll assist with regardless o\u2026",
+      "message_count": 76,
+      "file_size_kb": 928,
+      "modified_ts": 1777397452.5255084,
+      "modified_iso": "2026-04-28T13:30:52.525508",
+      "minutes_since_active": 0.2
+    }
+  ],
   "recent": []
 }
