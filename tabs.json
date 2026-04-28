@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T17:59:18Z",
+  "updated_at": "2026-04-28T18:00:22Z",
   "total_tabs": 177,
   "total_windows": 4,
   "duplicate_tabs": 28,
@@ -34,12 +34,12 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 23,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "instagram.com",
@@ -127,17 +127,6 @@
       "top_domains": [
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
