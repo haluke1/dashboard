@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T17:23:31Z",
-  "total_tabs": 172,
+  "updated_at": "2026-04-28T17:24:36Z",
+  "total_tabs": 170,
   "total_windows": 5,
   "duplicate_tabs": 25,
   "bridge_online": true,
@@ -15,11 +15,11 @@
           "count": 7
         },
         {
-          "domain": "namecheap.com",
+          "domain": "keep.google.com",
           "count": 4
         },
         {
-          "domain": "keep.google.com",
+          "domain": "namecheap.com",
           "count": 4
         },
         {
@@ -33,19 +33,8 @@
       ]
     },
     {
-      "name": "video",
-      "count": 22,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 22
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 22,
+      "count": 21,
       "domain_count": 7,
       "top_domains": [
         {
@@ -53,12 +42,12 @@
           "count": 7
         },
         {
-          "domain": "reddit.com",
+          "domain": "instagram.com",
           "count": 5
         },
         {
-          "domain": "instagram.com",
-          "count": 5
+          "domain": "reddit.com",
+          "count": 4
         },
         {
           "domain": "x.com",
@@ -67,6 +56,17 @@
         {
           "domain": "facebook.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 21,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 21
         }
       ]
     },
