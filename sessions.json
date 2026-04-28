@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-28T19:06:03Z",
+  "updated_at": "2026-04-28T19:08:13Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 2,
     "archived": 288,
-    "total": 291
+    "total": 292
   },
   "active": [
+    {
+      "id": "31c8ff0e",
+      "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
+      "last_user_msg": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
+      "last_assistant_snippet": "Good \u2014 I have a solid picture of the company. Let me use sequential thinking to prioritize before writing the final output.",
+      "message_count": 24,
+      "file_size_kb": 141,
+      "modified_ts": 1777403268.42654,
+      "modified_iso": "2026-04-28T15:07:48.426540",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "b638446e",
       "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
@@ -18,10 +34,10 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
       "last_assistant_snippet": "Here's what I found \u2014 and the strategic direction this points to. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Boss.tech is attempting the \"WeChat for business\" model in\u2026",
       "message_count": 37,
-      "file_size_kb": 182,
-      "modified_ts": 1777403161.7039437,
-      "modified_iso": "2026-04-28T15:06:01.703944",
-      "minutes_since_active": 0.0
+      "file_size_kb": 184,
+      "modified_ts": 1777403163.763182,
+      "modified_iso": "2026-04-28T15:06:03.763182",
+      "minutes_since_active": 2.1
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 3698,
       "modified_ts": 1777402766.8348315,
       "modified_iso": "2026-04-28T14:59:26.834831",
-      "minutes_since_active": 6.6
+      "minutes_since_active": 8.8
     },
     {
       "id": "3da3f48b",
@@ -55,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 95.2
+      "minutes_since_active": 97.3
     }
   ]
 }
