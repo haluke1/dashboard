@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T17:53:53Z",
-  "total_tabs": 175,
+  "updated_at": "2026-04-28T17:54:58Z",
+  "total_tabs": 176,
   "total_windows": 4,
   "duplicate_tabs": 28,
   "bridge_online": true,
@@ -8,26 +8,26 @@
     {
       "name": "other",
       "count": 95,
-      "domain_count": 65,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 7
         },
         {
-          "domain": "keep.google.com",
-          "count": 5
-        },
-        {
           "domain": "elearning.villanova.edu",
           "count": 5
         },
         {
-          "domain": "o3xo.ai",
-          "count": 4
+          "domain": "keep.google.com",
+          "count": 5
         },
         {
           "domain": "namecheap.com",
+          "count": 4
+        },
+        {
+          "domain": "o3xo.ai",
           "count": 4
         }
       ]
@@ -57,11 +57,11 @@
           "count": 4
         },
         {
-          "domain": "openai.com",
+          "domain": "vercel.com",
           "count": 1
         },
         {
-          "domain": "vercel.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -88,7 +88,7 @@
           "count": 2
         },
         {
-          "domain": "optirix.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -127,6 +127,17 @@
       "top_domains": [
         {
           "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
