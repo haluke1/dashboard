@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-28T17:10:03Z",
+  "updated_at": "2026-04-28T17:11:38Z",
   "total_tabs": 188,
   "total_windows": 5,
-  "duplicate_tabs": 28,
+  "duplicate_tabs": 29,
   "bridge_online": true,
   "categories": [
     {
@@ -42,11 +42,11 @@
           "count": 10
         },
         {
-          "domain": "instagram.com",
+          "domain": "reddit.com",
           "count": 5
         },
         {
-          "domain": "reddit.com",
+          "domain": "instagram.com",
           "count": 5
         },
         {
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 24,
+      "count": 23,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 24
+          "count": 23
         }
       ]
     },
@@ -95,7 +95,7 @@
     },
     {
       "name": "productivity",
-      "count": 16,
+      "count": 17,
       "domain_count": 7,
       "top_domains": [
         {
@@ -104,7 +104,7 @@
         },
         {
           "domain": "notion.so",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "toolbox.googleapps.com",
