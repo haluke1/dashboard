@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T04:34:48Z",
-  "total_tabs": 194,
+  "updated_at": "2026-04-28T04:35:52Z",
+  "total_tabs": 195,
   "total_windows": 5,
   "duplicate_tabs": 33,
   "bridge_online": true,
@@ -121,23 +121,23 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3001",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 2
         }
       ]
