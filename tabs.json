@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-28T18:53:57Z",
-  "total_tabs": 189,
+  "updated_at": "2026-04-28T18:55:02Z",
+  "total_tabs": 184,
   "total_windows": 4,
   "duplicate_tabs": 29,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 98,
-      "domain_count": 68,
+      "count": 97,
+      "domain_count": 67,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,23 +23,23 @@
           "count": 5
         },
         {
-          "domain": "o3xo.ai",
+          "domain": "namecheap.com",
           "count": 4
         },
         {
-          "domain": "namecheap.com",
+          "domain": "o3xo.ai",
           "count": 4
         }
       ]
     },
     {
       "name": "social",
-      "count": 30,
-      "domain_count": 8,
+      "count": 26,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 13
+          "count": 11
         },
         {
           "domain": "instagram.com",
@@ -55,7 +55,7 @@
         },
         {
           "domain": "facebook.com",
-          "count": 2
+          "count": 1
         }
       ]
     },
@@ -84,11 +84,11 @@
           "count": 4
         },
         {
-          "domain": "openai.com",
+          "domain": "vercel.com",
           "count": 1
         },
         {
-          "domain": "vercel.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
