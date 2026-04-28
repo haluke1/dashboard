@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T17:58:14Z",
-  "total_tabs": 176,
+  "updated_at": "2026-04-28T17:59:18Z",
+  "total_tabs": 177,
   "total_windows": 4,
   "duplicate_tabs": 28,
   "bridge_online": true,
@@ -127,6 +127,17 @@
       "top_domains": [
         {
           "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
