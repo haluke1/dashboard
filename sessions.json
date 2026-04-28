@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T17:49:36Z",
+  "updated_at": "2026-04-28T17:50:41Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Creating the main index page first, then topic sub-pages with all verbatim content.",
-      "message_count": 225,
-      "file_size_kb": 1680,
-      "modified_ts": 1777398575.5231175,
-      "modified_iso": "2026-04-28T13:49:35.523118",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Need to strip the Notion metadata header from extracted content.",
+      "message_count": 243,
+      "file_size_kb": 1713,
+      "modified_ts": 1777398632.038957,
+      "modified_iso": "2026-04-28T13:50:32.038957",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 18.7
+      "minutes_since_active": 19.8
     }
   ]
 }
