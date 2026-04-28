@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T19:14:55Z",
+  "updated_at": "2026-04-28T19:16:05Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,38 @@
     "total": 292
   },
   "active": [
+    {
+      "id": "b638446e",
+      "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
+      "last_user_msg": "could you look at the structure of openclaw and give me a similar system we can build on claude, package and sell to businesses that would operate securely with best security featu\u2026",
+      "last_assistant_snippet": "Now running deep sequential thinking on the architecture design.",
+      "message_count": 71,
+      "file_size_kb": 278,
+      "modified_ts": 1777403745.4475205,
+      "modified_iso": "2026-04-28T15:15:45.447520",
+      "minutes_since_active": 0.3
+    },
+    {
+      "id": "6565cc54",
+      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
+      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
+      "last_assistant_snippet": "Good splits. Now reading all 24 split files in parallel.",
+      "message_count": 501,
+      "file_size_kb": 4193,
+      "modified_ts": 1777403726.419195,
+      "modified_iso": "2026-04-28T15:15:26.419195",
+      "minutes_since_active": 0.6
+    },
     {
       "id": "31c8ff0e",
       "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
@@ -21,39 +53,7 @@
       "file_size_kb": 185,
       "modified_ts": 1777403691.826456,
       "modified_iso": "2026-04-28T15:14:51.826456",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Now let me split all large files into ~38K chunks.",
-      "message_count": 484,
-      "file_size_kb": 3842,
-      "modified_ts": 1777403688.3874848,
-      "modified_iso": "2026-04-28T15:14:48.387485",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "b638446e",
-      "full_id": "b638446e-210b-4e5a-b7f2-84e1da9ca7d2",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this company and tell me how we can create a similar solution for sme's and how can we sell to them -> https://boss.tech/ ultrathink",
-      "last_user_msg": "could you look at the structure of openclaw and give me a similar system we can build on claude, package and sell to businesses that would operate securely with best security featu\u2026",
-      "last_assistant_snippet": "Now running deep sequential thinking on the architecture design.",
-      "message_count": 65,
-      "file_size_kb": 262,
-      "modified_ts": 1777403687.8302977,
-      "modified_iso": "2026-04-28T15:14:47.830298",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.2
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 104.0
+      "minutes_since_active": 105.2
     }
   ]
 }
