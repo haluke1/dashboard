@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-04-28T23:00:44Z",
-  "total_tabs": 318,
-  "total_windows": 5,
-  "duplicate_tabs": 45,
+  "updated_at": "2026-04-28T23:01:49Z",
+  "total_tabs": 187,
+  "total_windows": 4,
+  "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 227,
-      "domain_count": 78,
+      "count": 99,
+      "domain_count": 68,
       "top_domains": [
-        {
-          "domain": "rule34video.com",
-          "count": 108
-        },
-        {
-          "domain": "eporner.com",
-          "count": 8
-        },
         {
           "domain": "(no domain)",
           "count": 7
@@ -29,13 +21,21 @@
         {
           "domain": "elearning.villanova.edu",
           "count": 6
+        },
+        {
+          "domain": "o3xo.ai",
+          "count": 4
+        },
+        {
+          "domain": "namecheap.com",
+          "count": 4
         }
       ]
     },
     {
       "name": "social",
-      "count": 29,
-      "domain_count": 11,
+      "count": 25,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -54,19 +54,19 @@
           "count": 2
         },
         {
-          "domain": "abxxx.com",
+          "domain": "optirix.com",
           "count": 1
         }
       ]
     },
     {
       "name": "video",
-      "count": 24,
+      "count": 25,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 24
+          "count": 25
         }
       ]
     },
@@ -84,11 +84,11 @@
           "count": 5
         },
         {
-          "domain": "vercel.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "vercel.com",
           "count": 1
         }
       ]
