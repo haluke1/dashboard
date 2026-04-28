@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T17:57:10Z",
+  "updated_at": "2026-04-28T17:58:14Z",
   "total_tabs": 176,
   "total_windows": 4,
   "duplicate_tabs": 28,
@@ -29,6 +29,33 @@
         {
           "domain": "namecheap.com",
           "count": 4
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 22,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 8
+        },
+        {
+          "domain": "instagram.com",
+          "count": 5
+        },
+        {
+          "domain": "reddit.com",
+          "count": 4
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "optirix.com",
+          "count": 1
         }
       ]
     },
@@ -67,33 +94,6 @@
       ]
     },
     {
-      "name": "social",
-      "count": 21,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 7
-        },
-        {
-          "domain": "instagram.com",
-          "count": 5
-        },
-        {
-          "domain": "reddit.com",
-          "count": 4
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "optirix.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 15,
       "domain_count": 6,
@@ -127,17 +127,6 @@
       "top_domains": [
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
