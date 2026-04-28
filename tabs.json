@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T04:16:41Z",
-  "total_tabs": 193,
+  "updated_at": "2026-04-28T04:17:45Z",
+  "total_tabs": 191,
   "total_windows": 5,
   "duplicate_tabs": 31,
   "bridge_online": true,
@@ -27,19 +27,8 @@
           "count": 3
         },
         {
-          "domain": "ap.namecheap.com",
+          "domain": "vertexmovies.com",
           "count": 3
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 27,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 27
         }
       ]
     },
@@ -53,11 +42,11 @@
           "count": 9
         },
         {
-          "domain": "reddit.com",
+          "domain": "instagram.com",
           "count": 5
         },
         {
-          "domain": "instagram.com",
+          "domain": "reddit.com",
           "count": 5
         },
         {
@@ -65,8 +54,19 @@
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "facebook.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 25,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 25
         }
       ]
     },
@@ -111,11 +111,11 @@
           "count": 2
         },
         {
-          "domain": "docs.google.com",
+          "domain": "miro.com",
           "count": 1
         },
         {
-          "domain": "miro.com",
+          "domain": "account.docusign.com",
           "count": 1
         }
       ]
