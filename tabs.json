@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T05:40:52Z",
+  "updated_at": "2026-04-28T05:41:56Z",
   "total_tabs": 192,
   "total_windows": 5,
   "duplicate_tabs": 28,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 99,
-      "domain_count": 70,
+      "count": 98,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -29,6 +29,17 @@
         {
           "domain": "ap.namecheap.com",
           "count": 3
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 28,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 28
         }
       ]
     },
@@ -56,17 +67,6 @@
         {
           "domain": "facebook.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 27,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 27
         }
       ]
     },
