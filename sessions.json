@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T08:11:37Z",
+  "updated_at": "2026-04-29T08:12:40Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Verifying all 10 research files before launching synthesis agents.",
-      "message_count": 427,
-      "file_size_kb": 2631,
-      "modified_ts": 1777450275.3968441,
-      "modified_iso": "2026-04-29T04:11:15.396844",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "All 10 files confirmed. 5,866 lines of research across 310KB. Launching 5 synthesis agents now. **Synthesis plan before launching:** - Output: `/Users/halukgul/hyperframes-test/hyp\u2026",
+      "message_count": 431,
+      "file_size_kb": 2640,
+      "modified_ts": 1777450302.6586983,
+      "modified_iso": "2026-04-29T04:11:42.658698",
+      "minutes_since_active": 1.0
     },
     {
       "id": "6565cc54",
@@ -37,7 +37,7 @@
       "file_size_kb": 7803,
       "modified_ts": 1777450188.2176874,
       "modified_iso": "2026-04-29T04:09:48.217687",
-      "minutes_since_active": 1.8
+      "minutes_since_active": 2.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 768.0
+      "minutes_since_active": 769.1
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 880.7
+      "minutes_since_active": 881.8
     }
   ]
 }
