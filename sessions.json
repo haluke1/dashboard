@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-29T18:41:45Z",
+  "updated_at": "2026-04-29T18:42:38Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 289,
     "total": 292
   },
-  "active": [],
+  "active": [
+    {
+      "id": "6565cc54",
+      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
+      "last_user_msg": "open in webpage",
+      "last_assistant_snippet": "Opened the master index page in your browser.",
+      "message_count": 699,
+      "file_size_kb": 8141,
+      "modified_ts": 1777488156.1457176,
+      "modified_iso": "2026-04-29T14:42:36.145718",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "31c8ff0e",
@@ -22,23 +39,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 524.6
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "All pages created. Here's the complete summary: **Academic pages (Parts 6\u20138):** - Part 6 \u2014 `351932fb-ee9a-81d7-bce1-d8dd88a27a42` - Part 7 \u2014 `351932fb-ee9a-8120-aac4-d65a8414df34` \u2026",
-      "message_count": 694,
-      "file_size_kb": 8122,
-      "modified_ts": 1777451316.1789107,
-      "modified_iso": "2026-04-29T04:28:36.178911",
-      "minutes_since_active": 613.1
+      "minutes_since_active": 525.5
     },
     {
       "id": "b638446e",
@@ -54,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 1398.1
+      "minutes_since_active": 1399.0
     }
   ]
 }
