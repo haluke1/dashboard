@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T08:14:47Z",
+  "updated_at": "2026-04-29T08:15:58Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 292
   },
   "active": [
+    {
+      "id": "6565cc54",
+      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
+      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
+      "last_assistant_snippet": "All three Academic pages created. Now reading both Business files simultaneously.",
+      "message_count": 687,
+      "file_size_kb": 8008,
+      "modified_ts": 1777450512.9727516,
+      "modified_iso": "2026-04-29T04:15:12.972752",
+      "minutes_since_active": 0.8
+    },
     {
       "id": "31c8ff0e",
       "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
@@ -21,23 +37,7 @@
       "file_size_kb": 2702,
       "modified_ts": 1777450439.4675627,
       "modified_iso": "2026-04-29T04:13:59.467563",
-      "minutes_since_active": 0.8
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "All three files read. Creating Academic Parts 6, 7, and 8 simultaneously.",
-      "message_count": 680,
-      "file_size_kb": 7856,
-      "modified_ts": 1777450394.35824,
-      "modified_iso": "2026-04-29T04:13:14.358240",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 2.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 771.2
+      "minutes_since_active": 772.3
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 883.9
+      "minutes_since_active": 885.1
     }
   ]
 }
