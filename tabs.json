@@ -1,143 +1,17 @@
 {
-  "updated_at": "2026-04-29T06:58:24Z",
-  "total_tabs": 197,
-  "total_windows": 4,
-  "duplicate_tabs": 32,
+  "updated_at": "2026-04-29T06:59:32Z",
+  "total_tabs": 1,
+  "total_windows": 1,
+  "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 100,
-      "domain_count": 69,
+      "count": 1,
+      "domain_count": 1,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 7
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 6
-        },
-        {
-          "domain": "elearning.villanova.edu",
-          "count": 6
-        },
-        {
-          "domain": "namecheap.com",
-          "count": 4
-        },
-        {
-          "domain": "o3xo.ai",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 33,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 24,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 10
-        },
-        {
-          "domain": "instagram.com",
-          "count": 5
-        },
-        {
-          "domain": "reddit.com",
-          "count": 4
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 23,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 16
-        },
-        {
-          "domain": "github.com",
-          "count": 5
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
-        },
-        {
-          "domain": "openai.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 15,
-      "domain_count": 6,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 6
-        },
-        {
-          "domain": "notion.so",
-          "count": 4
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "miro.com",
-          "count": 1
-        },
-        {
-          "domain": "account.docusign.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
