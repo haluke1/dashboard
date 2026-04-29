@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T06:47:40Z",
+  "updated_at": "2026-04-29T06:48:44Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -15,12 +15,12 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
-      "last_user_msg": "its the hyperframes plugin. not higgsfield. 10 clip. pitch asset",
-      "last_assistant_snippet": "Good questions to nail before building. Four things to confirm: **1. Output format** \u2014 By \"hyperframes,\" do you mean the multi-clip Higgsfield pipeline at `~/hyperframes-test/` (st\u2026",
-      "message_count": 49,
-      "file_size_kb": 225,
-      "modified_ts": 1777445254.2523246,
-      "modified_iso": "2026-04-29T02:47:34.252325",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/higgsfield # Higgsfield - AI Video Generation Workflow ## Description Guide the user through Higgsfield AI video creat\u2026",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` Hyperframes is an HTML video composition tool (like Remotion but HTML-native) \u2014 it renders a GSAP-animated 1920\u00d71080 HTML page to \u2026",
+      "message_count": 75,
+      "file_size_kb": 312,
+      "modified_ts": 1777445320.6073868,
+      "modified_iso": "2026-04-29T02:48:40.607387",
       "minutes_since_active": 0.1
     },
     {
@@ -33,11 +33,11 @@
       "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
       "last_user_msg": "continue",
       "last_assistant_snippet": "API Error: Stream idle timeout - partial response received",
-      "message_count": 535,
-      "file_size_kb": 4748,
-      "modified_ts": 1777445028.9036295,
-      "modified_iso": "2026-04-29T02:43:48.903630",
-      "minutes_since_active": 3.9
+      "message_count": 538,
+      "file_size_kb": 4786,
+      "modified_ts": 1777445313.0386167,
+      "modified_iso": "2026-04-29T02:48:33.038617",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 684.0
+      "minutes_since_active": 685.1
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 796.8
+      "minutes_since_active": 797.9
     }
   ]
 }
