@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T01:26:30Z",
-  "total_tabs": 188,
+  "updated_at": "2026-04-29T01:27:34Z",
+  "total_tabs": 187,
   "total_windows": 4,
   "duplicate_tabs": 31,
   "bridge_online": true,
@@ -33,17 +33,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 26,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 26
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 25,
       "domain_count": 7,
@@ -67,6 +56,17 @@
         {
           "domain": "optirix.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 25,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 25
         }
       ]
     },
