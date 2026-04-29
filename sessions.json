@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T07:41:30Z",
+  "updated_at": "2026-04-29T07:42:07Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 292
   },
   "active": [
+    {
+      "id": "31c8ff0e",
+      "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
+      "status": "active",
+      "project": "/Users/halukgul/hyperframes-test/conceptkb-pitch",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
+      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
+      "last_assistant_snippet": "CSS is all there. Now I need to: 1. Add HTML elements 2. Replace the script with 20-animation version Let me find the cost-wrap div to add pulse rings:",
+      "message_count": 347,
+      "file_size_kb": 1909,
+      "modified_ts": 1777448523.5810542,
+      "modified_iso": "2026-04-29T03:42:03.581054",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -21,23 +37,7 @@
       "file_size_kb": 7125,
       "modified_ts": 1777448390.0420227,
       "modified_iso": "2026-04-29T03:39:50.042023",
-      "minutes_since_active": 1.7
-    },
-    {
-      "id": "31c8ff0e",
-      "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
-      "status": "active",
-      "project": "/Users/halukgul/hyperframes-test/conceptkb-pitch",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
-      "last_user_msg": "okey add the 20 animations this is the 3. time i am asking you add the upgrades and open the animation. stupid",
-      "last_assistant_snippet": "Now writing all 20 upgrades. No more explanations \u2014 code only.",
-      "message_count": 326,
-      "file_size_kb": 1690,
-      "modified_ts": 1777448253.2641852,
-      "modified_iso": "2026-04-29T03:37:33.264185",
-      "minutes_since_active": 3.9
+      "minutes_since_active": 2.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 737.9
+      "minutes_since_active": 738.5
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 850.6
+      "minutes_since_active": 851.2
     }
   ]
 }
