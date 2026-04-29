@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T07:33:20Z",
+  "updated_at": "2026-04-29T07:34:30Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -17,11 +17,11 @@
       "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
       "last_user_msg": "okey add the 20 animations this is the 3. time i am asking you add the upgrades and open the animation. stupid",
       "last_assistant_snippet": "**0 errors.** All 8 remaining are `composition_file_too_large` and one CDN script warning \u2014 both non-blocking, both require no action per the Hyperframes docs. --- Here's what was \u2026",
-      "message_count": 310,
-      "file_size_kb": 1563,
-      "modified_ts": 1777447940.8310103,
-      "modified_iso": "2026-04-29T03:32:20.831010",
-      "minutes_since_active": 1.0
+      "message_count": 322,
+      "file_size_kb": 1634,
+      "modified_ts": 1777448057.3260942,
+      "modified_iso": "2026-04-29T03:34:17.326094",
+      "minutes_since_active": 0.2
     },
     {
       "id": "6565cc54",
@@ -37,7 +37,7 @@
       "file_size_kb": 7124,
       "modified_ts": 1777447880.2868392,
       "modified_iso": "2026-04-29T03:31:20.286839",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 3.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 729.7
+      "minutes_since_active": 730.9
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 842.5
+      "minutes_since_active": 843.6
     }
   ]
 }
