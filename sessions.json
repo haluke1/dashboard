@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T23:18:29Z",
+  "updated_at": "2026-04-29T23:21:16Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Agents 5 and 6 still running. Waiting more.",
-      "message_count": 890,
-      "file_size_kb": 9611,
-      "modified_ts": 1777504636.15975,
-      "modified_iso": "2026-04-29T19:17:16.159750",
-      "minutes_since_active": 1.2
+      "last_assistant_snippet": "Both still generating output. Waiting more.",
+      "message_count": 897,
+      "file_size_kb": 9622,
+      "modified_ts": 1777504816.6517742,
+      "modified_iso": "2026-04-29T19:20:16.651774",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 801.3
+      "minutes_since_active": 804.1
     }
   ]
 }
