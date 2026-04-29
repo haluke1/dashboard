@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-29T01:27:34Z",
+  "updated_at": "2026-04-29T01:28:38Z",
   "total_tabs": 187,
   "total_windows": 4,
-  "duplicate_tabs": 31,
+  "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
@@ -23,18 +23,29 @@
           "count": 6
         },
         {
-          "domain": "o3xo.ai",
+          "domain": "namecheap.com",
           "count": 4
         },
         {
-          "domain": "namecheap.com",
+          "domain": "o3xo.ai",
           "count": 4
         }
       ]
     },
     {
+      "name": "video",
+      "count": 26,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 26
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 25,
+      "count": 24,
       "domain_count": 7,
       "top_domains": [
         {
@@ -43,7 +54,7 @@
         },
         {
           "domain": "instagram.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "reddit.com",
@@ -54,19 +65,8 @@
           "count": 2
         },
         {
-          "domain": "optirix.com",
+          "domain": "facebook.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 25,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 25
         }
       ]
     },
@@ -84,11 +84,11 @@
           "count": 5
         },
         {
-          "domain": "openai.com",
+          "domain": "vercel.com",
           "count": 1
         },
         {
-          "domain": "vercel.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
