@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-29T09:20:25Z",
+  "updated_at": "2026-04-29T09:21:29Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 288,
     "total": 292
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "31c8ff0e",
       "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/hyperframes-test/conceptkb-pitch",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
       "last_user_msg": "<task-notification> <task-id>a7a1fa072d3060728</task-id> <tool-use-id>toolu_012ejMgKQA4u23PZhTqLimAN</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/31c8ff0e-03b\u2026",
       "last_assistant_snippet": "Now spawning the PDF build agent with full context from all synthesis files.",
-      "message_count": 484,
-      "file_size_kb": 2870,
-      "modified_ts": 1777452628.4851575,
-      "modified_iso": "2026-04-29T04:50:28.485157",
-      "minutes_since_active": 29.9
-    },
+      "message_count": 488,
+      "file_size_kb": 2885,
+      "modified_ts": 1777454472.1154685,
+      "modified_iso": "2026-04-29T05:21:12.115469",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -38,7 +39,7 @@
       "file_size_kb": 8122,
       "modified_ts": 1777451316.1789107,
       "modified_iso": "2026-04-29T04:28:36.178911",
-      "minutes_since_active": 51.8
+      "minutes_since_active": 52.9
     },
     {
       "id": "b638446e",
@@ -54,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 836.8
+      "minutes_since_active": 837.9
     },
     {
       "id": "3da3f48b",
@@ -70,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 949.5
+      "minutes_since_active": 950.6
     }
   ]
 }
