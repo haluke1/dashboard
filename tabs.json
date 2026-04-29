@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-29T02:16:18Z",
-  "total_tabs": 206,
+  "updated_at": "2026-04-29T02:17:22Z",
+  "total_tabs": 205,
   "total_windows": 4,
   "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 103,
-      "domain_count": 71,
+      "count": 101,
+      "domain_count": 70,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 41,
+      "count": 42,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 41
+          "count": 42
         }
       ]
     },
