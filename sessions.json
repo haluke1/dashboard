@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T06:50:52Z",
+  "updated_at": "2026-04-29T06:51:57Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 292
   },
   "active": [
+    {
+      "id": "6565cc54",
+      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "p3 done. Creating p4 and p5 in parallel.",
+      "message_count": 541,
+      "file_size_kb": 4809,
+      "modified_ts": 1777445474.9087176,
+      "modified_iso": "2026-04-29T02:51:14.908718",
+      "minutes_since_active": 0.7
+    },
     {
       "id": "31c8ff0e",
       "full_id": "31c8ff0e-03bc-483e-acd6-c4f0a5484362",
@@ -21,23 +37,7 @@
       "file_size_kb": 331,
       "modified_ts": 1777445341.9593184,
       "modified_iso": "2026-04-29T02:49:01.959318",
-      "minutes_since_active": 1.8
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "API Error: Stream idle timeout - partial response received",
-      "message_count": 538,
-      "file_size_kb": 4786,
-      "modified_ts": 1777445313.0386167,
-      "modified_iso": "2026-04-29T02:48:33.038617",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 687.3
+      "minutes_since_active": 688.3
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 800.0
+      "minutes_since_active": 801.1
     }
   ]
 }
