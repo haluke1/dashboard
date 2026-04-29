@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T06:48:44Z",
+  "updated_at": "2026-04-29T06:49:48Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "analyze this company that i will be working in and give me 10 highest roi potential automations or things i can setup for them ultrathink in advance like automated proposal generat\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/higgsfield # Higgsfield - AI Video Generation Workflow ## Description Guide the user through Higgsfield AI video creat\u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` Hyperframes is an HTML video composition tool (like Remotion but HTML-native) \u2014 it renders a GSAP-animated 1920\u00d71080 HTML page to \u2026",
-      "message_count": 75,
-      "file_size_kb": 312,
-      "modified_ts": 1777445320.6073868,
-      "modified_iso": "2026-04-29T02:48:40.607387",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "The Higgsfield skill loaded instead \u2014 the hyperframes skill lives in the npm package. Let me read it directly.",
+      "message_count": 87,
+      "file_size_kb": 331,
+      "modified_ts": 1777445341.9593184,
+      "modified_iso": "2026-04-29T02:49:01.959318",
+      "minutes_since_active": 0.8
     },
     {
       "id": "6565cc54",
@@ -37,7 +37,7 @@
       "file_size_kb": 4786,
       "modified_ts": 1777445313.0386167,
       "modified_iso": "2026-04-29T02:48:33.038617",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 580,
       "modified_ts": 1777404216.4839528,
       "modified_iso": "2026-04-28T15:23:36.483953",
-      "minutes_since_active": 685.1
+      "minutes_since_active": 686.2
     },
     {
       "id": "3da3f48b",
@@ -71,7 +71,7 @@
       "file_size_kb": 928,
       "modified_ts": 1777397452.5255084,
       "modified_iso": "2026-04-28T13:30:52.525508",
-      "minutes_since_active": 797.9
+      "minutes_since_active": 798.9
     }
   ]
 }
