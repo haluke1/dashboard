@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T01:55:35Z",
+  "updated_at": "2026-04-30T01:56:46Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,11 +16,11 @@
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
       "last_user_msg": "okey lets do these",
-      "last_assistant_snippet": "Got all the data I need. Here's the full picture: --- ## What the research found **The good news:** Claude.ai + Cowork absolutely supports custom self-hosted MCPs \u2014 no allowlist, n\u2026",
-      "message_count": 739,
-      "file_size_kb": 3505,
-      "modified_ts": 1777514133.5782034,
-      "modified_iso": "2026-04-29T21:55:33.578203",
+      "last_assistant_snippet": "Good \u2014 `streamable_http_app()` exists, `json_response` and `host` are constructor args, and DNS rebinding protection auto-disables when `host != \"127.0.0.1\"`. Now I have everything\u2026",
+      "message_count": 752,
+      "file_size_kb": 3545,
+      "modified_ts": 1777514203.215903,
+      "modified_iso": "2026-04-29T21:56:43.215903",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 95.9
+      "minutes_since_active": 97.1
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 958.4
+      "minutes_since_active": 959.6
     }
   ]
 }
