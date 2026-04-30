@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T09:10:21Z",
+  "updated_at": "2026-04-30T09:11:29Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "The downloaded folder for this task is Notion Export.zip / # MASTER PROMPT: Knowledge Unit System \u2014 Notion Export Processing v2 ## MISSION Process an 854MB Notion export into a **c\u2026",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Dashboard updated to 26 units. Now while Agent 05 finishes, let me do the most valuable remaining work: read the \"Enlightened One\" (39KB) Haluk file that wasn't fully processed, to\u2026",
-      "message_count": 371,
-      "file_size_kb": 1350,
-      "modified_ts": 1777540219.0249145,
-      "modified_iso": "2026-04-30T05:10:19.024915",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Creating 4 wiki pages for Agent 05 results:",
+      "message_count": 388,
+      "file_size_kb": 1405,
+      "modified_ts": 1777540284.0208087,
+      "modified_iso": "2026-04-30T05:11:24.020809",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 41.8
+      "minutes_since_active": 42.9
     },
     {
       "id": "98b7441c",
@@ -55,7 +55,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 51.8
+      "minutes_since_active": 52.9
     },
     {
       "id": "246e7143",
@@ -71,7 +71,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 52.2
+      "minutes_since_active": 53.4
     },
     {
       "id": "6565cc54",
@@ -87,7 +87,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 96.4
+      "minutes_since_active": 97.5
     },
     {
       "id": "1da8b68f",
@@ -103,7 +103,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 105.5
+      "minutes_since_active": 106.6
     },
     {
       "id": "6f8e3f27",
@@ -119,7 +119,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 243.5
+      "minutes_since_active": 244.7
     },
     {
       "id": "57069057",
@@ -135,7 +135,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 266.5
+      "minutes_since_active": 267.7
     },
     {
       "id": "31c8ff0e",
@@ -151,7 +151,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1393.2
+      "minutes_since_active": 1394.3
     }
   ]
 }
