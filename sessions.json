@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-30T07:32:36Z",
+  "updated_at": "2026-04-30T07:35:16Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 1,
+    "recent": 5,
     "archived": 290,
     "total": 296
   },
@@ -18,15 +18,17 @@
       "last_user_msg": "<task-notification> <task-id>ac0ecd83e25ae4b60</task-id> <tool-use-id>toolu_01V4MCmkjrwjuEshVuazNCPC</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/6565cc54-4e9\u2026",
       "last_assistant_snippet": "6/6 deleted and confirmed. Your Notion is now clean \u2014 only your true originals remain. Do the bulk export now: **Settings \u2192 Export \u2192 Export all workspace content \u2192 Markdown & CSV**\u2026",
       "message_count": 1176,
-      "file_size_kb": 14432,
-      "modified_ts": 1777534253.1029572,
-      "modified_iso": "2026-04-30T03:30:53.102957",
-      "minutes_since_active": 1.7
-    },
+      "file_size_kb": 14433,
+      "modified_ts": 1777534436.4851677,
+      "modified_iso": "2026-04-30T03:33:56.485168",
+      "minutes_since_active": 1.3
+    }
+  ],
+  "recent": [
     {
       "id": "dd210660",
       "full_id": "dd210660-360b-420f-9c2f-797cf2ad4c14",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 95,
       "modified_ts": 1777534167.8812625,
       "modified_iso": "2026-04-30T03:29:27.881263",
-      "minutes_since_active": 3.1
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.8
+    },
     {
       "id": "1da8b68f",
       "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
@@ -55,7 +55,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 7.7
+      "minutes_since_active": 10.3
     },
     {
       "id": "6f8e3f27",
@@ -71,7 +71,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 145.8
+      "minutes_since_active": 148.4
     },
     {
       "id": "57069057",
@@ -87,7 +87,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 168.8
+      "minutes_since_active": 171.5
     },
     {
       "id": "31c8ff0e",
@@ -103,7 +103,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1295.4
+      "minutes_since_active": 1298.0
     }
   ]
 }
