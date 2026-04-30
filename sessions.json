@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T00:16:44Z",
+  "updated_at": "2026-04-30T00:17:20Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 293
   },
   "active": [
+    {
+      "id": "57069057",
+      "full_id": "57069057-34e9-4096-a16c-106494330f36",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
+      "last_user_msg": "what the fuck are you looking for stupidass? what the fuck are you doing?",
+      "last_assistant_snippet": "You're logged in to Higgsfield in Arc. I just need your `__client` cookie and Clerk session ID to configure the unlimited MCP. Fastest way \u2014 run this one line in Arc's DevTools con\u2026",
+      "message_count": 148,
+      "file_size_kb": 836,
+      "modified_ts": 1777508231.4078834,
+      "modified_iso": "2026-04-29T20:17:11.407883",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -21,23 +37,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508196.8603132,
       "modified_iso": "2026-04-29T20:16:36.860313",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "57069057",
-      "full_id": "57069057-34e9-4096-a16c-106494330f36",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "[halukgul09@gmail.com](mailto:halukgul09@gmail.com) / Nikolatesla8! is login. ask me about these things",
-      "last_assistant_snippet": "Already logged in to Higgsfield in Arc \u2014 928 credits confirmed. Now extracting the Clerk cookie from Arc's cookie database.",
-      "message_count": 143,
-      "file_size_kb": 810,
-      "modified_ts": 1777508177.555278,
-      "modified_iso": "2026-04-29T20:16:17.555278",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 859.6
+      "minutes_since_active": 860.2
     }
   ]
 }
