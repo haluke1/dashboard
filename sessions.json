@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T19:03:17Z",
+  "updated_at": "2026-04-30T19:03:30Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -18,10 +18,10 @@
       "last_user_msg": "can you analyze this company and give me top 10 improvement points -> https://conceptkb.com/",
       "last_assistant_snippet": "Here's the analysis \u2014 purely from public-facing observation, no scanning: --- ## Concept Kitchen & Bath \u2014 Top 10 Improvement Points **SEO / Discoverability** 1. **Missing meta titl\u2026",
       "message_count": 23,
-      "file_size_kb": 181,
-      "modified_ts": 1777575793.7150285,
-      "modified_iso": "2026-04-30T15:03:13.715029",
-      "minutes_since_active": 0.0
+      "file_size_kb": 182,
+      "modified_ts": 1777575797.6840255,
+      "modified_iso": "2026-04-30T15:03:17.684026",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1556,
       "modified_ts": 1777540743.8924894,
       "modified_iso": "2026-04-30T05:19:03.892489",
-      "minutes_since_active": 584.2
+      "minutes_since_active": 584.4
     },
     {
       "id": "dd210660",
@@ -55,7 +55,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 634.7
+      "minutes_since_active": 635.0
     },
     {
       "id": "98b7441c",
@@ -71,7 +71,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 644.7
+      "minutes_since_active": 644.9
     },
     {
       "id": "246e7143",
@@ -87,7 +87,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 645.2
+      "minutes_since_active": 645.4
     },
     {
       "id": "6565cc54",
@@ -103,7 +103,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 689.3
+      "minutes_since_active": 689.6
     },
     {
       "id": "1da8b68f",
@@ -119,7 +119,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 698.4
+      "minutes_since_active": 698.6
     },
     {
       "id": "57069057",
@@ -135,7 +135,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 859.5
+      "minutes_since_active": 859.7
     }
   ]
 }
