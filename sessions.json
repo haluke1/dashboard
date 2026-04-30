@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-30T08:23:21Z",
+  "updated_at": "2026-04-30T08:24:18Z",
   "counts": {
-    "active": 2,
-    "recent": 6,
+    "active": 1,
+    "recent": 7,
     "archived": 290,
     "total": 298
   },
@@ -16,17 +16,19 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "context window check",
       "last_user_msg": "improve upon this one instead of simplifying it too much. i want an advanced version of this with 0-10 as cutoff -> | # | Dimension | Weight | What to look for | |---|---|---|---| \u2026",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The 0-10 integer scale forces faster scoring \u2014 no decimal math, no overthinking. The key design insight from CASS/CNES is that Hal\u2026",
-      "message_count": 65,
-      "file_size_kb": 331,
-      "modified_ts": 1777537346.9359162,
-      "modified_iso": "2026-04-30T04:22:26.935916",
-      "minutes_since_active": 0.9
-    },
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` Advisor flag: L2 (Strategist) should lead at 0.40 \u2014 O-1A reviewers read positioning, not epistemics. Also: \"lowest lens score caps\u2026",
+      "message_count": 67,
+      "file_size_kb": 356,
+      "modified_ts": 1777537455.2994928,
+      "modified_iso": "2026-04-30T04:24:15.299493",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "98b7441c",
       "full_id": "98b7441c-aa5e-47f8-b7a3-52abb72d4864",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.7
+    },
     {
       "id": "246e7143",
       "full_id": "246e7143-19ad-4b55-9f76-2a16347c70a9",
@@ -55,7 +55,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 5.2
+      "minutes_since_active": 6.2
     },
     {
       "id": "6565cc54",
@@ -71,7 +71,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 49.4
+      "minutes_since_active": 50.4
     },
     {
       "id": "1da8b68f",
@@ -87,7 +87,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 58.5
+      "minutes_since_active": 59.5
     },
     {
       "id": "6f8e3f27",
@@ -103,7 +103,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 196.5
+      "minutes_since_active": 197.5
     },
     {
       "id": "57069057",
@@ -119,7 +119,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 219.6
+      "minutes_since_active": 220.5
     },
     {
       "id": "31c8ff0e",
@@ -135,7 +135,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1346.1
+      "minutes_since_active": 1347.2
     }
   ]
 }
