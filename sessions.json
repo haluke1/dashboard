@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-04-30T19:02:22Z",
+  "updated_at": "2026-04-30T19:03:17Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 291,
     "total": 299
   },
-  "active": [],
+  "active": [
+    {
+      "id": "6f8e3f27",
+      "full_id": "6f8e3f27-e4ce-4d02-bd50-1d3fedaa9eda",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could we run kali linux through claude and find zero day vulnerabilities and security problems for a business without legally being in trouble? maybe we could highlight and white h\u2026",
+      "last_user_msg": "can you analyze this company and give me top 10 improvement points -> https://conceptkb.com/",
+      "last_assistant_snippet": "Here's the analysis \u2014 purely from public-facing observation, no scanning: --- ## Concept Kitchen & Bath \u2014 Top 10 Improvement Points **SEO / Discoverability** 1. **Missing meta titl\u2026",
+      "message_count": 23,
+      "file_size_kb": 181,
+      "modified_ts": 1777575793.7150285,
+      "modified_iso": "2026-04-30T15:03:13.715029",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "b7b919f7",
@@ -22,7 +39,7 @@
       "file_size_kb": 1556,
       "modified_ts": 1777540743.8924894,
       "modified_iso": "2026-04-30T05:19:03.892489",
-      "minutes_since_active": 583.3
+      "minutes_since_active": 584.2
     },
     {
       "id": "dd210660",
@@ -38,7 +55,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 633.8
+      "minutes_since_active": 634.7
     },
     {
       "id": "98b7441c",
@@ -54,7 +71,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 643.8
+      "minutes_since_active": 644.7
     },
     {
       "id": "246e7143",
@@ -70,7 +87,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 644.3
+      "minutes_since_active": 645.2
     },
     {
       "id": "6565cc54",
@@ -86,7 +103,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 688.4
+      "minutes_since_active": 689.3
     },
     {
       "id": "1da8b68f",
@@ -102,23 +119,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 697.5
-    },
-    {
-      "id": "6f8e3f27",
-      "full_id": "6f8e3f27-e4ce-4d02-bd50-1d3fedaa9eda",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we run kali linux through claude and find zero day vulnerabilities and security problems for a business without legally being in trouble? maybe we could highlight and white h\u2026",
-      "last_user_msg": "what else could we do and how can we approach this to show them some things they could have problems with",
-      "last_assistant_snippet": "Without authorization, nothing. **With authorization, here's a practical small-business approach:** **1. Passive recon (no authorization needed \u2014 public data only)** - Shodan.io \u2014 \u2026",
-      "message_count": 12,
-      "file_size_kb": 135,
-      "modified_ts": 1777525607.237737,
-      "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 835.6
+      "minutes_since_active": 698.4
     },
     {
       "id": "57069057",
@@ -134,7 +135,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 858.6
+      "minutes_since_active": 859.5
     }
   ]
 }
