@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T01:57:53Z",
+  "updated_at": "2026-04-30T01:59:07Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,11 +16,11 @@
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
       "last_user_msg": "okey lets do these",
-      "last_assistant_snippet": "cloudflared already installed. Now let's verify the HTTP server actually boots:",
-      "message_count": 768,
-      "file_size_kb": 3577,
-      "modified_ts": 1777514270.5050707,
-      "modified_iso": "2026-04-29T21:57:50.505071",
+      "last_assistant_snippet": "CORS is working (200 OK, correct headers). The errors are harmless \u2014 `ClosedResourceError` is just curl disconnecting before the SSE stream finishes, and the `ConfigError` is proba\u2026",
+      "message_count": 779,
+      "file_size_kb": 3621,
+      "modified_ts": 1777514340.2417338,
+      "modified_iso": "2026-04-29T21:59:00.241734",
       "minutes_since_active": 0.1
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 98.2
+      "minutes_since_active": 99.4
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 960.7
+      "minutes_since_active": 961.9
     }
   ]
 }
