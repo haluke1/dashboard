@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T00:27:06Z",
+  "updated_at": "2026-04-30T00:28:24Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Yes \u2014 hit \"Relaunch to update\" at the bottom left. That restarts Claude Code and loads the new MCP.",
       "message_count": 201,
       "file_size_kb": 1492,
-      "modified_ts": 1777508823.370108,
-      "modified_iso": "2026-04-29T20:27:03.370108",
-      "minutes_since_active": 0.0
+      "modified_ts": 1777508827.1479049,
+      "modified_iso": "2026-04-29T20:27:07.147905",
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 7.4
+      "minutes_since_active": 8.7
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 870.0
+      "minutes_since_active": 871.2
     }
   ]
 }
