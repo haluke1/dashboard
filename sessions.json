@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T07:26:20Z",
+  "updated_at": "2026-04-30T07:27:01Z",
   "counts": {
     "active": 3,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 296
   },
   "active": [
+    {
+      "id": "6565cc54",
+      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_t3tOvV/Screenshot 2026-04-30 at 03.26.04.png] [Image: source: /var/folders/9l/\u2026",
+      "last_assistant_snippet": "These are two genuinely different pages \u2014 different IDs, different content: | | Title | ID | Status | |---|---|---|---| | \ud83d\udcd3 | `Journal: He Has Risen` | `350932fbee9a81f4a90ece3b894\u2026",
+      "message_count": 1153,
+      "file_size_kb": 14217,
+      "modified_ts": 1777534019.2583826,
+      "modified_iso": "2026-04-30T03:26:59.258383",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "dd210660",
       "full_id": "dd210660-360b-420f-9c2f-797cf2ad4c14",
@@ -18,26 +34,10 @@
       "last_user_msg": "we are still at 24% in the beginning. analyze what is the reason for this",
       "last_assistant_snippet": "Here's the breakdown: **The 24% comes from 4 categories stacking:** | Category | Est. Tokens | Notes | |---|---|---| | Rules files (10 files) | ~12,000 | Loaded inline every sessio\u2026",
       "message_count": 15,
-      "file_size_kb": 92,
-      "modified_ts": 1777533965.6273723,
-      "modified_iso": "2026-04-30T03:26:05.627372",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_iXQuJj/Screenshot 2026-04-30 at 03.24.33.png]",
-      "last_assistant_snippet": "Those are not duplicates \u2014 those are your **original source pages** that were there before this session started. They were never touched. What you're seeing in Recents: - `Personal\u2026",
-      "message_count": 1149,
-      "file_size_kb": 14158,
-      "modified_ts": 1777533910.1864088,
-      "modified_iso": "2026-04-30T03:25:10.186409",
-      "minutes_since_active": 1.2
+      "file_size_kb": 94,
+      "modified_ts": 1777533981.124844,
+      "modified_iso": "2026-04-30T03:26:21.124844",
+      "minutes_since_active": 0.7
     },
     {
       "id": "1da8b68f",
@@ -53,7 +53,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 2.2
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 139.5
+      "minutes_since_active": 140.2
     },
     {
       "id": "57069057",
@@ -87,7 +87,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 162.5
+      "minutes_since_active": 163.2
     },
     {
       "id": "31c8ff0e",
@@ -103,7 +103,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1289.1
+      "minutes_since_active": 1289.9
     }
   ]
 }
