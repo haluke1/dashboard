@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T02:21:35Z",
+  "updated_at": "2026-04-30T02:21:55Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,11 +16,11 @@
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
       "last_user_msg": "will that local mcp server be always on that destination and can we lock that in",
-      "last_assistant_snippet": "Almost \u2014 two quick fixes before clicking Add route: 1. **Path field** \u2014 clear it completely (delete \"HTTP\", leave it blank to match all paths) 2. **Service URL** \u2014 change to `http:\u2026",
-      "message_count": 850,
-      "file_size_kb": 5115,
-      "modified_ts": 1777515691.2879431,
-      "modified_iso": "2026-04-29T22:21:31.287943",
+      "last_assistant_snippet": "Yes \u2014 and it already is. Here's why it's locked in: **Port 8765 is hardcoded in three places that all agree:** - `higgs-mcp-start.sh` \u2192 `PORT=8765` - Cloudflare route \u2192 `localhost:\u2026",
+      "message_count": 852,
+      "file_size_kb": 5122,
+      "modified_ts": 1777515711.9580305,
+      "modified_iso": "2026-04-29T22:21:51.958030",
       "minutes_since_active": 0.1
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 121.9
+      "minutes_since_active": 122.2
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 984.4
+      "minutes_since_active": 984.8
     }
   ]
 }
