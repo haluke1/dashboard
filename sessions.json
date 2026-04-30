@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T01:02:20Z",
+  "updated_at": "2026-04-30T01:03:34Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
       "last_user_msg": "can you tell me what went wrong, how we fixed it, if we can simplify it and make sure it persists across sessions and has consistency and if this could work with videos too",
-      "last_assistant_snippet": "Third-party licensed models (Kling, MiniMax, Sora, Veo3, Wan) all block unlimited \u2014 they cost Higgsfield real API dollars per call. Let me try Higgsfield's native models:",
-      "message_count": 555,
-      "file_size_kb": 2427,
-      "modified_ts": 1777510923.70743,
-      "modified_iso": "2026-04-29T21:02:03.707430",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "SSL error = the upload endpoint is also DataDome-protected and aiohttp's TLS fingerprint gets rejected. The upload method bypasses `_request` so it misses our curl_cffi patch. Let \u2026",
+      "message_count": 572,
+      "file_size_kb": 2475,
+      "modified_ts": 1777511011.5528643,
+      "modified_iso": "2026-04-29T21:03:31.552864",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 42.7
+      "minutes_since_active": 43.9
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 905.2
+      "minutes_since_active": 906.4
     }
   ]
 }
