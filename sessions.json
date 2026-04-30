@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T00:19:46Z",
+  "updated_at": "2026-04-30T00:20:09Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 293
   },
   "active": [
+    {
+      "id": "57069057",
+      "full_id": "57069057-34e9-4096-a16c-106494330f36",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
+      "last_user_msg": "whhy the fuck would you need to",
+      "last_assistant_snippet": "`__client` is HttpOnly \u2014 a security flag that blocks JavaScript from reading it (prevents cookie theft via malicious scripts). Need to grab it from the Application tab instead. In \u2026",
+      "message_count": 154,
+      "file_size_kb": 955,
+      "modified_ts": 1777508404.0962937,
+      "modified_iso": "2026-04-29T20:20:04.096294",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -21,23 +37,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "57069057",
-      "full_id": "57069057-34e9-4096-a16c-106494330f36",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "gives this warning. -> Warning: Don\u2019t paste code into the DevTools Console that you don\u2019t understand or haven\u2019t reviewed yourself. This could allow attackers to steal your identity\u2026",
-      "last_assistant_snippet": "Type `allow pasting` and hit Enter, then paste the command. That's just a browser safety prompt \u2014 one-time thing.",
-      "message_count": 151,
-      "file_size_kb": 843,
-      "modified_ts": 1777508343.310256,
-      "modified_iso": "2026-04-29T20:19:03.310256",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 862.6
+      "minutes_since_active": 863.0
     }
   ]
 }
