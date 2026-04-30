@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T07:21:44Z",
+  "updated_at": "2026-04-30T07:22:14Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 295
   },
   "active": [
+    {
+      "id": "1da8b68f",
+      "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how is the current context window start % and what is occupying it by %?",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "All done \u2014 done silently in the background, tab closed. **Summary:** - Calendly, PostHog, Uber Eats disconnected from claude.ai integrations - Rube removed from `.claude.json` - Pa\u2026",
+      "message_count": 114,
+      "file_size_kb": 428,
+      "modified_ts": 1777533731.3727431,
+      "modified_iso": "2026-04-30T03:22:11.372743",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -18,26 +34,10 @@
       "last_user_msg": "<task-notification> <task-id>a50439e1ff8a2e1d5</task-id> <tool-use-id>toolu_016cjn9eoY6ghDfC9zHxfw7v</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/6565cc54-4e9\u2026",
       "last_assistant_snippet": "**8/8 deleted.** All consolidated pages are in Notion's trash (recoverable for 30 days if you change your mind). **You're ready to export.** Go to: Notion \u2192 Settings \u2192 Export \u2192 Exp\u2026",
       "message_count": 1145,
-      "file_size_kb": 13997,
-      "modified_ts": 1777533701.0739958,
-      "modified_iso": "2026-04-30T03:21:41.073996",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "1da8b68f",
-      "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how is the current context window start % and what is occupying it by %?",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "All three done. Now closing the tab:",
-      "message_count": 104,
-      "file_size_kb": 409,
-      "modified_ts": 1777533700.637743,
-      "modified_iso": "2026-04-30T03:21:40.637743",
-      "minutes_since_active": 0.0
+      "file_size_kb": 13999,
+      "modified_ts": 1777533705.075574,
+      "modified_iso": "2026-04-30T03:21:45.075574",
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 134.9
+      "minutes_since_active": 135.4
     },
     {
       "id": "57069057",
@@ -71,7 +71,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 157.9
+      "minutes_since_active": 158.4
     },
     {
       "id": "31c8ff0e",
@@ -87,7 +87,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1284.6
+      "minutes_since_active": 1285.1
     }
   ]
 }
