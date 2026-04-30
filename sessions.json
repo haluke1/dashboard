@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T07:11:40Z",
+  "updated_at": "2026-04-30T07:11:56Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 295
   },
   "active": [
+    {
+      "id": "1da8b68f",
+      "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how is the current context window start % and what is occupying it by %?",
+      "last_user_msg": "can we load them later on if we want instead of launching them at the start?",
+      "last_assistant_snippet": "Yes \u2014 MCP servers can be connected/disconnected on demand via Claude Code settings. They don't need to be always-on. The workflow would be: 1. **Disconnect** rarely-used servers fr\u2026",
+      "message_count": 9,
+      "file_size_kb": 214,
+      "modified_ts": 1777533114.6739728,
+      "modified_iso": "2026-04-30T03:11:54.673973",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "6565cc54",
       "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
@@ -18,25 +34,9 @@
       "last_user_msg": "<task-notification> <task-id>ad7ed092506b196f9</task-id> <tool-use-id>toolu_01J18yENw2t4iAb1T2MyhNZR</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/6565cc54-4e9\u2026",
       "last_assistant_snippet": "**22/22 deleted. All split Part X pages are in Notion's trash.** The deletion agent found the MCP had no archive endpoint, so it went around it \u2014 used Notion's internal API (`/api/\u2026",
       "message_count": 1117,
-      "file_size_kb": 13902,
-      "modified_ts": 1777533097.7880104,
-      "modified_iso": "2026-04-30T03:11:37.788010",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "1da8b68f",
-      "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how is the current context window start % and what is occupying it by %?",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_wHU0SG/Screenshot 2026-04-30 at 03.10.42.png]",
-      "last_assistant_snippet": "27% before any real work is a baseline bloat problem. You're still well within range (60% = /compact, 70% = warn), but that's 27% of every session gone to system overhead. **The cu\u2026",
-      "message_count": 7,
-      "file_size_kb": 211,
-      "modified_ts": 1777533080.432159,
-      "modified_iso": "2026-04-30T03:11:20.432159",
+      "file_size_kb": 13904,
+      "modified_ts": 1777533100.6238992,
+      "modified_iso": "2026-04-30T03:11:40.623899",
       "minutes_since_active": 0.3
     }
   ],
@@ -55,7 +55,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 124.9
+      "minutes_since_active": 125.1
     },
     {
       "id": "57069057",
@@ -71,7 +71,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 147.9
+      "minutes_since_active": 148.1
     },
     {
       "id": "31c8ff0e",
@@ -87,7 +87,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1274.5
+      "minutes_since_active": 1274.8
     }
   ]
 }
