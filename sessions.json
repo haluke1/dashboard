@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T02:20:23Z",
+  "updated_at": "2026-04-30T02:21:25Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "[Image: original 2880x1562, displayed at 2000x1085. Multiply coordinates by 1.44 to map to original image.]",
-      "last_assistant_snippet": "Tunnel is **Healthy** and connected \u2014 perfect. The only missing piece is Routes = 0. Click **\"+ Add route\"** in that Routes section, then configure: | Field | Value | |---|---| | *\u2026",
-      "message_count": 846,
-      "file_size_kb": 4775,
-      "modified_ts": 1777515600.6912062,
-      "modified_iso": "2026-04-29T22:20:00.691206",
-      "minutes_since_active": 0.4
+      "last_user_msg": "like this?",
+      "last_assistant_snippet": "Almost \u2014 two quick fixes before clicking Add route: 1. **Path field** \u2014 clear it completely (delete \"HTTP\", leave it blank to match all paths) 2. **Service URL** \u2014 change to `http:\u2026",
+      "message_count": 849,
+      "file_size_kb": 5113,
+      "modified_ts": 1777515682.0509195,
+      "modified_iso": "2026-04-29T22:21:22.050920",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 120.7
+      "minutes_since_active": 121.7
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 983.2
+      "minutes_since_active": 984.3
     }
   ]
 }
