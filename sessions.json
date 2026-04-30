@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-04-30T07:24:59Z",
+  "updated_at": "2026-04-30T07:25:09Z",
   "counts": {
-    "active": 2,
+    "active": 3,
     "recent": 3,
     "archived": 290,
-    "total": 295
+    "total": 296
   },
   "active": [
+    {
+      "id": "dd210660",
+      "full_id": "dd210660-360b-420f-9c2f-797cf2ad4c14",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "context window check",
+      "last_user_msg": "context window check",
+      "last_assistant_snippet": "Context is at roughly **15-20%** based on the current conversation length. Well within safe operating range \u2014 no action needed until 60%.",
+      "message_count": 5,
+      "file_size_kb": 70,
+      "modified_ts": 1777533908.3921144,
+      "modified_iso": "2026-04-30T03:25:08.392114",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "6565cc54",
+      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_iXQuJj/Screenshot 2026-04-30 at 03.24.33.png]",
+      "last_assistant_snippet": "Those are not duplicates \u2014 those are your **original source pages** that were there before this session started. They were never touched. What you're seeing in Recents: - `Personal\u2026",
+      "message_count": 1149,
+      "file_size_kb": 14156,
+      "modified_ts": 1777533906.7585044,
+      "modified_iso": "2026-04-30T03:25:06.758504",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "1da8b68f",
       "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
@@ -21,22 +53,6 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_iXQuJj/Screenshot 2026-04-30 at 03.24.33.png]",
-      "last_assistant_snippet": "**8/8 deleted.** All consolidated pages are in Notion's trash (recoverable for 30 days if you change your mind). **You're ready to export.** Go to: Notion \u2192 Settings \u2192 Export \u2192 Exp\u2026",
-      "message_count": 1147,
-      "file_size_kb": 14149,
-      "modified_ts": 1777533882.24661,
-      "modified_iso": "2026-04-30T03:24:42.246610",
       "minutes_since_active": 0.3
     }
   ],
@@ -55,7 +71,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 138.2
+      "minutes_since_active": 138.4
     },
     {
       "id": "57069057",
@@ -71,7 +87,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 161.2
+      "minutes_since_active": 161.4
     },
     {
       "id": "31c8ff0e",
@@ -87,7 +103,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1287.8
+      "minutes_since_active": 1288.0
     }
   ]
 }
