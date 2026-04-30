@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T01:11:17Z",
+  "updated_at": "2026-04-30T01:12:25Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
       "last_user_msg": "could we get unlimited videos as well that are not blocked by the server side maybe hailuo or whatever? also give me bullet list of updates, the current process and how could we im\u2026",
-      "last_assistant_snippet": "The server unwraps `params` for validation \u2014 `medias` and `slow_motion` need to be inside `params`, not top-level. And `image2video-mix` motions need `type`, `value`, `strength`:",
-      "message_count": 643,
-      "file_size_kb": 2660,
-      "modified_ts": 1777511473.1451216,
-      "modified_iso": "2026-04-29T21:11:13.145122",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Now let me try `v2/cinematic_studio_video` with the `data` field as a nested image schema (the pattern `image2video` used):",
+      "message_count": 651,
+      "file_size_kb": 2683,
+      "modified_ts": 1777511530.62566,
+      "modified_iso": "2026-04-29T21:12:10.625660",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 51.6
+      "minutes_since_active": 52.7
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 914.1
+      "minutes_since_active": 915.3
     }
   ]
 }
