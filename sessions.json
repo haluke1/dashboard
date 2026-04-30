@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-30T07:29:01Z",
+  "updated_at": "2026-04-30T07:30:10Z",
   "counts": {
-    "active": 3,
-    "recent": 3,
+    "active": 2,
+    "recent": 4,
     "archived": 290,
     "total": 296
   },
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "you created the journal one retard. you stupid fucking retard. you dont even know what you did in this session for such a specific thing. what the fuck.",
-      "last_assistant_snippet": "You're right. I created \"Journal: He Has Risen\" during this session \u2014 it was an intermediary copy made during the consolidation workflow, never deleted. Same goes for the other \"Jo\u2026",
-      "message_count": 1168,
-      "file_size_kb": 14411,
-      "modified_ts": 1777534137.6729107,
-      "modified_iso": "2026-04-30T03:28:57.672911",
-      "minutes_since_active": 0.1
+      "last_user_msg": "yeah idiot. and you lied to me. you are a liar. delete these 6 folders. fucking hell.",
+      "last_assistant_snippet": "Running. Will notify you when all 6 are confirmed deleted.",
+      "message_count": 1174,
+      "file_size_kb": 14425,
+      "modified_ts": 1777534194.4275947,
+      "modified_iso": "2026-04-30T03:29:54.427595",
+      "minutes_since_active": 0.2
     },
     {
       "id": "dd210660",
@@ -34,15 +34,17 @@
       "last_user_msg": "we are still at 24% in the beginning. analyze what is the reason for this",
       "last_assistant_snippet": "Here's the breakdown: **The 24% comes from 4 categories stacking:** | Category | Est. Tokens | Notes | |---|---|---| | Rules files (10 files) | ~12,000 | Loaded inline every sessio\u2026",
       "message_count": 15,
-      "file_size_kb": 94,
-      "modified_ts": 1777533981.124844,
-      "modified_iso": "2026-04-30T03:26:21.124844",
-      "minutes_since_active": 2.7
-    },
+      "file_size_kb": 95,
+      "modified_ts": 1777534167.8812625,
+      "modified_iso": "2026-04-30T03:29:27.881263",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "1da8b68f",
       "full_id": "1da8b68f-2a0c-4ef9-80d3-b6bf660437ca",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,10 +55,8 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "6f8e3f27",
       "full_id": "6f8e3f27-e4ce-4d02-bd50-1d3fedaa9eda",
@@ -71,7 +71,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 142.2
+      "minutes_since_active": 143.3
     },
     {
       "id": "57069057",
@@ -87,7 +87,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 165.2
+      "minutes_since_active": 166.4
     },
     {
       "id": "31c8ff0e",
@@ -103,7 +103,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1291.9
+      "minutes_since_active": 1293.0
     }
   ]
 }
