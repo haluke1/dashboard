@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T08:18:28Z",
+  "updated_at": "2026-04-30T08:18:49Z",
   "counts": {
     "active": 3,
     "recent": 5,
@@ -8,6 +8,22 @@
   },
   "active": [
     {
+      "id": "dd210660",
+      "full_id": "dd210660-360b-420f-9c2f-797cf2ad4c14",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "context window check",
+      "last_user_msg": "i want you to write this with less words and have the cutoff at 0-10 which is F- tier. and consider the situation of my notes to create a better weighted custom scoring system gett\u2026",
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The 0-10 integer scale forces faster scoring \u2014 no decimal math, no overthinking. The key design insight from CASS/CNES is that Hal\u2026",
+      "message_count": 61,
+      "file_size_kb": 286,
+      "modified_ts": 1777537126.5955045,
+      "modified_iso": "2026-04-30T04:18:46.595505",
+      "minutes_since_active": 0.0
+    },
+    {
       "id": "98b7441c",
       "full_id": "98b7441c-aa5e-47f8-b7a3-52abb72d4864",
       "status": "active",
@@ -15,13 +31,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "context window usage?",
-      "last_user_msg": "context window usage?",
+      "last_user_msg": "<local-command-stdout>Catch you later!</local-command-stdout>",
       "last_assistant_snippet": "Currently at approximately **12\u201315%** context usage \u2014 well within the comfortable range. No action needed until 60%.",
-      "message_count": 3,
-      "file_size_kb": 67,
-      "modified_ts": 1777537105.204157,
-      "modified_iso": "2026-04-30T04:18:25.204157",
-      "minutes_since_active": 0.0
+      "message_count": 6,
+      "file_size_kb": 70,
+      "modified_ts": 1777537112.631417,
+      "modified_iso": "2026-04-30T04:18:32.631417",
+      "minutes_since_active": 0.3
     },
     {
       "id": "246e7143",
@@ -37,23 +53,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "dd210660",
-      "full_id": "dd210660-360b-420f-9c2f-797cf2ad4c14",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "context window check",
-      "last_user_msg": "i want you to write this with less words and have the cutoff at 0-10 which is F- tier. and consider the situation of my notes to create a better weighted custom scoring system gett\u2026",
-      "last_assistant_snippet": "Plugin cleanup done. Now the prompt: --- **CNES and CASS \u2014 Quick Explanation** Think of your brain like a library. You take notes constantly, and you have projects/actions to pursu\u2026",
-      "message_count": 59,
-      "file_size_kb": 274,
-      "modified_ts": 1777537080.4872673,
-      "modified_iso": "2026-04-30T04:18:00.487267",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 44.5
+      "minutes_since_active": 44.9
     },
     {
       "id": "1da8b68f",
@@ -87,7 +87,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 53.6
+      "minutes_since_active": 54.0
     },
     {
       "id": "6f8e3f27",
@@ -103,7 +103,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 191.7
+      "minutes_since_active": 192.0
     },
     {
       "id": "57069057",
@@ -119,7 +119,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 214.7
+      "minutes_since_active": 215.0
     },
     {
       "id": "31c8ff0e",
@@ -135,7 +135,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1341.3
+      "minutes_since_active": 1341.7
     }
   ]
 }
