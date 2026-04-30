@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-04-30T07:02:33Z",
-  "total_tabs": 2,
+  "updated_at": "2026-04-30T07:03:48Z",
+  "total_tabs": 3,
   "total_windows": 1,
   "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
+    {
+      "name": "other",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "higgsfield.ai",
+          "count": 1
+        },
+        {
+          "domain": "notion.com",
+          "count": 1
+        }
+      ]
+    },
     {
       "name": "social",
       "count": 1,
@@ -12,17 +27,6 @@
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "other",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "higgsfield.ai",
           "count": 1
         }
       ]
