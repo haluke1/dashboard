@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T02:22:04Z",
+  "updated_at": "2026-04-30T02:22:28Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -15,12 +15,12 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "like this?",
-      "last_assistant_snippet": "Perfect. Path is empty, Service URL is `http://localhost:8765`. Click **Add route**.",
-      "message_count": 854,
-      "file_size_kb": 5426,
-      "modified_ts": 1777515720.6966732,
-      "modified_iso": "2026-04-29T22:22:00.696673",
+      "last_user_msg": "this is what i got",
+      "last_assistant_snippet": "Route is live. DNS is configured. Everything is wired up permanently. Close that dialog, then do the final step: 1. Go to **claude.ai \u2192 Settings \u2192 Customize \u2192 Connectors \u2192 +** 2. A\u2026",
+      "message_count": 856,
+      "file_size_kb": 5582,
+      "modified_ts": 1777515745.013855,
+      "modified_iso": "2026-04-29T22:22:25.013855",
       "minutes_since_active": 0.1
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 122.4
+      "minutes_since_active": 122.8
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 984.9
+      "minutes_since_active": 985.3
     }
   ]
 }
