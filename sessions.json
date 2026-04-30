@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T04:22:43Z",
+  "updated_at": "2026-04-30T04:23:26Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "look its still happening what is triggering it",
-      "last_assistant_snippet": "Server is up. Arc's cookie database is no longer touched on startup \u2014 that dialog won't appear again. Also click **Allow** on the one currently on your screen to dismiss it cleanly\u2026",
-      "message_count": 1093,
-      "file_size_kb": 9850,
-      "modified_ts": 1777522906.7302668,
-      "modified_iso": "2026-04-30T00:21:46.730267",
-      "minutes_since_active": 0.9
+      "last_user_msg": "i am still getting it",
+      "last_assistant_snippet": "That one is actually my fault \u2014 using computer-use (to navigate System Settings) is what keeps triggering it. The computer-use MCP has Claude.app access screen data from other apps\u2026",
+      "message_count": 1096,
+      "file_size_kb": 9940,
+      "modified_ts": 1777523002.4176736,
+      "modified_iso": "2026-04-30T00:23:22.417674",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 243.0
+      "minutes_since_active": 243.8
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1105.5
+      "minutes_since_active": 1106.3
     }
   ]
 }
