@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T00:11:01Z",
-  "total_tabs": 1,
+  "updated_at": "2026-04-30T00:12:05Z",
+  "total_tabs": 2,
   "total_windows": 1,
   "duplicate_tabs": 0,
   "bridge_online": true,
@@ -12,6 +12,17 @@
       "top_domains": [
         {
           "domain": "linkedin.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "higgsfield.ai",
           "count": 1
         }
       ]
