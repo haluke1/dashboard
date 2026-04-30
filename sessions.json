@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-30T19:05:27Z",
+  "updated_at": "2026-04-30T19:05:44Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 7,
     "archived": 291,
-    "total": 299
+    "total": 300
   },
   "active": [
+    {
+      "id": "4f895634",
+      "full_id": "4f895634-1db1-428c-99e7-8fdf4802664b",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/.claude/worktrees/charming-joliot-14d2bd",
+      "git_branch": "claude/charming-joliot-14d2bd",
+      "permission_mode": null,
+      "first_prompt": "analyze this company, use higgsfield to generate professional images and create a pdf of improvement points and open it in my laptop => Fetch(https://conceptkb.com/) \u23bf Received 61.\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/higgsfield # Higgsfield - AI Video Generation Workflow ## Description Guide the user through Higgsfield AI video creat\u2026",
+      "last_assistant_snippet": "I'll use the Higgsfield skill for image generation and the PDF skill to create the report. Let me invoke both.",
+      "message_count": 6,
+      "file_size_kb": 107,
+      "modified_ts": 1777575934.6724365,
+      "modified_iso": "2026-04-30T15:05:34.672436",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "6f8e3f27",
       "full_id": "6f8e3f27-e4ce-4d02-bd50-1d3fedaa9eda",
@@ -21,7 +37,7 @@
       "file_size_kb": 182,
       "modified_ts": 1777575797.6840255,
       "modified_iso": "2026-04-30T15:03:17.684026",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.4
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 1556,
       "modified_ts": 1777540743.8924894,
       "modified_iso": "2026-04-30T05:19:03.892489",
-      "minutes_since_active": 586.4
+      "minutes_since_active": 586.6
     },
     {
       "id": "dd210660",
@@ -55,7 +71,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 636.9
+      "minutes_since_active": 637.2
     },
     {
       "id": "98b7441c",
@@ -71,7 +87,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 646.9
+      "minutes_since_active": 647.2
     },
     {
       "id": "246e7143",
@@ -87,7 +103,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 647.3
+      "minutes_since_active": 647.6
     },
     {
       "id": "6565cc54",
@@ -103,7 +119,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 691.5
+      "minutes_since_active": 691.8
     },
     {
       "id": "1da8b68f",
@@ -119,7 +135,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 700.6
+      "minutes_since_active": 700.9
     },
     {
       "id": "57069057",
@@ -135,7 +151,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 861.6
+      "minutes_since_active": 861.9
     }
   ]
 }
