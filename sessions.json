@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T06:56:48Z",
+  "updated_at": "2026-04-30T06:59:32Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "<task-notification> <task-id>ae450770deb02a9ab</task-id> <tool-use-id>toolu_01Bf6qc2hVqiSTMXhmJjGdnS</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/6565cc54-4e9\u2026",
-      "last_assistant_snippet": "The Notion MCP OAuth token expired \u2014 all 10 agents are hitting the same wall. Every call to `notion-fetch` or `notion-update-page` returns \"MCP server session expired.\" **What you \u2026",
-      "message_count": 1058,
-      "file_size_kb": 10133,
-      "modified_ts": 1777532152.036616,
-      "modified_iso": "2026-04-30T02:55:52.036616",
-      "minutes_since_active": 0.9
+      "last_user_msg": "<task-notification> <task-id>a42557b0415a9a603</task-id> <tool-use-id>toolu_011488ZQWTY6p1G1oYKxYbPg</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/6565cc54-4e9\u2026",
+      "last_assistant_snippet": "Community verified PASS \u2014 44/44 testimonials complete, \"Just getting started!!!\" confirmed (77K chars total). Session must be back up. Monitoring the rest.",
+      "message_count": 1064,
+      "file_size_kb": 10147,
+      "modified_ts": 1777532274.891137,
+      "modified_iso": "2026-04-30T02:57:54.891137",
+      "minutes_since_active": 1.6
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 135,
       "modified_ts": 1777525607.237737,
       "modified_iso": "2026-04-30T01:06:47.237737",
-      "minutes_since_active": 110.0
+      "minutes_since_active": 112.7
     },
     {
       "id": "57069057",
@@ -55,7 +55,7 @@
       "file_size_kb": 9953,
       "modified_ts": 1777524228.6005263,
       "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 133.0
+      "minutes_since_active": 135.7
     },
     {
       "id": "31c8ff0e",
@@ -71,7 +71,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 1259.6
+      "minutes_since_active": 1262.3
     }
   ]
 }
