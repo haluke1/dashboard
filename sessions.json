@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-04-30T19:05:44Z",
+  "updated_at": "2026-04-30T19:09:23Z",
   "counts": {
-    "active": 2,
-    "recent": 7,
+    "active": 3,
+    "recent": 6,
     "archived": 291,
     "total": 300
   },
   "active": [
+    {
+      "id": "57069057",
+      "full_id": "57069057-34e9-4096-a16c-106494330f36",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
+      "last_user_msg": "what is average salary for someone who'd work in this company and hourly rate? make sure to give sources and real data => https://conceptkb.com/",
+      "last_assistant_snippet": "31 tools. Now paste that screenshot and I'll map exactly what's in the official MCP but missing here.",
+      "message_count": 1116,
+      "file_size_kb": 10100,
+      "modified_ts": 1777576144.3828244,
+      "modified_iso": "2026-04-30T15:09:04.382824",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "4f895634",
       "full_id": "4f895634-1db1-428c-99e7-8fdf4802664b",
@@ -15,13 +31,13 @@
       "git_branch": "claude/charming-joliot-14d2bd",
       "permission_mode": null,
       "first_prompt": "analyze this company, use higgsfield to generate professional images and create a pdf of improvement points and open it in my laptop => Fetch(https://conceptkb.com/) \u23bf Received 61.\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/higgsfield # Higgsfield - AI Video Generation Workflow ## Description Guide the user through Higgsfield AI video creat\u2026",
-      "last_assistant_snippet": "I'll use the Higgsfield skill for image generation and the PDF skill to create the report. Let me invoke both.",
-      "message_count": 6,
-      "file_size_kb": 107,
-      "modified_ts": 1777575934.6724365,
-      "modified_iso": "2026-04-30T15:05:34.672436",
-      "minutes_since_active": 0.1
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/2d845444-86f2-41f3-9f39-3b15130c1605/a5a2aa95-99f3-4fa5-ab\u2026",
+      "last_assistant_snippet": "`flux-2` requires a `seed` parameter. Retrying all 4 with the default model. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The research confirms conceptkb.com is missing local \u2026",
+      "message_count": 40,
+      "file_size_kb": 199,
+      "modified_ts": 1777576102.714794,
+      "modified_iso": "2026-04-30T15:08:22.714794",
+      "minutes_since_active": 0.9
     },
     {
       "id": "6f8e3f27",
@@ -34,10 +50,10 @@
       "last_user_msg": "can you analyze this company and give me top 10 improvement points -> https://conceptkb.com/",
       "last_assistant_snippet": "Here's the analysis \u2014 purely from public-facing observation, no scanning: --- ## Concept Kitchen & Bath \u2014 Top 10 Improvement Points **SEO / Discoverability** 1. **Missing meta titl\u2026",
       "message_count": 23,
-      "file_size_kb": 182,
-      "modified_ts": 1777575797.6840255,
-      "modified_iso": "2026-04-30T15:03:17.684026",
-      "minutes_since_active": 2.4
+      "file_size_kb": 183,
+      "modified_ts": 1777575980.9785762,
+      "modified_iso": "2026-04-30T15:06:20.978576",
+      "minutes_since_active": 3.0
     }
   ],
   "recent": [
@@ -55,7 +71,7 @@
       "file_size_kb": 1556,
       "modified_ts": 1777540743.8924894,
       "modified_iso": "2026-04-30T05:19:03.892489",
-      "minutes_since_active": 586.6
+      "minutes_since_active": 590.3
     },
     {
       "id": "dd210660",
@@ -71,7 +87,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 637.2
+      "minutes_since_active": 640.8
     },
     {
       "id": "98b7441c",
@@ -87,7 +103,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 647.2
+      "minutes_since_active": 650.8
     },
     {
       "id": "246e7143",
@@ -103,7 +119,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 647.6
+      "minutes_since_active": 651.3
     },
     {
       "id": "6565cc54",
@@ -119,7 +135,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 691.8
+      "minutes_since_active": 695.4
     },
     {
       "id": "1da8b68f",
@@ -135,23 +151,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 700.9
-    },
-    {
-      "id": "57069057",
-      "full_id": "57069057-34e9-4096-a16c-106494330f36",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "look at other things",
-      "last_assistant_snippet": "31 tools. Now paste that screenshot and I'll map exactly what's in the official MCP but missing here.",
-      "message_count": 1102,
-      "file_size_kb": 9953,
-      "modified_ts": 1777524228.6005263,
-      "modified_iso": "2026-04-30T00:43:48.600526",
-      "minutes_since_active": 861.9
+      "minutes_since_active": 704.5
     }
   ]
 }
