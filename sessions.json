@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T00:18:40Z",
+  "updated_at": "2026-04-30T00:19:05Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "what the fuck are you looking for stupidass? what the fuck are you doing?",
-      "last_assistant_snippet": "You're logged in to Higgsfield in Arc. I just need your `__client` cookie and Clerk session ID to configure the unlimited MCP. Fastest way \u2014 run this one line in Arc's DevTools con\u2026",
-      "message_count": 148,
-      "file_size_kb": 836,
-      "modified_ts": 1777508231.4078834,
-      "modified_iso": "2026-04-29T20:17:11.407883",
-      "minutes_since_active": 1.5
+      "last_user_msg": "gives this warning. -> Warning: Don\u2019t paste code into the DevTools Console that you don\u2019t understand or haven\u2019t reviewed yourself. This could allow attackers to steal your identity\u2026",
+      "last_assistant_snippet": "Type `allow pasting` and hit Enter, then paste the command. That's just a browser safety prompt \u2014 one-time thing.",
+      "message_count": 151,
+      "file_size_kb": 843,
+      "modified_ts": 1777508343.310256,
+      "modified_iso": "2026-04-29T20:19:03.310256",
+      "minutes_since_active": 0.0
     },
     {
       "id": "6565cc54",
@@ -37,7 +37,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508196.8603132,
       "modified_iso": "2026-04-29T20:16:36.860313",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 861.5
+      "minutes_since_active": 861.9
     }
   ]
 }
