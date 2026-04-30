@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T01:23:50Z",
+  "updated_at": "2026-04-30T01:25:01Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "That error has nothing to do with the Higgsfield MCP. It's an Anthropic API authentication error \u2014 the token Claude.ai Cowork is using to call the API got rejected with \"Account is\u2026",
       "message_count": 689,
       "file_size_kb": 2924,
-      "modified_ts": 1777512133.7354512,
-      "modified_iso": "2026-04-29T21:22:13.735451",
-      "minutes_since_active": 1.6
+      "modified_ts": 1777512244.0623558,
+      "modified_iso": "2026-04-29T21:24:04.062356",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 64.2
+      "minutes_since_active": 65.3
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 926.7
+      "minutes_since_active": 927.8
     }
   ]
 }
