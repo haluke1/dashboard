@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-30T19:18:51Z",
+  "updated_at": "2026-04-30T19:19:55Z",
   "counts": {
-    "active": 2,
-    "recent": 7,
+    "active": 1,
+    "recent": 8,
     "archived": 291,
     "total": 300
   },
@@ -18,15 +18,17 @@
       "last_user_msg": "how can we do these? explain as if you're doing to a non technical person, use higgsfield mcp to generate images and turn that to a pdf",
       "last_assistant_snippet": "PDF is open. Here's what was built: --- **`~/reports/conceptkb-audit/concept-kb-website-audit.pdf`** \u2014 5 pages, 29MB **Structure:** - **Cover** \u2014 \"10 Things Holding Your Website Ba\u2026",
       "message_count": 72,
-      "file_size_kb": 308,
-      "modified_ts": 1777576582.462034,
-      "modified_iso": "2026-04-30T15:16:22.462034",
-      "minutes_since_active": 2.5
-    },
+      "file_size_kb": 309,
+      "modified_ts": 1777576766.914532,
+      "modified_iso": "2026-04-30T15:19:26.914532",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "4f895634",
       "full_id": "4f895634-1db1-428c-99e7-8fdf4802664b",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/.claude/worktrees/charming-joliot-14d2bd",
       "git_branch": "claude/charming-joliot-14d2bd",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 299,
       "modified_ts": 1777576484.7131705,
       "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 4.1
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.2
+    },
     {
       "id": "57069057",
       "full_id": "57069057-34e9-4096-a16c-106494330f36",
@@ -55,7 +55,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1777576176.1645346,
       "modified_iso": "2026-04-30T15:09:36.164535",
-      "minutes_since_active": 9.3
+      "minutes_since_active": 10.3
     },
     {
       "id": "b7b919f7",
@@ -71,7 +71,7 @@
       "file_size_kb": 1556,
       "modified_ts": 1777540743.8924894,
       "modified_iso": "2026-04-30T05:19:03.892489",
-      "minutes_since_active": 599.8
+      "minutes_since_active": 600.9
     },
     {
       "id": "dd210660",
@@ -87,7 +87,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 650.3
+      "minutes_since_active": 651.4
     },
     {
       "id": "98b7441c",
@@ -103,7 +103,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 660.3
+      "minutes_since_active": 661.4
     },
     {
       "id": "246e7143",
@@ -119,7 +119,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 660.8
+      "minutes_since_active": 661.8
     },
     {
       "id": "6565cc54",
@@ -135,7 +135,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 704.9
+      "minutes_since_active": 706.0
     },
     {
       "id": "1da8b68f",
@@ -151,7 +151,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 714.0
+      "minutes_since_active": 715.1
     }
   ]
 }
