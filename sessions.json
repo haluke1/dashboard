@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T00:58:37Z",
+  "updated_at": "2026-04-30T00:59:49Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
       "last_user_msg": "can you tell me what went wrong, how we fixed it, if we can simplify it and make sure it persists across sessions and has consistency and if this could work with videos too",
-      "last_assistant_snippet": "Install as editable (overwrites the site-packages version, pip upgrades can't touch it):",
-      "message_count": 483,
-      "file_size_kb": 2303,
-      "modified_ts": 1777510707.6609418,
-      "modified_iso": "2026-04-29T20:58:27.660942",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "`wan2-2-video` needs an input image \u2014 let me use the Atat\u00fcrk portrait we already generated, and also try `kling2-6` as pure text-to-video in parallel:",
+      "message_count": 506,
+      "file_size_kb": 2341,
+      "modified_ts": 1777510789.1549745,
+      "modified_iso": "2026-04-29T20:59:49.154974",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 9997,
       "modified_ts": 1777508380.4236214,
       "modified_iso": "2026-04-29T20:19:40.423621",
-      "minutes_since_active": 38.9
+      "minutes_since_active": 40.1
     },
     {
       "id": "31c8ff0e",
@@ -55,7 +55,7 @@
       "file_size_kb": 3102,
       "modified_ts": 1777456627.1897166,
       "modified_iso": "2026-04-29T05:57:07.189717",
-      "minutes_since_active": 901.5
+      "minutes_since_active": 902.6
     }
   ]
 }
