@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-01T07:33:04Z",
+  "updated_at": "2026-05-01T07:34:08Z",
   "counts": {
     "active": 0,
-    "recent": 8,
-    "archived": 292,
+    "recent": 7,
+    "archived": 293,
     "total": 300
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 2370,
       "modified_ts": 1777619878.2426224,
       "modified_iso": "2026-05-01T03:17:58.242622",
-      "minutes_since_active": 15.1
+      "minutes_since_active": 16.2
     },
     {
       "id": "6f8e3f27",
@@ -38,7 +38,7 @@
       "file_size_kb": 309,
       "modified_ts": 1777576766.914532,
       "modified_iso": "2026-04-30T15:19:26.914532",
-      "minutes_since_active": 733.6
+      "minutes_since_active": 734.7
     },
     {
       "id": "4f895634",
@@ -54,7 +54,7 @@
       "file_size_kb": 299,
       "modified_ts": 1777576484.7131705,
       "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 738.3
+      "minutes_since_active": 739.4
     },
     {
       "id": "57069057",
@@ -70,7 +70,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1777576176.1645346,
       "modified_iso": "2026-04-30T15:09:36.164535",
-      "minutes_since_active": 743.5
+      "minutes_since_active": 744.5
     },
     {
       "id": "dd210660",
@@ -86,7 +86,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 1384.5
+      "minutes_since_active": 1385.6
     },
     {
       "id": "98b7441c",
@@ -102,7 +102,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 1394.5
+      "minutes_since_active": 1395.6
     },
     {
       "id": "246e7143",
@@ -118,23 +118,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 1395.0
-    },
-    {
-      "id": "6565cc54",
-      "full_id": "6565cc54-4e98-4c14-a6e9-b5d94cefbc8f",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to go to my notion, get the notes, organize them and create an organized version of all the notes there.",
-      "last_user_msg": "<task-notification> <task-id>ac0ecd83e25ae4b60</task-id> <tool-use-id>toolu_01V4MCmkjrwjuEshVuazNCPC</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/6565cc54-4e9\u2026",
-      "last_assistant_snippet": "6/6 deleted and confirmed. Your Notion is now clean \u2014 only your true originals remain. Do the bulk export now: **Settings \u2192 Export \u2192 Export all workspace content \u2192 Markdown & CSV**\u2026",
-      "message_count": 1176,
-      "file_size_kb": 14433,
-      "modified_ts": 1777534436.4851677,
-      "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 1439.1
+      "minutes_since_active": 1396.0
     }
   ]
 }
