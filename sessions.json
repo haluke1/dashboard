@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-01T08:28:12Z",
+  "updated_at": "2026-05-01T08:29:16Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 295,
+    "recent": 4,
+    "archived": 296,
     "total": 300
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 2370,
       "modified_ts": 1777619878.2426224,
       "modified_iso": "2026-05-01T03:17:58.242622",
-      "minutes_since_active": 70.2
+      "minutes_since_active": 71.3
     },
     {
       "id": "6f8e3f27",
@@ -38,7 +38,7 @@
       "file_size_kb": 309,
       "modified_ts": 1777576766.914532,
       "modified_iso": "2026-04-30T15:19:26.914532",
-      "minutes_since_active": 788.8
+      "minutes_since_active": 789.8
     },
     {
       "id": "4f895634",
@@ -54,7 +54,7 @@
       "file_size_kb": 299,
       "modified_ts": 1777576484.7131705,
       "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 793.4
+      "minutes_since_active": 794.5
     },
     {
       "id": "57069057",
@@ -70,23 +70,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1777576176.1645346,
       "modified_iso": "2026-04-30T15:09:36.164535",
-      "minutes_since_active": 798.6
-    },
-    {
-      "id": "dd210660",
-      "full_id": "dd210660-360b-420f-9c2f-797cf2ad4c14",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "context window check",
-      "last_user_msg": "no i want to cut off at 0-10 not at c. re-create it",
-      "last_assistant_snippet": "Understood \u2014 only F- (0-10) gets cut. Everything \u226511 is kept, tiers just tell you *how much* to prioritize. Recreating: --- ``` You are my personal knowledge curator with a multi-l\u2026",
-      "message_count": 70,
-      "file_size_kb": 378,
-      "modified_ts": 1777537711.6246326,
-      "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 1439.7
+      "minutes_since_active": 799.7
     }
   ]
 }
