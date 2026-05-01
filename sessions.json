@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T06:54:47Z",
+  "updated_at": "2026-05-01T06:55:50Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -17,11 +17,11 @@
       "first_prompt": "The downloaded folder for this task is Notion Export.zip / # MASTER PROMPT: Knowledge Unit System \u2014 Notion Export Processing v2 ## MISSION Process an 854MB Notion export into a **c\u2026",
       "last_user_msg": "why did we hit limitations with 3,000 character cap? is there a limit to amount of things they can read? how can we make sure that everything is read? do you think it makes sense t\u2026",
       "last_assistant_snippet": "Advisor killed the single-file idea immediately (200MB+ blows context). Goal is full-fidelity re-score of the 2,361 files. Pre-committing output: each agent writes to `/tmp/researc\u2026",
-      "message_count": 453,
-      "file_size_kb": 1639,
-      "modified_ts": 1777618218.4127665,
-      "modified_iso": "2026-05-01T02:50:18.412766",
-      "minutes_since_active": 4.5
+      "message_count": 456,
+      "file_size_kb": 1665,
+      "modified_ts": 1777618542.9570339,
+      "modified_iso": "2026-05-01T02:55:42.957034",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 309,
       "modified_ts": 1777576766.914532,
       "modified_iso": "2026-04-30T15:19:26.914532",
-      "minutes_since_active": 695.3
+      "minutes_since_active": 696.4
     },
     {
       "id": "4f895634",
@@ -55,7 +55,7 @@
       "file_size_kb": 299,
       "modified_ts": 1777576484.7131705,
       "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 700.0
+      "minutes_since_active": 701.1
     },
     {
       "id": "57069057",
@@ -71,7 +71,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1777576176.1645346,
       "modified_iso": "2026-04-30T15:09:36.164535",
-      "minutes_since_active": 705.2
+      "minutes_since_active": 706.2
     },
     {
       "id": "dd210660",
@@ -87,7 +87,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 1346.3
+      "minutes_since_active": 1347.3
     },
     {
       "id": "98b7441c",
@@ -103,7 +103,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 1356.2
+      "minutes_since_active": 1357.3
     },
     {
       "id": "246e7143",
@@ -119,7 +119,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 1356.7
+      "minutes_since_active": 1357.7
     },
     {
       "id": "6565cc54",
@@ -135,7 +135,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 1400.8
+      "minutes_since_active": 1401.9
     },
     {
       "id": "1da8b68f",
@@ -151,7 +151,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 1410.0
+      "minutes_since_active": 1411.0
     }
   ]
 }
