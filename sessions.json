@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-01T19:08:41Z",
+  "updated_at": "2026-05-01T19:11:35Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 296,
+    "recent": 3,
+    "archived": 297,
     "total": 300
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 2370,
       "modified_ts": 1777619878.2426224,
       "modified_iso": "2026-05-01T03:17:58.242622",
-      "minutes_since_active": 710.7
+      "minutes_since_active": 713.6
     },
     {
       "id": "6f8e3f27",
@@ -38,7 +38,7 @@
       "file_size_kb": 309,
       "modified_ts": 1777576766.914532,
       "modified_iso": "2026-04-30T15:19:26.914532",
-      "minutes_since_active": 1429.2
+      "minutes_since_active": 1432.1
     },
     {
       "id": "4f895634",
@@ -54,23 +54,7 @@
       "file_size_kb": 299,
       "modified_ts": 1777576484.7131705,
       "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 1433.9
-    },
-    {
-      "id": "57069057",
-      "full_id": "57069057-34e9-4096-a16c-106494330f36",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Higgsfield MCP \u2014 Custom Wrapper Spec for Claude Code ## Goal Build a custom Higgsfield MCP server that exposes the **\"Unlimited\" mode** (standard queue, doesn't burn credits) \u2014 a\u2026",
-      "last_user_msg": "what is average salary for someone who'd work in this company and hourly rate? make sure to give sources and real data => https://conceptkb.com/",
-      "last_assistant_snippet": "**Concept Kitchen Remodeling and Bath \u2014 Wilmington, Delaware** Here's a role-by-role breakdown with real sources: --- ## By Role | Role | Hourly Rate | Annual Salary | Source | |--\u2026",
-      "message_count": 1118,
-      "file_size_kb": 10107,
-      "modified_ts": 1777576176.1645346,
-      "modified_iso": "2026-04-30T15:09:36.164535",
-      "minutes_since_active": 1439.1
+      "minutes_since_active": 1436.8
     }
   ]
 }

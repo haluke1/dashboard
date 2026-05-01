@@ -1,31 +1,8 @@
 {
-  "updated_at": "2026-05-01T19:09:58Z",
-  "total_tabs": 3,
-  "total_windows": 1,
+  "updated_at": "2026-05-01T19:11:33Z",
+  "total_tabs": 0,
+  "total_windows": 0,
   "duplicate_tabs": 0,
   "bridge_online": true,
-  "categories": [
-    {
-      "name": "social",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "other",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "higgsfield.ai",
-          "count": 1
-        }
-      ]
-    }
-  ]
+  "categories": []
 }
