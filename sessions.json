@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T07:14:52Z",
+  "updated_at": "2026-05-01T07:15:01Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -18,10 +18,10 @@
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "Everything is built and ready. Here's the full picture: --- **What was wrong and what's fixed:** The 3K cap wasn't a tool limit \u2014 it was `content[:2000] + content[-1000:]` hardcode\u2026",
       "message_count": 583,
-      "file_size_kb": 2368,
-      "modified_ts": 1777619691.287001,
-      "modified_iso": "2026-05-01T03:14:51.287001",
-      "minutes_since_active": 0.0
+      "file_size_kb": 2369,
+      "modified_ts": 1777619692.8442745,
+      "modified_iso": "2026-05-01T03:14:52.844275",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 309,
       "modified_ts": 1777576766.914532,
       "modified_iso": "2026-04-30T15:19:26.914532",
-      "minutes_since_active": 715.4
+      "minutes_since_active": 715.6
     },
     {
       "id": "4f895634",
@@ -55,7 +55,7 @@
       "file_size_kb": 299,
       "modified_ts": 1777576484.7131705,
       "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 720.1
+      "minutes_since_active": 720.3
     },
     {
       "id": "57069057",
@@ -71,7 +71,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1777576176.1645346,
       "modified_iso": "2026-04-30T15:09:36.164535",
-      "minutes_since_active": 725.3
+      "minutes_since_active": 725.4
     },
     {
       "id": "dd210660",
@@ -87,7 +87,7 @@
       "file_size_kb": 378,
       "modified_ts": 1777537711.6246326,
       "modified_iso": "2026-04-30T04:28:31.624633",
-      "minutes_since_active": 1366.3
+      "minutes_since_active": 1366.5
     },
     {
       "id": "98b7441c",
@@ -103,7 +103,7 @@
       "file_size_kb": 70,
       "modified_ts": 1777537112.631417,
       "modified_iso": "2026-04-30T04:18:32.631417",
-      "minutes_since_active": 1376.3
+      "minutes_since_active": 1376.5
     },
     {
       "id": "246e7143",
@@ -119,7 +119,7 @@
       "file_size_kb": 29,
       "modified_ts": 1777537086.1744833,
       "modified_iso": "2026-04-30T04:18:06.174483",
-      "minutes_since_active": 1376.8
+      "minutes_since_active": 1376.9
     },
     {
       "id": "6565cc54",
@@ -135,7 +135,7 @@
       "file_size_kb": 14433,
       "modified_ts": 1777534436.4851677,
       "modified_iso": "2026-04-30T03:33:56.485168",
-      "minutes_since_active": 1420.9
+      "minutes_since_active": 1421.1
     },
     {
       "id": "1da8b68f",
@@ -151,7 +151,7 @@
       "file_size_kb": 432,
       "modified_ts": 1777533888.5667858,
       "modified_iso": "2026-04-30T03:24:48.566786",
-      "minutes_since_active": 1430.1
+      "minutes_since_active": 1430.2
     }
   ]
 }
