@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-01T19:13:41Z",
+  "updated_at": "2026-05-01T22:09:30Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 297,
+    "recent": 1,
+    "archived": 299,
     "total": 300
   },
   "active": [],
@@ -22,39 +22,7 @@
       "file_size_kb": 2370,
       "modified_ts": 1777619878.2426224,
       "modified_iso": "2026-05-01T03:17:58.242622",
-      "minutes_since_active": 715.7
-    },
-    {
-      "id": "6f8e3f27",
-      "full_id": "6f8e3f27-e4ce-4d02-bd50-1d3fedaa9eda",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could we run kali linux through claude and find zero day vulnerabilities and security problems for a business without legally being in trouble? maybe we could highlight and white h\u2026",
-      "last_user_msg": "how can we do these? explain as if you're doing to a non technical person, use higgsfield mcp to generate images and turn that to a pdf",
-      "last_assistant_snippet": "PDF is open. Here's what was built: --- **`~/reports/conceptkb-audit/concept-kb-website-audit.pdf`** \u2014 5 pages, 29MB **Structure:** - **Cover** \u2014 \"10 Things Holding Your Website Ba\u2026",
-      "message_count": 72,
-      "file_size_kb": 309,
-      "modified_ts": 1777576766.914532,
-      "modified_iso": "2026-04-30T15:19:26.914532",
-      "minutes_since_active": 1434.2
-    },
-    {
-      "id": "4f895634",
-      "full_id": "4f895634-1db1-428c-99e7-8fdf4802664b",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk/.claude/worktrees/charming-joliot-14d2bd",
-      "git_branch": "claude/charming-joliot-14d2bd",
-      "permission_mode": null,
-      "first_prompt": "analyze this company, use higgsfield to generate professional images and create a pdf of improvement points and open it in my laptop => Fetch(https://conceptkb.com/) \u23bf Received 61.\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/2d845444-86f2-41f3-9f39-3b15130c1605/a5a2aa95-99f3-4fa5-ab\u2026",
-      "last_assistant_snippet": "PDF is open in Preview. Here's what was built: **Research done:** - Fresh fetch of conceptkb.com \u2014 confirmed Django backend, hero carousel, 50+ Google reviews at 5.0 stars, two loc\u2026",
-      "message_count": 65,
-      "file_size_kb": 299,
-      "modified_ts": 1777576484.7131705,
-      "modified_iso": "2026-04-30T15:14:44.713171",
-      "minutes_since_active": 1438.9
+      "minutes_since_active": 891.5
     }
   ]
 }
