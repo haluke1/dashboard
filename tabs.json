@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-02T02:36:42Z",
-  "total_tabs": 256,
+  "updated_at": "2026-05-02T02:37:47Z",
+  "total_tabs": 243,
   "total_windows": 4,
-  "duplicate_tabs": 42,
+  "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 132,
-      "domain_count": 84,
+      "count": 126,
+      "domain_count": 82,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,34 +23,34 @@
           "count": 5
         },
         {
-          "domain": "conceptkb.com",
-          "count": 5
+          "domain": "namecheap.com",
+          "count": 4
         },
         {
-          "domain": "namecheap.com",
+          "domain": "elearning.villanova.edu",
           "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 39,
+      "count": 40,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 39
+          "count": 40
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 34,
+      "count": 27,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 22
+          "count": 15
         },
         {
           "domain": "github.com",
@@ -99,8 +99,8 @@
     },
     {
       "name": "productivity",
-      "count": 22,
-      "domain_count": 7,
+      "count": 21,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "mail.google.com",
@@ -115,11 +115,11 @@
           "count": 2
         },
         {
-          "domain": "docs.google.com",
+          "domain": "miro.com",
           "count": 1
         },
         {
-          "domain": "miro.com",
+          "domain": "account.docusign.com",
           "count": 1
         }
       ]
