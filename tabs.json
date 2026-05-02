@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-05-02T21:48:17Z",
-  "total_tabs": 263,
+  "updated_at": "2026-05-02T21:49:29Z",
+  "total_tabs": 234,
   "total_windows": 4,
-  "duplicate_tabs": 43,
+  "duplicate_tabs": 155,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 141,
-      "domain_count": 91,
+      "count": 135,
+      "domain_count": 63,
       "top_domains": [
         {
-          "domain": "(no domain)",
-          "count": 12
+          "domain": "keep.google.com",
+          "count": 9
         },
         {
-          "domain": "keep.google.com",
+          "domain": "o3xo.ai",
+          "count": 8
+        },
+        {
+          "domain": "(no domain)",
+          "count": 8
+        },
+        {
+          "domain": "namecheap.com",
           "count": 7
         },
         {
           "domain": "google.com",
-          "count": 5
-        },
-        {
-          "domain": "elearning.villanova.edu",
-          "count": 5
-        },
-        {
-          "domain": "namecheap.com",
-          "count": 4
+          "count": 7
         }
       ]
     },
     {
       "name": "video",
-      "count": 37,
+      "count": 28,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 37
+          "count": 28
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 30,
+      "count": 26,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 17
+          "count": 13
         },
         {
           "domain": "github.com",
-          "count": 9
+          "count": 8
+        },
+        {
+          "domain": "openai.com",
+          "count": 2
         },
         {
           "domain": "vercel.com",
@@ -63,60 +67,29 @@
         {
           "domain": "chatgpt.com",
           "count": 1
-        },
-        {
-          "domain": "gist.github.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 26,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 10
-        },
-        {
-          "domain": "notion.so",
-          "count": 9
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "docs.google.com",
-          "count": 2
-        },
-        {
-          "domain": "miro.com",
-          "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 25,
+      "count": 26,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 10
+          "count": 12
         },
         {
           "domain": "instagram.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "reddit.com",
           "count": 3
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 3
+          "domain": "optirix.com",
+          "count": 2
         },
         {
           "domain": "x.com",
@@ -125,28 +98,36 @@
       ]
     },
     {
-      "name": "research",
-      "count": 3,
-      "domain_count": 2,
+      "name": "productivity",
+      "count": 17,
+      "domain_count": 4,
       "top_domains": [
         {
-          "domain": "steve-yegge.medium.com",
-          "count": 2
+          "domain": "mail.google.com",
+          "count": 8
         },
         {
-          "domain": "natesnewsletter.substack.com",
+          "domain": "notion.so",
+          "count": 7
+        },
+        {
+          "domain": "miro.com",
+          "count": 1
+        },
+        {
+          "domain": "account.docusign.com",
           "count": 1
         }
       ]
     },
     {
-      "name": "local",
-      "count": 1,
+      "name": "research",
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "localhost:3002",
-          "count": 1
+          "domain": "natesnewsletter.substack.com",
+          "count": 2
         }
       ]
     }
