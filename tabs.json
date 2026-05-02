@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-02T05:24:42Z",
-  "total_tabs": 246,
+  "updated_at": "2026-05-02T05:25:47Z",
+  "total_tabs": 241,
   "total_windows": 4,
-  "duplicate_tabs": 42,
+  "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 41,
+      "count": 37,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 41
+          "count": 37
         }
       ]
     },
@@ -135,17 +135,6 @@
         },
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "finance",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "motherjones.com",
           "count": 1
         }
       ]
