@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-02T21:45:05Z",
-  "total_tabs": 262,
+  "updated_at": "2026-05-02T21:46:09Z",
+  "total_tabs": 263,
   "total_windows": 4,
   "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 142,
+      "count": 141,
       "domain_count": 91,
       "top_domains": [
         {
@@ -27,7 +27,7 @@
           "count": 5
         },
         {
-          "domain": "justin.abrah.ms",
+          "domain": "namecheap.com",
           "count": 4
         }
       ]
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 30,
+      "count": 31,
       "domain_count": 6,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "github.com",
-          "count": 9
+          "count": 10
         },
         {
           "domain": "vercel.com",
@@ -125,23 +125,27 @@
       ]
     },
     {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "steve-yegge.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
