@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-02T01:06:40Z",
-  "total_tabs": 257,
+  "updated_at": "2026-05-02T01:07:44Z",
+  "total_tabs": 256,
   "total_windows": 4,
-  "duplicate_tabs": 41,
+  "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
@@ -99,12 +99,12 @@
     },
     {
       "name": "productivity",
-      "count": 23,
+      "count": 22,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "notion.so",
