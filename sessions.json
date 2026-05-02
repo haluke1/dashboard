@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T21:53:35Z",
+  "updated_at": "2026-05-02T21:54:13Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>b2ijts5hi</task-id> <tool-use-id>toolu_018wr7SHkjZxkYRHJXy9orUV</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9e9ceab4-aef3-44a8-8\u2026",
       "last_assistant_snippet": "All 5 done. Everything is extracted and sitting on disk. What's your call \u2014 transcripts only, one video with frames, or all 5?",
       "message_count": 70,
-      "file_size_kb": 335,
-      "modified_ts": 1777758814.4837668,
-      "modified_iso": "2026-05-02T17:53:34.483767",
-      "minutes_since_active": 0.0
+      "file_size_kb": 336,
+      "modified_ts": 1777758815.7588496,
+      "modified_iso": "2026-05-02T17:53:35.758850",
+      "minutes_since_active": 0.6
     },
     {
       "id": "6eb018b1",
@@ -37,7 +37,7 @@
       "file_size_kb": 137,
       "modified_ts": 1777758803.841657,
       "modified_iso": "2026-05-02T17:53:23.841657",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.8
     },
     {
       "id": "b1ca3ff1",
@@ -53,7 +53,7 @@
       "file_size_kb": 294,
       "modified_ts": 1777758639.5036085,
       "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 3.6
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 46,
       "modified_ts": 1777758415.6873257,
       "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 6.7
+      "minutes_since_active": 7.3
     }
   ]
 }
