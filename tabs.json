@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T13:46:01Z",
-  "total_tabs": 243,
+  "updated_at": "2026-05-02T13:47:07Z",
+  "total_tabs": 244,
   "total_windows": 5,
   "duplicate_tabs": 40,
   "bridge_online": true,
@@ -99,8 +99,8 @@
     },
     {
       "name": "productivity",
-      "count": 21,
-      "domain_count": 6,
+      "count": 22,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
@@ -115,11 +115,11 @@
           "count": 2
         },
         {
-          "domain": "miro.com",
+          "domain": "docs.google.com",
           "count": 1
         },
         {
-          "domain": "account.docusign.com",
+          "domain": "miro.com",
           "count": 1
         }
       ]
