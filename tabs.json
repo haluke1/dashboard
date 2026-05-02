@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T21:37:35Z",
+  "updated_at": "2026-05-02T21:38:40Z",
   "total_tabs": 262,
   "total_windows": 4,
   "duplicate_tabs": 41,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 143,
+      "count": 142,
       "domain_count": 91,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "google.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "elearning.villanova.edu",
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 28,
+      "count": 29,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 16
+          "count": 17
         },
         {
           "domain": "github.com",
