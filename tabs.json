@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-02T16:31:06Z",
-  "total_tabs": 253,
+  "updated_at": "2026-05-02T16:32:16Z",
+  "total_tabs": 251,
   "total_windows": 5,
-  "duplicate_tabs": 43,
+  "duplicate_tabs": 41,
   "bridge_online": true,
   "categories": [
     {
@@ -57,38 +57,38 @@
           "count": 8
         },
         {
+          "domain": "vercel.com",
+          "count": 1
+        },
+        {
           "domain": "chatgpt.com",
           "count": 1
         },
         {
           "domain": "gist.github.com",
           "count": 1
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 27,
+      "count": 26,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "notion.so",
           "count": 9
         },
         {
-          "domain": "docs.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "docs.google.com",
           "count": 2
         },
         {
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 25,
       "domain_count": 7,
       "top_domains": [
         {
@@ -111,11 +111,11 @@
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 4
+          "domain": "reddit.com",
+          "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "web.whatsapp.com",
           "count": 3
         },
         {
