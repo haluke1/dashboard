@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-05-02T21:42:57Z",
+  "updated_at": "2026-05-02T21:43:21Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 0,
     "archived": 300,
-    "total": 300
+    "total": 301
   },
-  "active": [],
+  "active": [
+    {
+      "id": "b1ca3ff1",
+      "full_id": "b1ca3ff1-9c4c-4730-a23a-5b9f1cc292db",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "look at the session where we tried to get the notion zip organized correctly, problems we faced and how we can do a proper session today and make sure everything goes according to \u2026",
+      "last_user_msg": "look at the session where we tried to get the notion zip organized correctly, problems we faced and how we can do a proper session today and make sure everything goes according to \u2026",
+      "last_assistant_snippet": null,
+      "message_count": 4,
+      "file_size_kb": 73,
+      "modified_ts": 1777758196.6833537,
+      "modified_iso": "2026-05-02T17:43:16.683354",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": []
 }
