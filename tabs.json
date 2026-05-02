@@ -1,64 +1,60 @@
 {
-  "updated_at": "2026-05-02T21:49:29Z",
-  "total_tabs": 234,
+  "updated_at": "2026-05-02T21:50:33Z",
+  "total_tabs": 261,
   "total_windows": 4,
-  "duplicate_tabs": 155,
+  "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 135,
-      "domain_count": 63,
+      "count": 139,
+      "domain_count": 91,
       "top_domains": [
         {
-          "domain": "keep.google.com",
-          "count": 9
-        },
-        {
-          "domain": "o3xo.ai",
-          "count": 8
-        },
-        {
           "domain": "(no domain)",
-          "count": 8
+          "count": 12
         },
         {
-          "domain": "namecheap.com",
+          "domain": "keep.google.com",
           "count": 7
         },
         {
           "domain": "google.com",
-          "count": 7
+          "count": 5
+        },
+        {
+          "domain": "elearning.villanova.edu",
+          "count": 5
+        },
+        {
+          "domain": "namecheap.com",
+          "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 28,
+      "count": 37,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 28
+          "count": 37
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 26,
+      "count": 30,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 13
+          "count": 17
         },
         {
           "domain": "github.com",
-          "count": 8
-        },
-        {
-          "domain": "openai.com",
-          "count": 2
+          "count": 9
         },
         {
           "domain": "vercel.com",
@@ -67,29 +63,60 @@
         {
           "domain": "chatgpt.com",
           "count": 1
+        },
+        {
+          "domain": "gist.github.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 26,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 10
+        },
+        {
+          "domain": "notion.so",
+          "count": 9
+        },
+        {
+          "domain": "toolbox.googleapps.com",
+          "count": 2
+        },
+        {
+          "domain": "docs.google.com",
+          "count": 2
+        },
+        {
+          "domain": "miro.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 25,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 12
+          "count": 10
         },
         {
           "domain": "instagram.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "reddit.com",
           "count": 3
         },
         {
-          "domain": "optirix.com",
-          "count": 2
+          "domain": "web.whatsapp.com",
+          "count": 3
         },
         {
           "domain": "x.com",
@@ -98,36 +125,28 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 17,
-      "domain_count": 4,
+      "name": "research",
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
-          "domain": "mail.google.com",
-          "count": 8
+          "domain": "steve-yegge.medium.com",
+          "count": 2
         },
         {
-          "domain": "notion.so",
-          "count": 7
-        },
-        {
-          "domain": "miro.com",
-          "count": 1
-        },
-        {
-          "domain": "account.docusign.com",
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
     },
     {
-      "name": "research",
-      "count": 2,
+      "name": "local",
+      "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 2
+          "domain": "localhost:3002",
+          "count": 1
         }
       ]
     }
