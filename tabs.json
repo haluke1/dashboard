@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T02:33:28Z",
+  "updated_at": "2026-05-02T02:34:33Z",
   "total_tabs": 256,
   "total_windows": 4,
   "duplicate_tabs": 42,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 133,
-      "domain_count": 85,
+      "count": 132,
+      "domain_count": 84,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -135,6 +135,17 @@
         },
         {
           "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "motherjones.com",
           "count": 1
         }
       ]
