@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-02T01:05:36Z",
-  "total_tabs": 258,
+  "updated_at": "2026-05-02T01:06:40Z",
+  "total_tabs": 257,
   "total_windows": 4,
-  "duplicate_tabs": 40,
+  "duplicate_tabs": 41,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 42,
+      "count": 40,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 42
+          "count": 40
         }
       ]
     },
@@ -99,12 +99,12 @@
     },
     {
       "name": "productivity",
-      "count": 22,
+      "count": 23,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "notion.so",
