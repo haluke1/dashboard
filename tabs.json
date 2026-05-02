@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T16:25:30Z",
-  "total_tabs": 252,
+  "updated_at": "2026-05-02T16:26:46Z",
+  "total_tabs": 187,
   "total_windows": 5,
-  "duplicate_tabs": 42,
+  "duplicate_tabs": 70,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 135,
-      "domain_count": 86,
+      "count": 105,
+      "domain_count": 56,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 13
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 7
+          "count": 11
         },
         {
           "domain": "google.com",
+          "count": 5
+        },
+        {
+          "domain": "keep.google.com",
           "count": 5
         },
         {
@@ -34,31 +34,27 @@
     },
     {
       "name": "video",
-      "count": 35,
+      "count": 26,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 35
+          "count": 26
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 28,
-      "domain_count": 6,
+      "count": 19,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 16
+          "count": 9
         },
         {
           "domain": "github.com",
-          "count": 8
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
+          "count": 7
         },
         {
           "domain": "chatgpt.com",
@@ -67,71 +63,67 @@
         {
           "domain": "gist.github.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 27,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 11
         },
         {
-          "domain": "notion.so",
-          "count": 9
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "docs.google.com",
-          "count": 2
-        },
-        {
-          "domain": "miro.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
     },
     {
+      "name": "productivity",
+      "count": 18,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 9
+        },
+        {
+          "domain": "notion.so",
+          "count": 7
+        },
+        {
+          "domain": "docs.google.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 25,
-      "domain_count": 7,
+      "count": 16,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 10
-        },
-        {
-          "domain": "instagram.com",
-          "count": 5
-        },
-        {
-          "domain": "reddit.com",
-          "count": 3
+          "count": 8
         },
         {
           "domain": "web.whatsapp.com",
           "count": 3
         },
         {
-          "domain": "x.com",
+          "domain": "instagram.com",
           "count": 2
+        },
+        {
+          "domain": "optirix.com",
+          "count": 1
+        },
+        {
+          "domain": "x.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "local",
-      "count": 1,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
-          "count": 1
+          "count": 2
         }
       ]
     },
