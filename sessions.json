@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-05-02T21:51:38Z",
+  "updated_at": "2026-05-02T21:53:23Z",
   "counts": {
-    "active": 4,
-    "recent": 0,
+    "active": 3,
+    "recent": 1,
     "archived": 300,
     "total": 304
   },
   "active": [
-    {
-      "id": "9e9ceab4",
-      "full_id": "9e9ceab4-aef3-44a8-8ab7-2ebd953a7608",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "download this skill - https://github.com/bradautomates/claude-video",
-      "last_user_msg": "https://www.youtube.com/watch?v=jv5Waz8EPIY https://www.youtube.com/watch?v=FsxorSNJBaA https://www.youtube.com/watch?v=nPWej_JtV4k https://www.youtube.com/watch?v=Vy9TF-vHzLU http\u2026",
-      "last_assistant_snippet": "Paste the video URL and any question you have about it (e.g. `https://youtu.be/abc what is being demonstrated here?`). Videos with native captions (most YouTube videos) will still \u2026",
-      "message_count": 31,
-      "file_size_kb": 139,
-      "modified_ts": 1777758684.4509542,
-      "modified_iso": "2026-05-02T17:51:24.450954",
-      "minutes_since_active": 0.2
-    },
     {
       "id": "6eb018b1",
       "full_id": "6eb018b1-8363-48e2-8137-dd3e5cf3e3d6",
@@ -32,12 +16,28 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "read these and give me a bullet list of things discussed to a non technical person and give me top 10 things we can implement from them. read them end to end, think deeply about it\u2026",
       "last_user_msg": "read these and give me a bullet list of things discussed to a non technical person and give me top 10 things we can implement from them. read them end to end, think deeply about it\u2026",
-      "last_assistant_snippet": "I'll fetch all three articles in parallel while loading the right web tool.",
-      "message_count": 5,
-      "file_size_kb": 79,
-      "modified_ts": 1777758680.2301478,
-      "modified_iso": "2026-05-02T17:51:20.230148",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "Read all three. Let me think through what they're actually saying before writing. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` These three articles form a triangle: Yegge #1 b\u2026",
+      "message_count": 15,
+      "file_size_kb": 136,
+      "modified_ts": 1777758793.761927,
+      "modified_iso": "2026-05-02T17:53:13.761927",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "9e9ceab4",
+      "full_id": "9e9ceab4-aef3-44a8-8ab7-2ebd953a7608",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "download this skill - https://github.com/bradautomates/claude-video",
+      "last_user_msg": "https://www.youtube.com/watch?v=jv5Waz8EPIY https://www.youtube.com/watch?v=FsxorSNJBaA https://www.youtube.com/watch?v=nPWej_JtV4k https://www.youtube.com/watch?v=Vy9TF-vHzLU http\u2026",
+      "last_assistant_snippet": "All 5 downloaded. Now extracting frames \u2014 these are 16-32 min videos so ffmpeg will take a moment.",
+      "message_count": 62,
+      "file_size_kb": 315,
+      "modified_ts": 1777758789.1295083,
+      "modified_iso": "2026-05-02T17:53:09.129508",
+      "minutes_since_active": 0.1
     },
     {
       "id": "b1ca3ff1",
@@ -53,12 +53,14 @@
       "file_size_kb": 294,
       "modified_ts": 1777758639.5036085,
       "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 1.0
-    },
+      "minutes_since_active": 2.7
+    }
+  ],
+  "recent": [
     {
       "id": "b89c72aa",
       "full_id": "b89c72aa-87e8-4bec-a629-c8320a62db3a",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,8 +71,7 @@
       "file_size_kb": 46,
       "modified_ts": 1777758415.6873257,
       "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 6.3
     }
-  ],
-  "recent": []
+  ]
 }
