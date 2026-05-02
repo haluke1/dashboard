@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T21:56:21Z",
+  "updated_at": "2026-05-02T21:57:25Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>b2ijts5hi</task-id> <tool-use-id>toolu_018wr7SHkjZxkYRHJXy9orUV</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9e9ceab4-aef3-44a8-8\u2026",
       "last_assistant_snippet": "All 5 done. Everything is extracted and sitting on disk. What's your call \u2014 transcripts only, one video with frames, or all 5?",
       "message_count": 70,
-      "file_size_kb": 336,
-      "modified_ts": 1777758815.7588496,
-      "modified_iso": "2026-05-02T17:53:35.758850",
-      "minutes_since_active": 2.8
+      "file_size_kb": 337,
+      "modified_ts": 1777758999.0015645,
+      "modified_iso": "2026-05-02T17:56:39.001565",
+      "minutes_since_active": 0.8
     },
     {
       "id": "6eb018b1",
@@ -34,10 +34,10 @@
       "last_user_msg": "read these and give me a bullet list of things discussed to a non technical person and give me top 10 things we can implement from them. read them end to end, think deeply about it\u2026",
       "last_assistant_snippet": "Read all three. Let me think through what they're actually saying before writing. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` These three articles form a triangle: Yegge #1 b\u2026",
       "message_count": 15,
-      "file_size_kb": 137,
-      "modified_ts": 1777758803.841657,
-      "modified_iso": "2026-05-02T17:53:23.841657",
-      "minutes_since_active": 3.0
+      "file_size_kb": 138,
+      "modified_ts": 1777758988.2734818,
+      "modified_iso": "2026-05-02T17:56:28.273482",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 294,
       "modified_ts": 1777758639.5036085,
       "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.8
     },
     {
       "id": "b89c72aa",
@@ -71,7 +71,7 @@
       "file_size_kb": 46,
       "modified_ts": 1777758415.6873257,
       "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 9.4
+      "minutes_since_active": 10.5
     }
   ]
 }
