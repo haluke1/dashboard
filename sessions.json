@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-05-02T06:53:39Z",
+  "updated_at": "2026-05-02T08:18:16Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 299,
+    "recent": 0,
+    "archived": 300,
     "total": 300
   },
   "active": [],
-  "recent": [
-    {
-      "id": "b7b919f7",
-      "full_id": "b7b919f7-4505-4381-b40e-efa47a6e4206",
-      "status": "recent",
-      "project": "/Users/halukgul/knowledge-system",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "The downloaded folder for this task is Notion Export.zip / # MASTER PROMPT: Knowledge Unit System \u2014 Notion Export Processing v2 ## MISSION Process an 854MB Notion export into a **c\u2026",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "Everything is built and ready. Here's the full picture: --- **What was wrong and what's fixed:** The 3K cap wasn't a tool limit \u2014 it was `content[:2000] + content[-1000:]` hardcode\u2026",
-      "message_count": 583,
-      "file_size_kb": 2370,
-      "modified_ts": 1777619878.2426224,
-      "modified_iso": "2026-05-01T03:17:58.242622",
-      "minutes_since_active": 1415.7
-    }
-  ]
+  "recent": []
 }
