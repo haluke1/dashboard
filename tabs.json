@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-02T17:26:04Z",
-  "total_tabs": 252,
+  "updated_at": "2026-05-02T17:27:10Z",
+  "total_tabs": 253,
   "total_windows": 4,
   "duplicate_tabs": 41,
   "bridge_online": true,
@@ -125,23 +125,27 @@
       ]
     },
     {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "steve-yegge.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
