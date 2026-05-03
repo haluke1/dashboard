@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T03:06:31Z",
+  "updated_at": "2026-05-03T03:07:23Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/humanizer # Humanizer: Remove AI Writing Patterns You are a writing editor that identifies and removes signs of AI-gen\u2026",
       "last_assistant_snippet": "Both files are in `~/Downloads/`: - `Script1_Oguz_Humanized.docx` - `Script2_Bahattin_Humanized.docx` **What the humanizer pass changed across both scripts:** | AI-tell removed | W\u2026",
       "message_count": 112,
-      "file_size_kb": 3429,
-      "modified_ts": 1777777590.006428,
-      "modified_iso": "2026-05-02T23:06:30.006428",
-      "minutes_since_active": 0.0
+      "file_size_kb": 3431,
+      "modified_ts": 1777777591.911635,
+      "modified_iso": "2026-05-02T23:06:31.911635",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 337,
       "modified_ts": 1777758999.0015645,
       "modified_iso": "2026-05-02T17:56:39.001565",
-      "minutes_since_active": 309.9
+      "minutes_since_active": 310.7
     },
     {
       "id": "6eb018b1",
@@ -55,7 +55,7 @@
       "file_size_kb": 138,
       "modified_ts": 1777758988.2734818,
       "modified_iso": "2026-05-02T17:56:28.273482",
-      "minutes_since_active": 310.0
+      "minutes_since_active": 310.9
     },
     {
       "id": "b1ca3ff1",
@@ -71,7 +71,7 @@
       "file_size_kb": 294,
       "modified_ts": 1777758639.5036085,
       "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 315.9
+      "minutes_since_active": 316.7
     },
     {
       "id": "b89c72aa",
@@ -87,7 +87,7 @@
       "file_size_kb": 46,
       "modified_ts": 1777758415.6873257,
       "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 319.6
+      "minutes_since_active": 320.5
     }
   ]
 }
