@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-03T02:54:55Z",
+  "updated_at": "2026-05-03T02:55:14Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 300,
     "total": 305
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7aea5211",
       "full_id": "7aea5211-2d73-497f-bdfc-342e47e36279",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "/Users/halukgul/Downloads/Task\\ for\\ Claude.docx analyze this document and ask me questions about the task before you give me a plan on how to execute it properly. i want to switch\u2026",
       "last_user_msg": "yes - scripts are separate from the paper. yes update bahattin's role. link thing works i can insert it. yeah i will present as real. this is a test scenario. yeah just small jokes\u2026",
-      "last_assistant_snippet": "Reading the Harvard PDFs for references, then writing everything at once.",
-      "message_count": 73,
-      "file_size_kb": 2950,
-      "modified_ts": 1777776225.994679,
-      "modified_iso": "2026-05-02T22:43:45.994679",
-      "minutes_since_active": 11.1
-    },
+      "last_assistant_snippet": "Got everything I need. Writing all three deliverables now \u2014 paper first, then both scripts. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The Bernstein & Ross structured interv\u2026",
+      "message_count": 75,
+      "file_size_kb": 3092,
+      "modified_ts": 1777776913.461654,
+      "modified_iso": "2026-05-02T22:55:13.461654",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "9e9ceab4",
       "full_id": "9e9ceab4-aef3-44a8-8ab7-2ebd953a7608",
@@ -38,7 +39,7 @@
       "file_size_kb": 337,
       "modified_ts": 1777758999.0015645,
       "modified_iso": "2026-05-02T17:56:39.001565",
-      "minutes_since_active": 298.3
+      "minutes_since_active": 298.6
     },
     {
       "id": "6eb018b1",
@@ -54,7 +55,7 @@
       "file_size_kb": 138,
       "modified_ts": 1777758988.2734818,
       "modified_iso": "2026-05-02T17:56:28.273482",
-      "minutes_since_active": 298.4
+      "minutes_since_active": 298.8
     },
     {
       "id": "b1ca3ff1",
@@ -70,7 +71,7 @@
       "file_size_kb": 294,
       "modified_ts": 1777758639.5036085,
       "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 304.3
+      "minutes_since_active": 304.6
     },
     {
       "id": "b89c72aa",
@@ -86,7 +87,7 @@
       "file_size_kb": 46,
       "modified_ts": 1777758415.6873257,
       "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 308.0
+      "minutes_since_active": 308.3
     }
   ]
 }
