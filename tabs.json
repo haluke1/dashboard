@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T02:58:15Z",
+  "updated_at": "2026-05-03T02:59:19Z",
   "total_tabs": 279,
   "total_windows": 4,
   "duplicate_tabs": 44,
@@ -46,15 +46,15 @@
           "count": 9
         },
         {
+          "domain": "vercel.com",
+          "count": 1
+        },
+        {
           "domain": "chatgpt.com",
           "count": 1
         },
         {
           "domain": "gist.github.com",
-          "count": 1
-        },
-        {
-          "domain": "vercel.com",
           "count": 1
         }
       ]
@@ -103,11 +103,11 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 9
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 9
         },
         {
