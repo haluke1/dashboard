@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T02:53:49Z",
-  "total_tabs": 275,
+  "updated_at": "2026-05-03T02:54:53Z",
+  "total_tabs": 276,
   "total_windows": 4,
   "duplicate_tabs": 44,
   "bridge_online": true,
@@ -46,15 +46,15 @@
           "count": 9
         },
         {
-          "domain": "vercel.com",
-          "count": 1
-        },
-        {
           "domain": "chatgpt.com",
           "count": 1
         },
         {
           "domain": "gist.github.com",
+          "count": 1
+        },
+        {
+          "domain": "vercel.com",
           "count": 1
         }
       ]
@@ -99,20 +99,20 @@
     },
     {
       "name": "productivity",
-      "count": 26,
+      "count": 27,
       "domain_count": 7,
       "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 9
-        },
         {
           "domain": "mail.google.com",
           "count": 9
         },
         {
+          "domain": "notion.so",
+          "count": 9
+        },
+        {
           "domain": "docs.google.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "toolbox.googleapps.com",
