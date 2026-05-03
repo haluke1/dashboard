@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-03T20:45:36Z",
+  "updated_at": "2026-05-03T22:03:30Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 300,
+    "recent": 1,
+    "archived": 304,
     "total": 305
   },
   "active": [],
@@ -22,71 +22,7 @@
       "file_size_kb": 3475,
       "modified_ts": 1777786628.285509,
       "modified_iso": "2026-05-03T01:37:08.285509",
-      "minutes_since_active": 908.5
-    },
-    {
-      "id": "9e9ceab4",
-      "full_id": "9e9ceab4-aef3-44a8-8ab7-2ebd953a7608",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "download this skill - https://github.com/bradautomates/claude-video",
-      "last_user_msg": "<task-notification> <task-id>b2ijts5hi</task-id> <tool-use-id>toolu_018wr7SHkjZxkYRHJXy9orUV</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9e9ceab4-aef3-44a8-8\u2026",
-      "last_assistant_snippet": "All 5 done. Everything is extracted and sitting on disk. What's your call \u2014 transcripts only, one video with frames, or all 5?",
-      "message_count": 70,
-      "file_size_kb": 337,
-      "modified_ts": 1777758999.0015645,
-      "modified_iso": "2026-05-02T17:56:39.001565",
-      "minutes_since_active": 1369.0
-    },
-    {
-      "id": "6eb018b1",
-      "full_id": "6eb018b1-8363-48e2-8137-dd3e5cf3e3d6",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "read these and give me a bullet list of things discussed to a non technical person and give me top 10 things we can implement from them. read them end to end, think deeply about it\u2026",
-      "last_user_msg": "read these and give me a bullet list of things discussed to a non technical person and give me top 10 things we can implement from them. read them end to end, think deeply about it\u2026",
-      "last_assistant_snippet": "Read all three. Let me think through what they're actually saying before writing. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` These three articles form a triangle: Yegge #1 b\u2026",
-      "message_count": 15,
-      "file_size_kb": 138,
-      "modified_ts": 1777758988.2734818,
-      "modified_iso": "2026-05-02T17:56:28.273482",
-      "minutes_since_active": 1369.1
-    },
-    {
-      "id": "b1ca3ff1",
-      "full_id": "b1ca3ff1-9c4c-4730-a23a-5b9f1cc292db",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "look at the session where we tried to get the notion zip organized correctly, problems we faced and how we can do a proper session today and make sure everything goes according to \u2026",
-      "last_user_msg": "look at the session where we tried to get the notion zip organized correctly, problems we faced and how we can do a proper session today and make sure everything goes according to \u2026",
-      "last_assistant_snippet": "`claude -p` auth confirmed working. Here's the full debrief and plan. --- ## What Happened Last Session (Root Causes) Think of the previous session like hiring 5 readers to summari\u2026",
-      "message_count": 68,
-      "file_size_kb": 294,
-      "modified_ts": 1777758639.5036085,
-      "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 1375.0
-    },
-    {
-      "id": "b89c72aa",
-      "full_id": "b89c72aa-87e8-4bec-a629-c8320a62db3a",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Say OK",
-      "last_user_msg": "Say OK",
-      "last_assistant_snippet": "OK",
-      "message_count": 3,
-      "file_size_kb": 46,
-      "modified_ts": 1777758415.6873257,
-      "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 1378.7
+      "minutes_since_active": 986.3
     }
   ]
 }
