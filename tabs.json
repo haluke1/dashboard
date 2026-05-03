@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-03T23:44:51Z",
-  "total_tabs": 275,
+  "updated_at": "2026-05-03T23:45:56Z",
+  "total_tabs": 276,
   "total_windows": 5,
-  "duplicate_tabs": 44,
+  "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
@@ -33,6 +33,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 34,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 34
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 32,
       "domain_count": 6,
@@ -56,17 +67,6 @@
         {
           "domain": "gist.github.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 32,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 32
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "productivity",
-      "count": 27,
+      "count": 26,
       "domain_count": 7,
       "top_domains": [
         {
@@ -108,7 +108,7 @@
         },
         {
           "domain": "mail.google.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "docs.google.com",
