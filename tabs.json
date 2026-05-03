@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-03T23:42:40Z",
-  "total_tabs": 287,
+  "updated_at": "2026-05-03T23:43:45Z",
+  "total_tabs": 282,
   "total_windows": 5,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 49,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 154,
-      "domain_count": 98,
+      "count": 152,
+      "domain_count": 97,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,7 +16,7 @@
         },
         {
           "domain": "elearning.villanova.edu",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "keep.google.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 33,
+      "count": 32,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 20
+          "count": 19
         },
         {
           "domain": "github.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 33,
+      "count": 32,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "productivity",
-      "count": 31,
+      "count": 30,
       "domain_count": 8,
       "top_domains": [
         {
@@ -112,7 +112,7 @@
         },
         {
           "domain": "docs.google.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "toolbox.googleapps.com",
