@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T05:03:41Z",
+  "updated_at": "2026-05-03T05:04:59Z",
   "total_tabs": 281,
   "total_windows": 4,
   "duplicate_tabs": 45,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 152,
+      "count": 151,
       "domain_count": 97,
       "top_domains": [
         {
@@ -29,6 +29,17 @@
         {
           "domain": "namecheap.com",
           "count": 4
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 33,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 33
         }
       ]
     },
@@ -56,17 +67,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 32,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 32
         }
       ]
     },
