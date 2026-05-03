@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-03T02:16:12Z",
+  "updated_at": "2026-05-03T02:19:02Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 4,
     "archived": 300,
-    "total": 304
+    "total": 305
   },
-  "active": [],
+  "active": [
+    {
+      "id": "7aea5211",
+      "full_id": "7aea5211-2d73-497f-bdfc-342e47e36279",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "/Users/halukgul/Downloads/Task\\ for\\ Claude.docx analyze this document and ask me questions about the task before you give me a plan on how to execute it properly. i want to switch\u2026",
+      "last_user_msg": "/Users/halukgul/Downloads/Task\\ for\\ Claude.docx analyze this document and ask me questions about the task before you give me a plan on how to execute it properly. i want to switch\u2026",
+      "last_assistant_snippet": "Let me read the context PDFs quickly to understand the class framework.",
+      "message_count": 15,
+      "file_size_kb": 205,
+      "modified_ts": 1777774715.659363,
+      "modified_iso": "2026-05-02T22:18:35.659363",
+      "minutes_since_active": 0.4
+    }
+  ],
   "recent": [
     {
       "id": "9e9ceab4",
@@ -22,7 +39,7 @@
       "file_size_kb": 337,
       "modified_ts": 1777758999.0015645,
       "modified_iso": "2026-05-02T17:56:39.001565",
-      "minutes_since_active": 259.5
+      "minutes_since_active": 262.4
     },
     {
       "id": "6eb018b1",
@@ -38,7 +55,7 @@
       "file_size_kb": 138,
       "modified_ts": 1777758988.2734818,
       "modified_iso": "2026-05-02T17:56:28.273482",
-      "minutes_since_active": 259.7
+      "minutes_since_active": 262.6
     },
     {
       "id": "b1ca3ff1",
@@ -54,7 +71,7 @@
       "file_size_kb": 294,
       "modified_ts": 1777758639.5036085,
       "modified_iso": "2026-05-02T17:50:39.503608",
-      "minutes_since_active": 265.5
+      "minutes_since_active": 268.4
     },
     {
       "id": "b89c72aa",
@@ -70,7 +87,7 @@
       "file_size_kb": 46,
       "modified_ts": 1777758415.6873257,
       "modified_iso": "2026-05-02T17:46:55.687326",
-      "minutes_since_active": 269.3
+      "minutes_since_active": 272.1
     }
   ]
 }
