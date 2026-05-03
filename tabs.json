@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-03T09:26:03Z",
-  "total_tabs": 284,
+  "updated_at": "2026-05-03T09:27:07Z",
+  "total_tabs": 285,
   "total_windows": 5,
-  "duplicate_tabs": 50,
+  "duplicate_tabs": 52,
   "bridge_online": true,
   "categories": [
     {
@@ -71,6 +71,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 31,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 14
+        },
+        {
+          "domain": "instagram.com",
+          "count": 6
+        },
+        {
+          "domain": "reddit.com",
+          "count": 4
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 31,
       "domain_count": 8,
@@ -94,33 +121,6 @@
         {
           "domain": "miro.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 30,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 13
-        },
-        {
-          "domain": "instagram.com",
-          "count": 6
-        },
-        {
-          "domain": "reddit.com",
-          "count": 4
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 3
-        },
-        {
-          "domain": "x.com",
-          "count": 2
         }
       ]
     },
