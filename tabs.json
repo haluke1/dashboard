@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-03T02:19:00Z",
-  "total_tabs": 270,
+  "updated_at": "2026-05-03T02:20:08Z",
+  "total_tabs": 274,
   "total_windows": 4,
   "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 146,
+      "count": 149,
       "domain_count": 95,
       "top_domains": [
         {
@@ -15,11 +15,11 @@
           "count": 12
         },
         {
-          "domain": "keep.google.com",
-          "count": 7
+          "domain": "elearning.villanova.edu",
+          "count": 8
         },
         {
-          "domain": "elearning.villanova.edu",
+          "domain": "keep.google.com",
           "count": 7
         },
         {
@@ -33,24 +33,13 @@
       ]
     },
     {
-      "name": "video",
-      "count": 32,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 32
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
-      "count": 31,
+      "count": 32,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 18
+          "count": 19
         },
         {
           "domain": "github.com",
@@ -67,6 +56,17 @@
         {
           "domain": "vercel.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 32,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 32
         }
       ]
     },
