@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-03T07:48:14Z",
-  "total_tabs": 280,
+  "updated_at": "2026-05-03T07:49:20Z",
+  "total_tabs": 245,
   "total_windows": 5,
-  "duplicate_tabs": 47,
+  "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 152,
-      "domain_count": 97,
+      "count": 133,
+      "domain_count": 83,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "elearning.villanova.edu",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "google.com",
@@ -34,16 +34,16 @@
     },
     {
       "name": "ai-dev",
-      "count": 32,
+      "count": 28,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 19
+          "count": 17
         },
         {
           "domain": "github.com",
-          "count": 9
+          "count": 7
         },
         {
           "domain": "vercel.com",
@@ -60,24 +60,13 @@
       ]
     },
     {
-      "name": "video",
-      "count": 32,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 32
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 30,
+      "count": 28,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 13
+          "count": 11
         },
         {
           "domain": "instagram.com",
@@ -99,16 +88,16 @@
     },
     {
       "name": "productivity",
-      "count": 29,
+      "count": 28,
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 9
         },
         {
-          "domain": "mail.google.com",
-          "count": 9
+          "domain": "notion.so",
+          "count": 8
         },
         {
           "domain": "docs.google.com",
@@ -125,31 +114,27 @@
       ]
     },
     {
-      "name": "research",
-      "count": 4,
-      "domain_count": 3,
+      "name": "video",
+      "count": 26,
+      "domain_count": 1,
       "top_domains": [
         {
-          "domain": "steve-yegge.medium.com",
-          "count": 2
-        },
+          "domain": "youtube.com",
+          "count": 26
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
         {
           "domain": "alt-5de826c99a8f3.blackboard.com",
           "count": 1
         },
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
           "count": 1
         }
       ]
