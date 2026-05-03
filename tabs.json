@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T05:29:15Z",
-  "total_tabs": 283,
+  "updated_at": "2026-05-03T05:34:53Z",
+  "total_tabs": 281,
   "total_windows": 4,
   "duplicate_tabs": 45,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 35,
+      "count": 33,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 35
+          "count": 33
         }
       ]
     },
@@ -57,15 +57,15 @@
           "count": 9
         },
         {
+          "domain": "vercel.com",
+          "count": 1
+        },
+        {
           "domain": "chatgpt.com",
           "count": 1
         },
         {
           "domain": "gist.github.com",
-          "count": 1
-        },
-        {
-          "domain": "vercel.com",
           "count": 1
         }
       ]
@@ -103,11 +103,11 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 9
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 9
         },
         {
