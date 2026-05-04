@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-04T03:46:53Z",
-  "total_tabs": 276,
-  "total_windows": 5,
+  "updated_at": "2026-05-04T03:47:58Z",
+  "total_tabs": 277,
+  "total_windows": 6,
   "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 151,
+      "count": 153,
       "domain_count": 97,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 12
+          "count": 13
         },
         {
           "domain": "elearning.villanova.edu",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 34,
+      "count": 33,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 34
+          "count": 33
         }
       ]
     },
