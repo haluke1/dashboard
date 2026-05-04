@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-05-04T05:36:39Z",
+  "updated_at": "2026-05-04T05:37:44Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 304,
+    "recent": 0,
+    "archived": 305,
     "total": 305
   },
   "active": [],
-  "recent": [
-    {
-      "id": "7aea5211",
-      "full_id": "7aea5211-2d73-497f-bdfc-342e47e36279",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "/Users/halukgul/Downloads/Task\\ for\\ Claude.docx analyze this document and ask me questions about the task before you give me a plan on how to execute it properly. i want to switch\u2026",
-      "last_user_msg": "you are sure that each conversation will be at least 15-20 minutes right?",
-      "last_assistant_snippet": "Yes, confidently. Both land between 19\u201326 minutes depending on pace: | Script | Words | Slow (100wpm) | Fast (120wpm) | |---|---|---|---| | Script 1 \u2014 Oguz | 2,333 | 23 min | 19 mi\u2026",
-      "message_count": 128,
-      "file_size_kb": 3475,
-      "modified_ts": 1777786628.285509,
-      "modified_iso": "2026-05-03T01:37:08.285509",
-      "minutes_since_active": 1439.5
-    }
-  ]
+  "recent": []
 }
