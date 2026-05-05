@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T15:43:59Z",
+  "updated_at": "2026-05-05T15:45:04Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 307
   },
   "active": [
+    {
+      "id": "71595298",
+      "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
+      "git_branch": "claude/gracious-diffie-0a1824",
+      "permission_mode": null,
+      "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
+      "last_user_msg": "in ckb master file, there is a presentation called process mapping. i want you to analyze it in detail, create an end to end document with all the details, create relevant graphics\u2026",
+      "last_assistant_snippet": "159MB is too large for sharing \u2014 the 15 uncompressed 2K images bloated it. Let me compress it.",
+      "message_count": 140,
+      "file_size_kb": 681,
+      "modified_ts": 1777995897.4605174,
+      "modified_iso": "2026-05-05T11:44:57.460517",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "0084f348",
       "full_id": "0084f348-f605-4f6c-b1dd-aecb38c9fcb6",
@@ -21,23 +37,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1.5
-    },
-    {
-      "id": "71595298",
-      "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
-      "git_branch": "claude/gracious-diffie-0a1824",
-      "permission_mode": null,
-      "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
-      "last_user_msg": "in ckb master file, there is a presentation called process mapping. i want you to analyze it in detail, create an end to end document with all the details, create relevant graphics\u2026",
-      "last_assistant_snippet": "All 15 images done. Now building the full PDF with all content faithfully transferred from the 67 slides.",
-      "message_count": 128,
-      "file_size_kb": 619,
-      "modified_ts": 1777995658.3413157,
-      "modified_iso": "2026-05-05T11:40:58.341316",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 2.6
     }
   ],
   "recent": []
