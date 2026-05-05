@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-05-05T14:33:50Z",
-  "total_tabs": 334,
+  "updated_at": "2026-05-05T14:34:56Z",
+  "total_tabs": 300,
   "total_windows": 5,
-  "duplicate_tabs": 113,
+  "duplicate_tabs": 48,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 185,
+      "count": 166,
       "domain_count": 106,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 13
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 8
+          "count": 12
         },
         {
           "domain": "elearning.villanova.edu",
           "count": 8
         },
         {
-          "domain": "higgsfield.ai",
-          "count": 5
+          "domain": "keep.google.com",
+          "count": 7
         },
         {
           "domain": "google.com",
           "count": 5
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 40,
+      "count": 34,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 40
+          "count": 34
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 37,
+      "count": 33,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 22
+          "count": 20
         },
         {
           "domain": "github.com",
-          "count": 11
+          "count": 9
         },
         {
           "domain": "vercel.com",
@@ -72,12 +72,12 @@
     },
     {
       "name": "productivity",
-      "count": 34,
+      "count": 33,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "notion.so",
-          "count": 10
+          "count": 9
         },
         {
           "domain": "docs.google.com",
@@ -99,12 +99,12 @@
     },
     {
       "name": "social",
-      "count": 30,
+      "count": 29,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 15
+          "count": 14
         },
         {
           "domain": "instagram.com",
@@ -126,12 +126,12 @@
     },
     {
       "name": "research",
-      "count": 6,
+      "count": 4,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
-          "count": 4
+          "count": 2
         },
         {
           "domain": "alt-5de826c99a8f3.blackboard.com",
@@ -145,12 +145,12 @@
     },
     {
       "name": "local",
-      "count": 2,
+      "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
-          "count": 2
+          "count": 1
         }
       ]
     }
