@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-05-05T14:11:06Z",
+  "updated_at": "2026-05-05T14:12:11Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 305,
     "total": 306
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
       "git_branch": "claude/gracious-diffie-0a1824",
       "permission_mode": null,
@@ -21,8 +22,7 @@
       "file_size_kb": 268,
       "modified_ts": 1777989966.8394933,
       "modified_iso": "2026-05-05T10:06:06.839493",
-      "minutes_since_active": 5.0
+      "minutes_since_active": 6.1
     }
-  ],
-  "recent": []
+  ]
 }
