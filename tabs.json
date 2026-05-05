@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-05T13:39:36Z",
-  "total_tabs": 293,
+  "updated_at": "2026-05-05T13:40:41Z",
+  "total_tabs": 291,
   "total_windows": 5,
   "duplicate_tabs": 46,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 160,
-      "domain_count": 104,
+      "count": 161,
+      "domain_count": 105,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -72,7 +72,7 @@
     },
     {
       "name": "productivity",
-      "count": 32,
+      "count": 30,
       "domain_count": 8,
       "top_domains": [
         {
@@ -85,26 +85,26 @@
         },
         {
           "domain": "docs.google.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "drive.google.com",
-          "count": 2
+          "domain": "miro.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 29,
+      "count": 28,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 15
+          "count": 14
         },
         {
           "domain": "reddit.com",
