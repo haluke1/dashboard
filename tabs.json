@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-05T18:34:05Z",
+  "updated_at": "2026-05-05T18:35:10Z",
   "total_tabs": 301,
   "total_windows": 5,
-  "duplicate_tabs": 51,
+  "duplicate_tabs": 50,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 168,
+      "count": 167,
       "domain_count": 106,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 7
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "google.com",
           "count": 5
         },
         {
-          "domain": "google.com",
-          "count": 5
+          "domain": "conceptkb.com",
+          "count": 4
         }
       ]
     },
@@ -99,12 +99,12 @@
     },
     {
       "name": "social",
-      "count": 28,
+      "count": 29,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 14
+          "count": 15
         },
         {
           "domain": "reddit.com",
