@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T20:32:41Z",
+  "updated_at": "2026-05-06T20:33:26Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -18,10 +18,10 @@
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "The webpage is open. Here's what's in it: --- **`/tmp/ckb-automation-plan.html`** \u2014 open and running in your browser. ## What the analysis found across 7 projects ($499K+ portfolio\u2026",
       "message_count": 64,
-      "file_size_kb": 4204,
-      "modified_ts": 1778099560.3206632,
-      "modified_iso": "2026-05-06T16:32:40.320663",
-      "minutes_since_active": 0.0
+      "file_size_kb": 4206,
+      "modified_ts": 1778099561.9233313,
+      "modified_iso": "2026-05-06T16:32:41.923331",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 16.7
+      "minutes_since_active": 17.5
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 152.2
+      "minutes_since_active": 153.0
     },
     {
       "id": "71595298",
@@ -71,7 +71,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 462.5
+      "minutes_since_active": 463.2
     },
     {
       "id": "e5ada063",
@@ -87,7 +87,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 486.1
+      "minutes_since_active": 486.9
     },
     {
       "id": "110846e7",
@@ -103,7 +103,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 486.5
+      "minutes_since_active": 487.2
     }
   ]
 }
