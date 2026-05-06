@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T20:08:56Z",
+  "updated_at": "2026-05-06T20:10:22Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "Page is open in your browser. Here's what it contains: **Structure:** - **Hero** \u2014 stats (12 videos, 3h+ runtime, 47 actionable items) - **Executive Summary** \u2014 6 load-bearing idea\u2026",
       "message_count": 71,
-      "file_size_kb": 1407,
-      "modified_ts": 1778098021.5037713,
-      "modified_iso": "2026-05-06T16:07:01.503771",
-      "minutes_since_active": 1.9
+      "file_size_kb": 1408,
+      "modified_ts": 1778098209.396835,
+      "modified_iso": "2026-05-06T16:10:09.396835",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 128.5
+      "minutes_since_active": 129.9
     },
     {
       "id": "71595298",
@@ -55,7 +55,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 438.7
+      "minutes_since_active": 440.2
     },
     {
       "id": "e5ada063",
@@ -71,7 +71,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 462.4
+      "minutes_since_active": 463.8
     },
     {
       "id": "110846e7",
@@ -87,7 +87,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 462.7
+      "minutes_since_active": 464.1
     }
   ]
 }
