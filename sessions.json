@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-06T19:54:03Z",
+  "updated_at": "2026-05-06T19:54:50Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 4,
     "archived": 306,
-    "total": 310
+    "total": 311
   },
-  "active": [],
+  "active": [
+    {
+      "id": "ec761377",
+      "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you use /watch and go over these videos, then give me a webpage of all the details from the videos, then things i can implement? -> https://www.youtube.com/watch?v=TnJDIoGyPG\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/claude-video # /watch \u2014 Claude watches a video You don't have a video input; this skill gives you one. A Python script\u2026",
+      "last_assistant_snippet": "Starting with the setup preflight check, then I'll process all 12 videos in parallel batches.",
+      "message_count": 12,
+      "file_size_kb": 97,
+      "modified_ts": 1778097286.412702,
+      "modified_iso": "2026-05-06T15:54:46.412702",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "7725a20d",
@@ -22,7 +39,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 113.6
+      "minutes_since_active": 114.3
     },
     {
       "id": "71595298",
@@ -38,7 +55,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 423.8
+      "minutes_since_active": 424.6
     },
     {
       "id": "e5ada063",
@@ -54,7 +71,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 447.5
+      "minutes_since_active": 448.3
     },
     {
       "id": "110846e7",
@@ -70,7 +87,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 447.8
+      "minutes_since_active": 448.6
     }
   ]
 }
