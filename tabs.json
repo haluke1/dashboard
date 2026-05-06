@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-06T18:32:05Z",
-  "total_tabs": 351,
+  "updated_at": "2026-05-06T18:33:10Z",
+  "total_tabs": 353,
   "total_windows": 4,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 202,
+      "count": 204,
       "domain_count": 119,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 8
         },
         {
-          "domain": "elearning.villanova.edu",
+          "domain": "google.com",
           "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 7
+          "domain": "elearning.villanova.edu",
+          "count": 8
         }
       ]
     },
