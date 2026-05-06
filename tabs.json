@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-06T19:38:32Z",
-  "total_tabs": 356,
+  "updated_at": "2026-05-06T19:44:14Z",
+  "total_tabs": 346,
   "total_windows": 4,
-  "duplicate_tabs": 54,
+  "duplicate_tabs": 51,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 206,
-      "domain_count": 119,
+      "count": 200,
+      "domain_count": 115,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,27 +19,27 @@
           "count": 9
         },
         {
-          "domain": "conceptkb.com",
-          "count": 8
-        },
-        {
           "domain": "google.com",
           "count": 8
         },
         {
           "domain": "elearning.villanova.edu",
           "count": 8
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 7
         }
       ]
     },
     {
       "name": "video",
-      "count": 50,
+      "count": 49,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 50
+          "count": 49
         }
       ]
     },
@@ -72,20 +72,20 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 31,
       "domain_count": 8,
       "top_domains": [
-        {
-          "domain": "notion.so",
-          "count": 9
-        },
         {
           "domain": "docs.google.com",
           "count": 9
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 8
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 7
         },
         {
           "domain": "toolbox.googleapps.com",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 25,
       "domain_count": 8,
       "top_domains": [
         {
@@ -112,7 +112,7 @@
         },
         {
           "domain": "instagram.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "x.com",
