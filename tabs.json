@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-05-06T12:44:29Z",
-  "total_tabs": 319,
+  "updated_at": "2026-05-06T12:45:34Z",
+  "total_tabs": 285,
   "total_windows": 5,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 49,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 181,
-      "domain_count": 113,
+      "count": 162,
+      "domain_count": 100,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 15
+          "count": 14
         },
         {
           "domain": "keep.google.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "elearning.villanova.edu",
@@ -34,16 +34,16 @@
     },
     {
       "name": "ai-dev",
-      "count": 36,
+      "count": 32,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 23
+          "count": 21
         },
         {
           "domain": "github.com",
-          "count": 9
+          "count": 7
         },
         {
           "domain": "vercel.com",
@@ -60,28 +60,17 @@
       ]
     },
     {
-      "name": "video",
-      "count": 34,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 34
-        }
-      ]
-    },
-    {
       "name": "productivity",
-      "count": 33,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "notion.so",
+          "domain": "docs.google.com",
           "count": 9
         },
         {
-          "domain": "docs.google.com",
-          "count": 9
+          "domain": "notion.so",
+          "count": 8
         },
         {
           "domain": "mail.google.com",
@@ -99,12 +88,12 @@
     },
     {
       "name": "social",
-      "count": 30,
+      "count": 29,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 16
+          "count": 15
         },
         {
           "domain": "reddit.com",
@@ -125,31 +114,27 @@
       ]
     },
     {
-      "name": "research",
-      "count": 4,
-      "domain_count": 3,
+      "name": "video",
+      "count": 28,
+      "domain_count": 1,
       "top_domains": [
         {
-          "domain": "steve-yegge.medium.com",
-          "count": 2
-        },
+          "domain": "youtube.com",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
         {
           "domain": "alt-5de826c99a8f3.blackboard.com",
           "count": 1
         },
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
           "count": 1
         }
       ]
