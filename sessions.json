@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T12:10:35Z",
+  "updated_at": "2026-05-06T12:11:12Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 309
   },
   "active": [
+    {
+      "id": "e5ada063",
+      "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/.claude/worktrees/eager-leakey-2eb360",
+      "git_branch": "claude/eager-leakey-2eb360",
+      "permission_mode": null,
+      "first_prompt": "bu\u0131ld a webs\u0131te w\u0131th vercel for conceptkb.com - make \u0131t fancy, cool and much better than what we have now. use profess\u0131onal des\u0131gn w\u0131th \u0131nformat\u0131ve th\u0131ngs and get v\u0131suals from the \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/subagent-driven-development # Subagent-Driven Development Exec\u2026",
+      "last_assistant_snippet": "Tasks 2-4 DONE. Build passes. Key note: Tailwind v4 (CSS-native) \u2014 tokens live in `globals.css` via `@theme`. Moving to Navbar + Footer + Layout.",
+      "message_count": 104,
+      "file_size_kb": 568,
+      "modified_ts": 1778069461.9319592,
+      "modified_iso": "2026-05-06T08:11:01.931959",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
@@ -21,7 +37,7 @@
       "file_size_kb": 1791,
       "modified_ts": 1778069433.8236508,
       "modified_iso": "2026-05-06T08:10:33.823651",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.6
     },
     {
       "id": "110846e7",
@@ -37,23 +53,7 @@
       "file_size_kb": 361,
       "modified_ts": 1778069299.702864,
       "modified_iso": "2026-05-06T08:08:19.702864",
-      "minutes_since_active": 2.3
-    },
-    {
-      "id": "e5ada063",
-      "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk/.claude/worktrees/eager-leakey-2eb360",
-      "git_branch": "claude/eager-leakey-2eb360",
-      "permission_mode": null,
-      "first_prompt": "bu\u0131ld a webs\u0131te w\u0131th vercel for conceptkb.com - make \u0131t fancy, cool and much better than what we have now. use profess\u0131onal des\u0131gn w\u0131th \u0131nformat\u0131ve th\u0131ngs and get v\u0131suals from the \u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/subagent-driven-development # Subagent-Driven Development Exec\u2026",
-      "last_assistant_snippet": "Task 1 \u2705 COMPLIANT. Marking done, firing Task 2.",
-      "message_count": 97,
-      "file_size_kb": 529,
-      "modified_ts": 1778069284.0484476,
-      "modified_iso": "2026-05-06T08:08:04.048448",
-      "minutes_since_active": 2.5
+      "minutes_since_active": 2.9
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1228.1
+      "minutes_since_active": 1228.7
     }
   ]
 }
