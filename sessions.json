@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-05-06T12:19:15Z",
+  "updated_at": "2026-05-06T12:20:21Z",
   "counts": {
-    "active": 1,
-    "recent": 3,
+    "active": 0,
+    "recent": 4,
     "archived": 305,
     "total": 309
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "e5ada063",
       "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/.claude/worktrees/eager-leakey-2eb360",
       "git_branch": "claude/eager-leakey-2eb360",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 624,
       "modified_ts": 1778069662.2577314,
       "modified_iso": "2026-05-06T08:14:22.257731",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "110846e7",
       "full_id": "110846e7-c0f1-4198-afcb-bc06ec273fc6",
@@ -39,7 +38,7 @@
       "file_size_kb": 1325,
       "modified_ts": 1778069564.6672406,
       "modified_iso": "2026-05-06T08:12:44.667241",
-      "minutes_since_active": 6.5
+      "minutes_since_active": 7.6
     },
     {
       "id": "71595298",
@@ -55,7 +54,7 @@
       "file_size_kb": 1791,
       "modified_ts": 1778069433.8236508,
       "modified_iso": "2026-05-06T08:10:33.823651",
-      "minutes_since_active": 8.7
+      "minutes_since_active": 9.8
     },
     {
       "id": "0084f348",
@@ -71,7 +70,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1236.8
+      "minutes_since_active": 1237.8
     }
   ]
 }
