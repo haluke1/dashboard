@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-06T15:51:00Z",
+  "updated_at": "2026-05-06T15:52:05Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 306,
     "total": 310
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7725a20d",
       "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Desktop/Zahid Stuff",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "go to zahid stuff folder, read the files with sub agents and give me a docx with all the details and whatnot. on a separate doc, give me your analysis of his plan realistically and\u2026",
-      "last_user_msg": "open docx too on 2 web pages",
+      "last_user_msg": "how much would lsa cost for us for 100 leads a month and would cost per lead drop as algo optimizes? what top things can i do to reduce cpl and how would \u0131t compare to just launch\u0131\u2026",
       "last_assistant_snippet": "All 3 are open in your browser now: - **Tab 1** \u2014 `01_SparkHub_Proposal_Summary.html` \u2014 Zahid's full proposal (navy header, clean document layout) - **Tab 2** \u2014 `02_Expert_Analysis\u2026",
-      "message_count": 135,
-      "file_size_kb": 9204,
-      "modified_ts": 1778080425.478096,
-      "modified_iso": "2026-05-06T11:13:45.478096",
-      "minutes_since_active": 37.2
-    },
+      "message_count": 136,
+      "file_size_kb": 9208,
+      "modified_ts": 1778082712.0061822,
+      "modified_iso": "2026-05-06T11:51:52.006182",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
@@ -38,7 +39,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 180.8
+      "minutes_since_active": 181.9
     },
     {
       "id": "e5ada063",
@@ -54,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 204.5
+      "minutes_since_active": 205.5
     },
     {
       "id": "110846e7",
@@ -70,7 +71,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 204.8
+      "minutes_since_active": 205.9
     }
   ]
 }
