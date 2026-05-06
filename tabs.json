@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-06T13:19:55Z",
-  "total_tabs": 322,
+  "updated_at": "2026-05-06T13:21:00Z",
+  "total_tabs": 323,
   "total_windows": 5,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 56,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 184,
+      "count": 185,
       "domain_count": 114,
       "top_domains": [
         {
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 35,
+      "count": 34,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 22
+          "count": 21
         },
         {
           "domain": "github.com",
@@ -99,12 +99,12 @@
     },
     {
       "name": "social",
-      "count": 31,
+      "count": 32,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 17
+          "count": 18
         },
         {
           "domain": "reddit.com",
