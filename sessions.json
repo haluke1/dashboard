@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T12:02:34Z",
+  "updated_at": "2026-05-06T12:02:44Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "and with parallel agents \u0131 want you to use russell branson and cl\u0131ckfunnels log\u0131c to bu\u0131ld 2 land\u0131ng pages for k\u0131tchen and bathroom separately - use hormoz\u0131's tact\u0131cs as well. look\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents # Dispatching Parallel Agents ## O\u2026",
-      "last_assistant_snippet": "Both pages are solid \u2014 43KB and 45KB of clean HTML, all brand elements present. Let me open them for a visual check.",
-      "message_count": 29,
-      "file_size_kb": 269,
-      "modified_ts": 1778068948.7677522,
-      "modified_iso": "2026-05-06T08:02:28.767752",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` **Why this structure converts better than a typical contractor page:** 1. **Every CTA follows an objection resolved** \u2014 the resear\u2026",
+      "message_count": 30,
+      "file_size_kb": 272,
+      "modified_ts": 1778068963.5425863,
+      "modified_iso": "2026-05-06T08:02:43.542586",
+      "minutes_since_active": 0.0
     },
     {
       "id": "71595298",
@@ -37,7 +37,7 @@
       "file_size_kb": 1602,
       "modified_ts": 1778068872.6236072,
       "modified_iso": "2026-05-06T08:01:12.623607",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 1.5
     },
     {
       "id": "e5ada063",
@@ -53,7 +53,7 @@
       "file_size_kb": 443,
       "modified_ts": 1778068829.9377286,
       "modified_iso": "2026-05-06T08:00:29.937729",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.2
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1220.1
+      "minutes_since_active": 1220.2
     }
   ]
 }
