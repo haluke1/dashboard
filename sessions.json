@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T11:56:07Z",
+  "updated_at": "2026-05-06T11:57:12Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,22 +7,6 @@
     "total": 309
   },
   "active": [
-    {
-      "id": "e5ada063",
-      "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk/.claude/worktrees/eager-leakey-2eb360",
-      "git_branch": "claude/eager-leakey-2eb360",
-      "permission_mode": null,
-      "first_prompt": "bu\u0131ld a webs\u0131te w\u0131th vercel for conceptkb.com - make \u0131t fancy, cool and much better than what we have now. use profess\u0131onal des\u0131gn w\u0131th \u0131nformat\u0131ve th\u0131ngs and get v\u0131suals from the \u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/writing-plans # Writing Plans ## Overview Write comprehensive \u2026",
-      "last_assistant_snippet": "Spec written and committed to [`docs/superpowers/specs/2026-05-06-conceptkb-website-design.md`](docs/superpowers/specs/2026-05-06-conceptkb-website-design.md). Quick review before \u2026",
-      "message_count": 66,
-      "file_size_kb": 252,
-      "modified_ts": 1778068540.6678226,
-      "modified_iso": "2026-05-06T07:55:40.667823",
-      "minutes_since_active": 0.5
-    },
     {
       "id": "110846e7",
       "full_id": "110846e7-c0f1-4198-afcb-bc06ec273fc6",
@@ -33,11 +17,27 @@
       "first_prompt": "and with parallel agents \u0131 want you to use russell branson and cl\u0131ckfunnels log\u0131c to bu\u0131ld 2 land\u0131ng pages for k\u0131tchen and bathroom separately - use hormoz\u0131's tact\u0131cs as well. look\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents # Dispatching Parallel Agents ## O\u2026",
       "last_assistant_snippet": "Using the dispatching-parallel-agents pattern. First, let me get strategic guidance and research in parallel \u2014 then build both pages concurrently.",
-      "message_count": 13,
-      "file_size_kb": 139,
-      "modified_ts": 1778068512.7118478,
-      "modified_iso": "2026-05-06T07:55:12.711848",
-      "minutes_since_active": 0.9
+      "message_count": 14,
+      "file_size_kb": 190,
+      "modified_ts": 1778068617.363211,
+      "modified_iso": "2026-05-06T07:56:57.363211",
+      "minutes_since_active": 0.2
+    },
+    {
+      "id": "e5ada063",
+      "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/.claude/worktrees/eager-leakey-2eb360",
+      "git_branch": "claude/eager-leakey-2eb360",
+      "permission_mode": null,
+      "first_prompt": "bu\u0131ld a webs\u0131te w\u0131th vercel for conceptkb.com - make \u0131t fancy, cool and much better than what we have now. use profess\u0131onal des\u0131gn w\u0131th \u0131nformat\u0131ve th\u0131ngs and get v\u0131suals from the \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/writing-plans # Writing Plans ## Overview Write comprehensive \u2026",
+      "last_assistant_snippet": "I'm using the writing-plans skill to create the implementation plan. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` For a marketing website, TDD is most valuable on the contact \u2026",
+      "message_count": 70,
+      "file_size_kb": 275,
+      "modified_ts": 1778068588.5849543,
+      "modified_iso": "2026-05-06T07:56:28.584954",
+      "minutes_since_active": 0.7
     },
     {
       "id": "71595298",
@@ -53,7 +53,7 @@
       "file_size_kb": 1534,
       "modified_ts": 1778068419.025133,
       "modified_iso": "2026-05-06T07:53:39.025133",
-      "minutes_since_active": 2.5
+      "minutes_since_active": 3.6
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1213.6
+      "minutes_since_active": 1214.7
     }
   ]
 }
