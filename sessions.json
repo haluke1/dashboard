@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-06T20:15:47Z",
+  "updated_at": "2026-05-06T20:16:02Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 306,
     "total": 311
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "ec761377",
       "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "could you use /watch and go over these videos, then give me a webpage of all the details from the videos, then things i can implement? -> https://www.youtube.com/watch?v=TnJDIoGyPG\u2026",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
+      "last_user_msg": "<local-command-stdout>See ya!</local-command-stdout>",
       "last_assistant_snippet": "Page is open in your browser. Here's what it contains: **Structure:** - **Hero** \u2014 stats (12 videos, 3h+ runtime, 47 actionable items) - **Executive Summary** \u2014 6 load-bearing idea\u2026",
-      "message_count": 71,
-      "file_size_kb": 1408,
-      "modified_ts": 1778098209.396835,
-      "modified_iso": "2026-05-06T16:10:09.396835",
-      "minutes_since_active": 5.6
-    },
+      "message_count": 74,
+      "file_size_kb": 1411,
+      "modified_ts": 1778098556.5108783,
+      "modified_iso": "2026-05-06T16:15:56.510878",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "7725a20d",
       "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
@@ -38,7 +39,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 135.3
+      "minutes_since_active": 135.5
     },
     {
       "id": "71595298",
@@ -54,7 +55,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 445.6
+      "minutes_since_active": 445.8
     },
     {
       "id": "e5ada063",
@@ -70,7 +71,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 469.2
+      "minutes_since_active": 469.5
     },
     {
       "id": "110846e7",
@@ -86,7 +87,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 469.6
+      "minutes_since_active": 469.8
     }
   ]
 }
