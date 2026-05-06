@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T12:31:18Z",
+  "updated_at": "2026-05-06T12:32:08Z",
   "counts": {
-    "active": 2,
-    "recent": 2,
+    "active": 1,
+    "recent": 3,
     "archived": 305,
     "total": 309
   },
@@ -15,18 +15,20 @@
       "git_branch": "claude/gracious-diffie-0a1824",
       "permission_mode": null,
       "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
-      "last_user_msg": "whats the progress on ceo haluk 1",
+      "last_user_msg": "bro what the fuck. use sub agents. how the fuck is dead. look at how many tokens \u0131t used. jesus fuck\u0131ng chr\u0131st. how the fuck you dont know these l\u0131m\u0131tat\u0131ons. stup\u0131d",
       "last_assistant_snippet": "Toolkit agent re-launched \u2014 this time with explicit Python generator approach so the token limit can't kill it. The HTML is built as Python strings and written to file, bypassing t\u2026",
-      "message_count": 236,
-      "file_size_kb": 1887,
-      "modified_ts": 1778070445.367659,
-      "modified_iso": "2026-05-06T08:27:25.367659",
-      "minutes_since_active": 3.9
-    },
+      "message_count": 240,
+      "file_size_kb": 1895,
+      "modified_ts": 1778070708.6409397,
+      "modified_iso": "2026-05-06T08:31:48.640940",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "e5ada063",
       "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/.claude/worktrees/eager-leakey-2eb360",
       "git_branch": "claude/eager-leakey-2eb360",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.6
+    },
     {
       "id": "110846e7",
       "full_id": "110846e7-c0f1-4198-afcb-bc06ec273fc6",
@@ -55,7 +55,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 5.9
     },
     {
       "id": "0084f348",
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1248.8
+      "minutes_since_active": 1249.6
     }
   ]
 }
