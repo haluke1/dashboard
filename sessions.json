@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-06T16:51:37Z",
+  "updated_at": "2026-05-06T16:52:41Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 306,
     "total": 310
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7725a20d",
       "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Desktop/Zahid Stuff",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "go to zahid stuff folder, read the files with sub agents and give me a docx with all the details and whatnot. on a separate doc, give me your analysis of his plan realistically and\u2026",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "The ROI Calculator is open. All 4 presentation files are now live in the browser: 1. **01** \u2014 SparkHub Proposal Summary (Zahid's full plan) 2. **02** \u2014 Expert Analysis & In-House P\u2026",
-      "message_count": 145,
-      "file_size_kb": 9410,
-      "modified_ts": 1778083097.8969579,
-      "modified_iso": "2026-05-06T11:58:17.896958",
-      "minutes_since_active": 53.3
-    },
+      "last_user_msg": "file:///Users/halukgul/Haluk/.claude/worktrees/amazing-bell-c0276b/conceptkb-kitchen.html / and file:///Users/halukgul/Haluk/.claude/worktrees/amazing-bell-c0276b/conceptkb-bathroo\u2026",
+      "last_assistant_snippet": "Vercel CLI is available. I'll set up a quick deploy folder and push it live.",
+      "message_count": 166,
+      "file_size_kb": 9453,
+      "modified_ts": 1778086357.9504793,
+      "modified_iso": "2026-05-06T12:52:37.950479",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
@@ -38,7 +39,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 241.4
+      "minutes_since_active": 242.5
     },
     {
       "id": "e5ada063",
@@ -54,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 265.1
+      "minutes_since_active": 266.1
     },
     {
       "id": "110846e7",
@@ -70,7 +71,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 265.4
+      "minutes_since_active": 266.5
     }
   ]
 }
