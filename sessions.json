@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T20:20:22Z",
+  "updated_at": "2026-05-06T20:21:26Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 1,
+    "recent": 5,
     "archived": 306,
     "total": 312
   },
@@ -16,17 +16,19 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents # Dispatching Parallel Agents ## O\u2026",
-      "last_assistant_snippet": "Excellent context. Now let me look inside one client's documentation folder plus read the remaining PDF pages.",
-      "message_count": 37,
-      "file_size_kb": 3755,
-      "modified_ts": 1778098762.2097719,
-      "modified_iso": "2026-05-06T16:19:22.209772",
-      "minutes_since_active": 1.0
-    },
+      "last_assistant_snippet": "I have the full picture now. Invoking advisor before the parallel dispatch to get strategic guidance on the automation approach.",
+      "message_count": 41,
+      "file_size_kb": 3776,
+      "modified_ts": 1778098852.1457353,
+      "modified_iso": "2026-05-06T16:20:52.145735",
+      "minutes_since_active": 0.6
+    }
+  ],
+  "recent": [
     {
       "id": "ec761377",
       "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 4.4
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.5
+    },
     {
       "id": "7725a20d",
       "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 139.9
+      "minutes_since_active": 141.0
     },
     {
       "id": "71595298",
@@ -71,7 +71,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 450.2
+      "minutes_since_active": 451.2
     },
     {
       "id": "e5ada063",
@@ -87,7 +87,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 473.8
+      "minutes_since_active": 474.9
     },
     {
       "id": "110846e7",
@@ -103,7 +103,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 474.2
+      "minutes_since_active": 475.2
     }
   ]
 }
