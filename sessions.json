@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-06T11:53:18Z",
+  "updated_at": "2026-05-06T11:53:57Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 3,
+    "recent": 1,
     "archived": 305,
-    "total": 308
+    "total": 309
   },
   "active": [
+    {
+      "id": "110846e7",
+      "full_id": "110846e7-c0f1-4198-afcb-bc06ec273fc6",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/.claude/worktrees/amazing-bell-c0276b",
+      "git_branch": "claude/amazing-bell-c0276b",
+      "permission_mode": null,
+      "first_prompt": "and with parallel agents \u0131 want you to use russell branson and cl\u0131ckfunnels log\u0131c to bu\u0131ld 2 land\u0131ng pages for k\u0131tchen and bathroom separately - use hormoz\u0131's tact\u0131cs as well. look\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents # Dispatching Parallel Agents ## O\u2026",
+      "last_assistant_snippet": "Using the dispatching-parallel-agents pattern. First, let me get strategic guidance and research in parallel \u2014 then build both pages concurrently.",
+      "message_count": 11,
+      "file_size_kb": 115,
+      "modified_ts": 1778068435.9161391,
+      "modified_iso": "2026-05-06T07:53:55.916139",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "e5ada063",
       "full_id": "e5ada063-8ff6-45e5-95d0-71a95ae5fb22",
@@ -16,31 +32,31 @@
       "permission_mode": null,
       "first_prompt": "bu\u0131ld a webs\u0131te w\u0131th vercel for conceptkb.com - make \u0131t fancy, cool and much better than what we have now. use profess\u0131onal des\u0131gn w\u0131th \u0131nformat\u0131ve th\u0131ngs and get v\u0131suals from the \u2026",
       "last_user_msg": "ok",
-      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` For home remodeling sites, the homepage does 80% of the conversion work \u2014 most visitors never scroll past it. The goal is: hero gr\u2026",
-      "message_count": 54,
-      "file_size_kb": 217,
-      "modified_ts": 1778068394.5839546,
-      "modified_iso": "2026-05-06T07:53:14.583955",
-      "minutes_since_active": 0.1
-    }
-  ],
-  "recent": [
+      "last_assistant_snippet": "Spec written and committed to [`docs/superpowers/specs/2026-05-06-conceptkb-website-design.md`](docs/superpowers/specs/2026-05-06-conceptkb-website-design.md). Quick review before \u2026",
+      "message_count": 61,
+      "file_size_kb": 240,
+      "modified_ts": 1778068435.1824422,
+      "modified_iso": "2026-05-06T07:53:55.182442",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
       "git_branch": "claude/gracious-diffie-0a1824",
       "permission_mode": null,
       "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
       "last_user_msg": "use context from conceptkb.com to generate 10 different pieces of very valuable content like product catalogues, a presentation for top keywords we can use and how we can rank high\u2026",
       "last_assistant_snippet": "Writing the toolkit in parts. Starting with the full HTML file:",
-      "message_count": 170,
-      "file_size_kb": 1533,
-      "modified_ts": 1778068072.5109076,
-      "modified_iso": "2026-05-06T07:47:52.510908",
-      "minutes_since_active": 5.4
-    },
+      "message_count": 171,
+      "file_size_kb": 1534,
+      "modified_ts": 1778068419.025133,
+      "modified_iso": "2026-05-06T07:53:39.025133",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "0084f348",
       "full_id": "0084f348-f605-4f6c-b1dd-aecb38c9fcb6",
@@ -55,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1210.8
+      "minutes_since_active": 1211.4
     }
   ]
 }
