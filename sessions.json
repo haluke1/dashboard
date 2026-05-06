@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-06T17:46:43Z",
+  "updated_at": "2026-05-06T17:48:18Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 306,
     "total": 310
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7725a20d",
       "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "go to zahid stuff folder, read the files with sub agents and give me a docx with all the details and whatnot. on a separate doc, give me your analysis of his plan realistically and\u2026",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_72FKgU/Screenshot 2026-05-06 at 12.58.14.png]",
-      "last_assistant_snippet": "All 63 images are now deployed. Send Manus these: - **Kitchen:** `https://ckb-strategy-deck.vercel.app/conceptkb-kitchen.html` - **Bathroom:** `https://ckb-strategy-deck.vercel.app\u2026",
-      "message_count": 191,
-      "file_size_kb": 9920,
-      "modified_ts": 1778086939.7623572,
-      "modified_iso": "2026-05-06T13:02:19.762357",
-      "minutes_since_active": 44.4
-    },
+      "last_user_msg": "/Users/halukgul/Downloads/claude-code-seo-audit-plan.md could you build this out and open it so i can compare the website i built with conceptkb.com ? look at other site analyzers \u2026",
+      "last_assistant_snippet": "Reading the plan first, then advisor before building.",
+      "message_count": 196,
+      "file_size_kb": 9968,
+      "modified_ts": 1778089682.374303,
+      "modified_iso": "2026-05-06T13:48:02.374303",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
@@ -38,7 +39,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 296.5
+      "minutes_since_active": 298.1
     },
     {
       "id": "e5ada063",
@@ -54,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 320.2
+      "minutes_since_active": 321.8
     },
     {
       "id": "110846e7",
@@ -70,7 +71,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 320.5
+      "minutes_since_active": 322.1
     }
   ]
 }
