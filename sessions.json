@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T14:32:12Z",
+  "updated_at": "2026-05-06T14:33:17Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Let me find the folder first so my questions are grounded in what's actually there.",
       "message_count": 4,
       "file_size_kb": 76,
-      "modified_ts": 1778077886.2692297,
-      "modified_iso": "2026-05-06T10:31:26.269230",
-      "minutes_since_active": 0.8
+      "modified_ts": 1778077977.549786,
+      "modified_iso": "2026-05-06T10:32:57.549786",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 102.0
+      "minutes_since_active": 103.1
     },
     {
       "id": "e5ada063",
@@ -55,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 125.7
+      "minutes_since_active": 126.7
     },
     {
       "id": "110846e7",
@@ -71,7 +71,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 126.0
+      "minutes_since_active": 127.1
     },
     {
       "id": "0084f348",
@@ -87,7 +87,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1369.7
+      "minutes_since_active": 1370.8
     }
   ]
 }
