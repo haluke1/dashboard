@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-06T15:08:46Z",
+  "updated_at": "2026-05-06T15:09:50Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 305,
     "total": 310
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7725a20d",
       "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Desktop/Zahid Stuff",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "go to zahid stuff folder, read the files with sub agents and give me a docx with all the details and whatnot. on a separate doc, give me your analysis of his plan realistically and\u2026",
-      "last_user_msg": "hes a random consult\u0131ng guy try\u0131ng to sell us serv\u0131ces but we can do \u0131t \u0131n house . he d\u0131d see \u0131t and want me to analyze \u0131t so we can do \u0131t \u0131n house . \u0131 am work\u0131ng \u0131n conceptdb . i \u2026",
+      "last_user_msg": "open docx too on 2 web pages",
       "last_assistant_snippet": "All 3 deliverables are live at `/Users/halukgul/Desktop/CKB Presentation/`: --- **01_SparkHub_Proposal_Summary.docx** (54KB) Everything Zahid proposed \u2014 all 4 documents faithfully \u2026",
-      "message_count": 125,
-      "file_size_kb": 9184,
-      "modified_ts": 1778079534.1509721,
-      "modified_iso": "2026-05-06T10:58:54.150972",
-      "minutes_since_active": 9.9
-    },
+      "message_count": 126,
+      "file_size_kb": 9185,
+      "modified_ts": 1778080179.0061507,
+      "modified_iso": "2026-05-06T11:09:39.006151",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "71595298",
       "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
@@ -38,7 +39,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 138.5
+      "minutes_since_active": 139.6
     },
     {
       "id": "e5ada063",
@@ -54,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 162.2
+      "minutes_since_active": 163.3
     },
     {
       "id": "110846e7",
@@ -70,7 +71,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 162.5
+      "minutes_since_active": 163.6
     },
     {
       "id": "0084f348",
@@ -86,7 +87,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1406.3
+      "minutes_since_active": 1407.3
     }
   ]
 }
