@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T12:22:33Z",
+  "updated_at": "2026-05-06T12:23:39Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -17,11 +17,11 @@
       "first_prompt": "and with parallel agents \u0131 want you to use russell branson and cl\u0131ckfunnels log\u0131c to bu\u0131ld 2 land\u0131ng pages for k\u0131tchen and bathroom separately - use hormoz\u0131's tact\u0131cs as well. look\u2026",
       "last_user_msg": "\u0131 can see \u0131n the bathroom land\u0131ng page but not \u0131n the k\u0131tchen land\u0131ng page",
       "last_assistant_snippet": "Let me read the kitchen file to find the issue.",
-      "message_count": 82,
-      "file_size_kb": 1370,
-      "modified_ts": 1778070147.711596,
-      "modified_iso": "2026-05-06T08:22:27.711596",
-      "minutes_since_active": 0.1
+      "message_count": 85,
+      "file_size_kb": 1377,
+      "modified_ts": 1778070210.4157972,
+      "modified_iso": "2026-05-06T08:23:30.415797",
+      "minutes_since_active": 0.2
     },
     {
       "id": "71595298",
@@ -37,7 +37,7 @@
       "file_size_kb": 1799,
       "modified_ts": 1778070093.3334754,
       "modified_iso": "2026-05-06T08:21:33.333475",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 2.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778069662.2577314,
       "modified_iso": "2026-05-06T08:14:22.257731",
-      "minutes_since_active": 8.2
+      "minutes_since_active": 9.3
     },
     {
       "id": "0084f348",
@@ -71,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1240.1
+      "minutes_since_active": 1241.2
     }
   ]
 }
