@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-06T14:31:08Z",
+  "updated_at": "2026-05-06T14:32:12Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 4,
     "archived": 305,
-    "total": 309
+    "total": 310
   },
-  "active": [],
+  "active": [
+    {
+      "id": "7725a20d",
+      "full_id": "7725a20d-628e-408c-a0cd-e4544d45d3f1",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "go to zahid stuff folder, read the files with sub agents and give me a docx with all the details and whatnot. on a separate doc, give me your analysis of his plan realistically and\u2026",
+      "last_user_msg": "go to zahid stuff folder, read the files with sub agents and give me a docx with all the details and whatnot. on a separate doc, give me your analysis of his plan realistically and\u2026",
+      "last_assistant_snippet": "Let me find the folder first so my questions are grounded in what's actually there.",
+      "message_count": 4,
+      "file_size_kb": 76,
+      "modified_ts": 1778077886.2692297,
+      "modified_iso": "2026-05-06T10:31:26.269230",
+      "minutes_since_active": 0.8
+    }
+  ],
   "recent": [
     {
       "id": "71595298",
@@ -22,7 +39,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 100.9
+      "minutes_since_active": 102.0
     },
     {
       "id": "e5ada063",
@@ -38,7 +55,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 124.6
+      "minutes_since_active": 125.7
     },
     {
       "id": "110846e7",
@@ -54,7 +71,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 124.9
+      "minutes_since_active": 126.0
     },
     {
       "id": "0084f348",
@@ -70,7 +87,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1368.6
+      "minutes_since_active": 1369.7
     }
   ]
 }
