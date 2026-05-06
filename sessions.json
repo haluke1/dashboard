@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-06T12:21:28Z",
+  "updated_at": "2026-05-06T12:21:37Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 305,
     "total": 309
   },
-  "active": [],
+  "active": [
+    {
+      "id": "71595298",
+      "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
+      "git_branch": "claude/gracious-diffie-0a1824",
+      "permission_mode": null,
+      "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
+      "last_user_msg": "<task-notification> <task-id>a4f0e37a7eea813ef</task-id> <tool-use-id>toolu_01Fu9LbTBLw98Wapupc2orYv</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk--claud\u2026",
+      "last_assistant_snippet": "**Kitchen landing page \u2713** \u2014 1,716 lines, 12 sections, open in browser. 2 of 3 done. Still waiting on the toolkit (CEO Haluk-1 \u2014 the biggest build, 10 full interactive sections). W\u2026",
+      "message_count": 225,
+      "file_size_kb": 1799,
+      "modified_ts": 1778070093.3334754,
+      "modified_iso": "2026-05-06T08:21:33.333475",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "e5ada063",
@@ -22,7 +39,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778069662.2577314,
       "modified_iso": "2026-05-06T08:14:22.257731",
-      "minutes_since_active": 7.1
+      "minutes_since_active": 7.3
     },
     {
       "id": "110846e7",
@@ -38,23 +55,7 @@
       "file_size_kb": 1325,
       "modified_ts": 1778069564.6672406,
       "modified_iso": "2026-05-06T08:12:44.667241",
-      "minutes_since_active": 8.7
-    },
-    {
-      "id": "71595298",
-      "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
-      "git_branch": "claude/gracious-diffie-0a1824",
-      "permission_mode": null,
-      "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
-      "last_user_msg": "<task-notification> <task-id>adbffa7cba2a3e0a1</task-id> <tool-use-id>toolu_01QyUBMEnk5NhjSaqGevHHxQ</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk--claud\u2026",
-      "last_assistant_snippet": "**Kitchen landing page \u2713** \u2014 1,716 lines, 12 sections, open in browser. 2 of 3 done. Still waiting on the toolkit (CEO Haluk-1 \u2014 the biggest build, 10 full interactive sections). W\u2026",
-      "message_count": 224,
-      "file_size_kb": 1791,
-      "modified_ts": 1778069433.8236508,
-      "modified_iso": "2026-05-06T08:10:33.823651",
-      "minutes_since_active": 10.9
+      "minutes_since_active": 8.9
     },
     {
       "id": "0084f348",
@@ -70,7 +71,7 @@
       "file_size_kb": 140,
       "modified_ts": 1777995750.4238229,
       "modified_iso": "2026-05-05T11:42:30.423823",
-      "minutes_since_active": 1239.0
+      "minutes_since_active": 1239.1
     }
   ]
 }
