@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-06T16:24:23Z",
-  "total_tabs": 343,
+  "updated_at": "2026-05-06T16:27:26Z",
+  "total_tabs": 339,
   "total_windows": 5,
   "duplicate_tabs": 52,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 194,
-      "domain_count": 115,
+      "count": 191,
+      "domain_count": 113,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,11 +23,11 @@
           "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 7
+          "domain": "conceptkb.com",
+          "count": 6
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "google.com",
           "count": 6
         }
       ]
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 36,
+      "count": 37,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "github.com",
@@ -99,8 +99,8 @@
     },
     {
       "name": "social",
-      "count": 27,
-      "domain_count": 8,
+      "count": 25,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -119,7 +119,7 @@
           "count": 2
         },
         {
-          "domain": "gtmetrix.com",
+          "domain": "web.whatsapp.com",
           "count": 2
         }
       ]
