@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T15:43:39Z",
+  "updated_at": "2026-05-07T15:44:43Z",
   "total_tabs": 339,
   "total_windows": 4,
   "duplicate_tabs": 51,
@@ -8,7 +8,7 @@
     {
       "name": "other",
       "count": 202,
-      "domain_count": 115,
+      "domain_count": 116,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 9
         },
         {
-          "domain": "google.com",
-          "count": 8
-        },
-        {
           "domain": "elearning.villanova.edu",
           "count": 8
         },
         {
           "domain": "conceptkb.com",
+          "count": 7
+        },
+        {
+          "domain": "google.com",
           "count": 7
         }
       ]
