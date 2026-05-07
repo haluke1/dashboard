@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:50:23Z",
+  "updated_at": "2026-05-07T14:50:39Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "All 7 done. Here's what you've got: --- **McGorrey Primary Bath \u2014 3 variations** - **V1 Carrara Marble** \u2014 Full marble floors + walls, frameless glass shower, floating vanity, back\u2026",
       "message_count": 512,
-      "file_size_kb": 6577,
-      "modified_ts": 1778165422.0784285,
-      "modified_iso": "2026-05-07T10:50:22.078429",
-      "minutes_since_active": 0.0
+      "file_size_kb": 6578,
+      "modified_ts": 1778165423.6698592,
+      "modified_iso": "2026-05-07T10:50:23.669859",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1114.4
+      "minutes_since_active": 1114.7
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1249.9
+      "minutes_since_active": 1250.2
     }
   ]
 }
