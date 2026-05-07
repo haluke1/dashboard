@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:27:50Z",
+  "updated_at": "2026-05-07T14:28:59Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -17,11 +17,11 @@
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "fuck no use the fucking mcp we built dumbass not the site",
       "last_assistant_snippet": "Got it \u2014 rough 2020 Design kitchen render. White shaker cabinets, island, two windows, matte black gooseneck faucet, beverage cooler. Needs materials applied. Now fixing the MCP au\u2026",
-      "message_count": 185,
-      "file_size_kb": 5293,
-      "modified_ts": 1778164021.2292876,
-      "modified_iso": "2026-05-07T10:27:01.229288",
-      "minutes_since_active": 0.8
+      "message_count": 186,
+      "file_size_kb": 5294,
+      "modified_ts": 1778164136.7946923,
+      "modified_iso": "2026-05-07T10:28:56.794692",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1091.9
+      "minutes_since_active": 1093.0
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1227.4
+      "minutes_since_active": 1228.5
     }
   ]
 }
