@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T04:18:04Z",
+  "updated_at": "2026-05-07T04:19:01Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "do you think if i feed you enough examples you could somewhat fill in the excel sheet automatically or do you think it would make more sense to give me direct suggestions of what t\u2026",
-      "last_assistant_snippet": "Open in your browser. Here's what's in it: --- **`/tmp/ckb-pricing-mastery.html`** \u2014 8 sections, fully interactive. **What the guide covers:** 1. **The Document Pipeline** \u2014 Shows \u2026",
-      "message_count": 114,
-      "file_size_kb": 4700,
-      "modified_ts": 1778127470.7513084,
-      "modified_iso": "2026-05-07T00:17:50.751308",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The reason \"feed more examples\" has a ceiling: proposals only show the **total** \u2014 not the labor breakdown. No matter how many pro\u2026",
+      "message_count": 118,
+      "file_size_kb": 4721,
+      "modified_ts": 1778127540.127774,
+      "modified_iso": "2026-05-07T00:19:00.127774",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 482.0
+      "minutes_since_active": 483.1
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 617.5
+      "minutes_since_active": 618.5
     },
     {
       "id": "71595298",
@@ -71,7 +71,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 927.8
+      "minutes_since_active": 928.8
     },
     {
       "id": "e5ada063",
@@ -87,7 +87,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 951.5
+      "minutes_since_active": 952.5
     },
     {
       "id": "110846e7",
@@ -103,7 +103,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 951.8
+      "minutes_since_active": 952.8
     }
   ]
 }
