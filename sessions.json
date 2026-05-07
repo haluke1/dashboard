@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-07T20:23:24Z",
+  "updated_at": "2026-05-07T20:25:18Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 311,
     "total": 313
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "0d5d697a",
       "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you access blender with mcp server now",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_FIPvyr/Screenshot 2026-05-07 at 15.12.13.png]",
-      "last_assistant_snippet": "Full bathroom in one frame. Here's what's rendering: - **Left**: Shower stall with glass walls, chrome frame, spray bar, and niche shelves - **Center**: Open floor space with tiled\u2026",
-      "message_count": 154,
-      "file_size_kb": 7794,
-      "modified_ts": 1778182367.0089571,
-      "modified_iso": "2026-05-07T15:32:47.008957",
-      "minutes_since_active": 50.6
-    },
+      "last_user_msg": "open the photo",
+      "last_assistant_snippet": "Opened in Preview. Let me know if you want changes \u2014 higher quality render, different angle, or more detail added.",
+      "message_count": 159,
+      "file_size_kb": 7800,
+      "modified_ts": 1778185517.1403985,
+      "modified_iso": "2026-05-07T16:25:17.140399",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "799069d6",
       "full_id": "799069d6-e8ac-4bb2-83e8-4b2295b12345",
@@ -38,7 +39,7 @@
       "file_size_kb": 9957,
       "modified_ts": 1778176505.645152,
       "modified_iso": "2026-05-07T13:55:05.645152",
-      "minutes_since_active": 148.3
+      "minutes_since_active": 150.2
     }
   ]
 }
