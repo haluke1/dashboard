@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-07T12:50:12Z",
+  "updated_at": "2026-05-07T12:51:17Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 308,
+    "recent": 3,
+    "archived": 309,
     "total": 312
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4723,
       "modified_ts": 1778127724.7400982,
       "modified_iso": "2026-05-07T00:22:04.740098",
-      "minutes_since_active": 508.1
+      "minutes_since_active": 509.2
     },
     {
       "id": "ec761377",
@@ -38,7 +38,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 994.3
+      "minutes_since_active": 995.3
     },
     {
       "id": "7725a20d",
@@ -54,23 +54,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1129.7
-    },
-    {
-      "id": "71595298",
-      "full_id": "71595298-89ff-471b-8912-4e033fb9e5e2",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk/.claude/worktrees/gracious-diffie-0a1824",
-      "git_branch": "claude/gracious-diffie-0a1824",
-      "permission_mode": null,
-      "first_prompt": "use higgsfield mcp to generate 16 different types of visuals for https://conceptkb.com/ - analyze the company, understand the logic, give me multiple types of social media posts, d\u2026",
-      "last_user_msg": "<task-notification> <task-id>ace77d642b1a45aff</task-id> <tool-use-id>toolu_01Q55rUYwoVsByrSPpgLCvZC</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk--claud\u2026",
-      "last_assistant_snippet": "That's the old zombie agent from the first failed attempt \u2014 it finally died after 22 minutes. Irrelevant. The toolkit was already built correctly via the 10 parallel micro-agents a\u2026",
-      "message_count": 323,
-      "file_size_kb": 2268,
-      "modified_ts": 1778071813.3344972,
-      "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 1440.0
+      "minutes_since_active": 1130.8
     }
   ]
 }
