@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:40:56Z",
+  "updated_at": "2026-05-07T14:42:01Z",
   "total_tabs": 341,
   "total_windows": 4,
   "duplicate_tabs": 51,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 203,
+      "count": 204,
       "domain_count": 116,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "google.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "elearning.villanova.edu",
@@ -72,7 +72,7 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
         {
@@ -88,11 +88,11 @@
           "count": 7
         },
         {
-          "domain": "drive.google.com",
-          "count": 3
+          "domain": "toolbox.googleapps.com",
+          "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "drive.google.com",
           "count": 2
         }
       ]
