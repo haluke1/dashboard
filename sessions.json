@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T17:47:02Z",
+  "updated_at": "2026-05-07T17:47:11Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "okey i logged in",
       "last_assistant_snippet": "Done. All 4 using the floor plan as reference, correct layout (vanity left, toilet back-left, shower right), 4 distinct styles: 1. **Japandi Travertine** \u2014 oak vanity, travertine w\u2026",
       "message_count": 890,
-      "file_size_kb": 9192,
-      "modified_ts": 1778176020.3133116,
-      "modified_iso": "2026-05-07T13:47:00.313312",
-      "minutes_since_active": 0.0
+      "file_size_kb": 9193,
+      "modified_ts": 1778176022.34045,
+      "modified_iso": "2026-05-07T13:47:02.340450",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1291.1
+      "minutes_since_active": 1291.2
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1426.5
+      "minutes_since_active": 1426.7
     }
   ]
 }
