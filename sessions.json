@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:42:03Z",
+  "updated_at": "2026-05-07T14:43:07Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "The CDP target object uses `webSocketDebuggerUrl`, not `debuggerUrl`:",
-      "message_count": 362,
-      "file_size_kb": 5930,
-      "modified_ts": 1778164920.3366017,
-      "modified_iso": "2026-05-07T10:42:00.336602",
+      "last_assistant_snippet": "Auth works end-to-end. Now restart the MCP server and verify via the MCP tool:",
+      "message_count": 380,
+      "file_size_kb": 5986,
+      "modified_ts": 1778164985.5889199,
+      "modified_iso": "2026-05-07T10:43:05.588920",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1106.1
+      "minutes_since_active": 1107.2
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1241.6
+      "minutes_since_active": 1242.6
     }
   ]
 }
