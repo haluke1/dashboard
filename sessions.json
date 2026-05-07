@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-07T16:00:56Z",
+  "updated_at": "2026-05-07T16:02:02Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 309,
     "total": 312
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "799069d6",
       "full_id": "799069d6-e8ac-4bb2-83e8-4b2295b12345",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/higgsfield_pkg",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
-      "last_user_msg": "open folder",
-      "last_assistant_snippet": "Done.",
-      "message_count": 783,
-      "file_size_kb": 7719,
-      "modified_ts": 1778167555.9892998,
-      "modified_iso": "2026-05-07T11:25:55.989300",
-      "minutes_since_active": 35.0
-    },
+      "last_user_msg": "okey where is the diagram with the measures i wanted to see the measures and everything wtf are these",
+      "last_assistant_snippet": "The floor plan has all the dimensions \u2014 I generated renders instead of a clean diagram. Let me create a proper one.",
+      "message_count": 792,
+      "file_size_kb": 8412,
+      "modified_ts": 1778169710.2067409,
+      "modified_iso": "2026-05-07T12:01:50.206741",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "ec761377",
       "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
@@ -38,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1185.0
+      "minutes_since_active": 1186.1
     },
     {
       "id": "7725a20d",
@@ -54,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1320.5
+      "minutes_since_active": 1321.5
     }
   ]
 }
