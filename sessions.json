@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-05-07T17:59:20Z",
+  "updated_at": "2026-05-07T18:00:25Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 0,
+    "recent": 3,
     "archived": 309,
     "total": 312
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "799069d6",
       "full_id": "799069d6-e8ac-4bb2-83e8-4b2295b12345",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/higgsfield_pkg",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 9957,
       "modified_ts": 1778176505.645152,
       "modified_iso": "2026-05-07T13:55:05.645152",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "ec761377",
       "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
@@ -39,7 +38,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1303.4
+      "minutes_since_active": 1304.5
     },
     {
       "id": "7725a20d",
@@ -55,7 +54,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1438.9
+      "minutes_since_active": 1439.9
     }
   ]
 }
