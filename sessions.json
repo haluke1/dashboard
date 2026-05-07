@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:47:25Z",
+  "updated_at": "2026-05-07T14:48:29Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "`wait: false` works. Firing the remaining 6 in parallel:",
-      "message_count": 456,
-      "file_size_kb": 6103,
-      "modified_ts": 1778165235.731471,
-      "modified_iso": "2026-05-07T10:47:15.731471",
+      "last_assistant_snippet": "All 7 submitted. Polling for completions:",
+      "message_count": 479,
+      "file_size_kb": 6149,
+      "modified_ts": 1778165303.5876274,
+      "modified_iso": "2026-05-07T10:48:23.587627",
       "minutes_since_active": 0.1
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1111.5
+      "minutes_since_active": 1112.5
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1246.9
+      "minutes_since_active": 1248.0
     }
   ]
 }
