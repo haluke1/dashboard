@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T04:00:04Z",
+  "updated_at": "2026-05-07T04:00:38Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -18,10 +18,10 @@
       "last_user_msg": "i want you to find patterns that are in the proposal or spec sheet and how they get accounted for \u0131n the excel. for example \u0131t says \"bathroom floor w\u0131ll have t\u0131les\" and \u0131n excel th\u2026",
       "last_assistant_snippet": "Open in your browser. Here's what's in it: --- **`/tmp/ckb-pricing-mastery.html`** \u2014 8 sections, fully interactive. **What the guide covers:** 1. **The Document Pipeline** \u2014 Shows \u2026",
       "message_count": 113,
-      "file_size_kb": 4694,
-      "modified_ts": 1778126402.641836,
-      "modified_iso": "2026-05-07T00:00:02.641836",
-      "minutes_since_active": 0.0
+      "file_size_kb": 4696,
+      "modified_ts": 1778126404.8144975,
+      "modified_iso": "2026-05-07T00:00:04.814497",
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 464.1
+      "minutes_since_active": 464.7
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 599.6
+      "minutes_since_active": 600.1
     },
     {
       "id": "71595298",
@@ -71,7 +71,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 909.8
+      "minutes_since_active": 910.4
     },
     {
       "id": "e5ada063",
@@ -87,7 +87,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 933.5
+      "minutes_since_active": 934.1
     },
     {
       "id": "110846e7",
@@ -103,7 +103,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 933.8
+      "minutes_since_active": 934.4
     }
   ]
 }

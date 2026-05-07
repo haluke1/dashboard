@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-07T03:59:25Z",
-  "total_tabs": 341,
+  "updated_at": "2026-05-07T04:00:34Z",
+  "total_tabs": 365,
   "total_windows": 4,
-  "duplicate_tabs": 51,
+  "duplicate_tabs": 195,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 201,
-      "domain_count": 115,
+      "count": 212,
+      "domain_count": 94,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 21
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 9
-        },
-        {
-          "domain": "google.com",
-          "count": 8
+          "count": 30
         },
         {
           "domain": "elearning.villanova.edu",
+          "count": 14
+        },
+        {
+          "domain": "google.com",
+          "count": 9
+        },
+        {
+          "domain": "keep.google.com",
           "count": 8
         },
         {
           "domain": "conceptkb.com",
-          "count": 7
+          "count": 6
         }
       ]
     },
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 36,
-      "domain_count": 6,
+      "count": 42,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -54,38 +54,38 @@
         },
         {
           "domain": "github.com",
-          "count": 9
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
+          "count": 14
         },
         {
           "domain": "chatgpt.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "gist.github.com",
+          "count": 2
+        },
+        {
+          "domain": "vercel.com",
           "count": 1
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 32,
+      "count": 42,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 9
+          "count": 15
         },
         {
           "domain": "notion.so",
-          "count": 8
+          "count": 11
         },
         {
           "domain": "mail.google.com",
-          "count": 7
+          "count": 8
         },
         {
           "domain": "drive.google.com",
@@ -99,8 +99,8 @@
     },
     {
       "name": "social",
-      "count": 23,
-      "domain_count": 7,
+      "count": 20,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -111,23 +111,23 @@
           "count": 4
         },
         {
+          "domain": "web.whatsapp.com",
+          "count": 2
+        },
+        {
           "domain": "instagram.com",
-          "count": 3
+          "count": 2
         },
         {
           "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 2
+          "count": 1
         }
       ]
     },
     {
       "name": "research",
       "count": 4,
-      "domain_count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
@@ -135,11 +135,7 @@
         },
         {
           "domain": "alt-5de826c99a8f3.blackboard.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
+          "count": 2
         }
       ]
     },
