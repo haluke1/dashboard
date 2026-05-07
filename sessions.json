@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-07T20:15:51Z",
+  "updated_at": "2026-05-07T20:16:56Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 310,
+    "recent": 2,
+    "archived": 311,
     "total": 313
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 7794,
       "modified_ts": 1778182367.0089571,
       "modified_iso": "2026-05-07T15:32:47.008957",
-      "minutes_since_active": 43.1
+      "minutes_since_active": 44.1
     },
     {
       "id": "799069d6",
@@ -38,23 +38,7 @@
       "file_size_kb": 9957,
       "modified_ts": 1778176505.645152,
       "modified_iso": "2026-05-07T13:55:05.645152",
-      "minutes_since_active": 140.8
-    },
-    {
-      "id": "ec761377",
-      "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you use /watch and go over these videos, then give me a webpage of all the details from the videos, then things i can implement? -> https://www.youtube.com/watch?v=TnJDIoGyPG\u2026",
-      "last_user_msg": "<local-command-stdout>See ya!</local-command-stdout>",
-      "last_assistant_snippet": "Page is open in your browser. Here's what it contains: **Structure:** - **Hero** \u2014 stats (12 videos, 3h+ runtime, 47 actionable items) - **Executive Summary** \u2014 6 load-bearing idea\u2026",
-      "message_count": 74,
-      "file_size_kb": 1411,
-      "modified_ts": 1778098556.5108783,
-      "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1439.9
+      "minutes_since_active": 141.8
     }
   ]
 }
