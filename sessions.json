@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T15:22:52Z",
+  "updated_at": "2026-05-07T15:23:01Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "open folder",
       "last_assistant_snippet": "Done.",
       "message_count": 783,
-      "file_size_kb": 7718,
-      "modified_ts": 1778167371.3550334,
-      "modified_iso": "2026-05-07T11:22:51.355033",
-      "minutes_since_active": 0.0
+      "file_size_kb": 7719,
+      "modified_ts": 1778167372.9630897,
+      "modified_iso": "2026-05-07T11:22:52.963090",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1146.9
+      "minutes_since_active": 1147.1
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1282.4
+      "minutes_since_active": 1282.5
     }
   ]
 }
