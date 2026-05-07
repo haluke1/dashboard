@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T17:56:03Z",
-  "total_tabs": 344,
+  "updated_at": "2026-05-07T17:57:08Z",
+  "total_tabs": 343,
   "total_windows": 4,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 51,
   "bridge_online": true,
   "categories": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
         {
@@ -88,11 +88,11 @@
           "count": 7
         },
         {
-          "domain": "drive.google.com",
-          "count": 3
+          "domain": "toolbox.googleapps.com",
+          "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "drive.google.com",
           "count": 2
         }
       ]
