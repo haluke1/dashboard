@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T03:58:22Z",
+  "updated_at": "2026-05-07T03:59:29Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -17,11 +17,11 @@
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "i want you to find patterns that are in the proposal or spec sheet and how they get accounted for \u0131n the excel. for example \u0131t says \"bathroom floor w\u0131ll have t\u0131les\" and \u0131n excel th\u2026",
       "last_assistant_snippet": "I have everything I need: complete proposals from TOBIN ($132,600 kitchen) and REISLER ($29,800 bathroom), plus the full onboarding manual with pricing logic. Now building the webp\u2026",
-      "message_count": 107,
-      "file_size_kb": 4500,
-      "modified_ts": 1778126006.0499153,
-      "modified_iso": "2026-05-06T23:53:26.049915",
-      "minutes_since_active": 4.9
+      "message_count": 109,
+      "file_size_kb": 4595,
+      "modified_ts": 1778126367.0486732,
+      "modified_iso": "2026-05-06T23:59:27.048673",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 462.4
+      "minutes_since_active": 463.5
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 597.9
+      "minutes_since_active": 599.0
     },
     {
       "id": "71595298",
@@ -71,7 +71,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 908.2
+      "minutes_since_active": 909.3
     },
     {
       "id": "e5ada063",
@@ -87,7 +87,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 931.8
+      "minutes_since_active": 932.9
     },
     {
       "id": "110846e7",
@@ -103,7 +103,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 932.2
+      "minutes_since_active": 933.3
     }
   ]
 }
