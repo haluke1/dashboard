@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-07T19:07:21Z",
+  "updated_at": "2026-05-07T19:07:35Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 2,
     "archived": 310,
-    "total": 312
+    "total": 313
   },
-  "active": [],
+  "active": [
+    {
+      "id": "0d5d697a",
+      "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you access blender with mcp server now",
+      "last_user_msg": "can you access blender with mcp server now",
+      "last_assistant_snippet": "No Blender MCP server is currently configured in your setup. The MCP servers you have active are tools like Exa, ElevenLabs, Notion, Higgsfield, Google Drive, Vercel, etc. \u2014 no Ble\u2026",
+      "message_count": 3,
+      "file_size_kb": 69,
+      "modified_ts": 1778180853.8386579,
+      "modified_iso": "2026-05-07T15:07:33.838658",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "799069d6",
@@ -22,7 +39,7 @@
       "file_size_kb": 9957,
       "modified_ts": 1778176505.645152,
       "modified_iso": "2026-05-07T13:55:05.645152",
-      "minutes_since_active": 72.2
+      "minutes_since_active": 72.5
     },
     {
       "id": "ec761377",
@@ -38,7 +55,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1371.4
+      "minutes_since_active": 1371.6
     }
   ]
 }
