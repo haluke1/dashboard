@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T12:17:46Z",
-  "total_tabs": 338,
+  "updated_at": "2026-05-07T12:20:18Z",
+  "total_tabs": 339,
   "total_windows": 4,
   "duplicate_tabs": 51,
   "bridge_online": true,
@@ -72,16 +72,16 @@
     },
     {
       "name": "productivity",
-      "count": 32,
+      "count": 33,
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "docs.google.com",
+          "domain": "notion.so",
           "count": 9
         },
         {
-          "domain": "notion.so",
-          "count": 8
+          "domain": "docs.google.com",
+          "count": 9
         },
         {
           "domain": "mail.google.com",
