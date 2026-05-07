@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:32:14Z",
+  "updated_at": "2026-05-07T14:33:20Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -17,11 +17,11 @@
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "fucking hell im tired of this shit where i gotta explain everything every session what the fuck.",
       "last_assistant_snippet": "The decryption has garbage prefix bytes. The actual JWT starts at `eyJ` \u2014 let me extract it properly.",
-      "message_count": 228,
-      "file_size_kb": 5410,
-      "modified_ts": 1778164312.2309644,
-      "modified_iso": "2026-05-07T10:31:52.230964",
-      "minutes_since_active": 0.4
+      "message_count": 231,
+      "file_size_kb": 5420,
+      "modified_ts": 1778164346.4848537,
+      "modified_iso": "2026-05-07T10:32:26.484854",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1096.3
+      "minutes_since_active": 1097.4
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1231.7
+      "minutes_since_active": 1232.8
     }
   ]
 }
