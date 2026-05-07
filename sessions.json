@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T14:31:09Z",
+  "updated_at": "2026-05-07T14:32:14Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -11,17 +11,17 @@
       "id": "799069d6",
       "full_id": "799069d6-e8ac-4bb2-83e8-4b2295b12345",
       "status": "active",
-      "project": "/Users/halukgul",
+      "project": "/Users/halukgul/higgsfield_pkg",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "fucking hell im tired of this shit where i gotta explain everything every session what the fuck.",
-      "last_assistant_snippet": "You're right, I'm sorry. Let me find what you built instead of fumbling with the official one.",
-      "message_count": 217,
-      "file_size_kb": 5384,
-      "modified_ts": 1778164260.261079,
-      "modified_iso": "2026-05-07T10:31:00.261079",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "The decryption has garbage prefix bytes. The actual JWT starts at `eyJ` \u2014 let me extract it properly.",
+      "message_count": 228,
+      "file_size_kb": 5410,
+      "modified_ts": 1778164312.2309644,
+      "modified_iso": "2026-05-07T10:31:52.230964",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 1095.2
+      "minutes_since_active": 1096.3
     },
     {
       "id": "7725a20d",
@@ -55,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 1230.7
+      "minutes_since_active": 1231.7
     }
   ]
 }
