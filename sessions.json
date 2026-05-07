@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-07T03:52:50Z",
+  "updated_at": "2026-05-07T03:53:55Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 306,
     "total": 312
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "799069d6",
       "full_id": "799069d6-e8ac-4bb2-83e8-4b2295b12345",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
       "last_user_msg": "i want you to find patterns that are in the proposal or spec sheet and how they get accounted for \u0131n the excel. for example \u0131t says \"bathroom floor w\u0131ll have t\u0131les\" and \u0131n excel th\u2026",
-      "last_assistant_snippet": "Excellent data. I have TOBIN and REISLER proposals with full line items. Now let me pull the URIE/ARVIND proposals and the material selection sheets to complete the triangulation.",
-      "message_count": 103,
-      "file_size_kb": 4423,
-      "modified_ts": 1778125114.106962,
-      "modified_iso": "2026-05-06T23:38:34.106962",
-      "minutes_since_active": 14.3
-    },
+      "last_assistant_snippet": "I have everything I need: complete proposals from TOBIN ($132,600 kitchen) and REISLER ($29,800 bathroom), plus the full onboarding manual with pricing logic. Now building the webp\u2026",
+      "message_count": 107,
+      "file_size_kb": 4500,
+      "modified_ts": 1778126006.0499153,
+      "modified_iso": "2026-05-06T23:53:26.049915",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "ec761377",
       "full_id": "ec761377-c43d-410c-b2cd-a7d6494cca96",
@@ -38,7 +39,7 @@
       "file_size_kb": 1411,
       "modified_ts": 1778098556.5108783,
       "modified_iso": "2026-05-06T16:15:56.510878",
-      "minutes_since_active": 456.9
+      "minutes_since_active": 458.0
     },
     {
       "id": "7725a20d",
@@ -54,7 +55,7 @@
       "file_size_kb": 10157,
       "modified_ts": 1778090428.6106634,
       "modified_iso": "2026-05-06T14:00:28.610663",
-      "minutes_since_active": 592.4
+      "minutes_since_active": 593.4
     },
     {
       "id": "71595298",
@@ -70,7 +71,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1778071813.3344972,
       "modified_iso": "2026-05-06T08:50:13.334497",
-      "minutes_since_active": 902.6
+      "minutes_since_active": 903.7
     },
     {
       "id": "e5ada063",
@@ -86,7 +87,7 @@
       "file_size_kb": 624,
       "modified_ts": 1778070393.0647018,
       "modified_iso": "2026-05-06T08:26:33.064702",
-      "minutes_since_active": 926.3
+      "minutes_since_active": 927.4
     },
     {
       "id": "110846e7",
@@ -102,7 +103,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1778070373.4589026,
       "modified_iso": "2026-05-06T08:26:13.458903",
-      "minutes_since_active": 926.6
+      "minutes_since_active": 927.7
     }
   ]
 }
