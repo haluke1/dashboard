@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-08T21:19:07Z",
+  "updated_at": "2026-05-08T21:19:10Z",
   "counts": {
     "active": 1,
-    "recent": 4,
-    "archived": 312,
+    "recent": 3,
+    "archived": 313,
     "total": 317
   },
   "active": [
@@ -19,8 +19,8 @@
       "last_assistant_snippet": "I'm here \u2014 go ahead!",
       "message_count": 44,
       "file_size_kb": 150,
-      "modified_ts": 1778275145.7218828,
-      "modified_iso": "2026-05-08T17:19:05.721883",
+      "modified_ts": 1778275147.7779195,
+      "modified_iso": "2026-05-08T17:19:07.777920",
       "minutes_since_active": 0.0
     }
   ],
@@ -72,22 +72,6 @@
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
       "minutes_since_active": 505.2
-    },
-    {
-      "id": "0d5d697a",
-      "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you access blender with mcp server now",
-      "last_user_msg": "take multiple photos, make it more realistic, do a few animations. make sure render quality is great and lighting is properly set. are there blender skills or things we can downloa\u2026",
-      "last_assistant_snippet": "All 10 files present, 3,638 lines of verified research. Here's the synthesized report: --- ## Blender Capabilities: What We Can Unlock ### The 4 MCP Panel Checkboxes (your screensh\u2026",
-      "message_count": 259,
-      "file_size_kb": 8208,
-      "modified_ts": 1778188747.321023,
-      "modified_iso": "2026-05-07T17:19:07.321023",
-      "minutes_since_active": 1440.0
     }
   ]
 }
