@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T20:26:52Z",
+  "updated_at": "2026-05-08T20:27:19Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>ab0e54c3b5efa9e4a</task-id> <tool-use-id>toolu_01A3LKgGt1DyAueaxjvCQ8KX</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/4bfc0449-178\u2026",
       "last_assistant_snippet": "`\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The HTML embeds all 200 posts as a JavaScript array \u2014 no server needed, fully offline. The `--angle-color` CSS variable on each ca\u2026",
       "message_count": 70,
-      "file_size_kb": 307,
-      "modified_ts": 1778272011.0648675,
-      "modified_iso": "2026-05-08T16:26:51.064867",
-      "minutes_since_active": 0.0
+      "file_size_kb": 308,
+      "modified_ts": 1778272012.795775,
+      "modified_iso": "2026-05-08T16:26:52.795775",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 412.8
+      "minutes_since_active": 413.3
     },
     {
       "id": "4bfc0449",
@@ -55,7 +55,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 452.9
+      "minutes_since_active": 453.4
     },
     {
       "id": "0d5d697a",
@@ -71,7 +71,7 @@
       "file_size_kb": 8208,
       "modified_ts": 1778188747.321023,
       "modified_iso": "2026-05-07T17:19:07.321023",
-      "minutes_since_active": 1387.7
+      "minutes_since_active": 1388.2
     }
   ]
 }
