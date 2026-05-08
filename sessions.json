@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T21:20:50Z",
+  "updated_at": "2026-05-08T21:21:29Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "-cultiva, I'm just gonna say the name of this because we don't have time.",
-      "last_user_msg": "Yeah. Yeah. Yeah. In voice. Di di di. You know what I am.",
-      "last_assistant_snippet": "Didn't catch a command there \u2014 what do you need?",
-      "message_count": 9,
-      "file_size_kb": 87,
-      "modified_ts": 1778275224.9748468,
-      "modified_iso": "2026-05-08T17:20:24.974847",
-      "minutes_since_active": 0.4
+      "last_user_msg": "Ben pricing tool'u g\u00f6rd\u00fc\u011f\u00fcm zaman ben bile mesela finans devleri ile \u00e7al\u0131\u015ft\u0131m. Aa fana diyordum yani.",
+      "last_assistant_snippet": "Cultiva'n\u0131n pricing tool'unu mu g\u00f6rd\u00fcn? Ne yapmam\u0131 istersin \u2014 ara\u015ft\u0131ray\u0131m m\u0131, a\u00e7\u0131p bakal\u0131m m\u0131?",
+      "message_count": 12,
+      "file_size_kb": 93,
+      "modified_ts": 1778275287.4217482,
+      "modified_iso": "2026-05-08T17:21:27.421748",
+      "minutes_since_active": 0.0
     },
     {
       "id": "b55a095b",
@@ -37,7 +37,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 1.7
+      "minutes_since_active": 2.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 47.4
+      "minutes_since_active": 48.0
     },
     {
       "id": "7654779f",
@@ -71,7 +71,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 466.8
+      "minutes_since_active": 467.4
     },
     {
       "id": "4bfc0449",
@@ -87,7 +87,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 506.9
+      "minutes_since_active": 507.5
     }
   ]
 }
