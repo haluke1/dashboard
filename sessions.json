@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-08T17:36:36Z",
+  "updated_at": "2026-05-08T18:25:22Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 311,
+    "recent": 3,
+    "archived": 312,
     "total": 315
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 242.6
+      "minutes_since_active": 291.2
     },
     {
       "id": "4bfc0449",
@@ -38,7 +38,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 282.7
+      "minutes_since_active": 331.4
     },
     {
       "id": "0d5d697a",
@@ -54,23 +54,7 @@
       "file_size_kb": 8208,
       "modified_ts": 1778188747.321023,
       "modified_iso": "2026-05-07T17:19:07.321023",
-      "minutes_since_active": 1217.5
-    },
-    {
-      "id": "799069d6",
-      "full_id": "799069d6-e8ac-4bb2-83e8-4b2295b12345",
-      "status": "recent",
-      "project": "/Users/halukgul/higgsfield_pkg",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "I am trying to automate the pricing and estimate creation for the company. look at the ckb process mapping in files to understand the business and this drive folder to look at the \u2026",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "4 floor plan diagrams open: - `bath_floorplan_cad.png` \u2014 white/black CAD technical with dimensions - `bath_floorplan_blueprint.png` \u2014 navy blueprint with annotations - `bath_floorp\u2026",
-      "message_count": 931,
-      "file_size_kb": 9957,
-      "modified_ts": 1778176505.645152,
-      "modified_iso": "2026-05-07T13:55:05.645152",
-      "minutes_since_active": 1421.5
+      "minutes_since_active": 1266.2
     }
   ]
 }
