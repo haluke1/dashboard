@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-05-08T21:19:10Z",
+  "updated_at": "2026-05-08T21:19:45Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 3,
     "archived": 313,
-    "total": 317
+    "total": 318
   },
   "active": [
+    {
+      "id": "489d55b7",
+      "full_id": "489d55b7-7a96-4355-8c53-756e4d7aa706",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "-cultiva, I'm just gonna say the name of this because we don't have time.",
+      "last_user_msg": "-cultiva, I'm just gonna say the name of this because we don't have time.",
+      "last_assistant_snippet": "Done \u2014 cultiva.com is open. Let me know if that's the wrong one.",
+      "message_count": 6,
+      "file_size_kb": 80,
+      "modified_ts": 1778275181.4063148,
+      "modified_iso": "2026-05-08T17:19:41.406315",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b55a095b",
       "full_id": "b55a095b-c371-4b17-b85e-149b738b270f",
@@ -21,7 +37,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 45.7
+      "minutes_since_active": 46.3
     },
     {
       "id": "7654779f",
@@ -55,7 +71,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 465.1
+      "minutes_since_active": 465.7
     },
     {
       "id": "4bfc0449",
@@ -71,7 +87,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 505.2
+      "minutes_since_active": 505.8
     }
   ]
 }
