@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T21:35:58Z",
+  "updated_at": "2026-05-08T21:38:22Z",
   "total_tabs": 378,
   "total_windows": 5,
   "duplicate_tabs": 60,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 215,
+      "count": 214,
       "domain_count": 123,
       "top_domains": [
         {
@@ -60,6 +60,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 41,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 41
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 40,
       "domain_count": 6,
@@ -83,17 +94,6 @@
         {
           "domain": "gist.github.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 40,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 40
         }
       ]
     },
