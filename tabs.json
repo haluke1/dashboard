@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-09T04:34:10Z",
-  "total_tabs": 401,
+  "updated_at": "2026-05-09T04:35:33Z",
+  "total_tabs": 399,
   "total_windows": 5,
   "duplicate_tabs": 61,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 228,
-      "domain_count": 130,
+      "count": 227,
+      "domain_count": 129,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 33,
+      "count": 32,
       "domain_count": 10,
       "top_domains": [
         {
@@ -111,12 +111,12 @@
           "count": 4
         },
         {
-          "domain": "facebook.com",
+          "domain": "instagram.com",
           "count": 4
         },
         {
-          "domain": "instagram.com",
-          "count": 4
+          "domain": "facebook.com",
+          "count": 3
         },
         {
           "domain": "web.whatsapp.com",
