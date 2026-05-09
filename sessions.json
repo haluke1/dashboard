@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-05-09T03:07:38Z",
+  "updated_at": "2026-05-09T03:08:44Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 312,
     "total": 318
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "0d5d697a",
       "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you access blender with mcp server now",
-      "last_user_msg": "could you open the car research we did in another session on a webpage",
-      "last_assistant_snippet": "Opened \u2014 `ardmore-used-cars.html` on your Desktop, the top 10 used car listings under $5k near Philadelphia from yesterday's session.",
-      "message_count": 275,
-      "file_size_kb": 8273,
-      "modified_ts": 1778292292.2873557,
-      "modified_iso": "2026-05-08T22:04:52.287356",
-      "minutes_since_active": 62.7
-    },
+      "last_user_msg": "the links dont work it just takes to the main website make sure it goes to exact listing",
+      "last_assistant_snippet": "Let me read the current HTML and find the actual listing URLs from the session data.",
+      "message_count": 280,
+      "file_size_kb": 8370,
+      "modified_ts": 1778296079.321208,
+      "modified_iso": "2026-05-08T23:07:59.321208",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "489d55b7",
       "full_id": "489d55b7-7a96-4355-8c53-756e4d7aa706",
@@ -38,7 +39,7 @@
       "file_size_kb": 155,
       "modified_ts": 1778276008.7361832,
       "modified_iso": "2026-05-08T17:33:28.736183",
-      "minutes_since_active": 334.1
+      "minutes_since_active": 335.2
     },
     {
       "id": "b55a095b",
@@ -54,7 +55,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 348.5
+      "minutes_since_active": 349.6
     },
     {
       "id": "29d9960d",
@@ -70,7 +71,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 394.2
+      "minutes_since_active": 395.3
     },
     {
       "id": "7654779f",
@@ -86,7 +87,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 813.6
+      "minutes_since_active": 814.7
     },
     {
       "id": "4bfc0449",
@@ -102,7 +103,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 853.7
+      "minutes_since_active": 854.8
     }
   ]
 }
