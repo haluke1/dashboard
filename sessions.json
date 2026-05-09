@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T02:03:40Z",
+  "updated_at": "2026-05-09T02:05:09Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -18,10 +18,10 @@
       "last_user_msg": "could you open the car research we did in another session on a webpage",
       "last_assistant_snippet": "Opened \u2014 `ardmore-used-cars.html` on your Desktop, the top 10 used car listings under $5k near Philadelphia from yesterday's session.",
       "message_count": 275,
-      "file_size_kb": 8272,
-      "modified_ts": 1778292105.6431694,
-      "modified_iso": "2026-05-08T22:01:45.643169",
-      "minutes_since_active": 1.9
+      "file_size_kb": 8273,
+      "modified_ts": 1778292292.2873557,
+      "modified_iso": "2026-05-08T22:04:52.287356",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 155,
       "modified_ts": 1778276008.7361832,
       "modified_iso": "2026-05-08T17:33:28.736183",
-      "minutes_since_active": 270.2
+      "minutes_since_active": 271.6
     },
     {
       "id": "b55a095b",
@@ -55,7 +55,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 284.5
+      "minutes_since_active": 285.9
     },
     {
       "id": "29d9960d",
@@ -71,7 +71,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 330.2
+      "minutes_since_active": 331.7
     },
     {
       "id": "7654779f",
@@ -87,7 +87,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 749.6
+      "minutes_since_active": 751.1
     },
     {
       "id": "4bfc0449",
@@ -103,7 +103,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 789.7
+      "minutes_since_active": 791.2
     }
   ]
 }
