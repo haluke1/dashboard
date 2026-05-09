@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-09T02:00:05Z",
+  "updated_at": "2026-05-09T02:01:26Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 5,
-    "archived": 313,
+    "archived": 312,
     "total": 318
   },
-  "active": [],
+  "active": [
+    {
+      "id": "0d5d697a",
+      "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you access blender with mcp server now",
+      "last_user_msg": "could you open the car research we did in another session on a webpage",
+      "last_assistant_snippet": "Let me check memory and recent files for the car research.",
+      "message_count": 266,
+      "file_size_kb": 8225,
+      "modified_ts": 1778292083.514201,
+      "modified_iso": "2026-05-08T22:01:23.514201",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "489d55b7",
@@ -22,7 +39,7 @@
       "file_size_kb": 155,
       "modified_ts": 1778276008.7361832,
       "modified_iso": "2026-05-08T17:33:28.736183",
-      "minutes_since_active": 266.6
+      "minutes_since_active": 267.9
     },
     {
       "id": "b55a095b",
@@ -38,7 +55,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 280.9
+      "minutes_since_active": 282.3
     },
     {
       "id": "29d9960d",
@@ -54,7 +71,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 326.6
+      "minutes_since_active": 328.0
     },
     {
       "id": "7654779f",
@@ -70,7 +87,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 746.0
+      "minutes_since_active": 747.4
     },
     {
       "id": "4bfc0449",
@@ -86,7 +103,7 @@
       "file_size_kb": 305,
       "modified_ts": 1778244836.164418,
       "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 786.1
+      "minutes_since_active": 787.5
     }
   ]
 }
