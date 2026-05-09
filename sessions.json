@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-09T12:52:45Z",
+  "updated_at": "2026-05-09T13:36:04Z",
   "counts": {
     "active": 0,
-    "recent": 6,
-    "archived": 312,
+    "recent": 5,
+    "archived": 313,
     "total": 318
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 156,
       "modified_ts": 1778297390.8453972,
       "modified_iso": "2026-05-08T23:29:50.845397",
-      "minutes_since_active": 562.9
+      "minutes_since_active": 590.3
     },
     {
       "id": "0d5d697a",
@@ -38,7 +38,7 @@
       "file_size_kb": 8620,
       "modified_ts": 1778296531.4974232,
       "modified_iso": "2026-05-08T23:15:31.497423",
-      "minutes_since_active": 577.2
+      "minutes_since_active": 604.7
     },
     {
       "id": "b55a095b",
@@ -54,7 +54,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 933.6
+      "minutes_since_active": 961.1
     },
     {
       "id": "29d9960d",
@@ -70,7 +70,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 979.3
+      "minutes_since_active": 1006.8
     },
     {
       "id": "7654779f",
@@ -86,23 +86,7 @@
       "file_size_kb": 11627,
       "modified_ts": 1778247242.291311,
       "modified_iso": "2026-05-08T09:34:02.291311",
-      "minutes_since_active": 1398.7
-    },
-    {
-      "id": "4bfc0449",
-      "full_id": "4bfc0449-1780-42da-90e8-646ee98d7e59",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want to buy used cars so i can drive to work. i am looking at facebook marketplace. where do you think i can go for to get the best cars at cheap and what second hand used cars c\u2026",
-      "last_user_msg": "launch paralel sub agents to go over 100+ car listings in philadelphia and include top 10 of them. specifically search for toyota corolla, honda civic, toyota matrix and give me th\u2026",
-      "last_assistant_snippet": "Page is open on your Desktop. Here's the summary: --- **112 listings reviewed across 4 platforms** (Craigslist Philly, Cars.com, CarGurus, TrueCar/Carfax). AutoTrader was blocked b\u2026",
-      "message_count": 23,
-      "file_size_kb": 305,
-      "modified_ts": 1778244836.164418,
-      "modified_iso": "2026-05-08T08:53:56.164418",
-      "minutes_since_active": 1438.8
+      "minutes_since_active": 1426.2
     }
   ]
 }
