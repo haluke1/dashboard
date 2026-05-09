@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-09T15:21:20Z",
+  "updated_at": "2026-05-09T15:22:26Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 314,
     "total": 318
   },
-  "active": [],
+  "active": [
+    {
+      "id": "0d5d697a",
+      "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you access blender with mcp server now",
+      "last_user_msg": "open the summary html of the social media thing we looked at with 36 pages",
+      "last_assistant_snippet": "All 9 cards fixed. Here's what was done: | Card | Fix | |------|-----| | #2 (2005 Corolla, VIN `2T1BR32EX5C360592`) | VIN-direct CarGurus URL (Pennsauken NJ zip 08110) | | #3 (2006\u2026",
+      "message_count": 316,
+      "file_size_kb": 8633,
+      "modified_ts": 1778340107.6170757,
+      "modified_iso": "2026-05-09T11:21:47.617076",
+      "minutes_since_active": 0.6
+    }
+  ],
   "recent": [
     {
       "id": "489d55b7",
@@ -22,23 +39,7 @@
       "file_size_kb": 156,
       "modified_ts": 1778297390.8453972,
       "modified_iso": "2026-05-08T23:29:50.845397",
-      "minutes_since_active": 711.5
-    },
-    {
-      "id": "0d5d697a",
-      "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you access blender with mcp server now",
-      "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "All 9 cards fixed. Here's what was done: | Card | Fix | |------|-----| | #2 (2005 Corolla, VIN `2T1BR32EX5C360592`) | VIN-direct CarGurus URL (Pennsauken NJ zip 08110) | | #3 (2006\u2026",
-      "message_count": 309,
-      "file_size_kb": 8620,
-      "modified_ts": 1778296531.4974232,
-      "modified_iso": "2026-05-08T23:15:31.497423",
-      "minutes_since_active": 725.8
+      "minutes_since_active": 712.6
     },
     {
       "id": "b55a095b",
@@ -54,7 +55,7 @@
       "file_size_kb": 150,
       "modified_ts": 1778275147.7779195,
       "modified_iso": "2026-05-08T17:19:07.777920",
-      "minutes_since_active": 1082.2
+      "minutes_since_active": 1083.3
     },
     {
       "id": "29d9960d",
@@ -70,7 +71,7 @@
       "file_size_kb": 1078,
       "modified_ts": 1778272406.6923745,
       "modified_iso": "2026-05-08T16:33:26.692374",
-      "minutes_since_active": 1127.9
+      "minutes_since_active": 1129.0
     }
   ]
 }
