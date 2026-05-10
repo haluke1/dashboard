@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-05-10T15:31:59Z",
+  "updated_at": "2026-05-10T15:33:05Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 317,
+    "recent": 0,
+    "archived": 318,
     "total": 318
   },
   "active": [],
-  "recent": [
-    {
-      "id": "0d5d697a",
-      "full_id": "0d5d697a-92ce-4209-bb7d-42f3243d72ad",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you access blender with mcp server now",
-      "last_user_msg": "open the summary html of the social media thing we looked at with 36 pages",
-      "last_assistant_snippet": "Opened `03_CKB_Digital_Strategy.html` \u2014 Concept Kitchen & Bath Digital Growth Strategy 2025. That's the summary built from the SparkHub social media proposals (Google Ads + Meta + \u2026",
-      "message_count": 358,
-      "file_size_kb": 8853,
-      "modified_ts": 1778340724.5512145,
-      "modified_iso": "2026-05-09T11:32:04.551214",
-      "minutes_since_active": 1439.9
-    }
-  ]
+  "recent": []
 }
