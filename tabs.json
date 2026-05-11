@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-11T16:24:14Z",
-  "total_tabs": 442,
+  "updated_at": "2026-05-11T16:26:46Z",
+  "total_tabs": 438,
   "total_windows": 6,
-  "duplicate_tabs": 82,
+  "duplicate_tabs": 85,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 258,
-      "domain_count": 142,
+      "count": 255,
+      "domain_count": 140,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 25
         },
         {
-          "domain": "conceptkb.com",
-          "count": 10
-        },
-        {
           "domain": "keep.google.com",
           "count": 10
         },
         {
-          "domain": "google.com",
-          "count": 8
+          "domain": "conceptkb.com",
+          "count": 10
         },
         {
           "domain": "elearning.villanova.edu",
           "count": 8
+        },
+        {
+          "domain": "manus.im",
+          "count": 7
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 29,
+      "count": 28,
       "domain_count": 10,
       "top_domains": [
         {
