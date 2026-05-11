@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-11T13:36:35Z",
+  "updated_at": "2026-05-11T13:37:40Z",
   "total_tabs": 428,
   "total_windows": 6,
-  "duplicate_tabs": 82,
+  "duplicate_tabs": 80,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 249,
+      "count": 248,
       "domain_count": 136,
       "top_domains": [
         {
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 27,
       "domain_count": 10,
       "top_domains": [
         {
@@ -108,7 +108,7 @@
         },
         {
           "domain": "reddit.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "web.whatsapp.com",
