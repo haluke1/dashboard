@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-11T14:12:27Z",
-  "total_tabs": 428,
+  "updated_at": "2026-05-11T14:15:07Z",
+  "total_tabs": 430,
   "total_windows": 6,
-  "duplicate_tabs": 81,
+  "duplicate_tabs": 82,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 251,
-      "domain_count": 136,
+      "count": 252,
+      "domain_count": 137,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 25
         },
         {
-          "domain": "manus.im",
+          "domain": "keep.google.com",
           "count": 10
         },
         {
-          "domain": "keep.google.com",
+          "domain": "manus.im",
           "count": 10
         },
         {
@@ -61,12 +61,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 50,
+      "count": 52,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 33
+          "count": 34
         },
         {
           "domain": "github.com",
@@ -74,7 +74,7 @@
         },
         {
           "domain": "vercel.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "chatgpt.com",
@@ -88,12 +88,12 @@
     },
     {
       "name": "video",
-      "count": 41,
+      "count": 40,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 41
+          "count": 40
         }
       ]
     },
