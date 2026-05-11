@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T02:34:12Z",
+  "updated_at": "2026-05-11T02:35:17Z",
   "total_tabs": 420,
   "total_windows": 5,
   "duplicate_tabs": 75,
@@ -61,12 +61,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 48,
+      "count": 47,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 34
+          "count": 33
         },
         {
           "domain": "github.com",
@@ -88,12 +88,12 @@
     },
     {
       "name": "video",
-      "count": 46,
+      "count": 47,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 46
+          "count": 47
         }
       ]
     },
