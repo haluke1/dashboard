@@ -1,80 +1,72 @@
 {
-  "updated_at": "2026-05-11T20:19:48Z",
-  "total_tabs": 420,
+  "updated_at": "2026-05-11T20:20:56Z",
+  "total_tabs": 167,
   "total_windows": 6,
-  "duplicate_tabs": 78,
+  "duplicate_tabs": 43,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 242,
-      "domain_count": 130,
+      "count": 95,
+      "domain_count": 56,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 28
+          "count": 8
         },
         {
           "domain": "conceptkb.co",
-          "count": 11
+          "count": 7
+        },
+        {
+          "domain": "google.com",
+          "count": 5
         },
         {
           "domain": "keep.google.com",
-          "count": 10
+          "count": 4
         },
         {
-          "domain": "conceptkb.com",
-          "count": 10
-        },
-        {
-          "domain": "elearning.villanova.edu",
-          "count": 9
+          "domain": "o3xo.ai",
+          "count": 4
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 54,
-      "domain_count": 8,
+      "count": 19,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 19
+          "count": 8
         },
         {
           "domain": "notion.so",
-          "count": 14
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 10
-        },
-        {
-          "domain": "drive.google.com",
           "count": 5
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "mail.google.com",
+          "count": 4
+        },
+        {
+          "domain": "drive.google.com",
           "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 49,
-      "domain_count": 6,
+      "count": 17,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 34
+          "count": 8
         },
         {
           "domain": "github.com",
-          "count": 10
-        },
-        {
-          "domain": "vercel.com",
-          "count": 2
+          "count": 6
         },
         {
           "domain": "chatgpt.com",
@@ -83,59 +75,59 @@
         {
           "domain": "gist.github.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 40,
-      "domain_count": 1,
-      "top_domains": [
+        },
         {
-          "domain": "youtube.com",
-          "count": 40
+          "domain": "openai.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 30,
-      "domain_count": 10,
+      "count": 16,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 11
-        },
-        {
-          "domain": "reddit.com",
-          "count": 5
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 4
-        },
-        {
-          "domain": "instagram.com",
-          "count": 3
+          "count": 8
         },
         {
           "domain": "x.com",
           "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "optirix.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 16,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 16
         }
       ]
     },
     {
       "name": "research",
-      "count": 4,
-      "domain_count": 3,
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
           "count": 2
-        },
-        {
-          "domain": "alt-5de826c99a8f3.blackboard.com",
-          "count": 1
         },
         {
           "domain": "natesnewsletter.substack.com",
