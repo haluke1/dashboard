@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-11T18:17:31Z",
-  "total_tabs": 428,
+  "updated_at": "2026-05-11T18:22:55Z",
+  "total_tabs": 418,
   "total_windows": 6,
-  "duplicate_tabs": 84,
+  "duplicate_tabs": 79,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 245,
+      "count": 241,
       "domain_count": 133,
       "top_domains": [
         {
@@ -15,47 +15,20 @@
           "count": 25
         },
         {
-          "domain": "conceptkb.com",
-          "count": 11
-        },
-        {
           "domain": "keep.google.com",
           "count": 10
         },
         {
+          "domain": "conceptkb.com",
+          "count": 10
+        },
+        {
           "domain": "conceptkb.co",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "elearning.villanova.edu",
-          "count": 8
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 56,
-      "domain_count": 6,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 35
-        },
-        {
-          "domain": "github.com",
-          "count": 12
-        },
-        {
-          "domain": "vercel.com",
-          "count": 6
-        },
-        {
-          "domain": "chatgpt.com",
-          "count": 1
-        },
-        {
-          "domain": "gist.github.com",
-          "count": 1
+          "count": 9
         }
       ]
     },
@@ -83,6 +56,33 @@
         {
           "domain": "calendar.google.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 50,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "claude.ai",
+          "count": 35
+        },
+        {
+          "domain": "github.com",
+          "count": 10
+        },
+        {
+          "domain": "vercel.com",
+          "count": 2
+        },
+        {
+          "domain": "chatgpt.com",
+          "count": 1
+        },
+        {
+          "domain": "gist.github.com",
+          "count": 1
         }
       ]
     },
