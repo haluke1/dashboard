@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-11T14:23:09Z",
+  "updated_at": "2026-05-11T14:24:23Z",
   "total_tabs": 432,
   "total_windows": 6,
-  "duplicate_tabs": 81,
+  "duplicate_tabs": 80,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 253,
-      "domain_count": 137,
+      "domain_count": 138,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 25
         },
         {
-          "domain": "manus.im",
+          "domain": "keep.google.com",
           "count": 10
         },
         {
-          "domain": "keep.google.com",
-          "count": 10
+          "domain": "manus.im",
+          "count": 9
         },
         {
           "domain": "conceptkb.com",
