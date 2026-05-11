@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-11T19:54:50Z",
-  "total_tabs": 417,
+  "updated_at": "2026-05-11T19:55:56Z",
+  "total_tabs": 419,
   "total_windows": 6,
-  "duplicate_tabs": 80,
+  "duplicate_tabs": 77,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 239,
+      "count": 242,
       "domain_count": 130,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 25
+          "count": 28
         },
         {
           "domain": "conceptkb.com",
@@ -88,12 +88,12 @@
     },
     {
       "name": "video",
-      "count": 41,
+      "count": 40,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 41
+          "count": 40
         }
       ]
     },
