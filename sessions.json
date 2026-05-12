@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T13:53:55Z",
+  "updated_at": "2026-05-12T13:54:03Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -18,10 +18,10 @@
       "last_user_msg": "analyze what opens at every chat that fills up context window and give me a percentage",
       "last_assistant_snippet": "Now I have enough data to calculate. Let me compile everything. --- `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` Claude Sonnet 4.6 has a 200K token context window. Rough conve\u2026",
       "message_count": 13,
-      "file_size_kb": 108,
-      "modified_ts": 1778594033.716088,
-      "modified_iso": "2026-05-12T09:53:53.716088",
-      "minutes_since_active": 0.0
+      "file_size_kb": 110,
+      "modified_ts": 1778594035.4572074,
+      "modified_iso": "2026-05-12T09:53:55.457207",
+      "minutes_since_active": 0.1
     },
     {
       "id": "dde379f9",
@@ -37,7 +37,7 @@
       "file_size_kb": 160,
       "modified_ts": 1778594026.6340394,
       "modified_iso": "2026-05-12T09:53:46.634039",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.3
     }
   ],
   "recent": []
