@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T16:36:33Z",
+  "updated_at": "2026-05-12T16:37:38Z",
   "total_tabs": 436,
   "total_windows": 6,
   "duplicate_tabs": 80,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 255,
-      "domain_count": 136,
+      "count": 254,
+      "domain_count": 135,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -88,12 +88,12 @@
     },
     {
       "name": "video",
-      "count": 40,
+      "count": 41,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 40
+          "count": 41
         }
       ]
     },
