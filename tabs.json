@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-12T13:15:53Z",
-  "total_tabs": 430,
+  "updated_at": "2026-05-12T13:16:59Z",
+  "total_tabs": 431,
   "total_windows": 6,
-  "duplicate_tabs": 81,
+  "duplicate_tabs": 83,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 249,
+      "count": 251,
       "domain_count": 134,
       "top_domains": [
         {
@@ -19,12 +19,12 @@
           "count": 12
         },
         {
-          "domain": "keep.google.com",
-          "count": 10
+          "domain": "conceptkb.co",
+          "count": 11
         },
         {
-          "domain": "conceptkb.co",
-          "count": 9
+          "domain": "keep.google.com",
+          "count": 10
         },
         {
           "domain": "elearning.villanova.edu",
@@ -88,12 +88,12 @@
     },
     {
       "name": "video",
-      "count": 42,
+      "count": 41,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 42
+          "count": 41
         }
       ]
     },
