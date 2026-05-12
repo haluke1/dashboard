@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-12T20:34:33Z",
-  "total_tabs": 444,
+  "updated_at": "2026-05-12T20:35:39Z",
+  "total_tabs": 445,
   "total_windows": 6,
-  "duplicate_tabs": 87,
+  "duplicate_tabs": 89,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 259,
-      "domain_count": 138,
+      "count": 260,
+      "domain_count": 139,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,12 +23,12 @@
           "count": 10
         },
         {
-          "domain": "google.com",
+          "domain": "keep.google.com",
           "count": 10
         },
         {
-          "domain": "keep.google.com",
-          "count": 10
+          "domain": "google.com",
+          "count": 9
         }
       ]
     },
