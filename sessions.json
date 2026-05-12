@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-05-12T14:36:42Z",
+  "updated_at": "2026-05-12T14:37:47Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 318,
     "total": 320
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "dde379f9",
       "full_id": "dde379f9-b4f8-4a92-ae54-a323c52c964d",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Downloads",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 1443,
       "modified_ts": 1778596314.8684175,
       "modified_iso": "2026-05-12T10:31:54.868418",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "dcd6be12",
       "full_id": "dcd6be12-25b1-423c-abde-3b52743206d6",
@@ -39,7 +38,7 @@
       "file_size_kb": 110,
       "modified_ts": 1778594218.26532,
       "modified_iso": "2026-05-12T09:56:58.265320",
-      "minutes_since_active": 39.7
+      "minutes_since_active": 40.8
     }
   ]
 }
