@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-05-13T02:13:55Z",
-  "total_tabs": 488,
+  "updated_at": "2026-05-13T02:15:00Z",
+  "total_tabs": 486,
   "total_windows": 7,
-  "duplicate_tabs": 99,
+  "duplicate_tabs": 100,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 298,
+      "count": 296,
       "domain_count": 142,
       "top_domains": [
         {
-          "domain": "hentaimama.io",
-          "count": 31
-        },
-        {
           "domain": "(no domain)",
           "count": 30
+        },
+        {
+          "domain": "hentaimama.io",
+          "count": 29
         },
         {
           "domain": "keep.google.com",
