@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-13T18:42:05Z",
-  "total_tabs": 469,
+  "updated_at": "2026-05-13T18:43:14Z",
+  "total_tabs": 470,
   "total_windows": 6,
-  "duplicate_tabs": 96,
+  "duplicate_tabs": 98,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 275,
+      "count": 276,
       "domain_count": 143,
       "top_domains": [
         {
@@ -77,11 +77,11 @@
           "count": 3
         },
         {
-          "domain": "openai.com",
+          "domain": "chatgpt.com",
           "count": 1
         },
         {
-          "domain": "chatgpt.com",
+          "domain": "gist.github.com",
           "count": 1
         }
       ]
@@ -134,11 +134,11 @@
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
+          "domain": "alt-5de826c99a8f3.blackboard.com",
           "count": 1
         },
         {
-          "domain": "alt-5de826c99a8f3.blackboard.com",
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
