@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-05-13T21:33:33Z",
+  "updated_at": "2026-05-13T21:34:38Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 319,
     "total": 323
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "ed90e1c4",
       "full_id": "ed90e1c4-5ffd-4de2-a283-2908a5e94bb7",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Here's how to explain it to the owner \u2014 word for word if you want: --- **Imagine your business has a building with one master key.** That master key opens every room \u2014 the safe, th\u2026",
       "message_count": 44,
       "file_size_kb": 1785,
-      "modified_ts": 1778706036.8915124,
-      "modified_iso": "2026-05-13T17:00:36.891512",
-      "minutes_since_active": 32.9
-    },
+      "modified_ts": 1778708047.8344233,
+      "modified_iso": "2026-05-13T17:34:07.834423",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "60f7c57f",
       "full_id": "60f7c57f-ebeb-4c76-b4ef-11c2b0c805ad",
@@ -38,7 +39,7 @@
       "file_size_kb": 458,
       "modified_ts": 1778701378.0723715,
       "modified_iso": "2026-05-13T15:42:58.072371",
-      "minutes_since_active": 110.6
+      "minutes_since_active": 111.7
     },
     {
       "id": "dcd6be12",
@@ -54,7 +55,7 @@
       "file_size_kb": 111,
       "modified_ts": 1778701378.0581512,
       "modified_iso": "2026-05-13T15:42:58.058151",
-      "minutes_since_active": 110.6
+      "minutes_since_active": 111.7
     },
     {
       "id": "5d60c9dd",
@@ -70,7 +71,7 @@
       "file_size_kb": 1224,
       "modified_ts": 1778701378.0168648,
       "modified_iso": "2026-05-13T15:42:58.016865",
-      "minutes_since_active": 110.6
+      "minutes_since_active": 111.7
     }
   ]
 }

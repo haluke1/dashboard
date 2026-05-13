@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-13T21:33:31Z",
-  "total_tabs": 477,
-  "total_windows": 7,
-  "duplicate_tabs": 106,
+  "updated_at": "2026-05-13T21:34:37Z",
+  "total_tabs": 465,
+  "total_windows": 6,
+  "duplicate_tabs": 102,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 281,
+      "count": 280,
       "domain_count": 151,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 32
+          "count": 31
         },
         {
           "domain": "conceptkb.co",
@@ -29,33 +29,6 @@
         {
           "domain": "google.com",
           "count": 9
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 61,
-      "domain_count": 8,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 20
-        },
-        {
-          "domain": "notion.so",
-          "count": 16
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 12
-        },
-        {
-          "domain": "drive.google.com",
-          "count": 7
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 2
         }
       ]
     },
@@ -87,6 +60,33 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 50,
+      "domain_count": 8,
+      "top_domains": [
+        {
+          "domain": "notion.so",
+          "count": 15
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 12
+        },
+        {
+          "domain": "docs.google.com",
+          "count": 12
+        },
+        {
+          "domain": "drive.google.com",
+          "count": 5
+        },
+        {
+          "domain": "calendar.google.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "video",
       "count": 42,
       "domain_count": 1,
@@ -107,11 +107,11 @@
           "count": 10
         },
         {
-          "domain": "reddit.com",
+          "domain": "web.whatsapp.com",
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "reddit.com",
           "count": 5
         },
         {
