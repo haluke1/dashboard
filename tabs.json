@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-13T02:51:06Z",
-  "total_tabs": 479,
-  "total_windows": 7,
-  "duplicate_tabs": 100,
+  "updated_at": "2026-05-13T02:52:11Z",
+  "total_tabs": 447,
+  "total_windows": 6,
+  "duplicate_tabs": 90,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 289,
-      "domain_count": 142,
+      "count": 258,
+      "domain_count": 139,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 30
         },
         {
-          "domain": "hentaimama.io",
-          "count": 23
+          "domain": "conceptkb.com",
+          "count": 11
         },
         {
           "domain": "keep.google.com",
           "count": 11
         },
         {
-          "domain": "conceptkb.com",
-          "count": 11
-        },
-        {
           "domain": "conceptkb.co",
           "count": 10
+        },
+        {
+          "domain": "elearning.villanova.edu",
+          "count": 9
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 34,
+      "count": 33,
       "domain_count": 10,
       "top_domains": [
         {
@@ -108,18 +108,18 @@
         },
         {
           "domain": "reddit.com",
-          "count": 7
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 4
+          "count": 6
         },
         {
           "domain": "instagram.com",
           "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "web.whatsapp.com",
+          "count": 4
+        },
+        {
+          "domain": "facebook.com",
           "count": 2
         }
       ]
