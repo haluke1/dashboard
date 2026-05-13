@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-13T14:31:44Z",
+  "updated_at": "2026-05-13T14:32:50Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 319,
+    "recent": 1,
+    "archived": 320,
     "total": 321
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 458,
       "modified_ts": 1778681050.3362083,
       "modified_iso": "2026-05-13T10:04:10.336208",
-      "minutes_since_active": 27.6
-    },
-    {
-      "id": "dde379f9",
-      "full_id": "dde379f9-b4f8-4a92-ae54-a323c52c964d",
-      "status": "recent",
-      "project": "/Users/halukgul/Downloads",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you take a look at this excel, use claude excel or similar tool to create a better formatted version of it, and then create a webpage format that i can use instead of this ex\u2026",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_ejIp5l/Screenshot 2026-05-12 at 10.26.21.png]",
-      "last_assistant_snippet": "Closed Excel, regenerated the file fresh, and reopened it. The MATERIAL sheet should now show all 7 orange section dividers: **CABINETRY & VANITY \u2192 PLUMBING FIXTURES \u2192 TILE & SURFA\u2026",
-      "message_count": 113,
-      "file_size_kb": 1443,
-      "modified_ts": 1778596314.8684175,
-      "modified_iso": "2026-05-12T10:31:54.868418",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 28.7
     }
   ]
 }
