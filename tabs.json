@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-13T20:45:54Z",
-  "total_tabs": 472,
-  "total_windows": 6,
-  "duplicate_tabs": 103,
+  "updated_at": "2026-05-13T20:49:08Z",
+  "total_tabs": 475,
+  "total_windows": 7,
+  "duplicate_tabs": 105,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 278,
-      "domain_count": 150,
+      "count": 279,
+      "domain_count": 151,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -61,7 +61,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 52,
+      "count": 54,
       "domain_count": 6,
       "top_domains": [
         {
@@ -70,11 +70,11 @@
         },
         {
           "domain": "github.com",
-          "count": 10
+          "count": 11
         },
         {
           "domain": "vercel.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "chatgpt.com",
