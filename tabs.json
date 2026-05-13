@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-13T13:42:34Z",
-  "total_tabs": 444,
+  "updated_at": "2026-05-13T13:43:39Z",
+  "total_tabs": 445,
   "total_windows": 6,
   "duplicate_tabs": 88,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 257,
+      "count": 258,
       "domain_count": 139,
       "top_domains": [
         {
@@ -15,16 +15,16 @@
           "count": 30
         },
         {
-          "domain": "keep.google.com",
-          "count": 11
-        },
-        {
           "domain": "conceptkb.com",
           "count": 11
         },
         {
+          "domain": "keep.google.com",
+          "count": 11
+        },
+        {
           "domain": "conceptkb.co",
-          "count": 9
+          "count": 10
         },
         {
           "domain": "elearning.villanova.edu",
@@ -111,15 +111,15 @@
           "count": 5
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 4
-        },
-        {
           "domain": "instagram.com",
           "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "web.whatsapp.com",
+          "count": 4
+        },
+        {
+          "domain": "facebook.com",
           "count": 2
         }
       ]
