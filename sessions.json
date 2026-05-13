@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-05-13T18:57:24Z",
+  "updated_at": "2026-05-13T18:58:29Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 1,
     "archived": 320,
-    "total": 321
+    "total": 322
   },
-  "active": [],
+  "active": [
+    {
+      "id": "5d60c9dd",
+      "full_id": "5d60c9dd-5462-4471-a987-b7f5c4a10f6b",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "[Image #1] [Image #2] so i am talking to this developer guy who set up conceptkb.com and this is where i'm at. analyze the situation and give me next steps as well as context cause\u2026",
+      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_uvzBAI/Screenshot 2026-05-13 at 14.57.23.png] [Image: source: /var/folders/9l/\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 2,
+      "file_size_kb": 1213,
+      "modified_ts": 1778698695.822268,
+      "modified_iso": "2026-05-13T14:58:15.822268",
+      "minutes_since_active": 0.2
+    }
+  ],
   "recent": [
     {
       "id": "60f7c57f",
@@ -22,7 +39,7 @@
       "file_size_kb": 458,
       "modified_ts": 1778681050.3362083,
       "modified_iso": "2026-05-13T10:04:10.336208",
-      "minutes_since_active": 293.2
+      "minutes_since_active": 294.3
     }
   ]
 }
