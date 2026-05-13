@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-13T19:55:05Z",
+  "updated_at": "2026-05-13T19:56:11Z",
   "total_tabs": 472,
   "total_windows": 6,
-  "duplicate_tabs": 104,
+  "duplicate_tabs": 105,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 279,
+      "count": 278,
       "domain_count": 150,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "conceptkb.com",
@@ -34,7 +34,7 @@
     },
     {
       "name": "productivity",
-      "count": 60,
+      "count": 61,
       "domain_count": 8,
       "top_domains": [
         {
@@ -51,7 +51,7 @@
         },
         {
           "domain": "drive.google.com",
-          "count": 6
+          "count": 7
         },
         {
           "domain": "calendar.google.com",
