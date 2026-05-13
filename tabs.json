@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-13T22:03:55Z",
-  "total_tabs": 472,
+  "updated_at": "2026-05-13T22:05:01Z",
+  "total_tabs": 456,
   "total_windows": 6,
-  "duplicate_tabs": 104,
+  "duplicate_tabs": 101,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 287,
-      "domain_count": 156,
+      "count": 280,
+      "domain_count": 154,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -61,7 +61,7 @@
     },
     {
       "name": "productivity",
-      "count": 50,
+      "count": 46,
       "domain_count": 8,
       "top_domains": [
         {
@@ -74,7 +74,7 @@
         },
         {
           "domain": "docs.google.com",
-          "count": 12
+          "count": 8
         },
         {
           "domain": "drive.google.com",
@@ -99,12 +99,12 @@
     },
     {
       "name": "social",
-      "count": 34,
+      "count": 29,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 10
+          "count": 6
         },
         {
           "domain": "web.whatsapp.com",
@@ -116,7 +116,7 @@
         },
         {
           "domain": "instagram.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "facebook.com",
