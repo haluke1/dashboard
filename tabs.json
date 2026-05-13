@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-05-13T15:33:55Z",
-  "total_tabs": 448,
+  "updated_at": "2026-05-13T15:35:00Z",
+  "total_tabs": 446,
   "total_windows": 6,
-  "duplicate_tabs": 89,
+  "duplicate_tabs": 88,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 260,
+      "count": 258,
       "domain_count": 139,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 31
-        },
-        {
-          "domain": "conceptkb.co",
-          "count": 11
         },
         {
           "domain": "conceptkb.com",
@@ -25,6 +21,10 @@
         {
           "domain": "keep.google.com",
           "count": 11
+        },
+        {
+          "domain": "conceptkb.co",
+          "count": 9
         },
         {
           "domain": "elearning.villanova.edu",
