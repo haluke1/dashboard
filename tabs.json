@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T04:49:20Z",
-  "total_tabs": 477,
+  "updated_at": "2026-05-14T04:50:25Z",
+  "total_tabs": 475,
   "total_windows": 6,
   "duplicate_tabs": 101,
   "bridge_online": true,
@@ -99,16 +99,16 @@
     },
     {
       "name": "social",
-      "count": 35,
+      "count": 33,
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "instagram.com",
-          "count": 8
-        },
-        {
           "domain": "linkedin.com",
           "count": 7
+        },
+        {
+          "domain": "instagram.com",
+          "count": 6
         },
         {
           "domain": "web.whatsapp.com",
