@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-14T11:59:28Z",
-  "total_tabs": 417,
+  "updated_at": "2026-05-14T12:00:35Z",
+  "total_tabs": 398,
   "total_windows": 7,
-  "duplicate_tabs": 90,
+  "duplicate_tabs": 86,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 254,
-      "domain_count": 146,
+      "count": 244,
+      "domain_count": 140,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 47,
+      "count": 45,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 36
+          "count": 34
         },
         {
           "domain": "github.com",
@@ -56,21 +56,32 @@
       ]
     },
     {
-      "name": "productivity",
+      "name": "video",
       "count": 41,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 37,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "notion.so",
-          "count": 12
-        },
-        {
-          "domain": "docs.google.com",
-          "count": 9
+          "count": 11
         },
         {
           "domain": "mail.google.com",
-          "count": 9
+          "count": 8
+        },
+        {
+          "domain": "docs.google.com",
+          "count": 7
         },
         {
           "domain": "drive.google.com",
@@ -83,19 +94,8 @@
       ]
     },
     {
-      "name": "video",
-      "count": 41,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 41
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 29,
+      "count": 27,
       "domain_count": 10,
       "top_domains": [
         {
@@ -103,12 +103,12 @@
           "count": 6
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 5
+          "domain": "reddit.com",
+          "count": 4
         },
         {
-          "domain": "reddit.com",
-          "count": 5
+          "domain": "web.whatsapp.com",
+          "count": 4
         },
         {
           "domain": "instagram.com",
@@ -122,16 +122,12 @@
     },
     {
       "name": "research",
-      "count": 4,
-      "domain_count": 3,
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
           "count": 2
-        },
-        {
-          "domain": "alt-5de826c99a8f3.blackboard.com",
-          "count": 1
         },
         {
           "domain": "natesnewsletter.substack.com",
