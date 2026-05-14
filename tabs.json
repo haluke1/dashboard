@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-14T11:57:14Z",
-  "total_tabs": 424,
+  "updated_at": "2026-05-14T11:58:21Z",
+  "total_tabs": 418,
   "total_windows": 7,
-  "duplicate_tabs": 91,
+  "duplicate_tabs": 90,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 259,
-      "domain_count": 148,
+      "count": 254,
+      "domain_count": 146,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,12 +19,12 @@
           "count": 12
         },
         {
-          "domain": "keep.google.com",
+          "domain": "conceptkb.com",
           "count": 11
         },
         {
-          "domain": "conceptkb.com",
-          "count": 11
+          "domain": "keep.google.com",
+          "count": 10
         },
         {
           "domain": "google.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 48,
+      "count": 47,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 37
+          "count": 36
         },
         {
           "domain": "github.com",
