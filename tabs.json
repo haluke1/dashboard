@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T18:42:56Z",
-  "total_tabs": 382,
+  "updated_at": "2026-05-14T18:44:03Z",
+  "total_tabs": 384,
   "total_windows": 6,
   "duplicate_tabs": 84,
   "bridge_online": true,
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 44,
+      "count": 46,
       "domain_count": 4,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "github.com",
-          "count": 6
+          "count": 8
         },
         {
           "domain": "vercel.com",
@@ -57,12 +57,12 @@
     },
     {
       "name": "video",
-      "count": 38,
+      "count": 39,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 38
+          "count": 39
         }
       ]
     },
@@ -95,12 +95,12 @@
     },
     {
       "name": "social",
-      "count": 29,
+      "count": 28,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "reddit.com",
