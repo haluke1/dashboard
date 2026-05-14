@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T04:06:00Z",
-  "total_tabs": 470,
+  "updated_at": "2026-05-14T04:07:06Z",
+  "total_tabs": 475,
   "total_windows": 6,
   "duplicate_tabs": 101,
   "bridge_online": true,
@@ -15,12 +15,12 @@
           "count": 32
         },
         {
-          "domain": "google.com",
+          "domain": "conceptkb.co",
           "count": 12
         },
         {
-          "domain": "conceptkb.co",
-          "count": 12
+          "domain": "google.com",
+          "count": 11
         },
         {
           "domain": "keep.google.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 49,
+      "count": 50,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 49
+          "count": 50
         }
       ]
     },
@@ -99,11 +99,15 @@
     },
     {
       "name": "social",
-      "count": 29,
+      "count": 33,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
+          "count": 7
+        },
+        {
+          "domain": "instagram.com",
           "count": 6
         },
         {
@@ -115,11 +119,7 @@
           "count": 5
         },
         {
-          "domain": "instagram.com",
-          "count": 4
-        },
-        {
-          "domain": "facebook.com",
+          "domain": "x.com",
           "count": 3
         }
       ]
