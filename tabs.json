@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-14T11:54:57Z",
-  "total_tabs": 440,
+  "updated_at": "2026-05-14T11:56:05Z",
+  "total_tabs": 432,
   "total_windows": 7,
-  "duplicate_tabs": 95,
+  "duplicate_tabs": 94,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 270,
+      "count": 265,
       "domain_count": 150,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 29
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 12
+          "count": 26
         },
         {
           "domain": "conceptkb.co",
           "count": 12
+        },
+        {
+          "domain": "keep.google.com",
+          "count": 11
         },
         {
           "domain": "conceptkb.com",
@@ -28,14 +28,14 @@
         },
         {
           "domain": "google.com",
-          "count": 9
+          "count": 8
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 50,
-      "domain_count": 5,
+      "count": 48,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -43,15 +43,11 @@
         },
         {
           "domain": "github.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "vercel.com",
           "count": 4
-        },
-        {
-          "domain": "gist.github.com",
-          "count": 1
         },
         {
           "domain": "openai.com",
@@ -61,12 +57,12 @@
     },
     {
       "name": "video",
-      "count": 44,
+      "count": 43,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 44
+          "count": 43
         }
       ]
     },
