@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-05-14T20:31:20Z",
-  "total_tabs": 386,
+  "updated_at": "2026-05-14T20:32:26Z",
+  "total_tabs": 384,
   "total_windows": 6,
-  "duplicate_tabs": 86,
+  "duplicate_tabs": 83,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 234,
+      "count": 232,
       "domain_count": 134,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 24
-        },
-        {
-          "domain": "conceptkb.co",
-          "count": 12
         },
         {
           "domain": "keep.google.com",
@@ -25,6 +21,10 @@
         {
           "domain": "conceptkb.com",
           "count": 11
+        },
+        {
+          "domain": "conceptkb.co",
+          "count": 10
         },
         {
           "domain": "higgsfield.ai",
