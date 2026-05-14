@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T04:03:51Z",
-  "total_tabs": 467,
+  "updated_at": "2026-05-14T04:04:56Z",
+  "total_tabs": 469,
   "total_windows": 6,
   "duplicate_tabs": 101,
   "bridge_online": true,
@@ -60,6 +60,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 49,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 49
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 47,
       "domain_count": 8,
@@ -83,17 +94,6 @@
         {
           "domain": "calendar.google.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 47,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 47
         }
       ]
     },
