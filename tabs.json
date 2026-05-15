@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-15T19:42:57Z",
+  "updated_at": "2026-05-15T19:44:02Z",
   "total_tabs": 365,
   "total_windows": 6,
-  "duplicate_tabs": 66,
+  "duplicate_tabs": 67,
   "bridge_online": true,
   "categories": [
     {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "google.com",
@@ -39,11 +39,11 @@
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 32
+          "count": 33
         },
         {
           "domain": "github.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "vercel.com",
