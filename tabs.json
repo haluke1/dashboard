@@ -1,110 +1,83 @@
 {
-  "updated_at": "2026-05-15T14:47:12Z",
-  "total_tabs": 447,
+  "updated_at": "2026-05-15T14:48:17Z",
+  "total_tabs": 388,
   "total_windows": 6,
-  "duplicate_tabs": 185,
+  "duplicate_tabs": 75,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 272,
-      "domain_count": 137,
+      "count": 235,
+      "domain_count": 138,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "keep.google.com",
-          "count": 13
+          "count": 11
         },
         {
           "domain": "conceptkb.com",
-          "count": 12
-        },
-        {
-          "domain": "google.com",
-          "count": 9
+          "count": 11
         },
         {
           "domain": "conceptkb.co",
-          "count": 8
+          "count": 9
+        },
+        {
+          "domain": "google.com",
+          "count": 6
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 49,
+      "count": 47,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 36
+          "count": 33
         },
         {
           "domain": "github.com",
-          "count": 7
+          "count": 8
         },
         {
           "domain": "vercel.com",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "openai.com",
-          "count": 2
+          "count": 1
         }
       ]
     },
     {
       "name": "video",
-      "count": 45,
+      "count": 40,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 45
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 39,
-      "domain_count": 10,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 11
-        },
-        {
-          "domain": "instagram.com",
-          "count": 6
-        },
-        {
-          "domain": "reddit.com",
-          "count": 5
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 5
-        },
-        {
-          "domain": "x.com",
-          "count": 4
+          "count": 40
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 37,
+      "count": 33,
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "mail.google.com",
-          "count": 11
+          "domain": "notion.so",
+          "count": 9
         },
         {
-          "domain": "notion.so",
-          "count": 10
+          "domain": "mail.google.com",
+          "count": 8
         },
         {
           "domain": "docs.google.com",
@@ -121,8 +94,35 @@
       ]
     },
     {
+      "name": "social",
+      "count": 29,
+      "domain_count": 10,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 7
+        },
+        {
+          "domain": "reddit.com",
+          "count": 4
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 4
+        },
+        {
+          "domain": "instagram.com",
+          "count": 4
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "research",
-      "count": 4,
+      "count": 3,
       "domain_count": 2,
       "top_domains": [
         {
@@ -131,7 +131,7 @@
         },
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 2
+          "count": 1
         }
       ]
     },
