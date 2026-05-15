@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-15T19:44:02Z",
-  "total_tabs": 365,
+  "updated_at": "2026-05-15T19:45:08Z",
+  "total_tabs": 358,
   "total_windows": 6,
   "duplicate_tabs": 67,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 219,
-      "domain_count": 133,
+      "count": 216,
+      "domain_count": 130,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 46,
+      "count": 44,
       "domain_count": 4,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "github.com",
-          "count": 8
+          "count": 6
         },
         {
           "domain": "vercel.com",
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 24,
       "domain_count": 9,
       "top_domains": [
         {
@@ -111,12 +111,12 @@
           "count": 4
         },
         {
-          "domain": "reddit.com",
+          "domain": "facebook.com",
           "count": 3
         },
         {
-          "domain": "facebook.com",
-          "count": 3
+          "domain": "reddit.com",
+          "count": 2
         }
       ]
     },
