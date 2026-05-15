@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-15T19:04:09Z",
-  "total_tabs": 385,
+  "updated_at": "2026-05-15T19:05:14Z",
+  "total_tabs": 370,
   "total_windows": 6,
-  "duplicate_tabs": 78,
+  "duplicate_tabs": 72,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 235,
-      "domain_count": 135,
+      "count": 223,
+      "domain_count": 133,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,25 +16,25 @@
         },
         {
           "domain": "conceptkb.com",
-          "count": 14
+          "count": 10
         },
         {
           "domain": "keep.google.com",
-          "count": 10
-        },
-        {
-          "domain": "conceptkb.co",
-          "count": 10
+          "count": 9
         },
         {
           "domain": "google.com",
           "count": 8
+        },
+        {
+          "domain": "conceptkb.co",
+          "count": 6
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 47,
+      "count": 46,
       "domain_count": 4,
       "top_domains": [
         {
@@ -47,7 +47,7 @@
         },
         {
           "domain": "vercel.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "openai.com",
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 32,
+      "count": 31,
       "domain_count": 8,
       "top_domains": [
         {
@@ -77,7 +77,7 @@
         },
         {
           "domain": "mail.google.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "docs.google.com",
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 28,
+      "count": 27,
       "domain_count": 10,
       "top_domains": [
         {
@@ -104,7 +104,7 @@
         },
         {
           "domain": "web.whatsapp.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "instagram.com",
