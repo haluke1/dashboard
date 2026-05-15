@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-15T17:30:12Z",
-  "total_tabs": 395,
+  "updated_at": "2026-05-15T17:31:17Z",
+  "total_tabs": 390,
   "total_windows": 6,
-  "duplicate_tabs": 82,
+  "duplicate_tabs": 78,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 245,
+      "count": 240,
       "domain_count": 136,
       "top_domains": [
         {
@@ -16,14 +16,14 @@
         },
         {
           "domain": "conceptkb.com",
-          "count": 19
-        },
-        {
-          "domain": "conceptkb.co",
-          "count": 13
+          "count": 17
         },
         {
           "domain": "keep.google.com",
+          "count": 10
+        },
+        {
+          "domain": "conceptkb.co",
           "count": 10
         },
         {
