@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-15T14:49:36Z",
-  "total_tabs": 387,
+  "updated_at": "2026-05-15T14:50:47Z",
+  "total_tabs": 383,
   "total_windows": 6,
-  "duplicate_tabs": 73,
+  "duplicate_tabs": 70,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 234,
-      "domain_count": 138,
+      "count": 232,
+      "domain_count": 137,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 24
         },
         {
-          "domain": "keep.google.com",
+          "domain": "conceptkb.com",
           "count": 11
         },
         {
-          "domain": "conceptkb.com",
-          "count": 11
+          "domain": "keep.google.com",
+          "count": 10
         },
         {
           "domain": "conceptkb.co",
@@ -34,16 +34,16 @@
     },
     {
       "name": "ai-dev",
-      "count": 47,
+      "count": 45,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 33
+          "count": 32
         },
         {
           "domain": "github.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "vercel.com",
