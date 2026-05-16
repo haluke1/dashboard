@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-16T03:23:45Z",
-  "total_tabs": 387,
+  "updated_at": "2026-05-16T03:24:51Z",
+  "total_tabs": 389,
   "total_windows": 6,
   "duplicate_tabs": 63,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 233,
+      "count": 235,
       "domain_count": 144,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 9
         },
         {
-          "domain": "google.com",
+          "domain": "theyarehuge.com",
           "count": 8
         },
         {
-          "domain": "theyarehuge.com",
-          "count": 6
+          "domain": "google.com",
+          "count": 8
         }
       ]
     },
