@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T03:15:55Z",
-  "total_tabs": 379,
+  "updated_at": "2026-05-16T03:17:01Z",
+  "total_tabs": 381,
   "total_windows": 6,
   "duplicate_tabs": 63,
   "bridge_online": true,
@@ -67,6 +67,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 31,
+      "domain_count": 10,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 7
+        },
+        {
+          "domain": "tnaflix.com",
+          "count": 6
+        },
+        {
+          "domain": "instagram.com",
+          "count": 5
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 4
+        },
+        {
+          "domain": "facebook.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 31,
       "domain_count": 8,
@@ -90,33 +117,6 @@
         {
           "domain": "calendar.google.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 29,
-      "domain_count": 10,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 7
-        },
-        {
-          "domain": "instagram.com",
-          "count": 5
-        },
-        {
-          "domain": "tnaflix.com",
-          "count": 4
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 4
-        },
-        {
-          "domain": "facebook.com",
-          "count": 3
         }
       ]
     },
