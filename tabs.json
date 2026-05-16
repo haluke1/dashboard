@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-16T15:35:22Z",
-  "total_tabs": 375,
+  "updated_at": "2026-05-16T15:36:29Z",
+  "total_tabs": 370,
   "total_windows": 5,
-  "duplicate_tabs": 58,
+  "duplicate_tabs": 57,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 226,
-      "domain_count": 143,
+      "count": 221,
+      "domain_count": 141,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 22
         },
         {
           "domain": "keep.google.com",
@@ -27,19 +27,19 @@
           "count": 8
         },
         {
-          "domain": "conceptkb.co",
+          "domain": "higgsfield.ai",
           "count": 5
         }
       ]
     },
     {
       "name": "video",
-      "count": 45,
+      "count": 47,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 45
+          "count": 47
         }
       ]
     },
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 31,
+      "count": 29,
       "domain_count": 8,
       "top_domains": [
         {
@@ -81,11 +81,11 @@
         },
         {
           "domain": "docs.google.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "drive.google.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "calendar.google.com",
