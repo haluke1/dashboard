@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-16T03:14:46Z",
-  "total_tabs": 377,
+  "updated_at": "2026-05-16T03:15:55Z",
+  "total_tabs": 379,
   "total_windows": 6,
-  "duplicate_tabs": 64,
+  "duplicate_tabs": 63,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 228,
+      "count": 227,
       "domain_count": 143,
       "top_domains": [
         {
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 26,
+      "count": 29,
       "domain_count": 10,
       "top_domains": [
         {
@@ -107,16 +107,16 @@
           "count": 5
         },
         {
+          "domain": "tnaflix.com",
+          "count": 4
+        },
+        {
           "domain": "web.whatsapp.com",
           "count": 4
         },
         {
           "domain": "facebook.com",
           "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
         }
       ]
     },
