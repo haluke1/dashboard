@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-17T17:08:56Z",
-  "total_tabs": 414,
+  "updated_at": "2026-05-17T17:10:02Z",
+  "total_tabs": 411,
   "total_windows": 6,
   "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 243,
+      "count": 239,
       "domain_count": 158,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
-          "domain": "babepedia.com",
-          "count": 8
-        },
-        {
           "domain": "conceptkb.com",
           "count": 8
         },
         {
           "domain": "google.com",
-          "count": 6
+          "count": 7
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 5
         }
       ]
     },
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 23,
       "domain_count": 10,
       "top_domains": [
         {
@@ -111,11 +111,11 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
           "count": 2
         }
       ]
