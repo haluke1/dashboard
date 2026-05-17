@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T22:40:15Z",
-  "total_tabs": 385,
+  "updated_at": "2026-05-17T22:41:22Z",
+  "total_tabs": 388,
   "total_windows": 5,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
@@ -68,9 +68,13 @@
     },
     {
       "name": "productivity",
-      "count": 30,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 8
+        },
         {
           "domain": "notion.so",
           "count": 7
@@ -80,12 +84,8 @@
           "count": 7
         },
         {
-          "domain": "docs.google.com",
-          "count": 7
-        },
-        {
           "domain": "drive.google.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "calendar.google.com",
@@ -95,8 +95,8 @@
     },
     {
       "name": "social",
-      "count": 21,
-      "domain_count": 9,
+      "count": 22,
+      "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
