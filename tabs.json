@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-17T17:30:39Z",
-  "total_tabs": 436,
+  "updated_at": "2026-05-17T17:31:44Z",
+  "total_tabs": 434,
   "total_windows": 6,
   "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 263,
+      "count": 261,
       "domain_count": 174,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 8
         },
         {
-          "domain": "redtube.com",
-          "count": 7
-        },
-        {
           "domain": "google.com",
           "count": 6
+        },
+        {
+          "domain": "redtube.com",
+          "count": 5
         }
       ]
     },
