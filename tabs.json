@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-17T17:07:50Z",
-  "total_tabs": 410,
+  "updated_at": "2026-05-17T17:08:56Z",
+  "total_tabs": 414,
   "total_windows": 6,
   "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 239,
+      "count": 243,
       "domain_count": 158,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 9
         },
         {
+          "domain": "babepedia.com",
+          "count": 8
+        },
+        {
           "domain": "conceptkb.com",
           "count": 8
         },
         {
           "domain": "google.com",
           "count": 6
-        },
-        {
-          "domain": "higgsfield.ai",
-          "count": 5
         }
       ]
     },
