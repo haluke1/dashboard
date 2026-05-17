@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-05-17T18:34:50Z",
-  "total_tabs": 464,
-  "total_windows": 6,
+  "updated_at": "2026-05-17T18:35:55Z",
+  "total_tabs": 389,
+  "total_windows": 5,
   "duplicate_tabs": 51,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 291,
-      "domain_count": 170,
+      "count": 219,
+      "domain_count": 146,
       "top_domains": [
-        {
-          "domain": "eporner.com",
-          "count": 33
-        },
         {
           "domain": "(no domain)",
           "count": 22
@@ -27,8 +23,12 @@
           "count": 8
         },
         {
+          "domain": "higgsfield.ai",
+          "count": 5
+        },
+        {
           "domain": "google.com",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -95,16 +95,12 @@
     },
     {
       "name": "social",
-      "count": 24,
-      "domain_count": 10,
+      "count": 21,
+      "domain_count": 9,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 7
-        },
-        {
-          "domain": "abxxx.com",
-          "count": 3
         },
         {
           "domain": "web.whatsapp.com",
@@ -116,6 +112,10 @@
         },
         {
           "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
           "count": 2
         }
       ]
