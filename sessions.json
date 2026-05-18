@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-05-18T01:48:39Z",
+  "updated_at": "2026-05-18T02:48:30Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 323,
     "total": 324
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "b18e85a6",
       "full_id": "b18e85a6-0f18-4ad9-9f64-15f8bcf678c8",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/projects/claudephilly-videos",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,8 +22,7 @@
       "file_size_kb": 637,
       "modified_ts": 1779068899.0455818,
       "modified_iso": "2026-05-17T21:48:19.045582",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 60.2
     }
-  ],
-  "recent": []
+  ]
 }
