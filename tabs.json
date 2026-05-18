@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-18T00:51:40Z",
+  "updated_at": "2026-05-18T00:52:46Z",
   "total_tabs": 398,
   "total_windows": 5,
-  "duplicate_tabs": 56,
+  "duplicate_tabs": 58,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 226,
+      "count": 225,
       "domain_count": 149,
       "top_domains": [
         {
@@ -122,7 +122,7 @@
     },
     {
       "name": "research",
-      "count": 4,
+      "count": 5,
       "domain_count": 3,
       "top_domains": [
         {
@@ -130,11 +130,11 @@
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
+          "domain": "substack.com",
+          "count": 2
         },
         {
-          "domain": "substack.com",
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
