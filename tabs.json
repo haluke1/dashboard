@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-18T14:48:07Z",
-  "total_tabs": 411,
+  "updated_at": "2026-05-18T14:49:12Z",
+  "total_tabs": 414,
   "total_windows": 5,
   "duplicate_tabs": 59,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 238,
-      "domain_count": 161,
+      "count": 240,
+      "domain_count": 163,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,18 +34,18 @@
     },
     {
       "name": "video",
-      "count": 64,
+      "count": 65,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 64
+          "count": 65
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 49,
+      "count": 48,
       "domain_count": 4,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "github.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "vercel.com",
@@ -95,12 +95,16 @@
     },
     {
       "name": "social",
-      "count": 21,
+      "count": 22,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 7
+        },
+        {
+          "domain": "reddit.com",
+          "count": 3
         },
         {
           "domain": "web.whatsapp.com",
@@ -109,10 +113,6 @@
         {
           "domain": "instagram.com",
           "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
         },
         {
           "domain": "discord.com",
