@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-19T01:47:19Z",
+  "updated_at": "2026-05-19T01:48:24Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 323,
+    "recent": 1,
+    "archived": 324,
     "total": 325
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 543,
       "modified_ts": 1779074523.214731,
       "modified_iso": "2026-05-17T23:22:03.214731",
-      "minutes_since_active": 1345.3
-    },
-    {
-      "id": "b18e85a6",
-      "full_id": "b18e85a6-0f18-4ad9-9f64-15f8bcf678c8",
-      "status": "recent",
-      "project": "/Users/halukgul/projects/claudephilly-videos",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "research code and coffee, use hyperframes and design skills like ui ux pro max and create a very cool animation 60 seconds \u0131'll share some links for you to use -> https://substack.\u2026",
-      "last_user_msg": "<task-notification> <task-id>aa7438068dd07afb0</task-id> <tool-use-id>toolu_017EkyFsVbFP96dP5Hmg75BE</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b18e85a6-0f1\u2026",
-      "last_assistant_snippet": "All 4 agents hit the same wall: Arc isn't running with CDP debugging, and the stored `HIGGSFIELD_CLERK_COOKIE` in `~/.claude.json` is expired. One command fixes everything. **Run t\u2026",
-      "message_count": 123,
-      "file_size_kb": 637,
-      "modified_ts": 1779068899.0455818,
-      "modified_iso": "2026-05-17T21:48:19.045582",
-      "minutes_since_active": 1439.0
+      "minutes_since_active": 1346.3
     }
   ]
 }
