@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-19T01:15:44Z",
-  "total_tabs": 412,
+  "updated_at": "2026-05-19T01:16:54Z",
+  "total_tabs": 413,
   "total_windows": 5,
-  "duplicate_tabs": 60,
+  "duplicate_tabs": 61,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 241,
-      "domain_count": 164,
+      "domain_count": 165,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -24,7 +24,7 @@
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "google.com",
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 34,
       "domain_count": 8,
       "top_domains": [
         {
@@ -85,7 +85,7 @@
         },
         {
           "domain": "drive.google.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "calendar.google.com",
