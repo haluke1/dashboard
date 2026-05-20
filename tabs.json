@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T01:27:28Z",
+  "updated_at": "2026-05-20T01:28:34Z",
   "total_tabs": 420,
   "total_windows": 5,
   "duplicate_tabs": 61,
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 21,
+      "count": 22,
       "domain_count": 10,
       "top_domains": [
         {
@@ -107,12 +107,12 @@
           "count": 3
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "reddit.com",
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 2
+          "domain": "web.whatsapp.com",
+          "count": 3
         },
         {
           "domain": "optirix.com",
@@ -141,12 +141,12 @@
     },
     {
       "name": "shopping",
-      "count": 3,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 3
+          "count": 2
         }
       ]
     },
