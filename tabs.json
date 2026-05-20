@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T03:05:16Z",
-  "total_tabs": 424,
+  "updated_at": "2026-05-20T03:06:21Z",
+  "total_tabs": 421,
   "total_windows": 5,
   "duplicate_tabs": 61,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 70,
+      "count": 69,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 70
+          "count": 69
         }
       ]
     },
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 23,
+      "count": 21,
       "domain_count": 10,
       "top_domains": [
         {
@@ -104,19 +104,19 @@
         },
         {
           "domain": "instagram.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "web.whatsapp.com",
           "count": 3
         },
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "reddit.com",
-          "count": 2
+          "domain": "optirix.com",
+          "count": 1
         }
       ]
     },
