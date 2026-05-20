@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-05-20T00:54:14Z",
-  "total_tabs": 444,
-  "total_windows": 6,
-  "duplicate_tabs": 61,
+  "updated_at": "2026-05-20T00:55:19Z",
+  "total_tabs": 416,
+  "total_windows": 5,
+  "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 268,
-      "domain_count": 165,
+      "count": 239,
+      "domain_count": 163,
       "top_domains": [
-        {
-          "domain": "xhamster.com",
-          "count": 25
-        },
         {
           "domain": "(no domain)",
           "count": 22
@@ -29,17 +25,21 @@
         {
           "domain": "higgsfield.ai",
           "count": 6
+        },
+        {
+          "domain": "google.com",
+          "count": 5
         }
       ]
     },
     {
       "name": "video",
-      "count": 68,
+      "count": 69,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 68
+          "count": 69
         }
       ]
     },
@@ -103,11 +103,11 @@
           "count": 7
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "instagram.com",
           "count": 3
         },
         {
-          "domain": "instagram.com",
+          "domain": "web.whatsapp.com",
           "count": 3
         },
         {
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "optirix.com",
           "count": 1
         }
       ]
