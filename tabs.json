@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-21T03:21:03Z",
-  "total_tabs": 431,
+  "updated_at": "2026-05-21T03:22:09Z",
+  "total_tabs": 427,
   "total_windows": 5,
-  "duplicate_tabs": 59,
+  "duplicate_tabs": 61,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 251,
-      "domain_count": 174,
+      "count": 249,
+      "domain_count": 171,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -24,7 +24,7 @@
         },
         {
           "domain": "google.com",
-          "count": 6
+          "count": 7
         },
         {
           "domain": "higgsfield.ai",
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 49,
+      "count": 50,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 37
+          "count": 38
         },
         {
           "domain": "github.com",
@@ -95,12 +95,12 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 20,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 8
+          "count": 6
         },
         {
           "domain": "instagram.com",
@@ -135,17 +135,6 @@
         },
         {
           "domain": "substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "finance",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "business.bankofamerica.com",
           "count": 1
         }
       ]
