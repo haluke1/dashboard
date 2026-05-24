@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-24T03:57:50Z",
-  "total_tabs": 453,
+  "updated_at": "2026-05-24T03:58:54Z",
+  "total_tabs": 451,
   "total_windows": 6,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 258,
-      "domain_count": 174,
+      "count": 255,
+      "domain_count": 173,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,11 +23,11 @@
           "count": 8
         },
         {
-          "domain": "higgsfield.ai",
-          "count": 6
+          "domain": "google.com",
+          "count": 7
         },
         {
-          "domain": "google.com",
+          "domain": "higgsfield.ai",
           "count": 6
         }
       ]
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 21,
+      "count": 22,
       "domain_count": 9,
       "top_domains": [
         {
@@ -111,12 +111,12 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
-          "count": 1
+          "domain": "reddit.com",
+          "count": 2
         }
       ]
     },
