@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-05-24T02:38:48Z",
-  "total_tabs": 499,
+  "updated_at": "2026-05-24T02:39:53Z",
+  "total_tabs": 496,
   "total_windows": 6,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 304,
+      "count": 301,
       "domain_count": 180,
       "top_domains": [
         {
-          "domain": "yolo.com.listcrawler.eu",
-          "count": 24
-        },
-        {
           "domain": "(no domain)",
           "count": 22
+        },
+        {
+          "domain": "yolo.com.listcrawler.eu",
+          "count": 21
         },
         {
           "domain": "keep.google.com",
