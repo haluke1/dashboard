@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-24T04:15:38Z",
-  "total_tabs": 449,
+  "updated_at": "2026-05-24T04:16:42Z",
+  "total_tabs": 443,
   "total_windows": 5,
-  "duplicate_tabs": 60,
+  "duplicate_tabs": 53,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 255,
-      "domain_count": 174,
+      "count": 250,
+      "domain_count": 173,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,19 +16,19 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 10
+          "count": 9
         },
         {
           "domain": "conceptkb.com",
           "count": 8
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "google.com",
           "count": 6
         },
         {
-          "domain": "google.com",
-          "count": 6
+          "domain": "higgsfield.ai",
+          "count": 5
         }
       ]
     },
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
         {
@@ -80,12 +80,12 @@
           "count": 7
         },
         {
-          "domain": "drive.google.com",
+          "domain": "mail.google.com",
           "count": 5
         },
         {
-          "domain": "mail.google.com",
-          "count": 5
+          "domain": "drive.google.com",
+          "count": 4
         },
         {
           "domain": "calendar.google.com",
