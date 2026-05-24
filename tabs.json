@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-24T02:36:38Z",
-  "total_tabs": 505,
+  "updated_at": "2026-05-24T02:37:43Z",
+  "total_tabs": 503,
   "total_windows": 6,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 309,
+      "count": 308,
       "domain_count": 180,
       "top_domains": [
         {
           "domain": "yolo.com.listcrawler.eu",
-          "count": 29
+          "count": 28
         },
         {
           "domain": "(no domain)",
@@ -95,16 +95,12 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 21,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 8
-        },
-        {
-          "domain": "reddit.com",
-          "count": 3
         },
         {
           "domain": "web.whatsapp.com",
@@ -113,6 +109,10 @@
         {
           "domain": "instagram.com",
           "count": 3
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
         },
         {
           "domain": "facebook.com",
