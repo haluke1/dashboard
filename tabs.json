@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-24T03:52:26Z",
-  "total_tabs": 467,
+  "updated_at": "2026-05-24T03:53:31Z",
+  "total_tabs": 464,
   "total_windows": 6,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 272,
+      "count": 269,
       "domain_count": 179,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 10
         },
         {
-          "domain": "yolo.com.listcrawler.eu",
-          "count": 8
-        },
-        {
           "domain": "conceptkb.com",
           "count": 8
         },
         {
           "domain": "ladys.one",
+          "count": 6
+        },
+        {
+          "domain": "higgsfield.ai",
           "count": 6
         }
       ]
