@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-05-24T01:56:30Z",
-  "total_tabs": 468,
+  "updated_at": "2026-05-24T01:57:34Z",
+  "total_tabs": 474,
   "total_windows": 6,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 273,
+      "count": 279,
       "domain_count": 186,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 22
+        },
+        {
+          "domain": "yolo.com.listcrawler.eu",
+          "count": 13
         },
         {
           "domain": "keep.google.com",
@@ -21,10 +25,6 @@
         {
           "domain": "conceptkb.com",
           "count": 8
-        },
-        {
-          "domain": "yolo.com.listcrawler.eu",
-          "count": 7
         },
         {
           "domain": "higgsfield.ai",
