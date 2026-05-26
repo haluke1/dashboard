@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T18:59:03Z",
+  "updated_at": "2026-05-26T18:59:25Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
-      "last_assistant_snippet": "I now have the full template structure. Launching all 7 agents in parallel now. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The template uses a smart pattern: status is store\u2026",
-      "message_count": 494,
-      "file_size_kb": 5320,
-      "modified_ts": 1779821857.6375318,
-      "modified_iso": "2026-05-26T14:57:37.637532",
-      "minutes_since_active": 1.4
+      "last_assistant_snippet": "All 7 agents finished. Here's the full report: --- ## ConceptKB Partner Network \u2014 Live | # | Category | Contacts | Live URL | |---|---|---|---| | 1 | Real Estate \u2014 Listing | **175*\u2026",
+      "message_count": 497,
+      "file_size_kb": 5337,
+      "modified_ts": 1779821962.42841,
+      "modified_iso": "2026-05-26T14:59:22.428410",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": []
