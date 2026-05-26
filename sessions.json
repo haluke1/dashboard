@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-05-26T19:43:05Z",
+  "updated_at": "2026-05-26T19:44:12Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 325,
     "total": 326
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7607974a",
       "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -19,10 +18,11 @@
       "last_user_msg": "i tried to open in another computer and it asked me for vercel login can we make this public",
       "last_assistant_snippet": "All 8 are public. Here are the clean, shareable URLs \u2014 share these, not the long hash ones: | Dashboard | URL | |---|---| | **Master Hub** | https://conceptkb-partner-hub.vercel.ap\u2026",
       "message_count": 584,
-      "file_size_kb": 5524,
-      "modified_ts": 1779822915.2194803,
-      "modified_iso": "2026-05-26T15:15:15.219480",
-      "minutes_since_active": 27.8
+      "file_size_kb": 5525,
+      "modified_ts": 1779824629.5154412,
+      "modified_iso": "2026-05-26T15:43:49.515441",
+      "minutes_since_active": 0.4
     }
-  ]
+  ],
+  "recent": []
 }
