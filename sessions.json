@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-05-26T18:54:52Z",
+  "updated_at": "2026-05-26T18:57:38Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 325,
     "total": 326
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7607974a",
       "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -20,9 +19,10 @@
       "last_assistant_snippet": "I now have the full template structure. Launching all 7 agents in parallel now. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The template uses a smart pattern: status is store\u2026",
       "message_count": 494,
       "file_size_kb": 5320,
-      "modified_ts": 1779819565.6637487,
-      "modified_iso": "2026-05-26T14:19:25.663749",
-      "minutes_since_active": 35.4
+      "modified_ts": 1779821834.5830176,
+      "modified_iso": "2026-05-26T14:57:14.583018",
+      "minutes_since_active": 0.3
     }
-  ]
+  ],
+  "recent": []
 }
