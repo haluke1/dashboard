@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T15:37:58Z",
+  "updated_at": "2026-05-26T15:39:06Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
       "last_user_msg": "could you extract like 100+ of the best matches and before that open the csv?",
-      "last_assistant_snippet": "Phones are extracting correctly. Websites have parsing issue but we can fix post-process. Let me wait for the job to finish.",
-      "message_count": 319,
-      "file_size_kb": 1902,
-      "modified_ts": 1779809849.0049078,
-      "modified_iso": "2026-05-26T11:37:29.004908",
+      "last_assistant_snippet": "129 profiles done. Now cleaning the data and generating proper TLDRs and a final CSV.",
+      "message_count": 326,
+      "file_size_kb": 1921,
+      "modified_ts": 1779809912.3604681,
+      "modified_iso": "2026-05-26T11:38:32.360468",
       "minutes_since_active": 0.5
     }
   ],
