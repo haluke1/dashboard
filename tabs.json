@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-05-26T16:26:12Z",
-  "total_tabs": 446,
+  "updated_at": "2026-05-26T16:27:42Z",
+  "total_tabs": 580,
   "total_windows": 8,
-  "duplicate_tabs": 372,
+  "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 301,
-      "domain_count": 147,
+      "count": 360,
+      "domain_count": 256,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 12
+          "count": 24
         },
         {
           "domain": "google.com",
-          "count": 9
+          "count": 12
         },
         {
           "domain": "keep.google.com",
-          "count": 6
+          "count": 10
         },
         {
-          "domain": "theanarchistlibrary.org",
-          "count": 6
+          "domain": "conceptkb.com",
+          "count": 8
         },
         {
-          "domain": "archive.org",
+          "domain": "higgsfield.ai",
           "count": 5
         }
       ]
     },
     {
       "name": "video",
-      "count": 81,
+      "count": 93,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 81
+          "count": 93
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 45,
+      "count": 66,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 32
+          "count": 48
         },
         {
           "domain": "github.com",
-          "count": 10
+          "count": 14
         },
         {
           "domain": "vercel.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "openai.com",
@@ -68,79 +68,95 @@
     },
     {
       "name": "productivity",
-      "count": 8,
-      "domain_count": 3,
+      "count": 32,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 5
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 2
+          "count": 10
         },
         {
           "domain": "notion.so",
-          "count": 1
+          "count": 6
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 6
+        },
+        {
+          "domain": "drive.google.com",
+          "count": 4
+        },
+        {
+          "domain": "calendar.google.com",
+          "count": 2
         }
       ]
     },
     {
       "name": "social",
-      "count": 6,
-      "domain_count": 5,
+      "count": 23,
+      "domain_count": 10,
       "top_domains": [
         {
-          "domain": "agroforestryx.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "linkedin.com",
-          "count": 1
+          "count": 8
         },
         {
           "domain": "web.whatsapp.com",
-          "count": 1
+          "count": 4
         },
         {
           "domain": "instagram.com",
+          "count": 3
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
           "count": 1
         }
       ]
     },
     {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
+      "name": "research",
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
-          "domain": "amazon.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "local",
       "count": 2,
-      "domain_count": 1,
+      "domain_count": 2,
       "top_domains": [
         {
+          "domain": "localhost:3002",
+          "count": 1
+        },
+        {
           "domain": "localhost:8771",
-          "count": 2
+          "count": 1
         }
       ]
     },
     {
-      "name": "research",
+      "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
+          "domain": "amazon.com",
           "count": 1
         }
       ]
