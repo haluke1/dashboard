@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-26T14:28:37Z",
+  "updated_at": "2026-05-26T14:29:32Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 325,
     "total": 326
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7607974a",
       "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
-      "last_user_msg": "lots of designers etc are on houzz, \u0131 wanna get partners \u0131 can do bus\u0131ness w\u0131th for conceptkb.com - how could we make th\u0131s happen?",
-      "last_assistant_snippet": "Advisor's verdict: **skip Apify for this one.** Here's why and what to do instead: --- **Why no scraping** Houzz's ToS bans automated access \u2014 risk is your account gets banned + a \u2026",
-      "message_count": 26,
-      "file_size_kb": 122,
-      "modified_ts": 1779804417.6851025,
-      "modified_iso": "2026-05-26T10:06:57.685102",
-      "minutes_since_active": 21.7
+      "last_user_msg": "what do you think about this one could it be useful at all?",
+      "last_assistant_snippet": "What are you referring to? I don't have context for \"this one\" \u2014 are you looking at a specific Apify actor, a tool, a website, or something else? Share a link or screenshot and I'l\u2026",
+      "message_count": 29,
+      "file_size_kb": 125,
+      "modified_ts": 1779805771.129102,
+      "modified_iso": "2026-05-26T10:29:31.129102",
+      "minutes_since_active": 0.0
     }
-  ]
+  ],
+  "recent": []
 }
