@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T14:41:26Z",
+  "updated_at": "2026-05-26T14:41:47Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -18,10 +18,10 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
       "last_assistant_snippet": "Remote debugging isn't enabled yet. You need to turn it on in Arc: 1. Open Arc \u2192 type `chrome://inspect/#remote-debugging` in the address bar 2. Toggle **\"Enable port forwarding\"**\u2026",
       "message_count": 49,
-      "file_size_kb": 165,
-      "modified_ts": 1779806483.2541986,
-      "modified_iso": "2026-05-26T10:41:23.254199",
-      "minutes_since_active": 0.0
+      "file_size_kb": 166,
+      "modified_ts": 1779806486.9937022,
+      "modified_iso": "2026-05-26T10:41:26.993702",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": []
