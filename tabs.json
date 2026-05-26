@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-26T16:14:51Z",
-  "total_tabs": 578,
-  "total_windows": 7,
+  "updated_at": "2026-05-26T16:16:00Z",
+  "total_tabs": 579,
+  "total_windows": 8,
   "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 359,
+      "count": 360,
       "domain_count": 256,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "google.com",
@@ -136,23 +136,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
