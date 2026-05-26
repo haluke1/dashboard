@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T19:14:40Z",
+  "updated_at": "2026-05-26T19:15:14Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -16,11 +16,11 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
       "last_user_msg": "i tried to open in another computer and it asked me for vercel login can we make this public",
-      "last_assistant_snippet": "Home inspectors is the one returning 401. Let me redeploy it with a clean project name and fix the master hub link.",
-      "message_count": 573,
-      "file_size_kb": 5507,
-      "modified_ts": 1779822877.544336,
-      "modified_iso": "2026-05-26T15:14:37.544336",
+      "last_assistant_snippet": "All 8 are public. Here are the clean, shareable URLs \u2014 share these, not the long hash ones: | Dashboard | URL | |---|---| | **Master Hub** | https://conceptkb-partner-hub.vercel.ap\u2026",
+      "message_count": 584,
+      "file_size_kb": 5522,
+      "modified_ts": 1779822912.3821375,
+      "modified_iso": "2026-05-26T15:15:12.382138",
       "minutes_since_active": 0.0
     }
   ],
