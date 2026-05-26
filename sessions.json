@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-26T17:23:30Z",
+  "updated_at": "2026-05-26T17:29:33Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 325,
     "total": 326
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7607974a",
       "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
       "last_user_msg": "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation. Summary: 1. Primary Request \u2026",
       "last_assistant_snippet": "I now have the full template structure. Launching all 7 agents in parallel now. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` The template uses a smart pattern: status is store\u2026",
-      "message_count": 488,
-      "file_size_kb": 5242,
-      "modified_ts": 1779815580.9888794,
-      "modified_iso": "2026-05-26T13:13:00.988879",
-      "minutes_since_active": 10.5
+      "message_count": 490,
+      "file_size_kb": 5266,
+      "modified_ts": 1779816431.1479993,
+      "modified_iso": "2026-05-26T13:27:11.147999",
+      "minutes_since_active": 2.3
     }
-  ]
+  ],
+  "recent": []
 }
