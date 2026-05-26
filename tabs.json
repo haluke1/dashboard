@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-26T03:58:33Z",
-  "total_tabs": 559,
+  "updated_at": "2026-05-26T03:59:46Z",
+  "total_tabs": 560,
   "total_windows": 7,
   "duplicate_tabs": 58,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 345,
+      "count": 346,
       "domain_count": 251,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "google.com",
-          "count": 11
+          "count": 12
         },
         {
           "domain": "keep.google.com",
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "agroforestryx.com",
           "count": 1
         }
       ]
@@ -136,23 +136,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
