@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-26T04:08:53Z",
-  "total_tabs": 562,
+  "updated_at": "2026-05-26T04:10:17Z",
+  "total_tabs": 563,
   "total_windows": 7,
   "duplicate_tabs": 58,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 348,
-      "domain_count": 252,
+      "count": 349,
+      "domain_count": 253,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "agroforestryx.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -136,23 +136,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
