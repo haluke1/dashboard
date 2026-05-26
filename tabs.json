@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T16:21:40Z",
-  "total_tabs": 579,
+  "updated_at": "2026-05-26T16:22:46Z",
+  "total_tabs": 580,
   "total_windows": 8,
   "duplicate_tabs": 62,
   "bridge_online": true,
@@ -137,11 +137,15 @@
     },
     {
       "name": "local",
-      "count": 1,
-      "domain_count": 1,
+      "count": 2,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        },
+        {
+          "domain": "localhost:8771",
           "count": 1
         }
       ]
