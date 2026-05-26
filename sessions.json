@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T14:55:22Z",
+  "updated_at": "2026-05-26T14:56:28Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
       "last_user_msg": "could you extract like 100+ of the best matches and before that open the csv?",
-      "last_assistant_snippet": "Profile URL was truncated. Let me go back to the search and get correct full URLs, then check a real profile.",
-      "message_count": 279,
-      "file_size_kb": 1587,
-      "modified_ts": 1779807319.7865453,
-      "modified_iso": "2026-05-26T10:55:19.786545",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Profile loaded \u2014 contact form only, no direct phone. Let me check the \"Business\" tab which often has website + phone.",
+      "message_count": 291,
+      "file_size_kb": 1845,
+      "modified_ts": 1779807358.1243553,
+      "modified_iso": "2026-05-26T10:55:58.124355",
+      "minutes_since_active": 0.5
     }
   ],
   "recent": []
