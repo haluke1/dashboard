@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-26T16:22:48Z",
+  "updated_at": "2026-05-26T16:23:55Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 325,
     "total": 326
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7607974a",
       "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
-      "last_user_msg": "open as webpage and create a link i can share",
+      "last_user_msg": "by the way what other categories could we target from houzz? what other top people would be able to refer us and actually partner? think realistically as if you ran over dozens of \u2026",
       "last_assistant_snippet": "Live at: **[https://conceptkb-partners.vercel.app](https://conceptkb-partners.vercel.app)** Clean `.vercel.app` domain, fully functional \u2014 status pills, search, filters, localStora\u2026",
-      "message_count": 439,
-      "file_size_kb": 4415,
-      "modified_ts": 1779812198.8790085,
-      "modified_iso": "2026-05-26T12:16:38.879009",
-      "minutes_since_active": 6.1
+      "message_count": 443,
+      "file_size_kb": 4429,
+      "modified_ts": 1779812615.6216865,
+      "modified_iso": "2026-05-26T12:23:35.621686",
+      "minutes_since_active": 0.3
     }
-  ]
+  ],
+  "recent": []
 }
