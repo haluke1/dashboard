@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-26T02:20:32Z",
-  "total_tabs": 544,
-  "total_windows": 6,
-  "duplicate_tabs": 53,
+  "updated_at": "2026-05-26T02:22:45Z",
+  "total_tabs": 542,
+  "total_windows": 7,
+  "duplicate_tabs": 55,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 329,
-      "domain_count": 240,
+      "count": 331,
+      "domain_count": 241,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 22
         },
         {
           "domain": "google.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 92,
+      "count": 91,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 92
+          "count": 91
         }
       ]
     },
@@ -68,24 +68,24 @@
     },
     {
       "name": "productivity",
-      "count": 34,
+      "count": 31,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "notion.so",
-          "count": 7
-        },
-        {
-          "domain": "drive.google.com",
-          "count": 5
+          "count": 6
         },
         {
           "domain": "mail.google.com",
           "count": 5
+        },
+        {
+          "domain": "drive.google.com",
+          "count": 4
         },
         {
           "domain": "calendar.google.com",
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "agroforestryx.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
