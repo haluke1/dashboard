@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-26T17:00:41Z",
+  "updated_at": "2026-05-26T17:03:24Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 325,
     "total": 326
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "7607974a",
       "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
-      "last_user_msg": "okey so lets compact, and give me 10 specific strategic / practical / mechanic upgrades we can do to launch sub agents to go after these one by one. i will ask for 100 of each, spe\u2026",
+      "last_user_msg": "average project size is 25-75k , service radius is 30 mile radius of our store in willowbrooke ln spot. we can take on lots of projects. we dont have any partner referrals yet. fla\u2026",
       "last_assistant_snippet": "Here's the full strategic framework. **Before I launch anything, 5 questions at the bottom \u2014 answer those first.** --- ## TOP 20 PARTNER CATEGORIES *Ranked by realistic referral co\u2026",
-      "message_count": 460,
-      "file_size_kb": 4823,
-      "modified_ts": 1779813334.2541554,
-      "modified_iso": "2026-05-26T12:35:34.254155",
-      "minutes_since_active": 25.1
+      "message_count": 461,
+      "file_size_kb": 4829,
+      "modified_ts": 1779814866.8491147,
+      "modified_iso": "2026-05-26T13:01:06.849115",
+      "minutes_since_active": 2.3
     }
-  ]
+  ],
+  "recent": []
 }
