@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-05-26T23:47:28Z",
-  "total_tabs": 578,
-  "total_windows": 9,
-  "duplicate_tabs": 63,
+  "updated_at": "2026-05-26T23:50:11Z",
+  "total_tabs": 715,
+  "total_windows": 10,
+  "duplicate_tabs": 76,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 365,
-      "domain_count": 260,
+      "count": 499,
+      "domain_count": 264,
       "top_domains": [
+        {
+          "domain": "xhamster.com",
+          "count": 131
+        },
         {
           "domain": "(no domain)",
           "count": 23
@@ -25,10 +29,6 @@
         {
           "domain": "conceptkb.com",
           "count": 8
-        },
-        {
-          "domain": "higgsfield.ai",
-          "count": 5
         }
       ]
     },
@@ -95,8 +95,8 @@
     },
     {
       "name": "social",
-      "count": 23,
-      "domain_count": 10,
+      "count": 25,
+      "domain_count": 11,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -111,12 +111,12 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "tnaflix.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
-          "count": 1
+          "domain": "reddit.com",
+          "count": 2
         }
       ]
     },
@@ -136,6 +136,21 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "shopify.com",
+          "count": 1
+        },
+        {
+          "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 2,
       "domain_count": 2,
@@ -146,17 +161,6 @@
         },
         {
           "domain": "localhost:8771",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
