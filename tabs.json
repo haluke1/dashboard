@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T19:10:26Z",
+  "updated_at": "2026-05-26T19:14:37Z",
   "total_tabs": 576,
   "total_windows": 8,
   "duplicate_tabs": 61,
@@ -141,11 +141,11 @@
       "domain_count": 2,
       "top_domains": [
         {
-          "domain": "localhost:8771",
+          "domain": "localhost:3002",
           "count": 1
         },
         {
-          "domain": "localhost:3002",
+          "domain": "localhost:8771",
           "count": 1
         }
       ]
