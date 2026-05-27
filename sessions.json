@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-05-27T19:10:59Z",
+  "updated_at": "2026-05-27T20:09:18Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 325,
+    "recent": 0,
+    "archived": 326,
     "total": 326
   },
   "active": [],
-  "recent": [
-    {
-      "id": "7607974a",
-      "full_id": "7607974a-327f-4c58-98b4-00fcc2bfacfb",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can we use apify to scrape designers contractors etc in west chester",
-      "last_user_msg": "i tried to open in another computer and it asked me for vercel login can we make this public",
-      "last_assistant_snippet": "All 8 are public. Here are the clean, shareable URLs \u2014 share these, not the long hash ones: | Dashboard | URL | |---|---| | **Master Hub** | https://conceptkb-partner-hub.vercel.ap\u2026",
-      "message_count": 584,
-      "file_size_kb": 5525,
-      "modified_ts": 1779824629.5154412,
-      "modified_iso": "2026-05-26T15:43:49.515441",
-      "minutes_since_active": 1407.2
-    }
-  ]
+  "recent": []
 }
