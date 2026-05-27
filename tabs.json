@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T02:50:06Z",
-  "total_tabs": 586,
+  "updated_at": "2026-05-27T02:51:13Z",
+  "total_tabs": 587,
   "total_windows": 8,
   "duplicate_tabs": 62,
   "bridge_online": true,
@@ -68,8 +68,8 @@
     },
     {
       "name": "productivity",
-      "count": 34,
-      "domain_count": 9,
+      "count": 33,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
@@ -121,6 +121,17 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 3
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 3,
       "domain_count": 2,
@@ -146,17 +157,6 @@
         },
         {
           "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
