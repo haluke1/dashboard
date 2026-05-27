@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-27T02:49:00Z",
-  "total_tabs": 585,
+  "updated_at": "2026-05-27T02:50:06Z",
+  "total_tabs": 586,
   "total_windows": 8,
   "duplicate_tabs": 62,
   "bridge_online": true,
@@ -68,8 +68,8 @@
     },
     {
       "name": "productivity",
-      "count": 33,
-      "domain_count": 8,
+      "count": 34,
+      "domain_count": 9,
       "top_domains": [
         {
           "domain": "docs.google.com",
@@ -141,11 +141,11 @@
       "domain_count": 2,
       "top_domains": [
         {
-          "domain": "localhost:3002",
+          "domain": "localhost:8771",
           "count": 1
         },
         {
-          "domain": "localhost:8771",
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
