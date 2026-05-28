@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T01:13:14Z",
+  "updated_at": "2026-05-28T02:42:36Z",
   "total_tabs": 607,
   "total_windows": 7,
   "duplicate_tabs": 65,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 382,
-      "domain_count": 264,
+      "count": 381,
+      "domain_count": 263,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 89,
+      "count": 90,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 89
+          "count": 90
         }
       ]
     },
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "agroforestryx.com",
           "count": 1
         }
       ]
@@ -136,23 +136,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
