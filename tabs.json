@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T23:59:18Z",
+  "updated_at": "2026-05-28T00:00:24Z",
   "total_tabs": 613,
   "total_windows": 8,
   "duplicate_tabs": 66,
@@ -27,7 +27,7 @@
           "count": 8
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "vums-web.villanova.edu",
           "count": 5
         }
       ]
@@ -141,11 +141,11 @@
       "domain_count": 2,
       "top_domains": [
         {
-          "domain": "localhost:8771",
+          "domain": "localhost:3002",
           "count": 1
         },
         {
-          "domain": "localhost:3002",
+          "domain": "localhost:8771",
           "count": 1
         }
       ]
