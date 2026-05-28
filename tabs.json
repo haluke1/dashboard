@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-28T00:52:39Z",
-  "total_tabs": 613,
-  "total_windows": 8,
-  "duplicate_tabs": 66,
+  "updated_at": "2026-05-28T00:53:45Z",
+  "total_tabs": 606,
+  "total_windows": 7,
+  "duplicate_tabs": 65,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 386,
-      "domain_count": 269,
+      "count": 381,
+      "domain_count": 264,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 35,
+      "count": 34,
       "domain_count": 8,
       "top_domains": [
         {
@@ -77,7 +77,7 @@
         },
         {
           "domain": "mail.google.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "notion.so",
@@ -136,27 +136,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8771",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
