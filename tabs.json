@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T06:00:02Z",
-  "total_tabs": 612,
+  "updated_at": "2026-05-28T06:01:09Z",
+  "total_tabs": 610,
   "total_windows": 7,
   "duplicate_tabs": 65,
   "bridge_online": true,
@@ -34,16 +34,12 @@
     },
     {
       "name": "video",
-      "count": 95,
-      "domain_count": 2,
+      "count": 93,
+      "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 94
-        },
-        {
-          "domain": "loom.com",
-          "count": 1
+          "count": 93
         }
       ]
     },
