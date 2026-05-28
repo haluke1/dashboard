@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-28T03:16:31Z",
-  "total_tabs": 608,
-  "total_windows": 7,
-  "duplicate_tabs": 69,
+  "updated_at": "2026-05-28T03:17:37Z",
+  "total_tabs": 614,
+  "total_windows": 8,
+  "duplicate_tabs": 65,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 383,
-      "domain_count": 263,
+      "count": 386,
+      "domain_count": 268,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 73,
+      "count": 74,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 55
+          "count": 56
         },
         {
           "domain": "github.com",
@@ -68,8 +68,8 @@
     },
     {
       "name": "productivity",
-      "count": 33,
-      "domain_count": 7,
+      "count": 34,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
@@ -95,8 +95,8 @@
     },
     {
       "name": "social",
-      "count": 23,
-      "domain_count": 10,
+      "count": 24,
+      "domain_count": 11,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "agroforestryx.com",
+          "domain": "tnaflix.com",
           "count": 1
         }
       ]
