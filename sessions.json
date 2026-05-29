@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-29T17:17:47Z",
+  "updated_at": "2026-05-29T18:36:47Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 326,
     "total": 327
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "8976b192",
       "full_id": "8976b192-07b2-40be-88a5-0ccdeb025f73",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "switch to opus 4.8 max",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/ui-ux-pro-max # UI/UX Pro Max - Design Intelligence Comprehensive design guide for web and mobile applications. Contai\u2026",
-      "last_assistant_snippet": "Now I have everything I need. Building the full site. Let me set up the project directory and write the complete HTML.",
-      "message_count": 49,
-      "file_size_kb": 430,
-      "modified_ts": 1780075039.5540206,
-      "modified_iso": "2026-05-29T13:17:19.554021",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "API Error: Stream idle timeout - partial response received",
+      "message_count": 53,
+      "file_size_kb": 435,
+      "modified_ts": 1780075472.5625615,
+      "modified_iso": "2026-05-29T13:24:32.562562",
+      "minutes_since_active": 72.2
     }
-  ],
-  "recent": []
+  ]
 }
