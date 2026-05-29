@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-05-29T22:30:03Z",
-  "total_tabs": 637,
-  "total_windows": 8,
+  "updated_at": "2026-05-29T22:31:15Z",
+  "total_tabs": 615,
+  "total_windows": 7,
   "duplicate_tabs": 65,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 406,
-      "domain_count": 267,
+      "count": 384,
+      "domain_count": 266,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 23
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 22
         },
         {
           "domain": "google.com",
@@ -29,6 +25,10 @@
         {
           "domain": "conceptkb.com",
           "count": 8
+        },
+        {
+          "domain": "vums-web.villanova.edu",
+          "count": 6
         }
       ]
     },
