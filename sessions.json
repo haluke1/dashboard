@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-05-29T17:07:45Z",
+  "updated_at": "2026-05-29T17:08:21Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 0,
     "archived": 326,
-    "total": 326
+    "total": 327
   },
-  "active": [],
+  "active": [
+    {
+      "id": "8976b192",
+      "full_id": "8976b192-07b2-40be-88a5-0ccdeb025f73",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "switch to opus 4.8 max",
+      "last_user_msg": "switch to opus 4.8 max",
+      "last_assistant_snippet": "According to my system context, the current latest Opus model is **claude-opus-4-7** \u2014 there's no 4.8 yet. To switch models in Claude Code, type `/model` in the prompt, or use the \u2026",
+      "message_count": 3,
+      "file_size_kb": 76,
+      "modified_ts": 1780074499.9006183,
+      "modified_iso": "2026-05-29T13:08:19.900618",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": []
 }
