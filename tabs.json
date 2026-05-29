@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-29T23:04:56Z",
-  "total_tabs": 614,
-  "total_windows": 7,
-  "duplicate_tabs": 65,
+  "updated_at": "2026-05-29T23:39:10Z",
+  "total_tabs": 615,
+  "total_windows": 8,
+  "duplicate_tabs": 67,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 383,
+      "count": 384,
       "domain_count": 266,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "google.com",
@@ -28,7 +28,7 @@
         },
         {
           "domain": "vums-web.villanova.edu",
-          "count": 6
+          "count": 5
         }
       ]
     },
@@ -136,23 +136,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
