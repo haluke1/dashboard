@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-29T23:50:03Z",
-  "total_tabs": 614,
+  "updated_at": "2026-05-29T23:51:09Z",
+  "total_tabs": 605,
   "total_windows": 7,
-  "duplicate_tabs": 67,
+  "duplicate_tabs": 63,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 383,
-      "domain_count": 266,
+      "count": 374,
+      "domain_count": 264,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -20,26 +20,26 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "conceptkb.com",
           "count": 8
         },
         {
-          "domain": "vums-web.villanova.edu",
+          "domain": "higgsfield.ai",
           "count": 5
         }
       ]
     },
     {
       "name": "video",
-      "count": 95,
+      "count": 96,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 95
+          "count": 96
         }
       ]
     },
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 34,
+      "count": 33,
       "domain_count": 8,
       "top_domains": [
         {
@@ -76,11 +76,11 @@
           "count": 11
         },
         {
-          "domain": "mail.google.com",
-          "count": 7
+          "domain": "notion.so",
+          "count": 6
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 6
         },
         {
