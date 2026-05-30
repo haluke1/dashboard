@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T17:55:05Z",
+  "updated_at": "2026-05-30T17:56:11Z",
   "total_tabs": 612,
   "total_windows": 7,
   "duplicate_tabs": 63,
@@ -136,23 +136,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
