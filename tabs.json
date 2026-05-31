@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T03:45:58Z",
+  "updated_at": "2026-05-31T03:49:51Z",
   "total_tabs": 587,
   "total_windows": 7,
   "duplicate_tabs": 62,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 368,
+      "count": 367,
       "domain_count": 263,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "google.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "keep.google.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 87,
+      "count": 88,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 87
+          "count": 88
         }
       ]
     },
