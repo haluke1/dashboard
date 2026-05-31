@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-31T01:28:24Z",
-  "total_tabs": 611,
+  "updated_at": "2026-05-31T01:29:36Z",
+  "total_tabs": 603,
   "total_windows": 7,
-  "duplicate_tabs": 64,
+  "duplicate_tabs": 63,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 382,
-      "domain_count": 266,
+      "count": 377,
+      "domain_count": 264,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,7 +16,7 @@
         },
         {
           "domain": "google.com",
-          "count": 15
+          "count": 13
         },
         {
           "domain": "keep.google.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 92,
+      "count": 91,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 92
+          "count": 91
         }
       ]
     },
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
         {
@@ -77,7 +77,7 @@
         },
         {
           "domain": "mail.google.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "notion.so",
@@ -95,12 +95,12 @@
     },
     {
       "name": "social",
-      "count": 23,
+      "count": 22,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "web.whatsapp.com",
