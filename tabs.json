@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-31T00:45:16Z",
-  "total_tabs": 616,
+  "updated_at": "2026-05-31T00:49:12Z",
+  "total_tabs": 611,
   "total_windows": 7,
-  "duplicate_tabs": 63,
+  "duplicate_tabs": 65,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 384,
-      "domain_count": 268,
+      "count": 380,
+      "domain_count": 266,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,7 +16,7 @@
         },
         {
           "domain": "google.com",
-          "count": 17
+          "count": 15
         },
         {
           "domain": "keep.google.com",
@@ -34,23 +34,23 @@
     },
     {
       "name": "video",
-      "count": 96,
+      "count": 95,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 96
+          "count": 95
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 75,
+      "count": 76,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 57
+          "count": 58
         },
         {
           "domain": "github.com",
@@ -68,12 +68,12 @@
     },
     {
       "name": "productivity",
-      "count": 33,
+      "count": 32,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "notion.so",
