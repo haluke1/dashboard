@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T00:30:36Z",
+  "updated_at": "2026-06-01T00:36:15Z",
   "total_tabs": 597,
   "total_windows": 7,
   "duplicate_tabs": 65,
@@ -61,11 +61,11 @@
           "count": 3
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -107,11 +107,11 @@
           "count": 5
         },
         {
-          "domain": "instagram.com",
+          "domain": "web.whatsapp.com",
           "count": 4
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "instagram.com",
           "count": 4
         },
         {
@@ -119,7 +119,7 @@
           "count": 2
         },
         {
-          "domain": "marex.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
