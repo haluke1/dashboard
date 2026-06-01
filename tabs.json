@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-01T01:40:46Z",
-  "total_tabs": 604,
+  "updated_at": "2026-06-01T01:41:52Z",
+  "total_tabs": 601,
   "total_windows": 7,
   "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 381,
+      "count": 379,
       "domain_count": 274,
       "top_domains": [
         {
@@ -72,12 +72,12 @@
     },
     {
       "name": "productivity",
-      "count": 29,
+      "count": 28,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "notion.so",
