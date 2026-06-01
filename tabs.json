@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-01T00:36:15Z",
-  "total_tabs": 597,
+  "updated_at": "2026-06-01T00:38:40Z",
+  "total_tabs": 592,
   "total_windows": 7,
-  "duplicate_tabs": 65,
+  "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 371,
-      "domain_count": 266,
+      "count": 369,
+      "domain_count": 264,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 90,
+      "count": 88,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 90
+          "count": 88
         }
       ]
     },
@@ -61,11 +61,11 @@
           "count": 3
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 21,
       "domain_count": 11,
       "top_domains": [
         {
@@ -112,14 +112,14 @@
         },
         {
           "domain": "instagram.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "marex.com",
           "count": 1
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
