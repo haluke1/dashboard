@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-06-01T02:57:49Z",
-  "total_tabs": 622,
-  "total_windows": 7,
-  "duplicate_tabs": 62,
+  "updated_at": "2026-06-01T03:00:23Z",
+  "total_tabs": 558,
+  "total_windows": 6,
+  "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 400,
-      "domain_count": 294,
+      "count": 345,
+      "domain_count": 251,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 22
-        },
-        {
-          "domain": "google.com",
-          "count": 10
         },
         {
           "domain": "keep.google.com",
@@ -27,6 +23,10 @@
           "count": 8
         },
         {
+          "domain": "google.com",
+          "count": 7
+        },
+        {
           "domain": "higgsfield.ai",
           "count": 5
         }
@@ -34,27 +34,27 @@
     },
     {
       "name": "video",
-      "count": 89,
+      "count": 86,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 89
+          "count": 86
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 79,
+      "count": 75,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 62
+          "count": 61
         },
         {
           "domain": "github.com",
-          "count": 12
+          "count": 9
         },
         {
           "domain": "vercel.com",
@@ -72,12 +72,12 @@
     },
     {
       "name": "productivity",
-      "count": 28,
+      "count": 27,
       "domain_count": 8,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "notion.so",
@@ -99,8 +99,8 @@
     },
     {
       "name": "social",
-      "count": 21,
-      "domain_count": 11,
+      "count": 20,
+      "domain_count": 10,
       "top_domains": [
         {
           "domain": "linkedin.com",
