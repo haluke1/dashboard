@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-01T04:06:44Z",
-  "total_tabs": 554,
+  "updated_at": "2026-06-01T04:07:50Z",
+  "total_tabs": 556,
   "total_windows": 6,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 340,
-      "domain_count": 245,
+      "count": 342,
+      "domain_count": 246,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 87,
+      "count": 86,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 87
+          "count": 86
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 20,
+      "count": 21,
       "domain_count": 10,
       "top_domains": [
         {
@@ -111,12 +111,12 @@
           "count": 4
         },
         {
-          "domain": "instagram.com",
+          "domain": "reddit.com",
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 2
+          "domain": "instagram.com",
+          "count": 3
         },
         {
           "domain": "marex.com",
