@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-01T00:46:27Z",
-  "total_tabs": 591,
+  "updated_at": "2026-06-01T00:47:34Z",
+  "total_tabs": 590,
   "total_windows": 7,
   "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 367,
-      "domain_count": 263,
+      "count": 369,
+      "domain_count": 264,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 80,
+      "count": 78,
       "domain_count": 5,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "github.com",
-          "count": 14
+          "count": 12
         },
         {
           "domain": "vercel.com",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 21,
       "domain_count": 11,
       "top_domains": [
         {
@@ -115,12 +115,12 @@
           "count": 3
         },
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "reddit.com",
-          "count": 2
+          "domain": "marex.com",
+          "count": 1
         }
       ]
     },
