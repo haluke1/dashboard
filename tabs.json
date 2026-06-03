@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-03T00:39:51Z",
+  "updated_at": "2026-06-03T00:40:58Z",
   "total_tabs": 565,
   "total_windows": 6,
-  "duplicate_tabs": 62,
+  "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 342,
+      "count": 341,
       "domain_count": 247,
       "top_domains": [
         {
@@ -24,7 +24,7 @@
         },
         {
           "domain": "google.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "higgsfield.ai",
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 74,
+      "count": 75,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 60
+          "count": 61
         },
         {
           "domain": "github.com",
