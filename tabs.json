@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-04T23:13:49Z",
-  "total_tabs": 579,
+  "updated_at": "2026-06-04T23:14:55Z",
+  "total_tabs": 584,
   "total_windows": 6,
   "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 349,
-      "domain_count": 252,
+      "count": 353,
+      "domain_count": 255,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,12 +19,12 @@
           "count": 10
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "google.com",
           "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 7
+          "domain": "conceptkb.com",
+          "count": 8
         },
         {
           "domain": "higgsfield.ai",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 22,
+      "count": 23,
       "domain_count": 10,
       "top_domains": [
         {
@@ -111,15 +111,15 @@
           "count": 4
         },
         {
+          "domain": "reddit.com",
+          "count": 3
+        },
+        {
           "domain": "instagram.com",
           "count": 3
         },
         {
           "domain": "facebook.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
           "count": 2
         }
       ]
