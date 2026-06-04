@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T20:25:07Z",
+  "updated_at": "2026-06-04T20:26:42Z",
   "total_tabs": 578,
   "total_windows": 6,
   "duplicate_tabs": 63,
@@ -61,11 +61,11 @@
           "count": 3
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -115,11 +115,11 @@
           "count": 3
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "facebook.com",
           "count": 2
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
