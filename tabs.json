@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-04T22:42:32Z",
-  "total_tabs": 576,
+  "updated_at": "2026-06-04T22:43:45Z",
+  "total_tabs": 577,
   "total_windows": 6,
   "duplicate_tabs": 61,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 347,
+      "count": 348,
       "domain_count": 250,
       "top_domains": [
         {
@@ -19,12 +19,12 @@
           "count": 10
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "google.com",
           "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 7
+          "domain": "conceptkb.com",
+          "count": 8
         },
         {
           "domain": "higgsfield.ai",
@@ -61,11 +61,11 @@
           "count": 3
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -115,11 +115,11 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "facebook.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
           "count": 2
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
