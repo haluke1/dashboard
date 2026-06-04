@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T23:19:03Z",
+  "updated_at": "2026-06-04T23:20:11Z",
   "total_tabs": 586,
   "total_windows": 6,
   "duplicate_tabs": 62,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 355,
+      "count": 356,
       "domain_count": 256,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "google.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "conceptkb.com",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 23,
+      "count": 22,
       "domain_count": 10,
       "top_domains": [
         {
@@ -111,15 +111,15 @@
           "count": 4
         },
         {
-          "domain": "reddit.com",
-          "count": 3
-        },
-        {
           "domain": "instagram.com",
           "count": 3
         },
         {
           "domain": "facebook.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
           "count": 2
         }
       ]
