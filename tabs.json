@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-06-05T00:49:08Z",
-  "total_tabs": 638,
-  "total_windows": 7,
+  "updated_at": "2026-06-05T00:51:46Z",
+  "total_tabs": 593,
+  "total_windows": 6,
   "duplicate_tabs": 62,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 408,
-      "domain_count": 263,
+      "count": 364,
+      "domain_count": 261,
       "top_domains": [
-        {
-          "domain": "xhamster.com",
-          "count": 37
-        },
         {
           "domain": "(no domain)",
           "count": 22
@@ -23,23 +19,27 @@
           "count": 10
         },
         {
+          "domain": "google.com",
+          "count": 8
+        },
+        {
           "domain": "conceptkb.com",
           "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 8
+          "domain": "higgsfield.ai",
+          "count": 5
         }
       ]
     },
     {
       "name": "video",
-      "count": 97,
+      "count": 96,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 97
+          "count": 96
         }
       ]
     },
@@ -61,11 +61,11 @@
           "count": 3
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -80,11 +80,11 @@
           "count": 8
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 6
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 6
         },
         {
@@ -115,11 +115,11 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "facebook.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
           "count": 2
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
