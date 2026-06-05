@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-05T00:04:42Z",
-  "total_tabs": 594,
-  "total_windows": 6,
-  "duplicate_tabs": 62,
+  "updated_at": "2026-06-05T00:05:58Z",
+  "total_tabs": 595,
+  "total_windows": 7,
+  "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 364,
+      "count": 365,
       "domain_count": 261,
       "top_domains": [
         {
@@ -19,11 +19,11 @@
           "count": 10
         },
         {
-          "domain": "google.com",
+          "domain": "conceptkb.com",
           "count": 8
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "google.com",
           "count": 8
         },
         {
@@ -61,11 +61,11 @@
           "count": 3
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -80,11 +80,11 @@
           "count": 8
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 6
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 6
         },
         {
@@ -115,11 +115,11 @@
           "count": 3
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "facebook.com",
           "count": 2
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
