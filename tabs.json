@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-06T01:11:07Z",
-  "total_tabs": 603,
+  "updated_at": "2026-06-06T01:12:14Z",
+  "total_tabs": 585,
   "total_windows": 6,
-  "duplicate_tabs": 62,
+  "duplicate_tabs": 66,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 364,
-      "domain_count": 263,
+      "count": 346,
+      "domain_count": 247,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 22
+          "count": 23
         },
         {
           "domain": "keep.google.com",
@@ -24,7 +24,7 @@
         },
         {
           "domain": "google.com",
-          "count": 7
+          "count": 5
         },
         {
           "domain": "higgsfield.ai",
@@ -34,23 +34,23 @@
     },
     {
       "name": "video",
-      "count": 105,
+      "count": 106,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 105
+          "count": 106
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 78,
+      "count": 77,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 64
+          "count": 63
         },
         {
           "domain": "github.com",
