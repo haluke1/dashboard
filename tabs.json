@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-06T04:50:03Z",
-  "total_tabs": 587,
+  "updated_at": "2026-06-06T05:04:57Z",
+  "total_tabs": 570,
   "total_windows": 7,
-  "duplicate_tabs": 61,
+  "duplicate_tabs": 59,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 379,
-      "domain_count": 274,
+      "count": 370,
+      "domain_count": 272,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -16,7 +16,7 @@
         },
         {
           "domain": "google.com",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "keep.google.com",
@@ -33,19 +33,8 @@
       ]
     },
     {
-      "name": "video",
-      "count": 78,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 78
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
-      "count": 76,
+      "count": 75,
       "domain_count": 5,
       "top_domains": [
         {
@@ -54,7 +43,7 @@
         },
         {
           "domain": "github.com",
-          "count": 9
+          "count": 8
         },
         {
           "domain": "vercel.com",
@@ -71,17 +60,28 @@
       ]
     },
     {
+      "name": "video",
+      "count": 73,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 73
+        }
+      ]
+    },
+    {
       "name": "productivity",
-      "count": 29,
+      "count": 28,
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "mail.google.com",
+          "domain": "docs.google.com",
           "count": 7
         },
         {
-          "domain": "docs.google.com",
-          "count": 7
+          "domain": "mail.google.com",
+          "count": 6
         },
         {
           "domain": "notion.so",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 20,
+      "count": 19,
       "domain_count": 10,
       "top_domains": [
         {
@@ -108,7 +108,7 @@
         },
         {
           "domain": "web.whatsapp.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "instagram.com",
