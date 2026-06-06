@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T03:18:46Z",
+  "updated_at": "2026-06-06T03:19:57Z",
   "total_tabs": 601,
   "total_windows": 6,
   "duplicate_tabs": 62,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 365,
+      "count": 364,
       "domain_count": 263,
       "top_domains": [
         {
@@ -19,12 +19,12 @@
           "count": 10
         },
         {
-          "domain": "google.com",
+          "domain": "conceptkb.com",
           "count": 8
         },
         {
-          "domain": "conceptkb.com",
-          "count": 8
+          "domain": "google.com",
+          "count": 7
         },
         {
           "domain": "higgsfield.ai",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 103,
+      "count": 104,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 103
+          "count": 104
         }
       ]
     },
