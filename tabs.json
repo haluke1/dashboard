@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-06T23:54:12Z",
-  "total_tabs": 573,
+  "updated_at": "2026-06-06T23:55:23Z",
+  "total_tabs": 574,
   "total_windows": 7,
-  "duplicate_tabs": 67,
+  "duplicate_tabs": 65,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 374,
-      "domain_count": 275,
+      "count": 373,
+      "domain_count": 274,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -29,6 +29,17 @@
         {
           "domain": "open.spotify.com",
           "count": 5
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 75,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 75
         }
       ]
     },
@@ -56,17 +67,6 @@
         {
           "domain": "anthropic.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 73,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 73
         }
       ]
     },
