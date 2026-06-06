@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-06-06T04:12:24Z",
-  "total_tabs": 562,
-  "total_windows": 6,
-  "duplicate_tabs": 60,
+  "updated_at": "2026-06-06T04:24:22Z",
+  "total_tabs": 597,
+  "total_windows": 7,
+  "duplicate_tabs": 61,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 351,
-      "domain_count": 253,
+      "count": 381,
+      "domain_count": 276,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 21
+        },
+        {
+          "domain": "google.com",
+          "count": 12
         },
         {
           "domain": "keep.google.com",
@@ -23,10 +27,6 @@
           "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 7
-        },
-        {
           "domain": "higgsfield.ai",
           "count": 5
         }
@@ -34,23 +34,23 @@
     },
     {
       "name": "video",
-      "count": 79,
+      "count": 82,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 79
+          "count": 82
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 76,
+      "count": 77,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 62
+          "count": 63
         },
         {
           "domain": "github.com",
@@ -61,18 +61,18 @@
           "count": 3
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 29,
+      "count": 30,
       "domain_count": 8,
       "top_domains": [
         {
@@ -81,7 +81,7 @@
         },
         {
           "domain": "mail.google.com",
-          "count": 6
+          "count": 7
         },
         {
           "domain": "notion.so",
@@ -119,7 +119,7 @@
           "count": 2
         },
         {
-          "domain": "marex.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -140,23 +140,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
