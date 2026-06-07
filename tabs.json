@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-07T18:17:08Z",
-  "total_tabs": 572,
+  "updated_at": "2026-06-07T18:18:13Z",
+  "total_tabs": 574,
   "total_windows": 7,
   "duplicate_tabs": 63,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 370,
-      "domain_count": 273,
+      "count": 371,
+      "domain_count": 274,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 76,
+      "count": 77,
       "domain_count": 5,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "github.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "vercel.com",
