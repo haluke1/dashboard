@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-07T20:01:38Z",
-  "total_tabs": 599,
+  "updated_at": "2026-06-07T20:09:18Z",
+  "total_tabs": 595,
   "total_windows": 7,
-  "duplicate_tabs": 64,
+  "duplicate_tabs": 76,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 389,
-      "domain_count": 291,
+      "count": 387,
+      "domain_count": 292,
       "top_domains": [
         {
-          "domain": "(no domain)",
-          "count": 20
+          "domain": "newtab",
+          "count": 14
         },
         {
           "domain": "keep.google.com",
@@ -99,19 +99,19 @@
     },
     {
       "name": "social",
-      "count": 20,
+      "count": 18,
       "domain_count": 9,
       "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 5
-        },
         {
           "domain": "instagram.com",
           "count": 4
         },
         {
           "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "linkedin.com",
           "count": 3
         },
         {
