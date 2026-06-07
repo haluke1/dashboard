@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T20:47:53Z",
-  "total_tabs": 619,
+  "updated_at": "2026-06-07T20:48:59Z",
+  "total_tabs": 620,
   "total_windows": 7,
   "duplicate_tabs": 78,
   "bridge_online": true,
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 88,
+      "count": 89,
       "domain_count": 6,
       "top_domains": [
         {
@@ -51,7 +51,7 @@
         },
         {
           "domain": "huggingface.co",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "openai.com",
