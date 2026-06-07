@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T20:31:26Z",
-  "total_tabs": 615,
+  "updated_at": "2026-06-07T20:32:31Z",
+  "total_tabs": 616,
   "total_windows": 7,
   "duplicate_tabs": 78,
   "bridge_online": true,
@@ -126,12 +126,16 @@
     },
     {
       "name": "research",
-      "count": 5,
-      "domain_count": 4,
+      "count": 6,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
           "count": 2
+        },
+        {
+          "domain": "developersjourney.substack.com",
+          "count": 1
         },
         {
           "domain": "medium.com",
