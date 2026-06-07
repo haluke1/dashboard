@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-07T22:05:56Z",
-  "total_tabs": 645,
+  "updated_at": "2026-06-07T22:07:02Z",
+  "total_tabs": 646,
   "total_windows": 7,
-  "duplicate_tabs": 78,
+  "duplicate_tabs": 79,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 422,
+      "count": 423,
       "domain_count": 322,
       "top_domains": [
         {
@@ -28,7 +28,7 @@
         },
         {
           "domain": "open.spotify.com",
-          "count": 6
+          "count": 7
         }
       ]
     },
@@ -103,11 +103,11 @@
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "x.com",
+          "domain": "instagram.com",
           "count": 4
         },
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
           "count": 4
         },
         {
@@ -134,6 +134,10 @@
           "count": 2
         },
         {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        },
+        {
           "domain": "drphilippahardman.substack.com",
           "count": 1
         },
@@ -143,10 +147,6 @@
         },
         {
           "domain": "medium.com",
-          "count": 1
-        },
-        {
-          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
