@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-07T22:19:44Z",
-  "total_tabs": 654,
+  "updated_at": "2026-06-07T22:22:05Z",
+  "total_tabs": 645,
   "total_windows": 7,
-  "duplicate_tabs": 78,
+  "duplicate_tabs": 74,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 427,
+      "count": 424,
       "domain_count": 326,
       "top_domains": [
         {
           "domain": "newtab",
-          "count": 14
+          "count": 11
         },
         {
           "domain": "keep.google.com",
@@ -34,16 +34,16 @@
     },
     {
       "name": "ai-dev",
-      "count": 90,
+      "count": 88,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 62
+          "count": 61
         },
         {
           "domain": "github.com",
-          "count": 21
+          "count": 20
         },
         {
           "domain": "vercel.com",
@@ -72,20 +72,20 @@
     },
     {
       "name": "productivity",
-      "count": 27,
+      "count": 23,
       "domain_count": 10,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 7
+          "count": 5
         },
         {
           "domain": "notion.so",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "mail.google.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "calendar.google.com",
