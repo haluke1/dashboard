@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-07T20:32:31Z",
-  "total_tabs": 616,
+  "updated_at": "2026-06-07T20:33:37Z",
+  "total_tabs": 618,
   "total_windows": 7,
   "duplicate_tabs": 78,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 404,
-      "domain_count": 306,
+      "count": 405,
+      "domain_count": 307,
       "top_domains": [
         {
           "domain": "newtab",
@@ -126,12 +126,16 @@
     },
     {
       "name": "research",
-      "count": 6,
-      "domain_count": 5,
+      "count": 7,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
           "count": 2
+        },
+        {
+          "domain": "drphilippahardman.substack.com",
+          "count": 1
         },
         {
           "domain": "developersjourney.substack.com",
@@ -143,10 +147,6 @@
         },
         {
           "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
