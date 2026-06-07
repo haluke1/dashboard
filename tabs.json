@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-07T18:49:02Z",
-  "total_tabs": 582,
+  "updated_at": "2026-06-07T18:50:09Z",
+  "total_tabs": 584,
   "total_windows": 7,
   "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 374,
-      "domain_count": 276,
+      "count": 375,
+      "domain_count": 277,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -126,12 +126,16 @@
     },
     {
       "name": "research",
-      "count": 4,
-      "domain_count": 3,
+      "count": 5,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
           "count": 2
+        },
+        {
+          "domain": "medium.com",
+          "count": 1
         },
         {
           "domain": "james-palm.medium.com",
