@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T18:52:20Z",
-  "total_tabs": 589,
+  "updated_at": "2026-06-07T18:53:26Z",
+  "total_tabs": 591,
   "total_windows": 7,
   "duplicate_tabs": 64,
   "bridge_online": true,
@@ -34,8 +34,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 81,
-      "domain_count": 5,
+      "count": 83,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -43,18 +43,18 @@
         },
         {
           "domain": "github.com",
-          "count": 13
+          "count": 14
         },
         {
           "domain": "vercel.com",
           "count": 3
         },
         {
-          "domain": "openai.com",
+          "domain": "gist.github.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
