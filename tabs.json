@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-06-07T02:48:39Z",
-  "total_tabs": 578,
+  "updated_at": "2026-06-07T02:49:47Z",
+  "total_tabs": 576,
   "total_windows": 8,
   "duplicate_tabs": 65,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 377,
+      "count": 375,
       "domain_count": 276,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 21
-        },
-        {
-          "domain": "google.com",
-          "count": 10
         },
         {
           "domain": "keep.google.com",
@@ -27,7 +23,11 @@
           "count": 8
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "google.com",
+          "count": 8
+        },
+        {
+          "domain": "higgsfield.ai",
           "count": 5
         }
       ]
@@ -80,11 +80,11 @@
           "count": 7
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 6
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 6
         },
         {
