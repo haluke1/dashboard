@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-07T18:47:56Z",
-  "total_tabs": 579,
+  "updated_at": "2026-06-07T18:49:02Z",
+  "total_tabs": 582,
   "total_windows": 7,
   "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 372,
-      "domain_count": 274,
+      "count": 374,
+      "domain_count": 276,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -126,12 +126,16 @@
     },
     {
       "name": "research",
-      "count": 3,
-      "domain_count": 2,
+      "count": 4,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
           "count": 2
+        },
+        {
+          "domain": "james-palm.medium.com",
+          "count": 1
         },
         {
           "domain": "natesnewsletter.substack.com",
