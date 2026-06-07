@@ -1,79 +1,79 @@
 {
-  "updated_at": "2026-06-07T22:47:27Z",
-  "total_tabs": 508,
+  "updated_at": "2026-06-07T22:48:33Z",
+  "total_tabs": 654,
   "total_windows": 7,
-  "duplicate_tabs": 125,
+  "duplicate_tabs": 74,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 321,
-      "domain_count": 228,
+      "count": 429,
+      "domain_count": 330,
       "top_domains": [
         {
           "domain": "newtab",
-          "count": 9
+          "count": 11
         },
         {
           "domain": "keep.google.com",
-          "count": 8
-        },
-        {
-          "domain": "(no domain)",
-          "count": 7
+          "count": 10
         },
         {
           "domain": "conceptkb.com",
-          "count": 7
+          "count": 8
         },
         {
           "domain": "higgsfield.ai",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 85,
-      "domain_count": 1,
-      "top_domains": [
+          "count": 7
+        },
         {
-          "domain": "youtube.com",
-          "count": 85
+          "domain": "open.spotify.com",
+          "count": 7
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 60,
-      "domain_count": 5,
+      "count": 88,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 51
+          "count": 61
         },
         {
           "domain": "github.com",
-          "count": 4
+          "count": 20
         },
         {
           "domain": "vercel.com",
           "count": 3
         },
         {
-          "domain": "openai.com",
-          "count": 1
+          "domain": "huggingface.co",
+          "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
     },
     {
+      "name": "video",
+      "count": 75,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 75
+        }
+      ]
+    },
+    {
       "name": "productivity",
-      "count": 21,
-      "domain_count": 8,
+      "count": 23,
+      "domain_count": 10,
       "top_domains": [
         {
           "domain": "docs.google.com",
@@ -99,9 +99,17 @@
     },
     {
       "name": "social",
-      "count": 13,
-      "domain_count": 9,
+      "count": 20,
+      "domain_count": 10,
       "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 4
+        },
+        {
+          "domain": "instagram.com",
+          "count": 4
+        },
         {
           "domain": "linkedin.com",
           "count": 3
@@ -111,52 +119,56 @@
           "count": 2
         },
         {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 5,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "steve-yegge.medium.com",
-          "count": 4
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
+          "domain": "web.whatsapp.com",
           "count": 2
         }
       ]
     },
     {
       "name": "shopping",
-      "count": 1,
+      "count": 11,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 7,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "steve-yegge.medium.com",
+          "count": 2
+        },
+        {
+          "domain": "drphilippahardman.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "developersjourney.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "medium.com",
+          "count": 1
+        },
+        {
+          "domain": "james-palm.medium.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
