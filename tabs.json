@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-07T22:16:19Z",
-  "total_tabs": 651,
+  "updated_at": "2026-06-07T22:17:26Z",
+  "total_tabs": 654,
   "total_windows": 7,
   "duplicate_tabs": 78,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 426,
-      "domain_count": 325,
+      "count": 427,
+      "domain_count": 326,
       "top_domains": [
         {
           "domain": "newtab",
@@ -125,6 +125,17 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 8,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 8
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 7,
       "domain_count": 6,
@@ -148,17 +159,6 @@
         {
           "domain": "james-palm.medium.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 6,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 6
         }
       ]
     },
