@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T16:22:30Z",
+  "updated_at": "2026-06-07T16:23:35Z",
   "total_tabs": 574,
   "total_windows": 7,
   "duplicate_tabs": 65,
@@ -33,6 +33,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 74,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 74
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 74,
       "domain_count": 5,
@@ -56,17 +67,6 @@
         {
           "domain": "anthropic.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 73,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 73
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 21,
+      "count": 20,
       "domain_count": 10,
       "top_domains": [
         {
@@ -111,12 +111,12 @@
           "count": 4
         },
         {
-          "domain": "reddit.com",
+          "domain": "web.whatsapp.com",
           "count": 3
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 3
+          "domain": "reddit.com",
+          "count": 2
         },
         {
           "domain": "facebook.com",
