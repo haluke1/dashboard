@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-06-08T04:57:28Z",
-  "total_tabs": 667,
+  "updated_at": "2026-06-08T04:58:38Z",
+  "total_tabs": 670,
   "total_windows": 7,
   "duplicate_tabs": 74,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 438,
+      "count": 441,
       "domain_count": 334,
       "top_domains": [
+        {
+          "domain": "google.com",
+          "count": 12
+        },
         {
           "domain": "newtab",
           "count": 11
@@ -17,10 +21,6 @@
         {
           "domain": "keep.google.com",
           "count": 10
-        },
-        {
-          "domain": "google.com",
-          "count": 9
         },
         {
           "domain": "conceptkb.com",
