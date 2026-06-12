@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T03:01:40Z",
+  "updated_at": "2026-06-12T03:02:06Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "continue",
       "last_assistant_snippet": "Phases 0-4 complete. 31 tests green across 10 in-scope gates. The full checkpoint report is in `python3 -m core.validate`. Headline numbers: | What | Number | Anchor | |---|---|---\u2026",
       "message_count": 408,
-      "file_size_kb": 1566,
-      "modified_ts": 1781233298.8996851,
-      "modified_iso": "2026-06-11T23:01:38.899685",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1568,
+      "modified_ts": 1781233300.6719508,
+      "modified_iso": "2026-06-11T23:01:40.671951",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 167,
       "modified_ts": 1781229680.2379694,
       "modified_iso": "2026-06-11T22:01:20.237969",
-      "minutes_since_active": 60.3
+      "minutes_since_active": 60.8
     }
   ]
 }
