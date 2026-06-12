@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T03:22:03Z",
+  "updated_at": "2026-06-12T03:23:09Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "**The build is complete \u2014 all 11 gates green, 38 tests, committed (692f22e, bca7331).** What the new `cad/` layer does, in plain language: imagine rotating a clock's hands through \u2026",
       "message_count": 522,
       "file_size_kb": 2076,
-      "modified_ts": 1781234353.6695335,
-      "modified_iso": "2026-06-11T23:19:13.669533",
-      "minutes_since_active": 2.8
+      "modified_ts": 1781234540.6286426,
+      "modified_iso": "2026-06-11T23:22:20.628643",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 167,
       "modified_ts": 1781229680.2379694,
       "modified_iso": "2026-06-11T22:01:20.237969",
-      "minutes_since_active": 80.7
+      "minutes_since_active": 81.8
     }
   ]
 }
