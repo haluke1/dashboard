@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-12T04:19:52Z",
-  "total_tabs": 701,
-  "total_windows": 7,
+  "updated_at": "2026-06-12T04:20:59Z",
+  "total_tabs": 702,
+  "total_windows": 8,
   "duplicate_tabs": 75,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 461,
-      "domain_count": 342,
+      "count": 462,
+      "domain_count": 343,
       "top_domains": [
         {
           "domain": "google.com",
@@ -103,15 +103,15 @@
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 4
-        },
-        {
           "domain": "instagram.com",
           "count": 4
         },
         {
           "domain": "linkedin.com",
+          "count": 4
+        },
+        {
+          "domain": "x.com",
           "count": 4
         },
         {
@@ -145,6 +145,10 @@
           "count": 2
         },
         {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        },
+        {
           "domain": "drphilippahardman.substack.com",
           "count": 1
         },
@@ -154,10 +158,6 @@
         },
         {
           "domain": "medium.com",
-          "count": 1
-        },
-        {
-          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
