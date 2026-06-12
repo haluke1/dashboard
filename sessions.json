@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-06-12T01:58:15Z",
+  "updated_at": "2026-06-12T01:58:52Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 0,
     "archived": 327,
-    "total": 327
+    "total": 328
   },
-  "active": [],
+  "active": [
+    {
+      "id": "362a2eb8",
+      "full_id": "362a2eb8-cd1d-4c73-a527-79816e858dd5",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can we switch to fable 5",
+      "last_user_msg": "can we switch to fable 5",
+      "last_assistant_snippet": "\"Fable 5\" isn't a model I recognize. Available Claude models are Opus 4.7, Sonnet 4.6, and Haiku 4.5. Did you mean **Sonnet 4.6** (switch via `/model sonnet`) or **Opus 4.6 fast mo\u2026",
+      "message_count": 3,
+      "file_size_kb": 74,
+      "modified_ts": 1781229527.1264699,
+      "modified_iso": "2026-06-11T21:58:47.126470",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": []
 }
