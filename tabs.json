@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13T16:25:57Z",
-  "total_tabs": 691,
+  "updated_at": "2026-06-13T16:27:04Z",
+  "total_tabs": 692,
   "total_windows": 8,
-  "duplicate_tabs": 76,
+  "duplicate_tabs": 78,
   "bridge_online": true,
   "categories": [
     {
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 81,
+      "count": 82,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 81
+          "count": 82
         }
       ]
     },
@@ -88,11 +88,11 @@
           "count": 4
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "figma.com",
           "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "calendar.google.com",
           "count": 2
         }
       ]
@@ -103,11 +103,11 @@
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "linkedin.com",
+          "domain": "x.com",
           "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "linkedin.com",
           "count": 4
         },
         {
@@ -145,10 +145,6 @@
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "drphilippahardman.substack.com",
           "count": 1
         },
@@ -158,6 +154,10 @@
         },
         {
           "domain": "medium.com",
+          "count": 1
+        },
+        {
+          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
