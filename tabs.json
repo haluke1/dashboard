@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T16:00:02Z",
+  "updated_at": "2026-06-13T16:01:09Z",
   "total_tabs": 696,
   "total_windows": 8,
   "duplicate_tabs": 76,
@@ -103,11 +103,11 @@
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "linkedin.com",
+          "domain": "x.com",
           "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "linkedin.com",
           "count": 4
         },
         {
@@ -145,10 +145,6 @@
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "drphilippahardman.substack.com",
           "count": 1
         },
@@ -158,6 +154,10 @@
         },
         {
           "domain": "medium.com",
+          "count": 1
+        },
+        {
+          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
