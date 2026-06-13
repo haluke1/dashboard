@@ -1,26 +1,18 @@
 {
-  "updated_at": "2026-06-13T07:47:32Z",
-  "total_tabs": 750,
-  "total_windows": 8,
+  "updated_at": "2026-06-13T07:48:38Z",
+  "total_tabs": 700,
+  "total_windows": 7,
   "duplicate_tabs": 77,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 509,
-      "domain_count": 352,
+      "count": 463,
+      "domain_count": 342,
       "top_domains": [
         {
-          "domain": "eporner.com",
-          "count": 22
-        },
-        {
           "domain": "google.com",
-          "count": 18
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 15
+          "count": 17
         },
         {
           "domain": "keep.google.com",
@@ -29,6 +21,14 @@
         {
           "domain": "newtab",
           "count": 11
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 8
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 7
         }
       ]
     },
@@ -61,39 +61,12 @@
     },
     {
       "name": "video",
-      "count": 83,
+      "count": 82,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 83
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 24,
-      "domain_count": 11,
-      "top_domains": [
-        {
-          "domain": "instagram.com",
-          "count": 4
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 4
-        },
-        {
-          "domain": "x.com",
-          "count": 4
-        },
-        {
-          "domain": "tnaflix.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
+          "count": 82
         }
       ]
     },
@@ -125,6 +98,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 21,
+      "domain_count": 10,
+      "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 4
+        },
+        {
+          "domain": "instagram.com",
+          "count": 4
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 4
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 11,
       "domain_count": 1,
@@ -145,10 +145,6 @@
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "drphilippahardman.substack.com",
           "count": 1
         },
@@ -158,6 +154,10 @@
         },
         {
           "domain": "medium.com",
+          "count": 1
+        },
+        {
+          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
