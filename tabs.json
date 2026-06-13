@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-13T04:33:31Z",
-  "total_tabs": 744,
+  "updated_at": "2026-06-13T04:34:37Z",
+  "total_tabs": 746,
   "total_windows": 8,
   "duplicate_tabs": 75,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 502,
+      "count": 504,
       "domain_count": 352,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 17
         },
         {
+          "domain": "xhamster.com",
+          "count": 12
+        },
+        {
           "domain": "keep.google.com",
           "count": 11
         },
         {
           "domain": "newtab",
           "count": 11
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 10
         }
       ]
     },
