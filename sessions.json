@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-13T01:19:57Z",
+  "updated_at": "2026-06-13T02:11:00Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 327,
+    "recent": 1,
+    "archived": 328,
     "total": 329
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 4628,
       "modified_ts": 1781238618.852416,
       "modified_iso": "2026-06-12T00:30:18.852416",
-      "minutes_since_active": 1249.6
-    },
-    {
-      "id": "362a2eb8",
-      "full_id": "362a2eb8-cd1d-4c73-a527-79816e858dd5",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can we switch to fable 5",
-      "last_user_msg": "are we on fable 5 now",
-      "last_assistant_snippet": "Yes \u2014 the harness confirms it: `Set model to claude-fable-5`. Every message from now on in this session is processed by Fable 5. One caveat: I can't verify it from the inside. A mo\u2026",
-      "message_count": 23,
-      "file_size_kb": 167,
-      "modified_ts": 1781229680.2379694,
-      "modified_iso": "2026-06-11T22:01:20.237969",
-      "minutes_since_active": 1398.6
+      "minutes_since_active": 1300.7
     }
   ]
 }
