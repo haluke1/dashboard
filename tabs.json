@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13T06:41:00Z",
-  "total_tabs": 750,
+  "updated_at": "2026-06-13T06:42:06Z",
+  "total_tabs": 752,
   "total_windows": 8,
-  "duplicate_tabs": 75,
+  "duplicate_tabs": 77,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 91,
+      "count": 93,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 64
+          "count": 65
         },
         {
           "domain": "github.com",
@@ -50,12 +50,12 @@
           "count": 3
         },
         {
-          "domain": "huggingface.co",
+          "domain": "anthropic.com",
           "count": 2
         },
         {
-          "domain": "openai.com",
-          "count": 1
+          "domain": "huggingface.co",
+          "count": 2
         }
       ]
     },
