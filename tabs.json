@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-13T16:46:11Z",
-  "total_tabs": 692,
+  "updated_at": "2026-06-13T16:47:16Z",
+  "total_tabs": 691,
   "total_windows": 8,
   "duplicate_tabs": 76,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 455,
-      "domain_count": 335,
+      "count": 454,
+      "domain_count": 334,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 15
         },
         {
-          "domain": "newtab",
+          "domain": "keep.google.com",
           "count": 11
         },
         {
-          "domain": "keep.google.com",
+          "domain": "newtab",
           "count": 11
         },
         {
@@ -27,7 +27,7 @@
           "count": 8
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "higgsfield.ai",
           "count": 7
         }
       ]
@@ -54,7 +54,7 @@
           "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -80,11 +80,11 @@
           "count": 5
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 4
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 4
         },
         {
