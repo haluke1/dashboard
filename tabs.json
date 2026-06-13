@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-06-13T15:16:48Z",
-  "total_tabs": 697,
-  "total_windows": 7,
-  "duplicate_tabs": 76,
+  "updated_at": "2026-06-13T15:17:54Z",
+  "total_tabs": 696,
+  "total_windows": 8,
+  "duplicate_tabs": 247,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 461,
-      "domain_count": 338,
+      "count": 471,
+      "domain_count": 295,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 17
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 11
+          "count": 16
         },
         {
           "domain": "newtab",
           "count": 11
         },
         {
-          "domain": "conceptkb.com",
-          "count": 8
+          "domain": "keep.google.com",
+          "count": 10
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
+          "count": 9
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 8
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 92,
-      "domain_count": 6,
+      "count": 87,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 65
+          "count": 46
         },
         {
           "domain": "github.com",
-          "count": 20
+          "count": 33
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 4
         },
         {
           "domain": "vercel.com",
           "count": 3
-        },
-        {
-          "domain": "huggingface.co",
-          "count": 2
         },
         {
           "domain": "openai.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 82,
+      "count": 69,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 82
+          "count": 69
         }
       ]
     },
@@ -99,15 +99,15 @@
     },
     {
       "name": "social",
-      "count": 20,
-      "domain_count": 10,
+      "count": 22,
+      "domain_count": 9,
       "top_domains": [
         {
-          "domain": "linkedin.com",
-          "count": 4
+          "domain": "x.com",
+          "count": 6
         },
         {
-          "domain": "x.com",
+          "domain": "linkedin.com",
           "count": 4
         },
         {
@@ -126,18 +126,18 @@
     },
     {
       "name": "shopping",
-      "count": 11,
+      "count": 12,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 11
+          "count": 12
         }
       ]
     },
     {
       "name": "research",
-      "count": 7,
+      "count": 11,
       "domain_count": 6,
       "top_domains": [
         {
@@ -145,20 +145,20 @@
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "drphilippahardman.substack.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "developersjourney.substack.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "medium.com",
-          "count": 1
+          "count": 2
+        },
+        {
+          "domain": "james-palm.medium.com",
+          "count": 2
         }
       ]
     },
