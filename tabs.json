@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-14T05:36:19Z",
-  "total_tabs": 711,
-  "total_windows": 8,
+  "updated_at": "2026-06-14T05:37:29Z",
+  "total_tabs": 712,
+  "total_windows": 9,
   "duplicate_tabs": 77,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 463,
-      "domain_count": 337,
+      "count": 464,
+      "domain_count": 338,
       "top_domains": [
         {
           "domain": "google.com",
@@ -29,17 +29,6 @@
         {
           "domain": "higgsfield.ai",
           "count": 7
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 92,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 92
         }
       ]
     },
@@ -67,6 +56,17 @@
         {
           "domain": "openai.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 92,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 92
         }
       ]
     },
@@ -141,11 +141,11 @@
       "domain_count": 6,
       "top_domains": [
         {
-          "domain": "medium.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
         },
         {
-          "domain": "steve-yegge.medium.com",
+          "domain": "medium.com",
           "count": 2
         },
         {
