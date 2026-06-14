@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-06-14T06:04:19Z",
-  "total_tabs": 723,
-  "total_windows": 9,
-  "duplicate_tabs": 77,
+  "updated_at": "2026-06-14T06:05:25Z",
+  "total_tabs": 710,
+  "total_windows": 8,
+  "duplicate_tabs": 79,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 475,
-      "domain_count": 338,
+      "count": 460,
+      "domain_count": 337,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 16
-        },
-        {
-          "domain": "rule34video.com",
-          "count": 13
         },
         {
           "domain": "keep.google.com",
@@ -29,6 +25,21 @@
         {
           "domain": "conceptkb.com",
           "count": 8
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 94,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 94
         }
       ]
     },
@@ -56,17 +67,6 @@
         {
           "domain": "openai.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 92,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 92
         }
       ]
     },
@@ -141,11 +141,11 @@
       "domain_count": 6,
       "top_domains": [
         {
-          "domain": "steve-yegge.medium.com",
+          "domain": "medium.com",
           "count": 2
         },
         {
-          "domain": "medium.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
         },
         {
