@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-14T05:23:07Z",
-  "total_tabs": 714,
+  "updated_at": "2026-06-14T05:24:12Z",
+  "total_tabs": 712,
   "total_windows": 8,
   "duplicate_tabs": 75,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 466,
+      "count": 464,
       "domain_count": 337,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 10
         },
         {
-          "domain": "nextflicks.link",
-          "count": 9
-        },
-        {
           "domain": "conceptkb.com",
           "count": 8
+        },
+        {
+          "domain": "nextflicks.link",
+          "count": 7
         }
       ]
     },
