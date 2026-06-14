@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T23:59:20Z",
+  "updated_at": "2026-06-14T00:00:32Z",
   "total_tabs": 701,
   "total_windows": 8,
   "duplicate_tabs": 75,
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 87,
+      "count": 86,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 87
+          "count": 86
         }
       ]
     },
@@ -137,8 +137,8 @@
     },
     {
       "name": "research",
-      "count": 8,
-      "domain_count": 6,
+      "count": 9,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "medium.com",
@@ -149,15 +149,15 @@
           "count": 2
         },
         {
+          "domain": "arthurkwonlee.substack.com",
+          "count": 1
+        },
+        {
           "domain": "natesnewsletter.substack.com",
           "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "developersjourney.substack.com",
           "count": 1
         }
       ]
