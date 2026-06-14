@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-14T05:19:49Z",
-  "total_tabs": 711,
+  "updated_at": "2026-06-14T05:20:55Z",
+  "total_tabs": 715,
   "total_windows": 8,
   "duplicate_tabs": 75,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 463,
+      "count": 467,
       "domain_count": 337,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 11
         },
         {
+          "domain": "nextflicks.link",
+          "count": 10
+        },
+        {
           "domain": "newtab",
           "count": 10
         },
         {
           "domain": "conceptkb.com",
           "count": 8
-        },
-        {
-          "domain": "higgsfield.ai",
-          "count": 7
         }
       ]
     },
