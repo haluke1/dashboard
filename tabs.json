@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-15T01:48:59Z",
-  "total_tabs": 716,
+  "updated_at": "2026-06-15T01:50:05Z",
+  "total_tabs": 717,
   "total_windows": 8,
-  "duplicate_tabs": 80,
+  "duplicate_tabs": 81,
   "bridge_online": true,
   "categories": [
     {
@@ -72,15 +72,15 @@
     },
     {
       "name": "productivity",
-      "count": 24,
+      "count": 25,
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "docs.google.com",
-          "count": 5
+          "domain": "mail.google.com",
+          "count": 6
         },
         {
-          "domain": "mail.google.com",
+          "domain": "docs.google.com",
           "count": 5
         },
         {
