@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T02:30:37Z",
+  "updated_at": "2026-06-15T02:31:44Z",
   "total_tabs": 708,
   "total_windows": 8,
   "duplicate_tabs": 77,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 462,
-      "domain_count": 338,
+      "count": 461,
+      "domain_count": 337,
       "top_domains": [
         {
           "domain": "google.com",
@@ -137,8 +137,8 @@
     },
     {
       "name": "research",
-      "count": 8,
-      "domain_count": 6,
+      "count": 9,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
@@ -149,15 +149,15 @@
           "count": 2
         },
         {
+          "domain": "arxiv.org",
+          "count": 1
+        },
+        {
           "domain": "natesnewsletter.substack.com",
           "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "developersjourney.substack.com",
           "count": 1
         }
       ]
