@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T01:35:47Z",
+  "updated_at": "2026-06-15T01:36:53Z",
   "total_tabs": 715,
   "total_windows": 8,
   "duplicate_tabs": 78,
@@ -72,7 +72,7 @@
     },
     {
       "name": "productivity",
-      "count": 25,
+      "count": 24,
       "domain_count": 10,
       "top_domains": [
         {
@@ -88,11 +88,11 @@
           "count": 4
         },
         {
-          "domain": "figma.com",
+          "domain": "calendar.google.com",
           "count": 2
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         }
       ]
@@ -126,12 +126,12 @@
     },
     {
       "name": "shopping",
-      "count": 11,
+      "count": 12,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 11
+          "count": 12
         }
       ]
     },
