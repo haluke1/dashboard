@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T01:50:05Z",
-  "total_tabs": 717,
+  "updated_at": "2026-06-15T01:51:11Z",
+  "total_tabs": 718,
   "total_windows": 8,
   "duplicate_tabs": 81,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 92,
+      "count": 93,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 92
+          "count": 93
         }
       ]
     },
@@ -141,12 +141,16 @@
       "domain_count": 6,
       "top_domains": [
         {
+          "domain": "steve-yegge.medium.com",
+          "count": 2
+        },
+        {
           "domain": "medium.com",
           "count": 2
         },
         {
-          "domain": "steve-yegge.medium.com",
-          "count": 2
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
@@ -154,10 +158,6 @@
         },
         {
           "domain": "developersjourney.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
