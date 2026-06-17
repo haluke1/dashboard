@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-06-17T05:11:50Z",
-  "total_tabs": 730,
-  "total_windows": 9,
+  "updated_at": "2026-06-17T05:12:56Z",
+  "total_tabs": 718,
+  "total_windows": 8,
   "duplicate_tabs": 83,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 475,
-      "domain_count": 338,
+      "count": 463,
+      "domain_count": 337,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 16
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 12
         },
         {
           "domain": "keep.google.com",
@@ -29,6 +25,10 @@
         {
           "domain": "open.spotify.com",
           "count": 9
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 8
         }
       ]
     },
@@ -76,11 +76,11 @@
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "docs.google.com",
+          "domain": "mail.google.com",
           "count": 5
         },
         {
-          "domain": "mail.google.com",
+          "domain": "docs.google.com",
           "count": 5
         },
         {
@@ -107,11 +107,11 @@
           "count": 4
         },
         {
-          "domain": "linkedin.com",
+          "domain": "instagram.com",
           "count": 3
         },
         {
-          "domain": "instagram.com",
+          "domain": "linkedin.com",
           "count": 3
         },
         {
