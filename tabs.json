@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-19T05:05:30Z",
-  "total_tabs": 736,
+  "updated_at": "2026-06-19T05:06:37Z",
+  "total_tabs": 738,
   "total_windows": 8,
   "duplicate_tabs": 88,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 474,
-      "domain_count": 341,
+      "count": 475,
+      "domain_count": 342,
       "top_domains": [
         {
           "domain": "google.com",
@@ -126,12 +126,16 @@
     },
     {
       "name": "shopping",
-      "count": 11,
-      "domain_count": 1,
+      "count": 12,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "amazon.com",
           "count": 11
+        },
+        {
+          "domain": "etsy.com",
+          "count": 1
         }
       ]
     },
