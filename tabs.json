@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-06-20T04:07:08Z",
-  "total_tabs": 737,
-  "total_windows": 8,
-  "duplicate_tabs": 86,
+  "updated_at": "2026-06-20T04:09:18Z",
+  "total_tabs": 741,
+  "total_windows": 9,
+  "duplicate_tabs": 87,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 476,
+      "count": 478,
       "domain_count": 342,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 16
+          "count": 17
         },
         {
           "domain": "keep.google.com",
-          "count": 12
+          "count": 13
         },
         {
           "domain": "newtab",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 99,
+      "count": 102,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 99
+          "count": 102
         }
       ]
     },
@@ -76,11 +76,11 @@
       "domain_count": 10,
       "top_domains": [
         {
-          "domain": "mail.google.com",
+          "domain": "docs.google.com",
           "count": 5
         },
         {
-          "domain": "docs.google.com",
+          "domain": "mail.google.com",
           "count": 5
         },
         {
@@ -107,15 +107,15 @@
           "count": 4
         },
         {
-          "domain": "instagram.com",
-          "count": 3
-        },
-        {
           "domain": "reddit.com",
           "count": 3
         },
         {
           "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "instagram.com",
           "count": 3
         },
         {
@@ -158,17 +158,6 @@
         },
         {
           "domain": "developersjourney.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "news",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "nytimes.com",
           "count": 1
         }
       ]
