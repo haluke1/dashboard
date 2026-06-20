@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-20T22:26:39Z",
-  "total_tabs": 749,
+  "updated_at": "2026-06-20T22:27:45Z",
+  "total_tabs": 750,
   "total_windows": 9,
-  "duplicate_tabs": 87,
+  "duplicate_tabs": 89,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 484,
-      "domain_count": 345,
+      "count": 483,
+      "domain_count": 344,
       "top_domains": [
         {
           "domain": "google.com",
@@ -34,19 +34,19 @@
     },
     {
       "name": "video",
-      "count": 103,
+      "count": 104,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 103
+          "count": 104
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 99,
-      "domain_count": 6,
+      "count": 100,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -65,7 +65,7 @@
           "count": 2
         },
         {
-          "domain": "openai.com",
+          "domain": "perplexity.ai",
           "count": 1
         }
       ]
