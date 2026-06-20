@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-20T23:34:55Z",
-  "total_tabs": 763,
+  "updated_at": "2026-06-20T23:37:32Z",
+  "total_tabs": 753,
   "total_windows": 9,
   "duplicate_tabs": 87,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 492,
-      "domain_count": 344,
+      "count": 482,
+      "domain_count": 343,
       "top_domains": [
         {
           "domain": "google.com",
@@ -23,12 +23,12 @@
           "count": 10
         },
         {
-          "domain": "clip.opus.pro",
-          "count": 10
-        },
-        {
           "domain": "open.spotify.com",
           "count": 9
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 8
         }
       ]
     },
