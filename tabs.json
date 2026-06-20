@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-20T22:27:45Z",
-  "total_tabs": 750,
+  "updated_at": "2026-06-20T22:28:51Z",
+  "total_tabs": 749,
   "total_windows": 9,
-  "duplicate_tabs": 89,
+  "duplicate_tabs": 87,
   "bridge_online": true,
   "categories": [
     {
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 100,
-      "domain_count": 7,
+      "count": 99,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -65,7 +65,7 @@
           "count": 2
         },
         {
-          "domain": "perplexity.ai",
+          "domain": "openai.com",
           "count": 1
         }
       ]
