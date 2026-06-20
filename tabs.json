@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-20T03:53:59Z",
-  "total_tabs": 739,
+  "updated_at": "2026-06-20T03:55:05Z",
+  "total_tabs": 740,
   "total_windows": 8,
   "duplicate_tabs": 86,
   "bridge_online": true,
@@ -158,6 +158,17 @@
         },
         {
           "domain": "developersjourney.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "news",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "nytimes.com",
           "count": 1
         }
       ]
