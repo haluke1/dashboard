@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-21T22:20:14Z",
-  "total_tabs": 714,
+  "updated_at": "2026-06-21T22:21:19Z",
+  "total_tabs": 716,
   "total_windows": 7,
   "duplicate_tabs": 80,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 468,
-      "domain_count": 338,
+      "count": 469,
+      "domain_count": 339,
       "top_domains": [
         {
           "domain": "google.com",
@@ -158,6 +158,17 @@
         },
         {
           "domain": "developersjourney.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "canarymedia.com",
           "count": 1
         }
       ]
