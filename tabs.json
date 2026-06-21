@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T03:42:24Z",
-  "total_tabs": 714,
+  "updated_at": "2026-06-21T03:43:30Z",
+  "total_tabs": 718,
   "total_windows": 7,
   "duplicate_tabs": 75,
   "bridge_online": true,
@@ -33,6 +33,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 100,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 100
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 96,
       "domain_count": 6,
@@ -56,17 +67,6 @@
         {
           "domain": "openai.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 96,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 96
         }
       ]
     },
