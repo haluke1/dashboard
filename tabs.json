@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-21T01:26:23Z",
-  "total_tabs": 737,
-  "total_windows": 9,
-  "duplicate_tabs": 85,
+  "updated_at": "2026-06-21T01:36:42Z",
+  "total_tabs": 706,
+  "total_windows": 7,
+  "duplicate_tabs": 75,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 476,
-      "domain_count": 342,
+      "count": 462,
+      "domain_count": 338,
       "top_domains": [
         {
           "domain": "google.com",
@@ -16,41 +16,30 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 13
+          "count": 12
         },
         {
           "domain": "newtab",
           "count": 10
         },
         {
-          "domain": "open.spotify.com",
-          "count": 9
-        },
-        {
           "domain": "conceptkb.com",
           "count": 8
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 102,
-      "domain_count": 1,
-      "top_domains": [
+        },
         {
-          "domain": "youtube.com",
-          "count": 102
+          "domain": "higgsfield.ai",
+          "count": 7
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 97,
+      "count": 96,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 70
+          "count": 69
         },
         {
           "domain": "github.com",
@@ -71,9 +60,20 @@
       ]
     },
     {
+      "name": "video",
+      "count": 88,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 88
+        }
+      ]
+    },
+    {
       "name": "productivity",
-      "count": 24,
-      "domain_count": 10,
+      "count": 23,
+      "domain_count": 9,
       "top_domains": [
         {
           "domain": "docs.google.com",
@@ -99,12 +99,12 @@
     },
     {
       "name": "social",
-      "count": 18,
+      "count": 17,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "x.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "instagram.com",
