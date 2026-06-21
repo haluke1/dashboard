@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-21T20:15:19Z",
-  "total_tabs": 712,
-  "total_windows": 8,
-  "duplicate_tabs": 77,
+  "updated_at": "2026-06-21T20:16:36Z",
+  "total_tabs": 711,
+  "total_windows": 7,
+  "duplicate_tabs": 76,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 464,
+      "count": 463,
       "domain_count": 338,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "newtab",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "conceptkb.com",
@@ -141,11 +141,11 @@
       "domain_count": 6,
       "top_domains": [
         {
-          "domain": "steve-yegge.medium.com",
+          "domain": "medium.com",
           "count": 2
         },
         {
-          "domain": "medium.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
         },
         {
