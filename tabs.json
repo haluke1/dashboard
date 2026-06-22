@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T04:02:51Z",
-  "total_tabs": 737,
+  "updated_at": "2026-06-22T04:03:57Z",
+  "total_tabs": 734,
   "total_windows": 7,
   "duplicate_tabs": 81,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 100,
+      "count": 99,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 73
+          "count": 72
         },
         {
           "domain": "github.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 92,
+      "count": 91,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 92
+          "count": 91
         }
       ]
     },
@@ -99,12 +99,12 @@
     },
     {
       "name": "social",
-      "count": 18,
+      "count": 17,
       "domain_count": 9,
       "top_domains": [
         {
           "domain": "x.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "instagram.com",
