@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:24:43Z",
+  "updated_at": "2026-06-22T23:25:49Z",
   "total_tabs": 742,
   "total_windows": 7,
   "duplicate_tabs": 82,
@@ -141,12 +141,16 @@
       "domain_count": 6,
       "top_domains": [
         {
+          "domain": "steve-yegge.medium.com",
+          "count": 2
+        },
+        {
           "domain": "medium.com",
           "count": 2
         },
         {
-          "domain": "steve-yegge.medium.com",
-          "count": 2
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
@@ -154,10 +158,6 @@
         },
         {
           "domain": "developersjourney.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
