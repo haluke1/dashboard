@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T02:40:11Z",
+  "updated_at": "2026-06-23T02:41:18Z",
   "counts": {
-    "active": 2,
-    "recent": 0,
+    "active": 1,
+    "recent": 1,
     "archived": 329,
     "total": 331
   },
@@ -19,14 +19,16 @@
       "last_assistant_snippet": "Voice loop is closed. All 4 services unloaded, all processes gone: - `claude-butler`, `claude-dashboard`, `claude-vision`, `clamshell-guard` \u2014 launch agents unloaded (won't restart\u2026",
       "message_count": 37,
       "file_size_kb": 199,
-      "modified_ts": 1782182230.132286,
-      "modified_iso": "2026-06-22T22:37:10.132286",
-      "minutes_since_active": 3.0
-    },
+      "modified_ts": 1782182415.0013812,
+      "modified_iso": "2026-06-22T22:40:15.001381",
+      "minutes_since_active": 1.0
+    }
+  ],
+  "recent": [
     {
       "id": "5ad0daba",
       "full_id": "5ad0daba-4e18-4323-861b-f2471a1c72ef",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,8 +39,7 @@
       "file_size_kb": 72,
       "modified_ts": 1782182164.0223444,
       "modified_iso": "2026-06-22T22:36:04.022344",
-      "minutes_since_active": 4.1
+      "minutes_since_active": 5.2
     }
-  ],
-  "recent": []
+  ]
 }
