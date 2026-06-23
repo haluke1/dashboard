@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-06-23T02:14:42Z",
+  "updated_at": "2026-06-23T02:15:48Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 329,
     "total": 330
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "5ad0daba",
       "full_id": "5ad0daba-4e18-4323-861b-f2471a1c72ef",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,8 +22,7 @@
       "file_size_kb": 56,
       "modified_ts": 1782180637.1236882,
       "modified_iso": "2026-06-22T22:10:37.123688",
-      "minutes_since_active": 4.1
+      "minutes_since_active": 5.2
     }
-  ],
-  "recent": []
+  ]
 }
