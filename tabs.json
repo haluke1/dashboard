@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T00:36:45Z",
-  "total_tabs": 752,
+  "updated_at": "2026-06-23T00:37:56Z",
+  "total_tabs": 749,
   "total_windows": 8,
-  "duplicate_tabs": 79,
+  "duplicate_tabs": 77,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 506,
-      "domain_count": 339,
+      "count": 502,
+      "domain_count": 337,
       "top_domains": [
         {
           "domain": "xhamster.com",
@@ -19,16 +19,16 @@
           "count": 21
         },
         {
-          "domain": "keep.google.com",
-          "count": 10
-        },
-        {
           "domain": "open.spotify.com",
           "count": 10
         },
         {
           "domain": "newtab",
           "count": 9
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 8
         }
       ]
     },
@@ -137,8 +137,8 @@
     },
     {
       "name": "research",
-      "count": 8,
-      "domain_count": 6,
+      "count": 9,
+      "domain_count": 7,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
@@ -149,15 +149,15 @@
           "count": 2
         },
         {
+          "domain": "substack.com",
+          "count": 1
+        },
+        {
           "domain": "natesnewsletter.substack.com",
           "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
-          "count": 1
-        },
-        {
-          "domain": "developersjourney.substack.com",
           "count": 1
         }
       ]
