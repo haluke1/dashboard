@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-23T02:00:06Z",
+  "updated_at": "2026-06-23T02:01:15Z",
   "total_tabs": 707,
   "total_windows": 7,
-  "duplicate_tabs": 73,
+  "duplicate_tabs": 72,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 465,
+      "count": 466,
       "domain_count": 337,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 21
+          "count": 22
         },
         {
           "domain": "open.spotify.com",
@@ -72,12 +72,12 @@
     },
     {
       "name": "productivity",
-      "count": 22,
+      "count": 21,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 7
+          "count": 6
         },
         {
           "domain": "docs.google.com",
