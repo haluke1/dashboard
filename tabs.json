@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T00:33:21Z",
-  "total_tabs": 767,
+  "updated_at": "2026-06-23T00:34:31Z",
+  "total_tabs": 752,
   "total_windows": 8,
-  "duplicate_tabs": 80,
+  "duplicate_tabs": 79,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 514,
-      "domain_count": 344,
+      "count": 506,
+      "domain_count": 339,
       "top_domains": [
         {
           "domain": "xhamster.com",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "open.spotify.com",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 96,
+      "count": 95,
       "domain_count": 6,
       "top_domains": [
         {
@@ -47,7 +47,7 @@
         },
         {
           "domain": "vercel.com",
-          "count": 3
+          "count": 2
         },
         {
           "domain": "huggingface.co",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 94,
+      "count": 89,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 94
+          "count": 89
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 17,
+      "count": 16,
       "domain_count": 9,
       "top_domains": [
         {
@@ -111,16 +111,16 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
           "domain": "web.whatsapp.com",
           "count": 2
         },
         {
           "domain": "linkedin.com",
           "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
         }
       ]
     },
