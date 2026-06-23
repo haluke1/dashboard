@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T00:21:07Z",
-  "total_tabs": 780,
+  "updated_at": "2026-06-23T00:22:16Z",
+  "total_tabs": 778,
   "total_windows": 8,
-  "duplicate_tabs": 86,
+  "duplicate_tabs": 85,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 521,
-      "domain_count": 346,
+      "domain_count": 347,
       "top_domains": [
         {
           "domain": "xhamster.com",
@@ -19,12 +19,12 @@
           "count": 21
         },
         {
-          "domain": "keep.google.com",
+          "domain": "newtab",
           "count": 12
         },
         {
-          "domain": "newtab",
-          "count": 12
+          "domain": "keep.google.com",
+          "count": 11
         },
         {
           "domain": "open.spotify.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 99,
+      "count": 98,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 72
+          "count": 71
         },
         {
           "domain": "github.com",
@@ -72,7 +72,7 @@
     },
     {
       "name": "productivity",
-      "count": 24,
+      "count": 23,
       "domain_count": 9,
       "top_domains": [
         {
@@ -85,7 +85,7 @@
         },
         {
           "domain": "notion.so",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "calendar.google.com",
