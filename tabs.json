@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T03:20:18Z",
-  "total_tabs": 689,
+  "updated_at": "2026-06-23T03:21:25Z",
+  "total_tabs": 686,
   "total_windows": 7,
   "duplicate_tabs": 66,
   "bridge_online": true,
@@ -61,39 +61,12 @@
     },
     {
       "name": "video",
-      "count": 87,
+      "count": 85,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 87
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 18,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "x.com",
-          "count": 5
-        },
-        {
-          "domain": "instagram.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 2
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 2
+          "count": 85
         }
       ]
     },
@@ -120,6 +93,33 @@
         },
         {
           "domain": "toolbox.googleapps.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 17,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 4
+        },
+        {
+          "domain": "instagram.com",
+          "count": 3
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 2
+        },
+        {
+          "domain": "web.whatsapp.com",
           "count": 2
         }
       ]
