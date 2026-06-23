@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T01:41:18Z",
+  "updated_at": "2026-06-23T01:42:25Z",
   "total_tabs": 705,
   "total_windows": 7,
-  "duplicate_tabs": 72,
+  "duplicate_tabs": 73,
   "bridge_online": true,
   "categories": [
     {
@@ -72,12 +72,12 @@
     },
     {
       "name": "productivity",
-      "count": 21,
+      "count": 22,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 6
+          "count": 7
         },
         {
           "domain": "docs.google.com",
@@ -99,7 +99,7 @@
     },
     {
       "name": "social",
-      "count": 18,
+      "count": 17,
       "domain_count": 9,
       "top_domains": [
         {
@@ -107,12 +107,12 @@
           "count": 4
         },
         {
-          "domain": "facebook.com",
+          "domain": "instagram.com",
           "count": 3
         },
         {
-          "domain": "instagram.com",
-          "count": 3
+          "domain": "facebook.com",
+          "count": 2
         },
         {
           "domain": "web.whatsapp.com",
