@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T02:01:15Z",
-  "total_tabs": 707,
+  "updated_at": "2026-06-23T02:02:21Z",
+  "total_tabs": 708,
   "total_windows": 7,
   "duplicate_tabs": 72,
   "bridge_online": true,
@@ -8,11 +8,11 @@
     {
       "name": "other",
       "count": 466,
-      "domain_count": 337,
+      "domain_count": 338,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 22
+          "count": 21
         },
         {
           "domain": "open.spotify.com",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 92,
+      "count": 93,
       "domain_count": 6,
       "top_domains": [
         {
@@ -50,12 +50,12 @@
           "count": 2
         },
         {
-          "domain": "huggingface.co",
+          "domain": "anthropic.com",
           "count": 2
         },
         {
-          "domain": "openai.com",
-          "count": 1
+          "domain": "huggingface.co",
+          "count": 2
         }
       ]
     },
