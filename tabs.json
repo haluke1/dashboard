@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T00:22:16Z",
-  "total_tabs": 778,
+  "updated_at": "2026-06-23T00:23:23Z",
+  "total_tabs": 772,
   "total_windows": 8,
-  "duplicate_tabs": 85,
+  "duplicate_tabs": 83,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 521,
-      "domain_count": 347,
+      "count": 517,
+      "domain_count": 345,
       "top_domains": [
         {
           "domain": "xhamster.com",
@@ -19,12 +19,12 @@
           "count": 21
         },
         {
-          "domain": "newtab",
-          "count": 12
-        },
-        {
           "domain": "keep.google.com",
           "count": 11
+        },
+        {
+          "domain": "newtab",
+          "count": 10
         },
         {
           "domain": "open.spotify.com",
@@ -33,13 +33,24 @@
       ]
     },
     {
+      "name": "video",
+      "count": 96,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 96
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
-      "count": 98,
+      "count": 96,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 71
+          "count": 69
         },
         {
           "domain": "github.com",
@@ -56,17 +67,6 @@
         {
           "domain": "openai.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 96,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 96
         }
       ]
     },
