@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-23T02:21:20Z",
+  "updated_at": "2026-06-23T02:22:26Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 329,
     "total": 330
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "5ad0daba",
       "full_id": "5ad0daba-4e18-4323-861b-f2471a1c72ef",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "I've just opened Cloud .",
-      "last_user_msg": "So I want to write in cloud.",
-      "last_assistant_snippet": "Failed to authenticate. API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid authentication credentials\"},\"request_id\":\"req_011CcKNxFTuQfekRJnvZ\u2026",
-      "message_count": 6,
-      "file_size_kb": 56,
-      "modified_ts": 1782180637.1236882,
-      "modified_iso": "2026-06-22T22:10:37.123688",
-      "minutes_since_active": 10.7
+      "last_user_msg": "I love it.",
+      "last_assistant_snippet": "Failed to authenticate. API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid authentication credentials\"},\"request_id\":\"req_011CcKPox9kWmyeVZx5j\u2026",
+      "message_count": 8,
+      "file_size_kb": 58,
+      "modified_ts": 1782181311.3211792,
+      "modified_iso": "2026-06-22T22:21:51.321179",
+      "minutes_since_active": 0.6
     }
-  ]
+  ],
+  "recent": []
 }
