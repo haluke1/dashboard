@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T02:02:21Z",
-  "total_tabs": 708,
+  "updated_at": "2026-06-23T02:03:27Z",
+  "total_tabs": 706,
   "total_windows": 7,
   "duplicate_tabs": 72,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 466,
-      "domain_count": 338,
+      "count": 465,
+      "domain_count": 337,
       "top_domains": [
         {
           "domain": "google.com",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 93,
+      "count": 92,
       "domain_count": 6,
       "top_domains": [
         {
@@ -50,12 +50,12 @@
           "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "huggingface.co",
           "count": 2
         },
         {
-          "domain": "huggingface.co",
-          "count": 2
+          "domain": "openai.com",
+          "count": 1
         }
       ]
     },
