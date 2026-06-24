@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-24T22:15:31Z",
+  "updated_at": "2026-06-24T22:16:39Z",
   "total_tabs": 687,
   "total_windows": 7,
-  "duplicate_tabs": 68,
+  "duplicate_tabs": 69,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 460,
-      "domain_count": 335,
+      "domain_count": 334,
       "top_domains": [
         {
           "domain": "google.com",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 8
+          "count": 9
         },
         {
           "domain": "newtab",
