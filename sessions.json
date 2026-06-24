@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-06-24T02:04:28Z",
+  "updated_at": "2026-06-24T02:05:34Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 329,
     "total": 331
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "04b03d25",
       "full_id": "04b03d25-79b3-4c0f-884c-3853202f9d32",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "close the voice loop thing we have on on the laptop",
-      "last_user_msg": "\u276f close the voice loop thing we have on on the laptop",
+      "last_user_msg": "So I'm currently using Wispr Flow to control you. I'm curious how we could improve our process of working together with Wispr Flow and what advantages we could unlock by me working\u2026",
       "last_assistant_snippet": "Voice loop is closed. All 4 services unloaded, all processes gone: - `claude-butler`, `claude-dashboard`, `claude-vision`, `clamshell-guard` \u2014 launch agents unloaded (won't restart\u2026",
-      "message_count": 37,
-      "file_size_kb": 199,
-      "modified_ts": 1782182415.0013812,
-      "modified_iso": "2026-06-22T22:40:15.001381",
-      "minutes_since_active": 1404.2
-    },
+      "message_count": 38,
+      "file_size_kb": 203,
+      "modified_ts": 1782266719.5344036,
+      "modified_iso": "2026-06-23T22:05:19.534404",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "5ad0daba",
       "full_id": "5ad0daba-4e18-4323-861b-f2471a1c72ef",
@@ -38,7 +39,7 @@
       "file_size_kb": 72,
       "modified_ts": 1782182164.0223444,
       "modified_iso": "2026-06-22T22:36:04.022344",
-      "minutes_since_active": 1408.4
+      "minutes_since_active": 1409.5
     }
   ]
 }
