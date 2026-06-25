@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-06-25T01:17:04Z",
-  "total_tabs": 707,
+  "updated_at": "2026-06-25T01:18:09Z",
+  "total_tabs": 696,
   "total_windows": 7,
-  "duplicate_tabs": 164,
+  "duplicate_tabs": 69,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 473,
-      "domain_count": 327,
+      "count": 466,
+      "domain_count": 339,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 20
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 11
+          "count": 22
         },
         {
           "domain": "open.spotify.com",
           "count": 10
         },
         {
-          "domain": "conceptkb.com",
-          "count": 8
+          "domain": "keep.google.com",
+          "count": 9
         },
         {
           "domain": "newtab",
           "count": 8
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 7
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 98,
+      "count": 92,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 71
+          "count": 66
         },
         {
           "domain": "github.com",
@@ -50,50 +50,23 @@
           "count": 2
         },
         {
-          "domain": "openai.com",
+          "domain": "huggingface.co",
           "count": 2
         },
         {
-          "domain": "huggingface.co",
-          "count": 2
+          "domain": "openai.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "video",
-      "count": 75,
+      "count": 82,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 75
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 24,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 5
-        },
-        {
-          "domain": "x.com",
-          "count": 5
-        },
-        {
-          "domain": "instagram.com",
-          "count": 5
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
+          "count": 82
         }
       ]
     },
@@ -125,6 +98,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 17,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 4
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "instagram.com",
+          "count": 3
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 11,
       "domain_count": 1,
@@ -137,16 +137,20 @@
     },
     {
       "name": "research",
-      "count": 7,
-      "domain_count": 5,
+      "count": 8,
+      "domain_count": 6,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
         },
         {
           "domain": "medium.com",
           "count": 2
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
@@ -155,9 +159,16 @@
         {
           "domain": "developersjourney.substack.com",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
         {
-          "domain": "james-palm.medium.com",
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
