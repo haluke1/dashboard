@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-06-25T02:21:47Z",
+  "updated_at": "2026-06-25T02:22:54Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 330,
+    "recent": 0,
+    "archived": 331,
     "total": 331
   },
   "active": [],
-  "recent": [
-    {
-      "id": "04b03d25",
-      "full_id": "04b03d25-79b3-4c0f-884c-3853202f9d32",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "close the voice loop thing we have on on the laptop",
-      "last_user_msg": "We create a workflow that will let me speak to Wispr Flow in the phone app, and I control what's happening through speaking through my phone. Is that a possibility with some form o\u2026",
-      "last_assistant_snippet": "Yes, multiple working paths exist. But pushback first. You killed mission-tunnel yesterday because it kept erroring. Before any v2, **name the artifact this unlocks**. The clean te\u2026",
-      "message_count": 51,
-      "file_size_kb": 301,
-      "modified_ts": 1782267772.811618,
-      "modified_iso": "2026-06-23T22:22:52.811618",
-      "minutes_since_active": 1438.9
-    }
-  ]
+  "recent": []
 }
