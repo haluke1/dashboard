@@ -1,86 +1,97 @@
 {
-  "updated_at": "2026-06-25T01:18:09Z",
-  "total_tabs": 696,
+  "updated_at": "2026-06-25T01:19:15Z",
+  "total_tabs": 650,
   "total_windows": 7,
-  "duplicate_tabs": 69,
+  "duplicate_tabs": 272,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 466,
-      "domain_count": 339,
+      "count": 431,
+      "domain_count": 261,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 22
+          "count": 23
         },
         {
-          "domain": "open.spotify.com",
-          "count": 10
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 9
+          "domain": "higgsfield.ai",
+          "count": 8
         },
         {
           "domain": "newtab",
           "count": 8
         },
         {
-          "domain": "conceptkb.com",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 92,
-      "domain_count": 6,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 66
+          "domain": "open.spotify.com",
+          "count": 8
         },
         {
-          "domain": "github.com",
-          "count": 20
-        },
-        {
-          "domain": "vercel.com",
-          "count": 2
-        },
-        {
-          "domain": "huggingface.co",
-          "count": 2
-        },
-        {
-          "domain": "openai.com",
-          "count": 1
+          "domain": "kittl.com",
+          "count": 8
         }
       ]
     },
     {
       "name": "video",
-      "count": 82,
+      "count": 79,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 82
+          "count": 79
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 78,
+      "domain_count": 5,
+      "top_domains": [
+        {
+          "domain": "claude.ai",
+          "count": 51
+        },
+        {
+          "domain": "github.com",
+          "count": 21
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 4
+        },
+        {
+          "domain": "vercel.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 20,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 20
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 18,
+      "count": 17,
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "docs.google.com",
-          "count": 5
+          "domain": "notion.so",
+          "count": 3
         },
         {
-          "domain": "notion.so",
+          "domain": "docs.google.com",
           "count": 3
         },
         {
@@ -99,77 +110,66 @@
     },
     {
       "name": "social",
-      "count": 17,
-      "domain_count": 9,
+      "count": 11,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "x.com",
-          "count": 4
-        },
-        {
-          "domain": "linkedin.com",
           "count": 3
         },
         {
-          "domain": "instagram.com",
-          "count": 3
-        },
-        {
-          "domain": "web.whatsapp.com",
+          "domain": "lawsofux.com",
           "count": 2
         },
         {
           "domain": "facebook.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 11,
-      "domain_count": 1,
-      "top_domains": [
+        },
         {
-          "domain": "amazon.com",
-          "count": 11
+          "domain": "gtmetrix.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
         }
       ]
     },
     {
       "name": "research",
-      "count": 8,
-      "domain_count": 6,
+      "count": 11,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "steve-yegge.medium.com",
-          "count": 2
+          "count": 4
         },
         {
           "domain": "medium.com",
           "count": 2
         },
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "drphilippahardman.substack.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "developersjourney.substack.com",
+          "count": 2
+        },
+        {
+          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
     },
     {
       "name": "local",
-      "count": 1,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
-          "count": 1
+          "count": 2
         }
       ]
     },
