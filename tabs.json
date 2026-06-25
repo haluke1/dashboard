@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T01:30:12Z",
+  "updated_at": "2026-06-25T01:31:19Z",
   "total_tabs": 696,
   "total_windows": 7,
   "duplicate_tabs": 69,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 465,
-      "domain_count": 338,
+      "count": 466,
+      "domain_count": 339,
       "top_domains": [
         {
           "domain": "google.com",
@@ -34,8 +34,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 93,
-      "domain_count": 7,
+      "count": 92,
+      "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -54,7 +54,7 @@
           "count": 2
         },
         {
-          "domain": "chatgpt.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
