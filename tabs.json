@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-26T04:15:22Z",
-  "total_tabs": 703,
+  "updated_at": "2026-06-26T04:16:28Z",
+  "total_tabs": 702,
   "total_windows": 7,
   "duplicate_tabs": 69,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 471,
-      "domain_count": 339,
+      "count": 469,
+      "domain_count": 338,
       "top_domains": [
         {
           "domain": "google.com",
@@ -27,8 +27,8 @@
           "count": 8
         },
         {
-          "domain": "nextflicks.link",
-          "count": 8
+          "domain": "conceptkb.com",
+          "count": 7
         }
       ]
     },
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 84,
+      "count": 85,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 84
+          "count": 85
         }
       ]
     },
