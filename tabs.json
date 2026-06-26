@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-26T04:29:46Z",
-  "total_tabs": 704,
-  "total_windows": 7,
+  "updated_at": "2026-06-26T04:30:52Z",
+  "total_tabs": 703,
+  "total_windows": 8,
   "duplicate_tabs": 69,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 471,
+      "count": 469,
       "domain_count": 338,
       "top_domains": [
         {
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 92,
+      "count": 91,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 66
+          "count": 65
         },
         {
           "domain": "github.com",
@@ -72,16 +72,16 @@
     },
     {
       "name": "social",
-      "count": 18,
-      "domain_count": 9,
+      "count": 20,
+      "domain_count": 10,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 5
+          "domain": "tnaflix.com",
+          "count": 4
         },
         {
-          "domain": "linkedin.com",
-          "count": 3
+          "domain": "x.com",
+          "count": 4
         },
         {
           "domain": "instagram.com",
@@ -92,8 +92,8 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
-          "count": 1
+          "domain": "linkedin.com",
+          "count": 2
         }
       ]
     },
