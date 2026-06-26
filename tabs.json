@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T04:32:00Z",
+  "updated_at": "2026-06-26T04:33:19Z",
   "total_tabs": 703,
   "total_windows": 8,
   "duplicate_tabs": 69,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 469,
-      "domain_count": 338,
+      "count": 471,
+      "domain_count": 339,
       "top_domains": [
         {
           "domain": "google.com",
@@ -72,13 +72,9 @@
     },
     {
       "name": "social",
-      "count": 20,
+      "count": 18,
       "domain_count": 10,
       "top_domains": [
-        {
-          "domain": "tnaflix.com",
-          "count": 4
-        },
         {
           "domain": "x.com",
           "count": 4
@@ -86,6 +82,10 @@
         {
           "domain": "instagram.com",
           "count": 3
+        },
+        {
+          "domain": "tnaflix.com",
+          "count": 2
         },
         {
           "domain": "web.whatsapp.com",
