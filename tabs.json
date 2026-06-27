@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T01:42:53Z",
-  "total_tabs": 696,
+  "updated_at": "2026-06-27T01:44:00Z",
+  "total_tabs": 692,
   "total_windows": 7,
   "duplicate_tabs": 69,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 466,
-      "domain_count": 338,
+      "count": 465,
+      "domain_count": 337,
       "top_domains": [
         {
           "domain": "google.com",
@@ -54,19 +54,19 @@
           "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
     },
     {
       "name": "video",
-      "count": 85,
+      "count": 82,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 85
+          "count": 82
         }
       ]
     },
@@ -80,11 +80,11 @@
           "count": 5
         },
         {
-          "domain": "mail.google.com",
+          "domain": "notion.so",
           "count": 3
         },
         {
-          "domain": "notion.so",
+          "domain": "mail.google.com",
           "count": 3
         },
         {
@@ -119,7 +119,7 @@
           "count": 2
         },
         {
-          "domain": "marex.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
