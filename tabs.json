@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T14:51:38Z",
-  "total_tabs": 668,
+  "updated_at": "2026-06-27T14:52:44Z",
+  "total_tabs": 665,
   "total_windows": 7,
-  "duplicate_tabs": 67,
+  "duplicate_tabs": 64,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 442,
-      "domain_count": 327,
+      "count": 440,
+      "domain_count": 326,
       "top_domains": [
         {
           "domain": "google.com",
@@ -19,15 +19,15 @@
           "count": 10
         },
         {
-          "domain": "keep.google.com",
-          "count": 8
-        },
-        {
           "domain": "newtab",
           "count": 8
         },
         {
           "domain": "conceptkb.com",
+          "count": 7
+        },
+        {
+          "domain": "higgsfield.ai",
           "count": 7
         }
       ]
@@ -72,7 +72,7 @@
     },
     {
       "name": "social",
-      "count": 21,
+      "count": 20,
       "domain_count": 9,
       "top_domains": [
         {
@@ -88,11 +88,11 @@
           "count": 3
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 2
+          "domain": "facebook.com",
+          "count": 1
         },
         {
-          "domain": "facebook.com",
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
