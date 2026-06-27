@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T15:02:45Z",
-  "total_tabs": 655,
+  "updated_at": "2026-06-27T15:03:52Z",
+  "total_tabs": 648,
   "total_windows": 7,
-  "duplicate_tabs": 63,
+  "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 434,
-      "domain_count": 321,
+      "count": 430,
+      "domain_count": 318,
       "top_domains": [
         {
           "domain": "google.com",
@@ -61,39 +61,12 @@
     },
     {
       "name": "video",
-      "count": 76,
+      "count": 74,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 76
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 19,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 5
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 4
-        },
-        {
-          "domain": "notion.so",
-          "count": 3
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 2
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
+          "count": 74
         }
       ]
     },
@@ -121,6 +94,33 @@
         {
           "domain": "web.whatsapp.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 18,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 5
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 4
+        },
+        {
+          "domain": "notion.so",
+          "count": 2
+        },
+        {
+          "domain": "calendar.google.com",
+          "count": 2
+        },
+        {
+          "domain": "toolbox.googleapps.com",
+          "count": 2
         }
       ]
     },
