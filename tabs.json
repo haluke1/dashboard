@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T22:43:57Z",
+  "updated_at": "2026-06-27T22:45:03Z",
   "total_tabs": 649,
   "total_windows": 7,
   "duplicate_tabs": 60,
@@ -23,11 +23,11 @@
           "count": 8
         },
         {
-          "domain": "keep.google.com",
+          "domain": "conceptkb.com",
           "count": 7
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "higgsfield.ai",
           "count": 7
         }
       ]
@@ -71,33 +71,6 @@
       ]
     },
     {
-      "name": "social",
-      "count": 18,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 7
-        },
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 18,
       "domain_count": 7,
@@ -125,6 +98,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 18,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 7
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 12,
       "domain_count": 1,
@@ -141,11 +141,11 @@
       "domain_count": 6,
       "top_domains": [
         {
-          "domain": "steve-yegge.medium.com",
+          "domain": "medium.com",
           "count": 2
         },
         {
-          "domain": "medium.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
         },
         {
@@ -163,23 +163,23 @@
       ]
     },
     {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "finance",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "canarymedia.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:3002",
           "count": 1
         }
       ]
