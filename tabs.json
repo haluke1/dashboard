@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-06-28T02:46:11Z",
-  "total_tabs": 550,
+  "updated_at": "2026-06-28T02:47:17Z",
+  "total_tabs": 551,
   "total_windows": 7,
-  "duplicate_tabs": 48,
+  "duplicate_tabs": 49,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 365,
+      "count": 366,
       "domain_count": 281,
       "top_domains": [
         {
           "domain": "google.com",
+          "count": 8
+        },
+        {
+          "domain": "newtab",
           "count": 8
         },
         {
@@ -20,10 +24,6 @@
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
-        },
-        {
-          "domain": "newtab",
           "count": 7
         },
         {
