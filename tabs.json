@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-28T01:20:26Z",
-  "total_tabs": 649,
-  "total_windows": 7,
+  "updated_at": "2026-06-28T01:21:32Z",
+  "total_tabs": 650,
+  "total_windows": 8,
   "duplicate_tabs": 60,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 430,
-      "domain_count": 318,
+      "count": 431,
+      "domain_count": 319,
       "top_domains": [
         {
           "domain": "google.com",
@@ -71,33 +71,6 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 18,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 5
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 4
-        },
-        {
-          "domain": "notion.so",
-          "count": 2
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 2
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 18,
       "domain_count": 9,
@@ -125,6 +98,33 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 18,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 5
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 4
+        },
+        {
+          "domain": "notion.so",
+          "count": 2
+        },
+        {
+          "domain": "calendar.google.com",
+          "count": 2
+        },
+        {
+          "domain": "toolbox.googleapps.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 12,
       "domain_count": 1,
@@ -141,11 +141,11 @@
       "domain_count": 6,
       "top_domains": [
         {
-          "domain": "medium.com",
+          "domain": "steve-yegge.medium.com",
           "count": 2
         },
         {
-          "domain": "steve-yegge.medium.com",
+          "domain": "medium.com",
           "count": 2
         },
         {
@@ -163,23 +163,23 @@
       ]
     },
     {
-      "name": "finance",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "canarymedia.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "localhost:3002",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "canarymedia.com",
           "count": 1
         }
       ]
