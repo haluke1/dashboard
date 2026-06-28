@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T05:53:32Z",
+  "updated_at": "2026-06-28T05:54:38Z",
   "total_tabs": 521,
   "total_windows": 8,
   "duplicate_tabs": 45,
@@ -54,7 +54,7 @@
           "count": 2
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -80,6 +80,10 @@
           "count": 5
         },
         {
+          "domain": "mail.google.com",
+          "count": 2
+        },
+        {
           "domain": "calendar.google.com",
           "count": 2
         },
@@ -89,10 +93,6 @@
         },
         {
           "domain": "drive.google.com",
-          "count": 2
-        },
-        {
-          "domain": "mail.google.com",
           "count": 2
         }
       ]
@@ -115,11 +115,11 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "marex.com",
           "count": 1
         },
         {
-          "domain": "gtmetrix.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
