@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-06-28T23:49:48Z",
+  "updated_at": "2026-06-28T23:50:55Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 2,
+    "recent": 0,
     "archived": 331,
     "total": 333
   },
   "active": [
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "could you test this out and give me results so we can decide if we wanna use it or not -> https://github.com/nateherkai/hyperframes-student-kit",
+      "last_assistant_snippet": "`hyperframes` is real (npm v0.7.18) \u2014 the CLI fetches from HeyGen's registry. Now the real end-to-end test: install, run `doctor`, and attempt an actual render. Running install + d\u2026",
+      "message_count": 62,
+      "file_size_kb": 418,
+      "modified_ts": 1782690648.6281102,
+      "modified_iso": "2026-06-28T19:50:48.628110",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "e8f82e3d",
       "full_id": "e8f82e3d-fb56-4380-ad73-cdf405ce966a",
@@ -21,25 +37,8 @@
       "file_size_kb": 4590,
       "modified_ts": 1782690495.9471502,
       "modified_iso": "2026-06-28T19:48:15.947150",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 2.6
     }
   ],
-  "recent": [
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "could you test this out and give me results so we can decide if we wanna use it or not -> https://github.com/nateherkai/hyperframes-student-kit",
-      "last_assistant_snippet": "Key finding already: the actual `package.json` does **not** list `hyperframes` as a dependency \u2014 only Playwright. Yet the README tells you to run `npx hyperframes preview/doctor`. \u2026",
-      "message_count": 57,
-      "file_size_kb": 404,
-      "modified_ts": 1782690283.4011233,
-      "modified_iso": "2026-06-28T19:44:43.401123",
-      "minutes_since_active": 5.1
-    }
-  ]
+  "recent": []
 }
