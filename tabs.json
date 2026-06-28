@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T02:36:20Z",
+  "updated_at": "2026-06-28T02:37:26Z",
   "total_tabs": 555,
   "total_windows": 7,
   "duplicate_tabs": 48,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 366,
-      "domain_count": 282,
+      "count": 367,
+      "domain_count": 283,
       "top_domains": [
         {
           "domain": "google.com",
@@ -99,8 +99,8 @@
     },
     {
       "name": "social",
-      "count": 14,
-      "domain_count": 10,
+      "count": 13,
+      "domain_count": 9,
       "top_domains": [
         {
           "domain": "x.com",
@@ -115,11 +115,11 @@
           "count": 2
         },
         {
-          "domain": "brex.com",
+          "domain": "facebook.com",
           "count": 1
         },
         {
-          "domain": "facebook.com",
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
