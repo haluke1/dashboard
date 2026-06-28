@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-28T15:09:23Z",
-  "total_tabs": 520,
-  "total_windows": 8,
-  "duplicate_tabs": 45,
+  "updated_at": "2026-06-28T15:11:14Z",
+  "total_tabs": 490,
+  "total_windows": 7,
+  "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 344,
-      "domain_count": 238,
+      "count": 314,
+      "domain_count": 234,
       "top_domains": [
         {
-          "domain": "rule34video.com",
-          "count": 22
+          "domain": "(no domain)",
+          "count": 13
         },
         {
           "domain": "conceptkb.com",
@@ -23,12 +23,12 @@
           "count": 7
         },
         {
-          "domain": "newtab",
+          "domain": "google.com",
           "count": 7
         },
         {
-          "domain": "google.com",
-          "count": 7
+          "domain": "keep.google.com",
+          "count": 6
         }
       ]
     },
@@ -54,7 +54,7 @@
           "count": 2
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -80,10 +80,6 @@
           "count": 5
         },
         {
-          "domain": "mail.google.com",
-          "count": 2
-        },
-        {
           "domain": "calendar.google.com",
           "count": 2
         },
@@ -93,6 +89,10 @@
         },
         {
           "domain": "drive.google.com",
+          "count": 2
+        },
+        {
+          "domain": "mail.google.com",
           "count": 2
         }
       ]
@@ -115,11 +115,11 @@
           "count": 2
         },
         {
-          "domain": "marex.com",
+          "domain": "facebook.com",
           "count": 1
         },
         {
-          "domain": "facebook.com",
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
