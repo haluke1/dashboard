@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-28T01:51:03Z",
-  "total_tabs": 642,
+  "updated_at": "2026-06-28T01:52:09Z",
+  "total_tabs": 634,
   "total_windows": 7,
   "duplicate_tabs": 59,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 425,
-      "domain_count": 316,
+      "count": 420,
+      "domain_count": 313,
       "top_domains": [
         {
           "domain": "google.com",
-          "count": 20
+          "count": 18
         },
         {
           "domain": "open.spotify.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 86,
+      "count": 84,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 60
+          "count": 58
         },
         {
           "domain": "github.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 73,
+      "count": 72,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 73
+          "count": 72
         }
       ]
     },
