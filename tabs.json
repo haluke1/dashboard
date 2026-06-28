@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-06-28T16:10:34Z",
-  "total_tabs": 489,
+  "updated_at": "2026-06-28T16:11:40Z",
+  "total_tabs": 490,
   "total_windows": 7,
   "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 313,
-      "domain_count": 232,
+      "count": 314,
+      "domain_count": 233,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 13
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "google.com",
           "count": 7
         },
         {
@@ -23,11 +23,11 @@
           "count": 7
         },
         {
-          "domain": "google.com",
+          "domain": "higgsfield.ai",
           "count": 7
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "keep.google.com",
           "count": 6
         }
       ]
@@ -80,10 +80,6 @@
           "count": 5
         },
         {
-          "domain": "mail.google.com",
-          "count": 2
-        },
-        {
           "domain": "calendar.google.com",
           "count": 2
         },
@@ -93,6 +89,10 @@
         },
         {
           "domain": "drive.google.com",
+          "count": 2
+        },
+        {
+          "domain": "mail.google.com",
           "count": 2
         }
       ]
@@ -107,19 +107,19 @@
           "count": 3
         },
         {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "lawsofux.com",
-          "count": 1
+          "domain": "instagram.com",
+          "count": 2
         },
         {
           "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
@@ -149,15 +149,15 @@
           "count": 2
         },
         {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        },
+        {
           "domain": "developersjourney.substack.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
