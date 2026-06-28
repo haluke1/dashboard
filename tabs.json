@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-28T02:22:02Z",
-  "total_tabs": 593,
+  "updated_at": "2026-06-28T02:23:08Z",
+  "total_tabs": 588,
   "total_windows": 7,
   "duplicate_tabs": 50,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 395,
-      "domain_count": 302,
+      "count": 393,
+      "domain_count": 301,
       "top_domains": [
         {
           "domain": "google.com",
@@ -19,11 +19,11 @@
           "count": 7
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "keep.google.com",
           "count": 7
         },
         {
-          "domain": "keep.google.com",
+          "domain": "conceptkb.com",
           "count": 7
         },
         {
@@ -46,11 +46,11 @@
           "count": 20
         },
         {
-          "domain": "vercel.com",
+          "domain": "huggingface.co",
           "count": 2
         },
         {
-          "domain": "huggingface.co",
+          "domain": "vercel.com",
           "count": 2
         },
         {
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 63,
+      "count": 62,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 63
+          "count": 62
         }
       ]
     },
@@ -88,11 +88,11 @@
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "lawsofux.com",
           "count": 1
         },
         {
-          "domain": "gtmetrix.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -137,20 +137,12 @@
     },
     {
       "name": "research",
-      "count": 8,
-      "domain_count": 6,
+      "count": 6,
+      "domain_count": 5,
       "top_domains": [
-        {
-          "domain": "steve-yegge.medium.com",
-          "count": 2
-        },
         {
           "domain": "medium.com",
           "count": 2
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
         },
         {
           "domain": "drphilippahardman.substack.com",
@@ -158,6 +150,14 @@
         },
         {
           "domain": "developersjourney.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
