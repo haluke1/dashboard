@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T23:47:37Z",
+  "updated_at": "2026-06-28T23:48:43Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Both running: | Component | Status | Where | |---|---|---| | **Retry script** | Running. #02 sent, awaiting render. Hardened with wait-for-send-button + 300s timeout + 2 attempts p\u2026",
       "message_count": 221,
       "file_size_kb": 4590,
-      "modified_ts": 1782690293.154803,
-      "modified_iso": "2026-06-28T19:44:53.154803",
-      "minutes_since_active": 2.7
+      "modified_ts": 1782690495.9471502,
+      "modified_iso": "2026-06-28T19:48:15.947150",
+      "minutes_since_active": 0.4
     },
     {
       "id": "fd6fdfc2",
@@ -37,7 +37,7 @@
       "file_size_kb": 404,
       "modified_ts": 1782690283.4011233,
       "modified_iso": "2026-06-28T19:44:43.401123",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 4.0
     }
   ],
   "recent": []
