@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-06-28T18:16:58Z",
+  "updated_at": "2026-06-28T18:18:03Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 331,
     "total": 332
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "e8f82e3d",
       "full_id": "e8f82e3d-fb56-4380-ad73-cdf405ce966a",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/projects/concept-kitchen-bath",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,8 +22,7 @@
       "file_size_kb": 4232,
       "modified_ts": 1782670332.676402,
       "modified_iso": "2026-06-28T14:12:12.676402",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 5.8
     }
-  ],
-  "recent": []
+  ]
 }
