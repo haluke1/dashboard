@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T17:42:02Z",
-  "total_tabs": 487,
+  "updated_at": "2026-06-28T17:43:09Z",
+  "total_tabs": 486,
   "total_windows": 7,
   "duplicate_tabs": 40,
   "bridge_online": true,
@@ -137,16 +137,12 @@
     },
     {
       "name": "research",
-      "count": 6,
-      "domain_count": 5,
+      "count": 5,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "medium.com",
           "count": 2
-        },
-        {
-          "domain": "drphilippahardman.substack.com",
-          "count": 1
         },
         {
           "domain": "developersjourney.substack.com",
