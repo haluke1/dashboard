@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-06-28T01:54:22Z",
-  "total_tabs": 583,
+  "updated_at": "2026-06-28T01:56:48Z",
+  "total_tabs": 611,
   "total_windows": 7,
-  "duplicate_tabs": 101,
+  "duplicate_tabs": 52,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 384,
-      "domain_count": 272,
+      "count": 407,
+      "domain_count": 310,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 15
-        },
-        {
-          "domain": "kittl.com",
-          "count": 8
         },
         {
           "domain": "higgsfield.ai",
@@ -27,6 +23,10 @@
           "count": 7
         },
         {
+          "domain": "keep.google.com",
+          "count": 7
+        },
+        {
           "domain": "newtab",
           "count": 7
         }
@@ -34,16 +34,20 @@
     },
     {
       "name": "ai-dev",
-      "count": 76,
+      "count": 82,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 51
+          "count": 56
         },
         {
           "domain": "github.com",
           "count": 20
+        },
+        {
+          "domain": "vercel.com",
+          "count": 2
         },
         {
           "domain": "huggingface.co",
@@ -51,10 +55,6 @@
         },
         {
           "domain": "openai.com",
-          "count": 1
-        },
-        {
-          "domain": "vercel.com",
           "count": 1
         }
       ]
@@ -88,23 +88,27 @@
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "facebook.com",
           "count": 1
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 16,
+      "count": 17,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "docs.google.com",
           "count": 5
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 3
         },
         {
           "domain": "notion.so",
@@ -117,21 +121,17 @@
         {
           "domain": "toolbox.googleapps.com",
           "count": 2
-        },
-        {
-          "domain": "drive.google.com",
-          "count": 2
         }
       ]
     },
     {
       "name": "shopping",
-      "count": 14,
+      "count": 12,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 14
+          "count": 12
         }
       ]
     },
