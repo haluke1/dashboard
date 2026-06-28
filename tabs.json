@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-28T02:07:45Z",
-  "total_tabs": 603,
+  "updated_at": "2026-06-28T02:08:51Z",
+  "total_tabs": 597,
   "total_windows": 7,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 50,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 403,
-      "domain_count": 308,
+      "count": 400,
+      "domain_count": 307,
       "top_domains": [
         {
           "domain": "google.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 82,
+      "count": 81,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 56
+          "count": 55
         },
         {
           "domain": "github.com",
@@ -99,7 +99,7 @@
     },
     {
       "name": "productivity",
-      "count": 17,
+      "count": 16,
       "domain_count": 7,
       "top_domains": [
         {
@@ -111,15 +111,15 @@
           "count": 3
         },
         {
-          "domain": "notion.so",
-          "count": 2
-        },
-        {
           "domain": "calendar.google.com",
           "count": 2
         },
         {
           "domain": "toolbox.googleapps.com",
+          "count": 2
+        },
+        {
+          "domain": "drive.google.com",
           "count": 2
         }
       ]
@@ -158,17 +158,6 @@
         },
         {
           "domain": "developersjourney.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:3002",
           "count": 1
         }
       ]
