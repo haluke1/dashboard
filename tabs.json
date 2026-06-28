@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T05:26:09Z",
+  "updated_at": "2026-06-28T05:27:14Z",
   "total_tabs": 500,
   "total_windows": 8,
   "duplicate_tabs": 45,
@@ -8,12 +8,8 @@
     {
       "name": "other",
       "count": 325,
-      "domain_count": 238,
+      "domain_count": 239,
       "top_domains": [
-        {
-          "domain": "theyarehuge.com",
-          "count": 7
-        },
         {
           "domain": "conceptkb.com",
           "count": 7
@@ -29,6 +25,10 @@
         {
           "domain": "google.com",
           "count": 7
+        },
+        {
+          "domain": "theyarehuge.com",
+          "count": 6
         }
       ]
     },
