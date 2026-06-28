@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-06-28T02:23:08Z",
-  "total_tabs": 588,
+  "updated_at": "2026-06-28T02:24:13Z",
+  "total_tabs": 580,
   "total_windows": 7,
-  "duplicate_tabs": 50,
+  "duplicate_tabs": 48,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 393,
-      "domain_count": 301,
+      "count": 391,
+      "domain_count": 300,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 14
         },
         {
-          "domain": "higgsfield.ai",
-          "count": 7
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 7
-        },
-        {
           "domain": "conceptkb.com",
+          "count": 7
+        },
+        {
+          "domain": "higgsfield.ai",
           "count": 7
         },
         {
           "domain": "newtab",
           "count": 7
+        },
+        {
+          "domain": "keep.google.com",
+          "count": 6
         }
       ]
     },
@@ -46,11 +46,11 @@
           "count": 20
         },
         {
-          "domain": "huggingface.co",
+          "domain": "vercel.com",
           "count": 2
         },
         {
-          "domain": "vercel.com",
+          "domain": "huggingface.co",
           "count": 2
         },
         {
@@ -71,44 +71,13 @@
       ]
     },
     {
-      "name": "social",
-      "count": 18,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 7
-        },
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "lawsofux.com",
-          "count": 1
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "productivity",
-      "count": 16,
+      "count": 15,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "docs.google.com",
           "count": 5
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 3
         },
         {
           "domain": "calendar.google.com",
@@ -121,6 +90,37 @@
         {
           "domain": "drive.google.com",
           "count": 2
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 13,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
+          "count": 1
         }
       ]
     },
@@ -145,6 +145,10 @@
           "count": 2
         },
         {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        },
+        {
           "domain": "drphilippahardman.substack.com",
           "count": 1
         },
@@ -154,10 +158,6 @@
         },
         {
           "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
