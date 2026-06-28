@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-28T15:21:39Z",
-  "total_tabs": 491,
+  "updated_at": "2026-06-28T15:22:44Z",
+  "total_tabs": 487,
   "total_windows": 7,
   "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 315,
-      "domain_count": 233,
+      "count": 313,
+      "domain_count": 232,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,8 +34,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 71,
-      "domain_count": 6,
+      "count": 69,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -46,15 +46,15 @@
           "count": 20
         },
         {
-          "domain": "huggingface.co",
-          "count": 2
-        },
-        {
           "domain": "vercel.com",
           "count": 2
         },
         {
           "domain": "openai.com",
+          "count": 1
+        },
+        {
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
