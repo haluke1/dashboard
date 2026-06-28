@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-06-28T05:23:58Z",
-  "total_tabs": 498,
+  "updated_at": "2026-06-28T05:25:04Z",
+  "total_tabs": 500,
   "total_windows": 8,
   "duplicate_tabs": 45,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 323,
+      "count": 325,
       "domain_count": 238,
       "top_domains": [
+        {
+          "domain": "theyarehuge.com",
+          "count": 7
+        },
         {
           "domain": "conceptkb.com",
           "count": 7
@@ -25,10 +29,6 @@
         {
           "domain": "google.com",
           "count": 7
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 6
         }
       ]
     },
