@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T23:58:22Z",
+  "updated_at": "2026-06-28T23:59:37Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 333
   },
   "active": [
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "could you test this out and give me results so we can decide if we wanna use it or not -> https://github.com/nateherkai/hyperframes-student-kit",
+      "last_assistant_snippet": "Informative failure: `first-agent-promo` is a **broken example** \u2014 its `index.html` has a malformed JSX tag (`<Video/ id=...>`) and registers no GSAP timeline, so it reports zero d\u2026",
+      "message_count": 82,
+      "file_size_kb": 462,
+      "modified_ts": 1782691164.2759936,
+      "modified_iso": "2026-06-28T19:59:24.275994",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "e8f82e3d",
       "full_id": "e8f82e3d-fb56-4380-ad73-cdf405ce966a",
@@ -21,23 +37,7 @@
       "file_size_kb": 5266,
       "modified_ts": 1782690931.6657696,
       "modified_iso": "2026-06-28T19:55:31.665770",
-      "minutes_since_active": 2.8
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "could you test this out and give me results so we can decide if we wanna use it or not -> https://github.com/nateherkai/hyperframes-student-kit",
-      "last_assistant_snippet": "All core dependencies green \u2014 it auto-installed a headless Chrome, found FFmpeg + Whisper. Only optional extras missing (local TTS/music, Docker). Now the real test: rendering an a\u2026",
-      "message_count": 75,
-      "file_size_kb": 442,
-      "modified_ts": 1782690839.195091,
-      "modified_iso": "2026-06-28T19:53:59.195091",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 4.1
     }
   ],
   "recent": []
