@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-28T17:44:14Z",
-  "total_tabs": 486,
+  "updated_at": "2026-06-28T17:45:19Z",
+  "total_tabs": 484,
   "total_windows": 7,
   "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 314,
-      "domain_count": 233,
+      "count": 313,
+      "domain_count": 232,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -137,16 +137,12 @@
     },
     {
       "name": "research",
-      "count": 5,
-      "domain_count": 4,
+      "count": 4,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "medium.com",
           "count": 2
-        },
-        {
-          "domain": "developersjourney.substack.com",
-          "count": 1
         },
         {
           "domain": "james-palm.medium.com",
