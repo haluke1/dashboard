@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-06-28T03:48:30Z",
-  "total_tabs": 515,
+  "updated_at": "2026-06-28T03:49:35Z",
+  "total_tabs": 517,
   "total_windows": 7,
   "duplicate_tabs": 48,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 335,
+      "count": 337,
       "domain_count": 250,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 8
+        },
+        {
+          "domain": "govplanet.com",
+          "count": 7
         },
         {
           "domain": "conceptkb.com",
@@ -25,10 +29,6 @@
         {
           "domain": "newtab",
           "count": 7
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 6
         }
       ]
     },
