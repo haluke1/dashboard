@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-28T02:41:49Z",
-  "total_tabs": 553,
+  "updated_at": "2026-06-28T02:42:55Z",
+  "total_tabs": 556,
   "total_windows": 7,
   "duplicate_tabs": 48,
   "bridge_online": true,
@@ -61,12 +61,39 @@
     },
     {
       "name": "video",
-      "count": 61,
+      "count": 62,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 61
+          "count": 62
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 15,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
         }
       ]
     },
@@ -94,33 +121,6 @@
         {
           "domain": "mail.google.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 13,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
-          "count": 1
         }
       ]
     },
