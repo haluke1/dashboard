@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-06-28T03:59:27Z",
-  "total_tabs": 513,
+  "updated_at": "2026-06-28T04:00:32Z",
+  "total_tabs": 523,
   "total_windows": 7,
   "duplicate_tabs": 48,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 333,
+      "count": 343,
       "domain_count": 250,
       "top_domains": [
+        {
+          "domain": "tanks-alot.co.uk",
+          "count": 11
+        },
         {
           "domain": "google.com",
           "count": 8
@@ -25,10 +29,6 @@
         {
           "domain": "newtab",
           "count": 7
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 6
         }
       ]
     },
