@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-06-28T01:56:48Z",
-  "total_tabs": 611,
+  "updated_at": "2026-06-28T01:57:53Z",
+  "total_tabs": 616,
   "total_windows": 7,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 54,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 407,
-      "domain_count": 310,
+      "count": 412,
+      "domain_count": 309,
       "top_domains": [
         {
           "domain": "google.com",
           "count": 15
+        },
+        {
+          "domain": "roomies.com",
+          "count": 8
         },
         {
           "domain": "higgsfield.ai",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 7
-        },
-        {
-          "domain": "newtab",
           "count": 7
         }
       ]
