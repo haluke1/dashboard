@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-28T17:46:25Z",
-  "total_tabs": 484,
+  "updated_at": "2026-06-28T17:47:30Z",
+  "total_tabs": 483,
   "total_windows": 7,
-  "duplicate_tabs": 40,
+  "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
@@ -72,16 +72,12 @@
     },
     {
       "name": "productivity",
-      "count": 15,
+      "count": 14,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "docs.google.com",
           "count": 5
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 2
         },
         {
           "domain": "calendar.google.com",
@@ -94,6 +90,10 @@
         {
           "domain": "drive.google.com",
           "count": 2
+        },
+        {
+          "domain": "expertphotography.com",
+          "count": 1
         }
       ]
     },
