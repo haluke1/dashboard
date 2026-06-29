@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-29T00:10:50Z",
-  "total_tabs": 476,
+  "updated_at": "2026-06-29T00:11:55Z",
+  "total_tabs": 477,
   "total_windows": 7,
   "duplicate_tabs": 35,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 310,
+      "count": 311,
       "domain_count": 226,
       "top_domains": [
         {
@@ -23,12 +23,12 @@
           "count": 7
         },
         {
-          "domain": "open.spotify.com",
+          "domain": "google.com",
           "count": 7
         },
         {
-          "domain": "keep.google.com",
-          "count": 6
+          "domain": "open.spotify.com",
+          "count": 7
         }
       ]
     },
