@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-06-29T00:17:27Z",
+  "updated_at": "2026-06-29T00:18:33Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 331,
     "total": 333
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "fd6fdfc2",
       "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,11 +18,13 @@
       "last_user_msg": "could you test this out and give me results so we can decide if we wanna use it or not -> https://github.com/nateherkai/hyperframes-student-kit",
       "last_assistant_snippet": "I tested it end-to-end on your machine. Real results, not theory. ## What actually happened | Step | Result | |---|---| | **Prereqs** | All already on your Mac \u2014 Node 24, FFmpeg 8,\u2026",
       "message_count": 108,
-      "file_size_kb": 1384,
-      "modified_ts": 1782691368.3452823,
-      "modified_iso": "2026-06-28T20:02:48.345282",
-      "minutes_since_active": 14.7
-    },
+      "file_size_kb": 1385,
+      "modified_ts": 1782692269.0144572,
+      "modified_iso": "2026-06-28T20:17:49.014457",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "e8f82e3d",
       "full_id": "e8f82e3d-fb56-4380-ad73-cdf405ce966a",
@@ -38,7 +39,7 @@
       "file_size_kb": 5270,
       "modified_ts": 1782691285.798886,
       "modified_iso": "2026-06-28T20:01:25.798886",
-      "minutes_since_active": 16.0
+      "minutes_since_active": 17.1
     }
   ]
 }
