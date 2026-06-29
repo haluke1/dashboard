@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T00:14:07Z",
+  "updated_at": "2026-06-29T00:15:13Z",
   "total_tabs": 477,
   "total_windows": 7,
   "duplicate_tabs": 35,
@@ -8,7 +8,7 @@
     {
       "name": "other",
       "count": 311,
-      "domain_count": 226,
+      "domain_count": 227,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -23,12 +23,12 @@
           "count": 7
         },
         {
-          "domain": "google.com",
+          "domain": "open.spotify.com",
           "count": 7
         },
         {
-          "domain": "open.spotify.com",
-          "count": 7
+          "domain": "keep.google.com",
+          "count": 6
         }
       ]
     },
