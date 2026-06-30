@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-06-30T01:42:06Z",
+  "updated_at": "2026-06-30T01:43:26Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 332,
+    "recent": 0,
+    "archived": 333,
     "total": 333
   },
   "active": [],
-  "recent": [
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "open the outputs so i can see",
-      "last_assistant_snippet": "Both are open in your video player: - **My render** \u2014 `linear-promo-30s_2026-06-28_19-59-29.mp4` (the one HyperFrames just produced on your M1 in 89s) - **Shipped reference** \u2014 `fi\u2026",
-      "message_count": 113,
-      "file_size_kb": 1393,
-      "modified_ts": 1782697376.0662405,
-      "modified_iso": "2026-06-28T21:42:56.066241",
-      "minutes_since_active": 1439.2
-    }
-  ]
+  "recent": []
 }
