@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T05:29:24Z",
-  "total_tabs": 466,
+  "updated_at": "2026-06-30T05:30:29Z",
+  "total_tabs": 467,
   "total_windows": 7,
   "duplicate_tabs": 36,
   "bridge_online": true,
@@ -19,27 +19,27 @@
           "count": 8
         },
         {
-          "domain": "open.spotify.com",
-          "count": 7
-        },
-        {
           "domain": "conceptkb.com",
           "count": 7
         },
         {
           "domain": "higgsfield.ai",
           "count": 7
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 7
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 67,
+      "count": 68,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 44
+          "count": 45
         },
         {
           "domain": "github.com",
