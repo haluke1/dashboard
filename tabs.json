@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T00:47:25Z",
-  "total_tabs": 469,
+  "updated_at": "2026-06-30T00:48:53Z",
+  "total_tabs": 465,
   "total_windows": 7,
   "duplicate_tabs": 35,
   "bridge_online": true,
@@ -61,30 +61,30 @@
     },
     {
       "name": "video",
-      "count": 62,
+      "count": 59,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 62
+          "count": 59
         }
       ]
     },
     {
       "name": "social",
-      "count": 14,
+      "count": 13,
       "domain_count": 9,
       "top_domains": [
-        {
-          "domain": "instagram.com",
-          "count": 3
-        },
         {
           "domain": "x.com",
           "count": 3
         },
         {
           "domain": "linkedin.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
           "count": 2
         },
         {
