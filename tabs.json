@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-01T00:25:32Z",
-  "total_tabs": 470,
+  "updated_at": "2026-07-01T00:26:37Z",
+  "total_tabs": 471,
   "total_windows": 7,
-  "duplicate_tabs": 38,
+  "duplicate_tabs": 36,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 302,
+      "count": 301,
       "domain_count": 222,
       "top_domains": [
         {
@@ -19,27 +19,27 @@
           "count": 8
         },
         {
-          "domain": "open.spotify.com",
-          "count": 7
-        },
-        {
           "domain": "conceptkb.com",
           "count": 7
         },
         {
           "domain": "higgsfield.ai",
           "count": 7
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 7
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 68,
+      "count": 69,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 45
+          "count": 46
         },
         {
           "domain": "github.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 65,
+      "count": 66,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 65
+          "count": 66
         }
       ]
     },
