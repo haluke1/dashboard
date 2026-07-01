@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-01T08:32:24Z",
-  "total_tabs": 477,
+  "updated_at": "2026-07-01T23:17:47Z",
+  "total_tabs": 479,
   "total_windows": 7,
   "duplicate_tabs": 37,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 304,
-      "domain_count": 223,
+      "count": 305,
+      "domain_count": 224,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -29,6 +29,17 @@
         {
           "domain": "open.spotify.com",
           "count": 7
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 70,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 70
         }
       ]
     },
@@ -56,17 +67,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 69,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 69
         }
       ]
     },
