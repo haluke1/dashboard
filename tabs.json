@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-01T03:52:57Z",
+  "updated_at": "2026-07-01T03:54:03Z",
   "total_tabs": 524,
   "total_windows": 8,
-  "duplicate_tabs": 39,
+  "duplicate_tabs": 37,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 349,
+      "count": 350,
       "domain_count": 223,
       "top_domains": [
         {
@@ -99,7 +99,7 @@
     },
     {
       "name": "productivity",
-      "count": 14,
+      "count": 13,
       "domain_count": 7,
       "top_domains": [
         {
@@ -115,11 +115,11 @@
           "count": 2
         },
         {
-          "domain": "mail.google.com",
-          "count": 2
+          "domain": "notion.so",
+          "count": 1
         },
         {
-          "domain": "notion.so",
+          "domain": "calendar.google.com",
           "count": 1
         }
       ]
