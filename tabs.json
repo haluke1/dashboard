@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-01T03:39:44Z",
-  "total_tabs": 524,
+  "updated_at": "2026-07-01T03:40:49Z",
+  "total_tabs": 526,
   "total_windows": 8,
   "duplicate_tabs": 37,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 349,
+      "count": 350,
       "domain_count": 223,
       "top_domains": [
         {
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 69,
+      "count": 70,
       "domain_count": 5,
       "top_domains": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "openai.com",
