@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-07-01T01:09:03Z",
-  "total_tabs": 482,
+  "updated_at": "2026-07-01T01:10:08Z",
+  "total_tabs": 484,
   "total_windows": 8,
   "duplicate_tabs": 36,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 308,
+      "count": 310,
       "domain_count": 224,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 13
+        },
+        {
+          "domain": "rule34video.com",
+          "count": 8
         },
         {
           "domain": "keep.google.com",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 7
         }
       ]
