@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-01T00:24:26Z",
-  "total_tabs": 469,
+  "updated_at": "2026-07-01T00:25:32Z",
+  "total_tabs": 470,
   "total_windows": 7,
-  "duplicate_tabs": 36,
+  "duplicate_tabs": 38,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 301,
+      "count": 302,
       "domain_count": 222,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
+          "domain": "open.spotify.com",
+          "count": 7
+        },
+        {
           "domain": "conceptkb.com",
           "count": 7
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 7
         }
       ]
