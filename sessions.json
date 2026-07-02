@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:51:46Z",
+  "updated_at": "2026-07-02T05:52:57Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
       "last_user_msg": "okey continue",
-      "last_assistant_snippet": "Everything is launched and safe. **One action before you go to bed: type `/model default`** \u2014 that flips this session back to Opus so the overnight grunt work doesn't torch your Fa\u2026",
-      "message_count": 104,
-      "file_size_kb": 308,
-      "modified_ts": 1782971502.9330618,
-      "modified_iso": "2026-07-02T01:51:42.933062",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "218 uncategorized is too many. Let me pull the top uncategorized domains and refine.",
+      "message_count": 123,
+      "file_size_kb": 357,
+      "modified_ts": 1782971572.1401238,
+      "modified_iso": "2026-07-02T01:52:52.140124",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 28.8
+      "minutes_since_active": 30.0
     }
   ]
 }
