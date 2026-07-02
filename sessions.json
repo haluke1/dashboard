@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:57:18Z",
+  "updated_at": "2026-07-02T05:58:23Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
       "last_user_msg": "okey continue",
-      "last_assistant_snippet": "Delegating YouTube transcripts to a background agent so it doesn't bloat my context.",
-      "message_count": 171,
-      "file_size_kb": 514,
-      "modified_ts": 1782971836.9060974,
-      "modified_iso": "2026-07-02T01:57:16.906097",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Now synthesizing the Wispr Flow blueprint from all 4 research reports.",
+      "message_count": 183,
+      "file_size_kb": 597,
+      "modified_ts": 1782971849.5700548,
+      "modified_iso": "2026-07-02T01:57:29.570055",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 34.4
+      "minutes_since_active": 35.5
     }
   ]
 }
