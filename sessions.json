@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:55:08Z",
+  "updated_at": "2026-07-02T05:56:13Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
       "last_user_msg": "okey continue",
-      "last_assistant_snippet": "Now the dashboard UI \u2014 brand-system styled, category groups, focus/close buttons, YouTube summaries inline.",
-      "message_count": 142,
-      "file_size_kb": 433,
-      "modified_ts": 1782971691.1681824,
-      "modified_iso": "2026-07-02T01:54:51.168182",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "Security hook blocked the innerHTML pattern. Rewriting the JS to use safe DOM construction \u2014 all user data goes through `textContent`.",
+      "message_count": 155,
+      "file_size_kb": 479,
+      "modified_ts": 1782971768.5296285,
+      "modified_iso": "2026-07-02T01:56:08.529629",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 32.2
+      "minutes_since_active": 33.3
     }
   ]
 }
