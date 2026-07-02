@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:58:23Z",
+  "updated_at": "2026-07-02T05:59:28Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
       "last_user_msg": "okey continue",
-      "last_assistant_snippet": "Now synthesizing the Wispr Flow blueprint from all 4 research reports.",
-      "message_count": 183,
-      "file_size_kb": 597,
-      "modified_ts": 1782971849.5700548,
-      "modified_iso": "2026-07-02T01:57:29.570055",
-      "minutes_since_active": 0.9
+      "last_assistant_snippet": "MCP is fully broken \u2014 even a public URL fails. Trying yt-dlp locally as fallback.",
+      "message_count": 198,
+      "file_size_kb": 639,
+      "modified_ts": 1782971961.7157493,
+      "modified_iso": "2026-07-02T01:59:21.715749",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 35.5
+      "minutes_since_active": 36.5
     }
   ]
 }
