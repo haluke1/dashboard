@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:25:34Z",
+  "updated_at": "2026-07-02T05:25:36Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -18,9 +18,9 @@
       "last_user_msg": "i wanna use fable 5 model while using claude code",
       "last_assistant_snippet": "**How to switch (in this session):** ``` /model claude-fable-5 ``` Short alias also works: `/model fable`. Requires Claude Code v2.1.170+. **What you're signing up for:** - **Max p\u2026",
       "message_count": 20,
-      "file_size_kb": 147,
-      "modified_ts": 1782969932.6979907,
-      "modified_iso": "2026-07-02T01:25:32.697991",
+      "file_size_kb": 148,
+      "modified_ts": 1782969934.953889,
+      "modified_iso": "2026-07-02T01:25:34.953889",
       "minutes_since_active": 0.0
     },
     {
@@ -37,7 +37,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 2.6
+      "minutes_since_active": 2.7
     }
   ],
   "recent": []
