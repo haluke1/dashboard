@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T06:02:52Z",
+  "updated_at": "2026-07-02T06:03:44Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
       "last_user_msg": "okey continue",
-      "last_assistant_snippet": "File cleanup done. Now writing the morning summary \u2014 it goes on the Desktop so it's the first thing you see.",
-      "message_count": 248,
-      "file_size_kb": 748,
-      "modified_ts": 1782972129.1204252,
-      "modified_iso": "2026-07-02T02:02:09.120425",
-      "minutes_since_active": 0.7
+      "last_assistant_snippet": "**Overnight run complete.** Everything's on your Desktop when you wake up. ## Delivered | \u2705 | Task | Where | |----|------|-------| | \u2705 | Wispr Flow blueprint | `~/reports/wisprflow\u2026",
+      "message_count": 262,
+      "file_size_kb": 787,
+      "modified_ts": 1782972222.6198237,
+      "modified_iso": "2026-07-02T02:03:42.619824",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 40.0
+      "minutes_since_active": 40.8
     }
   ]
 }
