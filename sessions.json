@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-02T05:23:00Z",
+  "updated_at": "2026-07-02T05:23:23Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 0,
     "archived": 332,
-    "total": 333
+    "total": 334
   },
   "active": [
+    {
+      "id": "799acb1f",
+      "full_id": "799acb1f-b5af-4975-9f4d-6b14d4abb039",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i wanna use fable 5",
+      "last_user_msg": "i wanna use fable 5",
+      "last_assistant_snippet": "\"Fable 5\" isn't something I recognize \u2014 not a Claude model, skill, or tool in your setup. Available models here are Opus 4.7, Sonnet 4.6, Haiku 4.5. Did you mean: - **Sonnet 4.6** \u2026",
+      "message_count": 3,
+      "file_size_kb": 90,
+      "modified_ts": 1782969794.8565292,
+      "modified_iso": "2026-07-02T01:23:14.856529",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "e8f82e3d",
       "full_id": "e8f82e3d-fb56-4380-ad73-cdf405ce966a",
@@ -21,7 +37,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     }
   ],
   "recent": []
