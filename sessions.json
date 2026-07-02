@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:23:25Z",
+  "updated_at": "2026-07-02T05:24:31Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
-      "last_user_msg": "i wanna use fable 5",
-      "last_assistant_snippet": "\"Fable 5\" isn't something I recognize \u2014 not a Claude model, skill, or tool in your setup. Available models here are Opus 4.7, Sonnet 4.6, Haiku 4.5. Did you mean: - **Sonnet 4.6** \u2026",
-      "message_count": 3,
-      "file_size_kb": 91,
-      "modified_ts": 1782969803.6719115,
-      "modified_iso": "2026-07-02T01:23:23.671911",
-      "minutes_since_active": 0.0
+      "last_user_msg": "i wanna use fable 5 model while using claude code",
+      "last_assistant_snippet": "Fable 5 is real \u2014 Anthropic released it June 9, was pulled June 12 by Commerce, restored June 30, live on Claude Code as of **yesterday (July 1, 2026)**. Let me pull the exact mode\u2026",
+      "message_count": 14,
+      "file_size_kb": 121,
+      "modified_ts": 1782969863.4821017,
+      "modified_iso": "2026-07-02T01:24:23.482102",
+      "minutes_since_active": 0.1
     },
     {
       "id": "e8f82e3d",
@@ -37,7 +37,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 1.6
     }
   ],
   "recent": []
