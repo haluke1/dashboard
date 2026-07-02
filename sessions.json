@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:24:31Z",
+  "updated_at": "2026-07-02T05:25:34Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
       "last_user_msg": "i wanna use fable 5 model while using claude code",
-      "last_assistant_snippet": "Fable 5 is real \u2014 Anthropic released it June 9, was pulled June 12 by Commerce, restored June 30, live on Claude Code as of **yesterday (July 1, 2026)**. Let me pull the exact mode\u2026",
-      "message_count": 14,
-      "file_size_kb": 121,
-      "modified_ts": 1782969863.4821017,
-      "modified_iso": "2026-07-02T01:24:23.482102",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "**How to switch (in this session):** ``` /model claude-fable-5 ``` Short alias also works: `/model fable`. Requires Claude Code v2.1.170+. **What you're signing up for:** - **Max p\u2026",
+      "message_count": 20,
+      "file_size_kb": 147,
+      "modified_ts": 1782969932.6979907,
+      "modified_iso": "2026-07-02T01:25:32.697991",
+      "minutes_since_active": 0.0
     },
     {
       "id": "e8f82e3d",
@@ -37,7 +37,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 2.6
     }
   ],
   "recent": []
