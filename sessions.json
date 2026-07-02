@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-02T05:27:46Z",
+  "updated_at": "2026-07-02T05:28:51Z",
   "counts": {
-    "active": 2,
-    "recent": 0,
+    "active": 1,
+    "recent": 1,
     "archived": 332,
     "total": 334
   },
@@ -18,15 +18,17 @@
       "last_user_msg": "i wanna use fable 5 model while using claude code",
       "last_assistant_snippet": "**How to switch (in this session):** ``` /model claude-fable-5 ``` Short alias also works: `/model fable`. Requires Claude Code v2.1.170+. **What you're signing up for:** - **Max p\u2026",
       "message_count": 20,
-      "file_size_kb": 148,
-      "modified_ts": 1782969934.953889,
-      "modified_iso": "2026-07-02T01:25:34.953889",
-      "minutes_since_active": 2.2
-    },
+      "file_size_kb": 149,
+      "modified_ts": 1782970117.5191503,
+      "modified_iso": "2026-07-02T01:28:37.519150",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "e8f82e3d",
       "full_id": "e8f82e3d-fb56-4380-ad73-cdf405ce966a",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/projects/concept-kitchen-bath",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,8 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 4.9
+      "minutes_since_active": 5.9
     }
-  ],
-  "recent": []
+  ]
 }
