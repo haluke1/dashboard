@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:23:23Z",
+  "updated_at": "2026-07-02T05:23:25Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -18,10 +18,10 @@
       "last_user_msg": "i wanna use fable 5",
       "last_assistant_snippet": "\"Fable 5\" isn't something I recognize \u2014 not a Claude model, skill, or tool in your setup. Available models here are Opus 4.7, Sonnet 4.6, Haiku 4.5. Did you mean: - **Sonnet 4.6** \u2026",
       "message_count": 3,
-      "file_size_kb": 90,
-      "modified_ts": 1782969794.8565292,
-      "modified_iso": "2026-07-02T01:23:14.856529",
-      "minutes_since_active": 0.1
+      "file_size_kb": 91,
+      "modified_ts": 1782969803.6719115,
+      "modified_iso": "2026-07-02T01:23:23.671911",
+      "minutes_since_active": 0.0
     },
     {
       "id": "e8f82e3d",
@@ -37,7 +37,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     }
   ],
   "recent": []
