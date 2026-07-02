@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T05:33:12Z",
+  "updated_at": "2026-07-02T05:33:42Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "i wanna use fable 5",
-      "last_user_msg": "i wanna use fable 5 model while using claude code",
-      "last_assistant_snippet": "**How to switch (in this session):** ``` /model claude-fable-5 ``` Short alias also works: `/model fable`. Requires Claude Code v2.1.170+. **What you're signing up for:** - **Max p\u2026",
-      "message_count": 20,
-      "file_size_kb": 149,
-      "modified_ts": 1782970117.5191503,
-      "modified_iso": "2026-07-02T01:28:37.519150",
-      "minutes_since_active": 4.6
+      "last_user_msg": "are we on fable 5 now",
+      "last_assistant_snippet": "The setting switched \u2014 Claude Code confirmed `Set model to claude-fable-5`, so requests from this point route to Fable 5. One honest caveat: my session context still carries the \"O\u2026",
+      "message_count": 26,
+      "file_size_kb": 156,
+      "modified_ts": 1782970420.2676167,
+      "modified_iso": "2026-07-02T01:33:40.267617",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5275,
       "modified_ts": 1782969774.437146,
       "modified_iso": "2026-07-02T01:22:54.437146",
-      "minutes_since_active": 10.3
+      "minutes_since_active": 10.8
     }
   ]
 }
