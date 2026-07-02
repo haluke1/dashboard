@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-02T05:37:30Z",
-  "total_tabs": 502,
+  "updated_at": "2026-07-02T05:38:41Z",
+  "total_tabs": 486,
   "total_windows": 7,
-  "duplicate_tabs": 163,
+  "duplicate_tabs": 41,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 320,
-      "domain_count": 206,
+      "count": 307,
+      "domain_count": 225,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "conceptkb.com",
-          "count": 8
+          "count": 7
         },
         {
           "domain": "higgsfield.ai",
@@ -28,22 +28,33 @@
         },
         {
           "domain": "open.spotify.com",
-          "count": 6
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 74,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 74
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 76,
+      "count": 70,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 50
+          "count": 47
         },
         {
           "domain": "github.com",
-          "count": 20
+          "count": 19
         },
         {
           "domain": "anthropic.com",
@@ -51,28 +62,17 @@
         },
         {
           "domain": "openai.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "vercel.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 67,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 67
+          "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 17,
+      "count": 15,
       "domain_count": 9,
       "top_domains": [
         {
@@ -80,20 +80,20 @@
           "count": 4
         },
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "instagram.com",
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 2
+          "domain": "facebook.com",
+          "count": 1
         },
         {
-          "domain": "x.com",
-          "count": 2
+          "domain": "gtmetrix.com",
+          "count": 1
         }
       ]
     },
@@ -126,7 +126,7 @@
     },
     {
       "name": "research",
-      "count": 5,
+      "count": 4,
       "domain_count": 3,
       "top_domains": [
         {
@@ -135,7 +135,7 @@
         },
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "james-palm.medium.com",
@@ -145,12 +145,12 @@
     },
     {
       "name": "shopping",
-      "count": 3,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "amazon.com",
-          "count": 3
+          "count": 2
         }
       ]
     },
