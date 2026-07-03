@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-07-03T05:37:26Z",
+  "updated_at": "2026-07-03T06:42:48Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 333,
+    "recent": 0,
+    "archived": 334,
     "total": 334
   },
   "active": [],
-  "recent": [
-    {
-      "id": "799acb1f",
-      "full_id": "799acb1f-b5af-4975-9f4d-6b14d4abb039",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i wanna use fable 5",
-      "last_user_msg": "<task-notification> <task-id>a0cff7b640132031e</task-id> <tool-use-id>toolu_01NmW73ryRdUmFZmUzJbB4JH</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/799acb1f-b5a\u2026",
-      "last_assistant_snippet": "**Fully complete now.** 19 real 3-bullet summaries live in Tab Commander, morning note updated to reflect that. `\u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500` - MCP servers can \u2026",
-      "message_count": 270,
-      "file_size_kb": 816,
-      "modified_ts": 1782972508.6905355,
-      "modified_iso": "2026-07-02T02:08:28.690536",
-      "minutes_since_active": 1409.0
-    }
-  ]
+  "recent": []
 }
