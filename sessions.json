@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T19:03:01Z",
+  "updated_at": "2026-07-04T19:04:07Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "All three reports secured locally. Now reading them in full before synthesis, per protocol.",
       "message_count": 141,
       "file_size_kb": 722,
-      "modified_ts": 1783191774.5468192,
-      "modified_iso": "2026-07-04T15:02:54.546819",
-      "minutes_since_active": 0.1
+      "modified_ts": 1783191797.5132568,
+      "modified_iso": "2026-07-04T15:03:17.513257",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 125,
       "modified_ts": 1783190616.4462643,
       "modified_iso": "2026-07-04T14:43:36.446264",
-      "minutes_since_active": 19.4
+      "minutes_since_active": 20.5
     }
   ]
 }
