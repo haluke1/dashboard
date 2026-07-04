@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-07-04T18:42:16Z",
+  "updated_at": "2026-07-04T18:42:24Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 0,
     "archived": 334,
-    "total": 334
+    "total": 335
   },
-  "active": [],
+  "active": [
+    {
+      "id": "38db801f",
+      "full_id": "38db801f-1246-497f-abd8-c636ef040139",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how to change model to fable 5",
+      "last_user_msg": "how to change model to fable 5",
+      "last_assistant_snippet": "\"Fable 5\" isn't a Claude model. Available models are Opus 4.7, Sonnet 4.6, Haiku 4.5. To switch: type `/model` and pick one, or `/model opus` / `/model sonnet` / `/model haiku` dir\u2026",
+      "message_count": 3,
+      "file_size_kb": 81,
+      "modified_ts": 1783190542.8448637,
+      "modified_iso": "2026-07-04T14:42:22.844864",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": []
 }
