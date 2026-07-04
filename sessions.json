@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T20:08:49Z",
+  "updated_at": "2026-07-04T20:09:07Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Chunk A stopped cleanly after 1 folder \u2014 DAILY LEADS was heavy (24 files, 5 encrypted spreadsheets pulled as raw binary). Relaunching a fresh agent for its remaining 9 folders with\u2026",
       "message_count": 239,
       "file_size_kb": 1238,
-      "modified_ts": 1783195696.5382698,
-      "modified_iso": "2026-07-04T16:08:16.538270",
-      "minutes_since_active": 0.5
+      "modified_ts": 1783195729.9647398,
+      "modified_iso": "2026-07-04T16:08:49.964740",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 125,
       "modified_ts": 1783190616.4462643,
       "modified_iso": "2026-07-04T14:43:36.446264",
-      "minutes_since_active": 85.2
+      "minutes_since_active": 85.5
     }
   ]
 }
