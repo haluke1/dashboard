@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T18:58:37Z",
+  "updated_at": "2026-07-04T18:59:43Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>a46cacd5863285911</task-id> <tool-use-id>toolu_01EYS2qDYJeKaD33xJZGEouX</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/38db801f-124\u2026",
       "last_assistant_snippet": "The book report is saved. Moving it to its permanent home in the research folder.",
       "message_count": 128,
-      "file_size_kb": 620,
-      "modified_ts": 1783191485.8962846,
-      "modified_iso": "2026-07-04T14:58:05.896285",
-      "minutes_since_active": 0.5
+      "file_size_kb": 622,
+      "modified_ts": 1783191522.768714,
+      "modified_iso": "2026-07-04T14:58:42.768714",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 125,
       "modified_ts": 1783190616.4462643,
       "modified_iso": "2026-07-04T14:43:36.446264",
-      "minutes_since_active": 15.0
+      "minutes_since_active": 16.1
     }
   ]
 }
