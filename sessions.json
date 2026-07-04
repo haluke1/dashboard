@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-04T18:48:33Z",
+  "updated_at": "2026-07-04T18:48:38Z",
   "counts": {
-    "active": 2,
-    "recent": 0,
+    "active": 1,
+    "recent": 1,
     "archived": 334,
     "total": 336
   },
@@ -18,15 +18,17 @@
       "last_user_msg": "i have downloaded docs from my company and want to organize them to turn them to 2 academic papers. i wanna extract data, info, processes, analysis etc and also be able to write a \u2026",
       "last_assistant_snippet": "I analyzed the whole folder. Here's what you have and how to proceed. ## What's actually in the Drive A kitchen-and-bath remodeling pipeline: **Pipeline (30 clients) \u2192 Proposal Sen\u2026",
       "message_count": 49,
-      "file_size_kb": 427,
-      "modified_ts": 1783190911.728371,
-      "modified_iso": "2026-07-04T14:48:31.728371",
-      "minutes_since_active": 0.0
-    },
+      "file_size_kb": 429,
+      "modified_ts": 1783190913.8748639,
+      "modified_iso": "2026-07-04T14:48:33.874864",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "38db801f",
       "full_id": "38db801f-1246-497f-abd8-c636ef040139",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,8 +39,7 @@
       "file_size_kb": 125,
       "modified_ts": 1783190616.4462643,
       "modified_iso": "2026-07-04T14:43:36.446264",
-      "minutes_since_active": 4.9
+      "minutes_since_active": 5.0
     }
-  ],
-  "recent": []
+  ]
 }
