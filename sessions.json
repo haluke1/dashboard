@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-05T01:12:54Z",
+  "updated_at": "2026-07-05T01:14:36Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 334,
     "total": 336
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,11 +18,13 @@
       "last_user_msg": "<task-notification> <task-id>a7f731377741ace67</task-id> <tool-use-id>toolu_01KpLDCY7eVk4kP9hiQNfhXk</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/38db801f-124\u2026",
       "last_assistant_snippet": "Chunk A stopped cleanly after 1 folder \u2014 DAILY LEADS was heavy (24 files, 5 encrypted spreadsheets pulled as raw binary). Relaunching a fresh agent for its remaining 9 folders with\u2026",
       "message_count": 242,
-      "file_size_kb": 1257,
-      "modified_ts": 1783196421.9011865,
-      "modified_iso": "2026-07-04T16:20:21.901186",
-      "minutes_since_active": 292.5
-    },
+      "file_size_kb": 1258,
+      "modified_ts": 1783214067.1367455,
+      "modified_iso": "2026-07-04T21:14:27.136745",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "38db801f",
       "full_id": "38db801f-1246-497f-abd8-c636ef040139",
@@ -38,7 +39,7 @@
       "file_size_kb": 125,
       "modified_ts": 1783190616.4462643,
       "modified_iso": "2026-07-04T14:43:36.446264",
-      "minutes_since_active": 389.3
+      "minutes_since_active": 391.0
     }
   ]
 }
