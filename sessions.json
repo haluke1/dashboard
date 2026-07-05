@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T22:13:05Z",
+  "updated_at": "2026-07-05T22:13:21Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>afe60fff957bd3930</task-id> <tool-use-id>toolu_01BD7ZXepY2MZez8NFcXpRDV</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/a8b9aea8-241\u2026",
       "last_assistant_snippet": "Verification pass complete. Final state: **What changed** - **RAW_TRANSCRIPTION.md**: 103 corrections applied. Uncertain-word count dropped 96 \u2192 48; the remainder is handwriting bo\u2026",
       "message_count": 268,
-      "file_size_kb": 1728,
-      "modified_ts": 1783289584.023879,
-      "modified_iso": "2026-07-05T18:13:04.023879",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1730,
+      "modified_ts": 1783289585.8414862,
+      "modified_iso": "2026-07-05T18:13:05.841486",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 237,
       "modified_ts": 1783288511.4775696,
       "modified_iso": "2026-07-05T17:55:11.477570",
-      "minutes_since_active": 17.9
+      "minutes_since_active": 18.1
     },
     {
       "id": "99c7b217",
@@ -55,7 +55,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 362.4
+      "minutes_since_active": 362.7
     }
   ]
 }
