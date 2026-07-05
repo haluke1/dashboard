@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-05T16:10:08Z",
+  "updated_at": "2026-07-05T16:11:15Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 334,
     "total": 336
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Please run /login \u00b7 API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"Invalid authentication credentials\"},\"request_id\":\"req_011CcjCGC2quDFHDiRwoM9Bo\u2026",
       "message_count": 244,
       "file_size_kb": 1286,
-      "modified_ts": 1783267480.7274766,
-      "modified_iso": "2026-07-05T12:04:40.727477",
-      "minutes_since_active": 5.5
-    },
+      "modified_ts": 1783267841.5231802,
+      "modified_iso": "2026-07-05T12:10:41.523180",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "38db801f",
       "full_id": "38db801f-1246-497f-abd8-c636ef040139",
@@ -38,7 +39,7 @@
       "file_size_kb": 125,
       "modified_ts": 1783190616.4462643,
       "modified_iso": "2026-07-04T14:43:36.446264",
-      "minutes_since_active": 1286.5
+      "minutes_since_active": 1287.6
     }
   ]
 }
