@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T21:46:20Z",
+  "updated_at": "2026-07-05T21:46:42Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "you have gotten all the text in the pages to this doc correct?",
       "last_assistant_snippet": "Honest answer: no, not 100% \u2014 and you should know exactly where the gaps are. **Three layers, three different completeness levels:** 1. **RAW_TRANSCRIPTION.md** \u2014 closest to comple\u2026",
       "message_count": 126,
-      "file_size_kb": 1367,
-      "modified_ts": 1783287979.334564,
-      "modified_iso": "2026-07-05T17:46:19.334564",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1368,
+      "modified_ts": 1783287981.1802998,
+      "modified_iso": "2026-07-05T17:46:21.180300",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 335.6
+      "minutes_since_active": 336.0
     }
   ]
 }
