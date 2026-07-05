@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-07-05T20:51:09Z",
+  "updated_at": "2026-07-05T20:52:15Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 1,
     "archived": 335,
-    "total": 336
+    "total": 337
   },
-  "active": [],
+  "active": [
+    {
+      "id": "a8b9aea8",
+      "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "/Users/halukgul/Desktop/Notes\\ \\\" /Users/halukgul/Desktop/Notes\\ 2 /Users/halukgul/Desktop/Notes\\ 3 could you analyze the notes inside these, turn them to text, organize them prope\u2026",
+      "last_user_msg": "/Users/halukgul/Desktop/Notes\\ \\\" /Users/halukgul/Desktop/Notes\\ 2 /Users/halukgul/Desktop/Notes\\ 3 could you analyze the notes inside these, turn them to text, organize them prope\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 30,
+      "modified_ts": 1783284728.0436397,
+      "modified_iso": "2026-07-05T16:52:08.043640",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "99c7b217",
@@ -22,7 +39,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 280.5
+      "minutes_since_active": 281.5
     }
   ]
 }
