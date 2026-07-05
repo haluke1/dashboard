@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T21:56:36Z",
+  "updated_at": "2026-07-05T21:57:42Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 338
   },
   "active": [
+    {
+      "id": "a8b9aea8",
+      "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "/Users/halukgul/Desktop/Notes\\ \\\" /Users/halukgul/Desktop/Notes\\ 2 /Users/halukgul/Desktop/Notes\\ 3 could you analyze the notes inside these, turn them to text, organize them prope\u2026",
+      "last_user_msg": "make sure to another run through the docs to make sure we got everythng from it, if there is doubt, re run it in different ways to make sure to extract the information and a verifi\u2026",
+      "last_assistant_snippet": "All 142 source images and transcriptions are intact; 96 `[?]` uncertain-word markers to resolve. Getting advisor guidance on the verification design before launching agents.",
+      "message_count": 154,
+      "file_size_kb": 1426,
+      "modified_ts": 1783288602.2189734,
+      "modified_iso": "2026-07-05T17:56:42.218973",
+      "minutes_since_active": 1.0
+    },
     {
       "id": "13b89a18",
       "full_id": "13b89a18-f6d8-4e74-9ad5-f6f58eadc247",
@@ -21,23 +37,7 @@
       "file_size_kb": 237,
       "modified_ts": 1783288511.4775696,
       "modified_iso": "2026-07-05T17:55:11.477570",
-      "minutes_since_active": 1.4
-    },
-    {
-      "id": "a8b9aea8",
-      "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "/Users/halukgul/Desktop/Notes\\ \\\" /Users/halukgul/Desktop/Notes\\ 2 /Users/halukgul/Desktop/Notes\\ 3 could you analyze the notes inside these, turn them to text, organize them prope\u2026",
-      "last_user_msg": "make sure to another run through the docs to make sure we got everythng from it, if there is doubt, re run it in different ways to make sure to extract the information and a verifi\u2026",
-      "last_assistant_snippet": "All 142 source images and transcriptions are intact; 96 `[?]` uncertain-word markers to resolve. Getting advisor guidance on the verification design before launching agents.",
-      "message_count": 152,
-      "file_size_kb": 1420,
-      "modified_ts": 1783288506.3867013,
-      "modified_iso": "2026-07-05T17:55:06.386701",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 2.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 345.9
+      "minutes_since_active": 347.0
     }
   ]
 }
