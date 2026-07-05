@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T22:52:36Z",
+  "updated_at": "2026-07-05T22:53:42Z",
   "total_tabs": 511,
   "total_windows": 7,
   "duplicate_tabs": 48,
@@ -84,15 +84,15 @@
           "count": 4
         },
         {
+          "domain": "mail.google.com",
+          "count": 2
+        },
+        {
           "domain": "calendar.google.com",
           "count": 2
         },
         {
           "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "mail.google.com",
           "count": 2
         }
       ]
