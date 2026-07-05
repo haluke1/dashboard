@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-05T21:23:26Z",
-  "total_tabs": 510,
+  "updated_at": "2026-07-05T21:24:32Z",
+  "total_tabs": 511,
   "total_windows": 7,
   "duplicate_tabs": 46,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 320,
+      "count": 321,
       "domain_count": 230,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 14
+          "count": 15
         },
         {
           "domain": "keep.google.com",
@@ -84,15 +84,15 @@
           "count": 4
         },
         {
+          "domain": "mail.google.com",
+          "count": 2
+        },
+        {
           "domain": "calendar.google.com",
           "count": 2
         },
         {
           "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "mail.google.com",
           "count": 2
         }
       ]
