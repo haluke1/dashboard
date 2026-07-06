@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T15:07:59Z",
-  "total_tabs": 465,
+  "updated_at": "2026-07-06T15:09:05Z",
+  "total_tabs": 467,
   "total_windows": 7,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 66,
+      "count": 67,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 44
+          "count": 45
         },
         {
           "domain": "github.com",
@@ -151,6 +151,17 @@
         {
           "domain": "amazon.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:8765",
+          "count": 1
         }
       ]
     }
