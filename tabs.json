@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T18:50:28Z",
-  "total_tabs": 467,
+  "updated_at": "2026-07-06T18:51:34Z",
+  "total_tabs": 465,
   "total_windows": 7,
   "duplicate_tabs": 9,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 296,
+      "count": 294,
       "domain_count": 225,
       "top_domains": [
         {
@@ -19,12 +19,12 @@
           "count": 6
         },
         {
-          "domain": "every.to",
-          "count": 6
-        },
-        {
           "domain": "open.spotify.com",
           "count": 5
+        },
+        {
+          "domain": "every.to",
+          "count": 4
         },
         {
           "domain": "skool.com",
