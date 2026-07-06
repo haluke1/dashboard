@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T15:14:34Z",
+  "updated_at": "2026-07-06T15:15:43Z",
   "counts": {
-    "active": 4,
-    "recent": 4,
+    "active": 3,
+    "recent": 5,
     "archived": 334,
     "total": 342
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 1593,
       "modified_ts": 1783350861.7263258,
       "modified_iso": "2026-07-06T11:14:21.726326",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 1.3
     },
     {
       "id": "c3395c44",
@@ -37,7 +37,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350786.6955469,
       "modified_iso": "2026-07-06T11:13:06.695547",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 2.6
     },
     {
       "id": "799acb1f",
@@ -53,12 +53,14 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 3.0
-    },
+      "minutes_since_active": 4.1
+    }
+  ],
+  "recent": [
     {
       "id": "9d1d1a8e",
       "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/reports/ontology-vs-embeddings-2026-07/assets",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -69,10 +71,8 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350575.6680033,
       "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.1
+    },
     {
       "id": "098e1207",
       "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
@@ -87,7 +87,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 699.3
+      "minutes_since_active": 700.5
     },
     {
       "id": "13b89a18",
@@ -103,7 +103,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 719.8
+      "minutes_since_active": 720.9
     },
     {
       "id": "b514d97a",
@@ -119,7 +119,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 720.1
+      "minutes_since_active": 721.3
     },
     {
       "id": "a8b9aea8",
@@ -135,7 +135,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 776.2
+      "minutes_since_active": 777.4
     }
   ]
 }
