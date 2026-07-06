@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-06T00:25:42Z",
-  "total_tabs": 514,
+  "updated_at": "2026-07-06T02:09:39Z",
+  "total_tabs": 516,
   "total_windows": 7,
   "duplicate_tabs": 50,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 324,
-      "domain_count": 230,
+      "count": 325,
+      "domain_count": 231,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -71,6 +71,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 18,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 5
+        },
+        {
+          "domain": "instagram.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 18,
       "domain_count": 7,
@@ -94,33 +121,6 @@
         {
           "domain": "toolbox.googleapps.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 17,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 5
-        },
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
         }
       ]
     },
