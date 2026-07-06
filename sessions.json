@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-06T14:11:04Z",
+  "updated_at": "2026-07-06T14:11:51Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 335,
     "total": 341
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/company-archive/corpus-raw/5-completed",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Wave 3 is running \u2014 3 agents (advisor-capped to stretch the usage budget): | Agent | Scope | Priority logic | |---|---|---| | CEO Haluk-8 | 2019 \u2192 2020 | pre-Claude baseline years,\u2026",
       "message_count": 316,
       "file_size_kb": 1582,
-      "modified_ts": 1783346533.7500224,
-      "modified_iso": "2026-07-06T10:02:13.750022",
-      "minutes_since_active": 8.8
-    },
+      "modified_ts": 1783347064.8772755,
+      "modified_iso": "2026-07-06T10:11:04.877275",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "c3395c44",
       "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
@@ -38,7 +39,7 @@
       "file_size_kb": 279,
       "modified_ts": 1783346386.2903662,
       "modified_iso": "2026-07-06T09:59:46.290366",
-      "minutes_since_active": 11.3
+      "minutes_since_active": 12.1
     },
     {
       "id": "098e1207",
@@ -54,7 +55,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 635.8
+      "minutes_since_active": 636.6
     },
     {
       "id": "13b89a18",
@@ -70,7 +71,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 656.3
+      "minutes_since_active": 657.1
     },
     {
       "id": "b514d97a",
@@ -86,7 +87,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 656.6
+      "minutes_since_active": 657.4
     },
     {
       "id": "a8b9aea8",
@@ -102,7 +103,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 712.7
+      "minutes_since_active": 713.5
     }
   ]
 }
