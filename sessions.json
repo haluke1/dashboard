@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:41:44Z",
+  "updated_at": "2026-07-06T14:42:26Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -18,10 +18,10 @@
       "last_user_msg": "continue",
       "last_assistant_snippet": "Wave 3 is running \u2014 3 agents (advisor-capped to stretch the usage budget): | Agent | Scope | Priority logic | |---|---|---| | CEO Haluk-8 | 2019 \u2192 2020 | pre-Claude baseline years,\u2026",
       "message_count": 316,
-      "file_size_kb": 1582,
-      "modified_ts": 1783348782.052019,
-      "modified_iso": "2026-07-06T10:39:42.052019",
-      "minutes_since_active": 2.0
+      "file_size_kb": 1583,
+      "modified_ts": 1783348905.1195135,
+      "modified_iso": "2026-07-06T10:41:45.119514",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 210,
       "modified_ts": 1783348221.1254473,
       "modified_iso": "2026-07-06T10:30:21.125447",
-      "minutes_since_active": 11.4
+      "minutes_since_active": 12.1
     },
     {
       "id": "c3395c44",
@@ -55,7 +55,7 @@
       "file_size_kb": 279,
       "modified_ts": 1783346386.2903662,
       "modified_iso": "2026-07-06T09:59:46.290366",
-      "minutes_since_active": 42.0
+      "minutes_since_active": 42.7
     },
     {
       "id": "098e1207",
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 666.5
+      "minutes_since_active": 667.2
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 687.0
+      "minutes_since_active": 687.7
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 687.3
+      "minutes_since_active": 688.0
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 743.4
+      "minutes_since_active": 744.1
     }
   ]
 }
