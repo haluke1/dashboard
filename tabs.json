@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-06T19:01:24Z",
-  "total_tabs": 460,
+  "updated_at": "2026-07-06T19:02:30Z",
+  "total_tabs": 454,
   "total_windows": 7,
-  "duplicate_tabs": 9,
+  "duplicate_tabs": 4,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 289,
-      "domain_count": 222,
+      "count": 287,
+      "domain_count": 221,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -33,17 +33,28 @@
       ]
     },
     {
+      "name": "video",
+      "count": 65,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 65
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
-      "count": 67,
+      "count": 65,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 45
+          "count": 44
         },
         {
           "domain": "github.com",
-          "count": 19
+          "count": 18
         },
         {
           "domain": "anthropic.com",
@@ -56,17 +67,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 65,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 65
         }
       ]
     },
@@ -99,7 +99,7 @@
     },
     {
       "name": "productivity",
-      "count": 16,
+      "count": 15,
       "domain_count": 7,
       "top_domains": [
         {
@@ -107,15 +107,15 @@
           "count": 5
         },
         {
-          "domain": "mail.google.com",
-          "count": 3
-        },
-        {
           "domain": "drive.google.com",
           "count": 3
         },
         {
           "domain": "toolbox.googleapps.com",
+          "count": 2
+        },
+        {
+          "domain": "mail.google.com",
           "count": 2
         },
         {
@@ -151,17 +151,6 @@
         {
           "domain": "amazon.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:8765",
-          "count": 1
         }
       ]
     }
