@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:26:59Z",
+  "updated_at": "2026-07-06T03:27:03Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 340
   },
   "active": [
+    {
+      "id": "098e1207",
+      "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i rename the claude code tabs on terminal",
+      "last_user_msg": "could you also physically categorize them with groups etc in addition to this thing you created",
+      "last_assistant_snippet": "Extension built at `~/Desktop/tab-grouper-ext/`. Chrome's extensions page is now open in a new window. **Do these 4 steps:** 1. **Top-right of the extensions page**: toggle **\"Deve\u2026",
+      "message_count": 110,
+      "file_size_kb": 528,
+      "modified_ts": 1783308422.7504833,
+      "modified_iso": "2026-07-05T23:27:02.750483",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -21,23 +37,7 @@
       "file_size_kb": 1355,
       "modified_ts": 1783308412.0783236,
       "modified_iso": "2026-07-05T23:26:52.078324",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "098e1207",
-      "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i rename the claude code tabs on terminal",
-      "last_user_msg": "could you also physically categorize them with groups etc in addition to this thing you created",
-      "last_assistant_snippet": "Extension built. Now opening Chrome's extensions page for you to load it.",
-      "message_count": 108,
-      "file_size_kb": 523,
-      "modified_ts": 1783308402.688923,
-      "modified_iso": "2026-07-05T23:26:42.688923",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 12.2
+      "minutes_since_active": 12.3
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 12.5
+      "minutes_since_active": 12.6
     },
     {
       "id": "a8b9aea8",
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 68.6
+      "minutes_since_active": 68.7
     }
   ]
 }
