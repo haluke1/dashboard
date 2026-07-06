@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-07-06T05:01:21Z",
+  "updated_at": "2026-07-06T05:02:27Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 335,
     "total": 341
   },
-  "active": [],
+  "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "i dont want a 1 sentence thesis i want a longer breakdown. you can use the transcript but i also want you to benefit from the frames that could have value. yeah transcript only is \u2026",
+      "last_assistant_snippet": "You're out of extra usage \u00b7 resets 3:10am (America/New_York)",
+      "message_count": 46,
+      "file_size_kb": 241,
+      "modified_ts": 1783314082.7270966,
+      "modified_iso": "2026-07-06T01:01:22.727097",
+      "minutes_since_active": 1.1
+    }
+  ],
   "recent": [
     {
       "id": "99c7b217",
@@ -22,23 +39,7 @@
       "file_size_kb": 1521,
       "modified_ts": 1783313250.925036,
       "modified_iso": "2026-07-06T00:47:30.925036",
-      "minutes_since_active": 13.8
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "i wanna get the summary of them. doesnt have to feed artifacts just wanna summarize them. rank them in priority and tell me if some of them we should leave out. lets use claude-vid\u2026",
-      "last_assistant_snippet": "Before spawning 8 agents, I need to push back on `/watch` for this specific job \u2014 and then confirm the plan. ## Why not `/watch` for all 72 `/watch` is designed for **deep single-v\u2026",
-      "message_count": 44,
-      "file_size_kb": 238,
-      "modified_ts": 1783313047.8325095,
-      "modified_iso": "2026-07-06T00:44:07.832510",
-      "minutes_since_active": 17.2
+      "minutes_since_active": 14.9
     },
     {
       "id": "098e1207",
@@ -54,7 +55,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 86.1
+      "minutes_since_active": 87.2
     },
     {
       "id": "13b89a18",
@@ -70,7 +71,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 106.6
+      "minutes_since_active": 107.7
     },
     {
       "id": "b514d97a",
@@ -86,7 +87,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 106.9
+      "minutes_since_active": 108.0
     },
     {
       "id": "a8b9aea8",
@@ -102,7 +103,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 163.0
+      "minutes_since_active": 164.1
     }
   ]
 }
