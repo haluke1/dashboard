@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T03:20:23Z",
+  "updated_at": "2026-07-06T03:21:29Z",
   "counts": {
-    "active": 2,
-    "recent": 3,
+    "active": 1,
+    "recent": 4,
     "archived": 335,
     "total": 340
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 323,
       "modified_ts": 1783307850.2257407,
       "modified_iso": "2026-07-05T23:17:30.225741",
-      "minutes_since_active": 2.9
-    },
+      "minutes_since_active": 4.0
+    }
+  ],
+  "recent": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/company-archive/corpus-raw",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 1355,
       "modified_ts": 1783307743.76389,
       "modified_iso": "2026-07-05T23:15:43.763890",
-      "minutes_since_active": 4.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.7
+    },
     {
       "id": "13b89a18",
       "full_id": "13b89a18-f6d8-4e74-9ad5-f6f58eadc247",
@@ -55,7 +55,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 5.6
+      "minutes_since_active": 6.7
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 5.9
+      "minutes_since_active": 7.0
     },
     {
       "id": "a8b9aea8",
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 62.0
+      "minutes_since_active": 63.1
     }
   ]
 }
