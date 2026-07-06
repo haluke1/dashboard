@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-06T02:53:30Z",
+  "updated_at": "2026-07-06T02:54:36Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 335,
     "total": 339
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
-      "project": "/Users/halukgul/Desktop/Notes-Organized",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/Notion Full Export",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "by the way i exported notion lets do notion next and extract the information from there and have everything organized separately from the notes 1 2 3 4 , we will combine them later\u2026",
-      "last_assistant_snippet": "**Phase 1 (Notes 4 merge) \u2014 done.** All Notes 1-4 now live in the same organized deliverable: | File | State | |---|---| | `~/Desktop/Notes-Organized/index.html` | 111KB, 15 sectio\u2026",
-      "message_count": 191,
-      "file_size_kb": 758,
-      "modified_ts": 1783305162.3467033,
-      "modified_iso": "2026-07-05T22:32:42.346703",
-      "minutes_since_active": 20.8
-    },
+      "last_user_msg": "okey start notion",
+      "last_assistant_snippet": "Starting Phase 2 \u2014 Notion. I'll scaffold the directory and size up each workspace in parallel, then dispatch subagents based on actual weights.",
+      "message_count": 200,
+      "file_size_kb": 772,
+      "modified_ts": 1783306437.2502286,
+      "modified_iso": "2026-07-05T22:53:57.250229",
+      "minutes_since_active": 0.6
+    }
+  ],
+  "recent": [
     {
       "id": "a8b9aea8",
       "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
@@ -38,7 +39,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 35.1
+      "minutes_since_active": 36.2
     },
     {
       "id": "13b89a18",
@@ -54,7 +55,7 @@
       "file_size_kb": 237,
       "modified_ts": 1783288511.4775696,
       "modified_iso": "2026-07-05T17:55:11.477570",
-      "minutes_since_active": 298.3
+      "minutes_since_active": 299.4
     },
     {
       "id": "99c7b217",
@@ -70,7 +71,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 642.8
+      "minutes_since_active": 643.9
     }
   ]
 }
