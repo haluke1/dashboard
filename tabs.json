@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:52:17Z",
+  "updated_at": "2026-07-06T14:53:24Z",
   "total_tabs": 474,
   "total_windows": 7,
   "duplicate_tabs": 6,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 300,
-      "domain_count": 226,
+      "count": 299,
+      "domain_count": 225,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 71,
+      "count": 72,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 71
+          "count": 72
         }
       ]
     },
@@ -111,11 +111,11 @@
           "count": 3
         },
         {
-          "domain": "mail.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
