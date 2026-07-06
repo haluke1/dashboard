@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T04:21:32Z",
-  "total_tabs": 491,
+  "updated_at": "2026-07-06T04:22:39Z",
+  "total_tabs": 494,
   "total_windows": 8,
   "duplicate_tabs": 5,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 77,
+      "count": 76,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 77
+          "count": 76
         }
       ]
     },
@@ -71,6 +71,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 21,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
+          "count": 6
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 5
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 18,
       "domain_count": 7,
@@ -93,33 +120,6 @@
         },
         {
           "domain": "calendar.google.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 17,
-      "domain_count": 9,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 5
-        },
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
           "count": 1
         }
       ]
