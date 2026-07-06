@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T15:00:15Z",
+  "updated_at": "2026-07-06T15:00:18Z",
   "counts": {
     "active": 3,
     "recent": 4,
@@ -18,9 +18,9 @@
       "last_user_msg": "<task-notification> <task-id>a440520894afd7499</task-id> <tool-use-id>toolu_01ChNcAjZoon151oduGkG9HW</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
       "last_assistant_snippet": "Two full cluster files persisted: - `cluster-08-longtail.md` (17KB) - `cluster-03-cc-video.md` (14KB, moved from /tmp) Two rollup-only in memory (Clusters 2 and 4 \u2014 full per-video \u2026",
       "message_count": 92,
-      "file_size_kb": 452,
-      "modified_ts": 1783350013.7496839,
-      "modified_iso": "2026-07-06T11:00:13.749684",
+      "file_size_kb": 453,
+      "modified_ts": 1783350016.1322615,
+      "modified_iso": "2026-07-06T11:00:16.132262",
       "minutes_since_active": 0.0
     },
     {
@@ -53,7 +53,7 @@
       "file_size_kb": 1583,
       "modified_ts": 1783349730.2055624,
       "modified_iso": "2026-07-06T10:55:30.205562",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 4.8
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 685.0
+      "minutes_since_active": 685.1
     },
     {
       "id": "13b89a18",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 761.9
+      "minutes_since_active": 762.0
     }
   ]
 }
