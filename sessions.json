@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-06T14:54:10Z",
+  "updated_at": "2026-07-06T14:54:31Z",
   "counts": {
-    "active": 2,
-    "recent": 5,
+    "active": 3,
+    "recent": 4,
     "archived": 335,
     "total": 342
   },
   "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "CONT\u0130NUE",
+      "last_assistant_snippet": "Spawning 8 subagents in parallel. Each will process its cluster, write breakdowns to disk, and return only a compressed rollup.",
+      "message_count": 69,
+      "file_size_kb": 359,
+      "modified_ts": 1783349663.2691135,
+      "modified_iso": "2026-07-06T10:54:23.269114",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "9d1d1a8e",
       "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
@@ -17,34 +33,16 @@
       "first_prompt": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
       "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
       "last_assistant_snippet": "All 6 reports read. Spot-checking two load-bearing claims (Anthropic Contextual Retrieval 67% figure, Cognee cognify API surface) + advisor consult before synthesis, in parallel.",
-      "message_count": 84,
-      "file_size_kb": 793,
-      "modified_ts": 1783349645.693705,
-      "modified_iso": "2026-07-06T10:54:05.693705",
-      "minutes_since_active": 0.1
+      "message_count": 85,
+      "file_size_kb": 800,
+      "modified_ts": 1783349653.8083024,
+      "modified_iso": "2026-07-06T10:54:13.808302",
+      "minutes_since_active": 0.3
     },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "CONT\u0130NUE",
-      "last_assistant_snippet": "Locking the plan and spawning. Skipping advisor here \u2014 the remaining decisions are execution-level, not strategic, and I've already used 2 advisor calls on this task. **Adjustments\u2026",
-      "message_count": 51,
-      "file_size_kb": 280,
-      "modified_ts": 1783349466.7623196,
-      "modified_iso": "2026-07-06T10:51:06.762320",
-      "minutes_since_active": 3.1
-    }
-  ],
-  "recent": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/company-archive/corpus-raw/5-completed",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,10 +51,12 @@
       "last_assistant_snippet": "Wave 3 is running \u2014 3 agents (advisor-capped to stretch the usage budget): | Agent | Scope | Priority logic | |---|---|---| | CEO Haluk-8 | 2019 \u2192 2020 | pre-Claude baseline years,\u2026",
       "message_count": 316,
       "file_size_kb": 1583,
-      "modified_ts": 1783349263.653607,
-      "modified_iso": "2026-07-06T10:47:43.653607",
-      "minutes_since_active": 6.4
-    },
+      "modified_ts": 1783349650.4322977,
+      "modified_iso": "2026-07-06T10:54:10.432298",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "098e1207",
       "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 678.9
+      "minutes_since_active": 679.3
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 699.4
+      "minutes_since_active": 699.8
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 699.7
+      "minutes_since_active": 700.1
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 755.8
+      "minutes_since_active": 756.2
     }
   ]
 }
