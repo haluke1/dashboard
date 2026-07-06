@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:54:41Z",
+  "updated_at": "2026-07-06T14:55:29Z",
   "counts": {
     "active": 3,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 342
   },
   "active": [
+    {
+      "id": "9d1d1a8e",
+      "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
+      "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
+      "last_assistant_snippet": "Both spot-checks verified. Advisor's critical guidance: entailment is the load-bearing publishable claim \u2014 the runnable POC must demonstrate a fact that vector RAG can't find, or t\u2026",
+      "message_count": 93,
+      "file_size_kb": 822,
+      "modified_ts": 1783349727.5103238,
+      "modified_iso": "2026-07-06T10:55:27.510324",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "c3395c44",
       "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
@@ -18,26 +34,10 @@
       "last_user_msg": "CONT\u0130NUE",
       "last_assistant_snippet": "8 subagents dispatched in parallel \u2014 processing 65 videos across their clusters. Each is pulling captions via `yt-dlp`, judging visual density, selectively grabbing frames where th\u2026",
       "message_count": 71,
-      "file_size_kb": 364,
-      "modified_ts": 1783349679.7152696,
-      "modified_iso": "2026-07-06T10:54:39.715270",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "9d1d1a8e",
-      "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
-      "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
-      "last_assistant_snippet": "All 6 reports read. Spot-checking two load-bearing claims (Anthropic Contextual Retrieval 67% figure, Cognee cognify API surface) + advisor consult before synthesis, in parallel.",
-      "message_count": 85,
-      "file_size_kb": 800,
-      "modified_ts": 1783349653.8083024,
-      "modified_iso": "2026-07-06T10:54:13.808302",
-      "minutes_since_active": 0.5
+      "file_size_kb": 366,
+      "modified_ts": 1783349681.43252,
+      "modified_iso": "2026-07-06T10:54:41.432520",
+      "minutes_since_active": 0.8
     },
     {
       "id": "99c7b217",
@@ -53,7 +53,7 @@
       "file_size_kb": 1583,
       "modified_ts": 1783349650.4322977,
       "modified_iso": "2026-07-06T10:54:10.432298",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 679.4
+      "minutes_since_active": 680.2
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 699.9
+      "minutes_since_active": 700.7
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 700.2
+      "minutes_since_active": 701.0
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 756.3
+      "minutes_since_active": 757.1
     }
   ]
 }
