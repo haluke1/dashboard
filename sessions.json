@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:23:56Z",
+  "updated_at": "2026-07-06T14:24:14Z",
   "counts": {
     "active": 2,
     "recent": 5,
@@ -18,10 +18,10 @@
       "last_user_msg": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
       "last_assistant_snippet": "Advisor came back clear. Presenting the plan before I launch anything. **Research Swarm Plan (6 parallel agents, 60+ verified resources, source-tier labeled)** **Output locations**\u2026",
       "message_count": 16,
-      "file_size_kb": 174,
-      "modified_ts": 1783347834.8824546,
-      "modified_iso": "2026-07-06T10:23:54.882455",
-      "minutes_since_active": 0.0
+      "file_size_kb": 175,
+      "modified_ts": 1783347836.3474162,
+      "modified_iso": "2026-07-06T10:23:56.347416",
+      "minutes_since_active": 0.3
     },
     {
       "id": "99c7b217",
@@ -37,7 +37,7 @@
       "file_size_kb": 1582,
       "modified_ts": 1783347708.885395,
       "modified_iso": "2026-07-06T10:21:48.885395",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.4
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 279,
       "modified_ts": 1783346386.2903662,
       "modified_iso": "2026-07-06T09:59:46.290366",
-      "minutes_since_active": 24.2
+      "minutes_since_active": 24.5
     },
     {
       "id": "098e1207",
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 648.7
+      "minutes_since_active": 649.0
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 669.2
+      "minutes_since_active": 669.5
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 669.5
+      "minutes_since_active": 669.8
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 725.6
+      "minutes_since_active": 725.9
     }
   ]
 }
