@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-06T13:58:40Z",
-  "total_tabs": 498,
+  "updated_at": "2026-07-06T13:59:45Z",
+  "total_tabs": 492,
   "total_windows": 7,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 4,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 312,
-      "domain_count": 234,
+      "count": 309,
+      "domain_count": 233,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -71,33 +71,6 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 18,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 6
-        },
-        {
-          "domain": "drive.google.com",
-          "count": 4
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 3
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 17,
       "domain_count": 9,
@@ -120,6 +93,33 @@
         },
         {
           "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 15,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 5
+        },
+        {
+          "domain": "drive.google.com",
+          "count": 3
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 2
+        },
+        {
+          "domain": "toolbox.googleapps.com",
+          "count": 2
+        },
+        {
+          "domain": "calendar.google.com",
           "count": 1
         }
       ]
