@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:11:18Z",
+  "updated_at": "2026-07-06T03:11:22Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 339
   },
   "active": [
+    {
+      "id": "b514d97a",
+      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/Notion Full Export/Private & Shared",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
+      "last_user_msg": "<task-notification> <task-id>aea767b8c694c27df</task-id> <tool-use-id>toolu_0155AgaFkgSUX3cd5i8iokqs</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b514d97a-2c7\u2026",
+      "last_assistant_snippet": "Notion phase complete. Final layout at `~/Desktop/Notion-Organized/`: ``` Notion-Organized/ \u251c\u2500\u2500 INDEX.md \u2190 ship-triage: 6 tiers, cross-ref, quarantine \u251c\u2500\u2500 01-private-and-shared.md \u2026",
+      "message_count": 286,
+      "file_size_kb": 1096,
+      "modified_ts": 1783307480.9117498,
+      "modified_iso": "2026-07-05T23:11:20.911750",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -21,7 +37,7 @@
       "file_size_kb": 1310,
       "modified_ts": 1783307465.8295932,
       "modified_iso": "2026-07-05T23:11:05.829593",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "13b89a18",
@@ -37,23 +53,7 @@
       "file_size_kb": 333,
       "modified_ts": 1783307464.468708,
       "modified_iso": "2026-07-05T23:11:04.468708",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "b514d97a",
-      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "active",
-      "project": "/Users/halukgul/Desktop/Notion Full Export/Private & Shared",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "<task-notification> <task-id>aea767b8c694c27df</task-id> <tool-use-id>toolu_0155AgaFkgSUX3cd5i8iokqs</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b514d97a-2c7\u2026",
-      "last_assistant_snippet": "Advisor delivered. Executing hybrid tiers + minimal credential-leak pointer + provisional cross-ref.",
-      "message_count": 285,
-      "file_size_kb": 1091,
-      "modified_ts": 1783307450.9424925,
-      "modified_iso": "2026-07-05T23:10:50.942492",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 52.9
+      "minutes_since_active": 53.0
     }
   ]
 }
