@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T04:29:26Z",
-  "total_tabs": 494,
+  "updated_at": "2026-07-06T04:30:33Z",
+  "total_tabs": 498,
   "total_windows": 8,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 310,
+      "count": 314,
       "domain_count": 235,
       "top_domains": [
         {
@@ -15,16 +15,16 @@
           "count": 17
         },
         {
+          "domain": "every.to",
+          "count": 9
+        },
+        {
           "domain": "higgsfield.ai",
           "count": 6
         },
         {
-          "domain": "every.to",
-          "count": 6
-        },
-        {
           "domain": "open.spotify.com",
-          "count": 5
+          "count": 6
         },
         {
           "domain": "skool.com",
