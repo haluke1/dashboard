@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-07-06T03:26:58Z",
-  "total_tabs": 520,
+  "updated_at": "2026-07-06T03:30:16Z",
+  "total_tabs": 490,
   "total_windows": 8,
-  "duplicate_tabs": 52,
+  "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 329,
+      "count": 305,
       "domain_count": 233,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 18
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 10
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 9
-        },
-        {
-          "domain": "conceptkb.com",
-          "count": 7
+          "count": 17
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
+          "count": 6
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 5
+        },
+        {
+          "domain": "skool.com",
+          "count": 4
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 4
         }
       ]
     },
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 72,
+      "count": 67,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 49
+          "count": 45
         },
         {
           "domain": "github.com",
@@ -58,7 +58,7 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "openai.com",
@@ -72,7 +72,7 @@
     },
     {
       "name": "productivity",
-      "count": 19,
+      "count": 18,
       "domain_count": 7,
       "top_domains": [
         {
@@ -88,12 +88,12 @@
           "count": 3
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
+          "domain": "calendar.google.com",
+          "count": 1
         }
       ]
     },
