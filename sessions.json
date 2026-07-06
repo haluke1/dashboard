@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-06T14:39:41Z",
+  "updated_at": "2026-07-06T14:40:15Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 1,
+    "recent": 6,
     "archived": 335,
     "total": 342
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/company-archive/corpus-raw/5-completed",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Wave 3 is running \u2014 3 agents (advisor-capped to stretch the usage budget): | Agent | Scope | Priority logic | |---|---|---| | CEO Haluk-8 | 2019 \u2192 2020 | pre-Claude baseline years,\u2026",
       "message_count": 316,
       "file_size_kb": 1582,
-      "modified_ts": 1783348456.1465652,
-      "modified_iso": "2026-07-06T10:34:16.146565",
-      "minutes_since_active": 5.4
-    },
+      "modified_ts": 1783348782.052019,
+      "modified_iso": "2026-07-06T10:39:42.052019",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "9d1d1a8e",
       "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
@@ -38,7 +39,7 @@
       "file_size_kb": 210,
       "modified_ts": 1783348221.1254473,
       "modified_iso": "2026-07-06T10:30:21.125447",
-      "minutes_since_active": 9.3
+      "minutes_since_active": 9.9
     },
     {
       "id": "c3395c44",
@@ -54,7 +55,7 @@
       "file_size_kb": 279,
       "modified_ts": 1783346386.2903662,
       "modified_iso": "2026-07-06T09:59:46.290366",
-      "minutes_since_active": 39.9
+      "minutes_since_active": 40.5
     },
     {
       "id": "098e1207",
@@ -70,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 664.4
+      "minutes_since_active": 665.0
     },
     {
       "id": "13b89a18",
@@ -86,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 684.9
+      "minutes_since_active": 685.5
     },
     {
       "id": "b514d97a",
@@ -102,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 685.2
+      "minutes_since_active": 685.8
     },
     {
       "id": "a8b9aea8",
@@ -118,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 741.3
+      "minutes_since_active": 741.9
     }
   ]
 }
