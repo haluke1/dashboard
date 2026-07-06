@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T03:25:12Z",
+  "updated_at": "2026-07-06T03:25:54Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
+    "active": 2,
+    "recent": 3,
     "archived": 335,
     "total": 340
   },
@@ -16,19 +16,17 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "how can i rename the claude code tabs on terminal",
       "last_user_msg": "could you also physically categorize them with groups etc in addition to this thing you created",
-      "last_assistant_snippet": "Plan open on your Desktop (`chrome-tab-plan.html`). Here's the reality and your three paths. ## The situation | | | |---|---| | Total tabs | **519** across 7 windows | | Unique URL\u2026",
-      "message_count": 88,
-      "file_size_kb": 457,
-      "modified_ts": 1783308254.715969,
-      "modified_iso": "2026-07-05T23:24:14.715969",
-      "minutes_since_active": 1.0
-    }
-  ],
-  "recent": [
+      "last_assistant_snippet": "Yes \u2014 I'll build a Chrome extension that does the physical grouping (Chrome's API for `chrome.tabGroups` is extension-only; there's no way to do it via AppleScript). One-time insta\u2026",
+      "message_count": 98,
+      "file_size_kb": 488,
+      "modified_ts": 1783308340.2342772,
+      "modified_iso": "2026-07-05T23:25:40.234277",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/company-archive/corpus-raw",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +35,12 @@
       "last_assistant_snippet": "**Status update:** **What happened overnight:** all 9 capture agents hit the Claude usage limit and stopped \u2014 but not before banking **757 files (34MB of text)**: all of 2016, most\u2026",
       "message_count": 270,
       "file_size_kb": 1355,
-      "modified_ts": 1783307743.76389,
-      "modified_iso": "2026-07-05T23:15:43.763890",
-      "minutes_since_active": 9.5
-    },
+      "modified_ts": 1783308312.6208253,
+      "modified_iso": "2026-07-05T23:25:12.620825",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "13b89a18",
       "full_id": "13b89a18-f6d8-4e74-9ad5-f6f58eadc247",
@@ -55,7 +55,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 10.4
+      "minutes_since_active": 11.1
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 10.7
+      "minutes_since_active": 11.4
     },
     {
       "id": "a8b9aea8",
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 66.8
+      "minutes_since_active": 67.5
     }
   ]
 }
