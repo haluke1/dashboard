@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T15:09:33Z",
+  "updated_at": "2026-07-06T15:10:12Z",
   "counts": {
     "active": 4,
     "recent": 4,
@@ -7,6 +7,38 @@
     "total": 342
   },
   "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "<task-notification> <task-id>ab8b587e29b9b3120</task-id> <tool-use-id>toolu_01ERjS8qij6NuCgrXyV52Tjb</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
+      "last_assistant_snippet": "All 8 clusters returned. Six persisted to disk cleanly. Two (Clusters 2 and 4) only came back as rollups \u2014 saving those from context now, then aggregating the SUMMARY.",
+      "message_count": 110,
+      "file_size_kb": 639,
+      "modified_ts": 1783350580.6315904,
+      "modified_iso": "2026-07-06T11:09:40.631590",
+      "minutes_since_active": 0.5
+    },
+    {
+      "id": "9d1d1a8e",
+      "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
+      "status": "active",
+      "project": "/Users/halukgul/reports/ontology-vs-embeddings-2026-07/assets",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
+      "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
+      "last_assistant_snippet": "Handoff. **Shipped** - **Report** (~10K words, 76 unique verified sources, tier-labeled): `~/reports/ontology-vs-embeddings-2026-07/index.md` - **Runnable POC** at `assets/` \u2014 `sch\u2026",
+      "message_count": 160,
+      "file_size_kb": 1158,
+      "modified_ts": 1783350575.6680033,
+      "modified_iso": "2026-07-06T11:09:35.668003",
+      "minutes_since_active": 0.6
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -19,9 +51,9 @@
       "last_assistant_snippet": "Live snapshot \u2014 **1,650 files / 42MB** captured (up ~300 since wave 3 launched under an hour ago): | Year | Status | |---|---| | 2016, 2017 | done (250 + 182 files) | | 2019 | in p\u2026",
       "message_count": 322,
       "file_size_kb": 1593,
-      "modified_ts": 1783350518.20925,
-      "modified_iso": "2026-07-06T11:08:38.209250",
-      "minutes_since_active": 0.9
+      "modified_ts": 1783350574.0487647,
+      "modified_iso": "2026-07-06T11:09:34.048765",
+      "minutes_since_active": 0.6
     },
     {
       "id": "799acb1f",
@@ -37,39 +69,7 @@
       "file_size_kb": 836,
       "modified_ts": 1783350510.0447679,
       "modified_iso": "2026-07-06T11:08:30.044768",
-      "minutes_since_active": 1.0
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "<task-notification> <task-id>ab8b587e29b9b3120</task-id> <tool-use-id>toolu_01ERjS8qij6NuCgrXyV52Tjb</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
-      "last_assistant_snippet": "Cluster 5 came back with the FULL content inline (Bash + Write denied on the subagent's side, but the subagent returned every breakdown verbatim). Saving it to disk directly since \u2026",
-      "message_count": 104,
-      "file_size_kb": 590,
-      "modified_ts": 1783350457.0250638,
-      "modified_iso": "2026-07-06T11:07:37.025064",
-      "minutes_since_active": 1.9
-    },
-    {
-      "id": "9d1d1a8e",
-      "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
-      "status": "active",
-      "project": "/Users/halukgul/reports/ontology-vs-embeddings-2026-07/assets",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
-      "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
-      "last_assistant_snippet": "Handoff. **Shipped** - **Report** (~10K words, 76 unique verified sources, tier-labeled): `~/reports/ontology-vs-embeddings-2026-07/index.md` - **Runnable POC** at `assets/` \u2014 `sch\u2026",
-      "message_count": 160,
-      "file_size_kb": 1158,
-      "modified_ts": 1783350391.4233289,
-      "modified_iso": "2026-07-06T11:06:31.423329",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 1.7
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 694.3
+      "minutes_since_active": 694.9
     },
     {
       "id": "13b89a18",
@@ -103,7 +103,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 714.8
+      "minutes_since_active": 715.4
     },
     {
       "id": "b514d97a",
@@ -119,7 +119,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 715.1
+      "minutes_since_active": 715.7
     },
     {
       "id": "a8b9aea8",
@@ -135,7 +135,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 771.2
+      "minutes_since_active": 771.8
     }
   ]
 }
