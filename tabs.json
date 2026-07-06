@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T15:06:53Z",
-  "total_tabs": 470,
+  "updated_at": "2026-07-06T15:07:59Z",
+  "total_tabs": 465,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 299,
+      "count": 297,
       "domain_count": 225,
       "top_domains": [
         {
@@ -16,7 +16,7 @@
         },
         {
           "domain": "every.to",
-          "count": 9
+          "count": 7
         },
         {
           "domain": "higgsfield.ai",
@@ -29,17 +29,6 @@
         {
           "domain": "skool.com",
           "count": 4
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 68,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 68
         }
       ]
     },
@@ -67,6 +56,17 @@
         {
           "domain": "vercel.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 65,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 65
         }
       ]
     },

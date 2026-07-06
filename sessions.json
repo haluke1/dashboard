@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-06T15:06:55Z",
+  "updated_at": "2026-07-06T15:08:01Z",
   "counts": {
-    "active": 3,
-    "recent": 4,
+    "active": 2,
+    "recent": 5,
     "archived": 335,
     "total": 342
   },
   "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "<task-notification> <task-id>ab8b587e29b9b3120</task-id> <tool-use-id>toolu_01ERjS8qij6NuCgrXyV52Tjb</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
+      "last_assistant_snippet": "Cluster 5 came back with the FULL content inline (Bash + Write denied on the subagent's side, but the subagent returned every breakdown verbatim). Saving it to disk directly since \u2026",
+      "message_count": 104,
+      "file_size_kb": 590,
+      "modified_ts": 1783350457.0250638,
+      "modified_iso": "2026-07-06T11:07:37.025064",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "9d1d1a8e",
       "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
@@ -21,28 +37,14 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350391.4233289,
       "modified_iso": "2026-07-06T11:06:31.423329",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "<task-notification> <task-id>ab8b587e29b9b3120</task-id> <tool-use-id>toolu_01ERjS8qij6NuCgrXyV52Tjb</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
-      "last_assistant_snippet": "Cluster 5 came back with the FULL content inline (Bash + Write denied on the subagent's side, but the subagent returned every breakdown verbatim). Saving it to disk directly since \u2026",
-      "message_count": 103,
-      "file_size_kb": 551,
-      "modified_ts": 1783350168.9285154,
-      "modified_iso": "2026-07-06T11:02:48.928515",
-      "minutes_since_active": 4.1
-    },
+      "minutes_since_active": 1.5
+    }
+  ],
+  "recent": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/company-archive/corpus-raw/5-completed",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,10 +55,8 @@
       "file_size_kb": 1583,
       "modified_ts": 1783350125.6257977,
       "modified_iso": "2026-07-06T11:02:05.625798",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "098e1207",
       "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 691.7
+      "minutes_since_active": 692.8
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 712.1
+      "minutes_since_active": 713.2
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 712.5
+      "minutes_since_active": 713.6
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 768.6
+      "minutes_since_active": 769.7
     }
   ]
 }
