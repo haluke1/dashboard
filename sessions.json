@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:12:44Z",
+  "updated_at": "2026-07-06T03:13:25Z",
   "counts": {
     "active": 4,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "how can i rename the claude code tabs on terminal",
       "last_assistant_snippet": "Verified against docs: Claude Code has **no settings key** to control terminal titles. Here's what actually works: ## Rename the tab manually (survives most sessions) **iTerm2** \u2014 \u2026",
       "message_count": 15,
-      "file_size_kb": 116,
-      "modified_ts": 1783307563.3963988,
-      "modified_iso": "2026-07-05T23:12:43.396399",
-      "minutes_since_active": 0.0
+      "file_size_kb": 117,
+      "modified_ts": 1783307565.2262638,
+      "modified_iso": "2026-07-05T23:12:45.226264",
+      "minutes_since_active": 0.7
     },
     {
       "id": "99c7b217",
@@ -37,7 +37,7 @@
       "file_size_kb": 1354,
       "modified_ts": 1783307553.172161,
       "modified_iso": "2026-07-05T23:12:33.172161",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.9
     },
     {
       "id": "13b89a18",
@@ -53,7 +53,7 @@
       "file_size_kb": 343,
       "modified_ts": 1783307500.7172747,
       "modified_iso": "2026-07-05T23:11:40.717275",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.7
     },
     {
       "id": "b514d97a",
@@ -69,7 +69,7 @@
       "file_size_kb": 1097,
       "modified_ts": 1783307482.7266138,
       "modified_iso": "2026-07-05T23:11:22.726614",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 2.0
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 54.4
+      "minutes_since_active": 55.1
     }
   ]
 }
