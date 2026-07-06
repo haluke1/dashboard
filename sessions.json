@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T03:19:17Z",
+  "updated_at": "2026-07-06T03:20:23Z",
   "counts": {
-    "active": 4,
-    "recent": 1,
+    "active": 2,
+    "recent": 3,
     "archived": 335,
     "total": 340
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 323,
       "modified_ts": 1783307850.2257407,
       "modified_iso": "2026-07-05T23:17:30.225741",
-      "minutes_since_active": 1.8
+      "minutes_since_active": 2.9
     },
     {
       "id": "99c7b217",
@@ -37,12 +37,14 @@
       "file_size_kb": 1355,
       "modified_ts": 1783307743.76389,
       "modified_iso": "2026-07-05T23:15:43.763890",
-      "minutes_since_active": 3.5
-    },
+      "minutes_since_active": 4.6
+    }
+  ],
+  "recent": [
     {
       "id": "13b89a18",
       "full_id": "13b89a18-f6d8-4e74-9ad5-f6f58eadc247",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/.claude/projects/-Users-halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -53,12 +55,12 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 4.5
+      "minutes_since_active": 5.6
     },
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/Notion Full Export/Private & Shared",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -69,10 +71,8 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "a8b9aea8",
       "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 60.9
+      "minutes_since_active": 62.0
     }
   ]
 }
