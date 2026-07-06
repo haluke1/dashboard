@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:27:03Z",
+  "updated_at": "2026-07-06T03:27:36Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -18,10 +18,10 @@
       "last_user_msg": "could you also physically categorize them with groups etc in addition to this thing you created",
       "last_assistant_snippet": "Extension built at `~/Desktop/tab-grouper-ext/`. Chrome's extensions page is now open in a new window. **Do these 4 steps:** 1. **Top-right of the extensions page**: toggle **\"Deve\u2026",
       "message_count": 110,
-      "file_size_kb": 528,
-      "modified_ts": 1783308422.7504833,
-      "modified_iso": "2026-07-05T23:27:02.750483",
-      "minutes_since_active": 0.0
+      "file_size_kb": 530,
+      "modified_ts": 1783308424.2420518,
+      "modified_iso": "2026-07-05T23:27:04.242052",
+      "minutes_since_active": 0.5
     },
     {
       "id": "99c7b217",
@@ -37,7 +37,7 @@
       "file_size_kb": 1355,
       "modified_ts": 1783308412.0783236,
       "modified_iso": "2026-07-05T23:26:52.078324",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 12.3
+      "minutes_since_active": 12.8
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 12.6
+      "minutes_since_active": 13.2
     },
     {
       "id": "a8b9aea8",
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 68.7
+      "minutes_since_active": 69.3
     }
   ]
 }
