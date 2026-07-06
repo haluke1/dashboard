@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:13:25Z",
+  "updated_at": "2026-07-06T03:14:31Z",
   "counts": {
     "active": 4,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 340
   },
   "active": [
+    {
+      "id": "b514d97a",
+      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/Notion Full Export/Private & Shared",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
+      "last_user_msg": "<task-notification> <task-id>aea767b8c694c27df</task-id> <tool-use-id>toolu_0155AgaFkgSUX3cd5i8iokqs</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b514d97a-2c7\u2026",
+      "last_assistant_snippet": "Notion phase complete. Final layout at `~/Desktop/Notion-Organized/`: ``` Notion-Organized/ \u251c\u2500\u2500 INDEX.md \u2190 ship-triage: 6 tiers, cross-ref, quarantine \u251c\u2500\u2500 01-private-and-shared.md \u2026",
+      "message_count": 286,
+      "file_size_kb": 1098,
+      "modified_ts": 1783307666.766312,
+      "modified_iso": "2026-07-05T23:14:26.766312",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "098e1207",
       "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
@@ -21,7 +37,7 @@
       "file_size_kb": 117,
       "modified_ts": 1783307565.2262638,
       "modified_iso": "2026-07-05T23:12:45.226264",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.8
     },
     {
       "id": "99c7b217",
@@ -37,7 +53,7 @@
       "file_size_kb": 1354,
       "modified_ts": 1783307553.172161,
       "modified_iso": "2026-07-05T23:12:33.172161",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 2.0
     },
     {
       "id": "13b89a18",
@@ -53,23 +69,7 @@
       "file_size_kb": 343,
       "modified_ts": 1783307500.7172747,
       "modified_iso": "2026-07-05T23:11:40.717275",
-      "minutes_since_active": 1.7
-    },
-    {
-      "id": "b514d97a",
-      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "active",
-      "project": "/Users/halukgul/Desktop/Notion Full Export/Private & Shared",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "<task-notification> <task-id>aea767b8c694c27df</task-id> <tool-use-id>toolu_0155AgaFkgSUX3cd5i8iokqs</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b514d97a-2c7\u2026",
-      "last_assistant_snippet": "Notion phase complete. Final layout at `~/Desktop/Notion-Organized/`: ``` Notion-Organized/ \u251c\u2500\u2500 INDEX.md \u2190 ship-triage: 6 tiers, cross-ref, quarantine \u251c\u2500\u2500 01-private-and-shared.md \u2026",
-      "message_count": 286,
-      "file_size_kb": 1097,
-      "modified_ts": 1783307482.7266138,
-      "modified_iso": "2026-07-05T23:11:22.726614",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.8
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 55.1
+      "minutes_since_active": 56.2
     }
   ]
 }
