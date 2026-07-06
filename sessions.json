@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T04:41:04Z",
+  "updated_at": "2026-07-06T04:41:36Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "i wanna get the summary of them. doesnt have to feed artifacts just wanna summarize them. rank them in priority and tell me if some of them we should leave out. lets use claude-vid\u2026",
       "last_assistant_snippet": "Before spawning 8 agents, I need to push back on `/watch` for this specific job \u2014 and then confirm the plan. ## Why not `/watch` for all 72 `/watch` is designed for **deep single-v\u2026",
       "message_count": 44,
-      "file_size_kb": 235,
-      "modified_ts": 1783312863.256135,
-      "modified_iso": "2026-07-06T00:41:03.256135",
-      "minutes_since_active": 0.0
+      "file_size_kb": 237,
+      "modified_ts": 1783312865.1958804,
+      "modified_iso": "2026-07-06T00:41:05.195880",
+      "minutes_since_active": 0.5
     },
     {
       "id": "99c7b217",
@@ -37,7 +37,7 @@
       "file_size_kb": 1504,
       "modified_ts": 1783312839.457189,
       "modified_iso": "2026-07-06T00:40:39.457189",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 65.8
+      "minutes_since_active": 66.3
     },
     {
       "id": "13b89a18",
@@ -71,7 +71,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 86.3
+      "minutes_since_active": 86.8
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 86.6
+      "minutes_since_active": 87.1
     },
     {
       "id": "a8b9aea8",
@@ -103,7 +103,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 142.7
+      "minutes_since_active": 143.2
     }
   ]
 }
