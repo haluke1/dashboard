@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T04:43:47Z",
+  "updated_at": "2026-07-06T04:44:25Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 341
   },
   "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "i wanna get the summary of them. doesnt have to feed artifacts just wanna summarize them. rank them in priority and tell me if some of them we should leave out. lets use claude-vid\u2026",
+      "last_assistant_snippet": "Before spawning 8 agents, I need to push back on `/watch` for this specific job \u2014 and then confirm the plan. ## Why not `/watch` for all 72 `/watch` is designed for **deep single-v\u2026",
+      "message_count": 44,
+      "file_size_kb": 238,
+      "modified_ts": 1783313047.8325095,
+      "modified_iso": "2026-07-06T00:44:07.832510",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -21,23 +37,7 @@
       "file_size_kb": 1504,
       "modified_ts": 1783312987.7193108,
       "modified_iso": "2026-07-06T00:43:07.719311",
-      "minutes_since_active": 0.6
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "i wanna get the summary of them. doesnt have to feed artifacts just wanna summarize them. rank them in priority and tell me if some of them we should leave out. lets use claude-vid\u2026",
-      "last_assistant_snippet": "Before spawning 8 agents, I need to push back on `/watch` for this specific job \u2014 and then confirm the plan. ## Why not `/watch` for all 72 `/watch` is designed for **deep single-v\u2026",
-      "message_count": 44,
-      "file_size_kb": 237,
-      "modified_ts": 1783312865.1958804,
-      "modified_iso": "2026-07-06T00:41:05.195880",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 68.5
+      "minutes_since_active": 69.2
     },
     {
       "id": "13b89a18",
@@ -71,7 +71,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 89.0
+      "minutes_since_active": 89.6
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 89.3
+      "minutes_since_active": 90.0
     },
     {
       "id": "a8b9aea8",
@@ -103,7 +103,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 145.4
+      "minutes_since_active": 146.1
     }
   ]
 }
