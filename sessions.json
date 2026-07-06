@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T17:13:56Z",
+  "updated_at": "2026-07-06T17:14:59Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -18,10 +18,10 @@
       "last_user_msg": "whats the progress",
       "last_assistant_snippet": "Live snapshot \u2014 **1,650 files / 42MB** captured (up ~300 since wave 3 launched under an hour ago): | Year | Status | |---|---| | 2016, 2017 | done (250 + 182 files) | | 2019 | in p\u2026",
       "message_count": 322,
-      "file_size_kb": 1596,
-      "modified_ts": 1783357811.0377867,
-      "modified_iso": "2026-07-06T13:10:11.037787",
-      "minutes_since_active": 3.7
+      "file_size_kb": 1597,
+      "modified_ts": 1783358036.3124363,
+      "modified_iso": "2026-07-06T13:13:56.312436",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 117.8
+      "minutes_since_active": 118.8
     },
     {
       "id": "799acb1f",
@@ -55,7 +55,7 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 122.4
+      "minutes_since_active": 123.4
     },
     {
       "id": "9d1d1a8e",
@@ -71,7 +71,7 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350575.6680033,
       "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 124.3
+      "minutes_since_active": 125.4
     },
     {
       "id": "098e1207",
@@ -87,7 +87,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 818.7
+      "minutes_since_active": 819.7
     },
     {
       "id": "13b89a18",
@@ -103,7 +103,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 839.2
+      "minutes_since_active": 840.2
     },
     {
       "id": "b514d97a",
@@ -119,7 +119,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 839.5
+      "minutes_since_active": 840.5
     },
     {
       "id": "a8b9aea8",
@@ -135,7 +135,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 895.6
+      "minutes_since_active": 896.6
     }
   ]
 }
