@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:12:32Z",
+  "updated_at": "2026-07-06T03:12:44Z",
   "counts": {
     "active": 4,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 340
   },
   "active": [
+    {
+      "id": "098e1207",
+      "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "how can i rename the claude code tabs on terminal",
+      "last_user_msg": "how can i rename the claude code tabs on terminal",
+      "last_assistant_snippet": "Verified against docs: Claude Code has **no settings key** to control terminal titles. Here's what actually works: ## Rename the tab manually (survives most sessions) **iTerm2** \u2014 \u2026",
+      "message_count": 15,
+      "file_size_kb": 116,
+      "modified_ts": 1783307563.3963988,
+      "modified_iso": "2026-07-05T23:12:43.396399",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -18,26 +34,10 @@
       "last_user_msg": "continue",
       "last_assistant_snippet": "**Status update:** **What happened overnight:** all 9 capture agents hit the Claude usage limit and stopped \u2014 but not before banking **757 files (34MB of text)**: all of 2016, most\u2026",
       "message_count": 270,
-      "file_size_kb": 1353,
-      "modified_ts": 1783307551.2635393,
-      "modified_iso": "2026-07-05T23:12:31.263539",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "098e1207",
-      "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i rename the claude code tabs on terminal",
-      "last_user_msg": "how can i rename the claude code tabs on terminal",
-      "last_assistant_snippet": "Let me verify that \"no settings key exists\" claim before answering \u2014 the sub-agent may have missed it.",
-      "message_count": 13,
-      "file_size_kb": 111,
-      "modified_ts": 1783307547.2330692,
-      "modified_iso": "2026-07-05T23:12:27.233069",
-      "minutes_since_active": 0.1
+      "file_size_kb": 1354,
+      "modified_ts": 1783307553.172161,
+      "modified_iso": "2026-07-05T23:12:33.172161",
+      "minutes_since_active": 0.2
     },
     {
       "id": "13b89a18",
@@ -53,7 +53,7 @@
       "file_size_kb": 343,
       "modified_ts": 1783307500.7172747,
       "modified_iso": "2026-07-05T23:11:40.717275",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.1
     },
     {
       "id": "b514d97a",
@@ -69,7 +69,7 @@
       "file_size_kb": 1097,
       "modified_ts": 1783307482.7266138,
       "modified_iso": "2026-07-05T23:11:22.726614",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.4
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 54.2
+      "minutes_since_active": 54.4
     }
   ]
 }
