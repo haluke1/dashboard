@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T15:06:31Z",
+  "updated_at": "2026-07-06T15:06:55Z",
   "counts": {
     "active": 3,
     "recent": 4,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
       "last_assistant_snippet": "Handoff. **Shipped** - **Report** (~10K words, 76 unique verified sources, tier-labeled): `~/reports/ontology-vs-embeddings-2026-07/index.md` - **Runnable POC** at `assets/` \u2014 `sch\u2026",
       "message_count": 160,
-      "file_size_kb": 1156,
-      "modified_ts": 1783350389.3144681,
-      "modified_iso": "2026-07-06T11:06:29.314468",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1158,
+      "modified_ts": 1783350391.4233289,
+      "modified_iso": "2026-07-06T11:06:31.423329",
+      "minutes_since_active": 0.4
     },
     {
       "id": "c3395c44",
@@ -37,7 +37,7 @@
       "file_size_kb": 551,
       "modified_ts": 1783350168.9285154,
       "modified_iso": "2026-07-06T11:02:48.928515",
-      "minutes_since_active": 3.7
+      "minutes_since_active": 4.1
     },
     {
       "id": "99c7b217",
@@ -53,7 +53,7 @@
       "file_size_kb": 1583,
       "modified_ts": 1783350125.6257977,
       "modified_iso": "2026-07-06T11:02:05.625798",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 4.8
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 691.3
+      "minutes_since_active": 691.7
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 711.7
+      "minutes_since_active": 712.1
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 712.1
+      "minutes_since_active": 712.5
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 768.2
+      "minutes_since_active": 768.6
     }
   ]
 }
