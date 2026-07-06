@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T04:31:41Z",
+  "updated_at": "2026-07-06T04:32:49Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 341
   },
   "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "how many youtube videos do we have open and can you summarize them and generate a pdf with all the context offloaded with nano banana image model and relay all the text and high qu\u2026",
+      "last_assistant_snippet": "Arc returned nothing. Let me check other browsers properly.",
+      "message_count": 32,
+      "file_size_kb": 187,
+      "modified_ts": 1783312364.5326006,
+      "modified_iso": "2026-07-06T00:32:44.532601",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -21,23 +37,7 @@
       "file_size_kb": 1503,
       "modified_ts": 1783312292.462671,
       "modified_iso": "2026-07-06T00:31:32.462671",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_assistant_snippet": "Here's what we built. The ffmpeg one is `claude-video` \u2014 it's the most capable of the three. ## The three YouTube options in your system **1. `claude-video` (the ffmpeg one \u2014 the \"\u2026",
-      "message_count": 17,
-      "file_size_kb": 147,
-      "modified_ts": 1783312241.149039,
-      "modified_iso": "2026-07-06T00:30:41.149039",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 56.4
+      "minutes_since_active": 57.6
     },
     {
       "id": "13b89a18",
@@ -71,7 +71,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 76.9
+      "minutes_since_active": 78.0
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 77.2
+      "minutes_since_active": 78.4
     },
     {
       "id": "a8b9aea8",
@@ -103,7 +103,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 133.3
+      "minutes_since_active": 134.5
     }
   ]
 }
