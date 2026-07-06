@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-06T04:09:51Z",
+  "updated_at": "2026-07-06T04:10:38Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 335,
     "total": 340
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/company-archive/corpus-raw",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Both continuation agents are live: - **CEO Haluk-6** \u2014 finishing COMPLETED 2021, then the untouched 2022/2023/2024 years - **CEO Haluk-7** \u2014 rest of ACTIVE stage (skipping GEIST, a\u2026",
       "message_count": 284,
       "file_size_kb": 1494,
-      "modified_ts": 1783310582.6857386,
-      "modified_iso": "2026-07-06T00:03:02.685739",
-      "minutes_since_active": 6.8
-    },
+      "modified_ts": 1783310991.695065,
+      "modified_iso": "2026-07-06T00:09:51.695065",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "098e1207",
       "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
@@ -38,7 +39,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 34.6
+      "minutes_since_active": 35.4
     },
     {
       "id": "13b89a18",
@@ -54,7 +55,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 55.1
+      "minutes_since_active": 55.9
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 55.4
+      "minutes_since_active": 56.2
     },
     {
       "id": "a8b9aea8",
@@ -86,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 111.5
+      "minutes_since_active": 112.3
     }
   ]
 }
