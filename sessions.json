@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T04:11:44Z",
+  "updated_at": "2026-07-06T04:12:49Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Both continuation agents are live: - **CEO Haluk-6** \u2014 finishing COMPLETED 2021, then the untouched 2022/2023/2024 years - **CEO Haluk-7** \u2014 rest of ACTIVE stage (skipping GEIST, a\u2026",
       "message_count": 284,
       "file_size_kb": 1494,
-      "modified_ts": 1783310991.695065,
-      "modified_iso": "2026-07-06T00:09:51.695065",
-      "minutes_since_active": 1.9
+      "modified_ts": 1783311104.5356925,
+      "modified_iso": "2026-07-06T00:11:44.535692",
+      "minutes_since_active": 1.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 36.5
+      "minutes_since_active": 37.6
     },
     {
       "id": "13b89a18",
@@ -55,7 +55,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 57.0
+      "minutes_since_active": 58.0
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 57.3
+      "minutes_since_active": 58.4
     },
     {
       "id": "a8b9aea8",
@@ -87,7 +87,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 113.4
+      "minutes_since_active": 114.5
     }
   ]
 }
