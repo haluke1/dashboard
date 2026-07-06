@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T14:57:00Z",
+  "updated_at": "2026-07-06T14:58:07Z",
   "counts": {
     "active": 3,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 342
   },
   "active": [
+    {
+      "id": "c3395c44",
+      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
+      "last_user_msg": "<task-notification> <task-id>aa8246e00b5a36b13</task-id> <tool-use-id>toolu_01FKJcHzTtWkjhNhLxryZgMt</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
+      "last_assistant_snippet": "8 subagents dispatched in parallel \u2014 processing 65 videos across their clusters. Each is pulling captions via `yt-dlp`, judging visual density, selectively grabbing frames where th\u2026",
+      "message_count": 72,
+      "file_size_kb": 382,
+      "modified_ts": 1783349868.196218,
+      "modified_iso": "2026-07-06T10:57:48.196218",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -21,7 +37,7 @@
       "file_size_kb": 1583,
       "modified_ts": 1783349730.2055624,
       "modified_iso": "2026-07-06T10:55:30.205562",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 2.6
     },
     {
       "id": "9d1d1a8e",
@@ -37,23 +53,7 @@
       "file_size_kb": 822,
       "modified_ts": 1783349727.5103238,
       "modified_iso": "2026-07-06T10:55:27.510324",
-      "minutes_since_active": 1.5
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "CONT\u0130NUE",
-      "last_assistant_snippet": "8 subagents dispatched in parallel \u2014 processing 65 videos across their clusters. Each is pulling captions via `yt-dlp`, judging visual density, selectively grabbing frames where th\u2026",
-      "message_count": 71,
-      "file_size_kb": 366,
-      "modified_ts": 1783349681.43252,
-      "modified_iso": "2026-07-06T10:54:41.432520",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.7
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 681.7
+      "minutes_since_active": 682.9
     },
     {
       "id": "13b89a18",
@@ -87,7 +87,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 702.1
+      "minutes_since_active": 703.3
     },
     {
       "id": "b514d97a",
@@ -103,7 +103,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 702.4
+      "minutes_since_active": 703.7
     },
     {
       "id": "a8b9aea8",
@@ -119,7 +119,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 758.6
+      "minutes_since_active": 759.8
     }
   ]
 }
