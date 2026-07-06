@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T02:55:44Z",
+  "updated_at": "2026-07-06T02:56:49Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -11,17 +11,17 @@
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
       "status": "active",
-      "project": "/Users/halukgul/Desktop/Notion Full Export/Research Resources/2c4eb2aba32e46adb53ae774ece0f870",
+      "project": "/Users/halukgul/Desktop/Notion Full Export/Private & Shared",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "okey start notion",
-      "last_assistant_snippet": "CSVs turned out low-value (Notion template junk, not an index of the export). Research Resources is a single UUID-folder containing all 1,990 files. Let me pop it open and preview \u2026",
-      "message_count": 216,
-      "file_size_kb": 821,
-      "modified_ts": 1783306526.6625094,
-      "modified_iso": "2026-07-05T22:55:26.662509",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "Research Resources has 73 top-level items (not 1990 \u2014 the 1990 is nested). Turkic AI Corridor is a full research initiative (has \"Whitepaper\", \"Turkic AI Readiness Index\", \"AI Poli\u2026",
+      "message_count": 222,
+      "file_size_kb": 850,
+      "modified_ts": 1783306555.8378048,
+      "modified_iso": "2026-07-05T22:55:55.837805",
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 37.4
+      "minutes_since_active": 38.5
     },
     {
       "id": "13b89a18",
@@ -55,7 +55,7 @@
       "file_size_kb": 237,
       "modified_ts": 1783288511.4775696,
       "modified_iso": "2026-07-05T17:55:11.477570",
-      "minutes_since_active": 300.5
+      "minutes_since_active": 301.6
     },
     {
       "id": "99c7b217",
@@ -71,7 +71,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 645.0
+      "minutes_since_active": 646.1
     }
   ]
 }
