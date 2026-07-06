@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T21:55:05Z",
-  "total_tabs": 460,
+  "updated_at": "2026-07-06T21:56:11Z",
+  "total_tabs": 458,
   "total_windows": 7,
   "duplicate_tabs": 4,
   "bridge_online": true,
@@ -33,17 +33,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 66,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 66
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
       "count": 65,
       "domain_count": 5,
@@ -67,6 +56,17 @@
         {
           "domain": "vercel.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 64,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 64
         }
       ]
     },
