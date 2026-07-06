@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T14:04:11Z",
+  "updated_at": "2026-07-06T14:05:16Z",
   "counts": {
-    "active": 2,
-    "recent": 4,
+    "active": 1,
+    "recent": 5,
     "archived": 335,
     "total": 341
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 1582,
       "modified_ts": 1783346533.7500224,
       "modified_iso": "2026-07-06T10:02:13.750022",
-      "minutes_since_active": 1.9
-    },
+      "minutes_since_active": 3.0
+    }
+  ],
+  "recent": [
     {
       "id": "c3395c44",
       "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 279,
       "modified_ts": 1783346386.2903662,
       "modified_iso": "2026-07-06T09:59:46.290366",
-      "minutes_since_active": 4.4
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.5
+    },
     {
       "id": "098e1207",
       "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
@@ -55,7 +55,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 628.9
+      "minutes_since_active": 630.0
     },
     {
       "id": "13b89a18",
@@ -71,7 +71,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 649.4
+      "minutes_since_active": 650.5
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 649.7
+      "minutes_since_active": 650.8
     },
     {
       "id": "a8b9aea8",
@@ -103,7 +103,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 705.8
+      "minutes_since_active": 706.9
     }
   ]
 }
