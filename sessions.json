@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T16:15:55Z",
+  "updated_at": "2026-07-06T16:15:59Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Live snapshot \u2014 **1,650 files / 42MB** captured (up ~300 since wave 3 launched under an hour ago): | Year | Status | |---|---| | 2016, 2017 | done (250 + 182 files) | | 2019 | in p\u2026",
       "message_count": 322,
       "file_size_kb": 1595,
-      "modified_ts": 1783354304.8474224,
-      "modified_iso": "2026-07-06T12:11:44.847422",
-      "minutes_since_active": 4.2
+      "modified_ts": 1783354555.7861543,
+      "modified_iso": "2026-07-06T12:15:55.786154",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 59.7
+      "minutes_since_active": 59.8
     },
     {
       "id": "799acb1f",
@@ -71,7 +71,7 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350575.6680033,
       "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 66.3
+      "minutes_since_active": 66.4
     },
     {
       "id": "098e1207",
