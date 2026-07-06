@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-06T23:08:39Z",
+  "updated_at": "2026-07-06T23:08:44Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 334,
     "total": 342
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/company-archive/corpus-raw/5-completed",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "**2,589 files / 51MB** \u2014 up ~300 in the last hour. All 3 agents alive: | Year | Movement | |---|---| | 2017 | 6 \u2192 14 clients (312 files) \u2014 loose ends being filled | | 2020 | starte\u2026",
       "message_count": 349,
       "file_size_kb": 1667,
-      "modified_ts": 1783378987.0436747,
-      "modified_iso": "2026-07-06T19:03:07.043675",
-      "minutes_since_active": 5.5
-    },
+      "modified_ts": 1783379320.017012,
+      "modified_iso": "2026-07-06T19:08:40.017012",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "c3395c44",
       "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
@@ -38,7 +39,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 472.5
+      "minutes_since_active": 472.6
     },
     {
       "id": "799acb1f",
@@ -54,7 +55,7 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 477.1
+      "minutes_since_active": 477.2
     },
     {
       "id": "9d1d1a8e",
@@ -86,7 +87,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 1173.4
+      "minutes_since_active": 1173.5
     },
     {
       "id": "13b89a18",
@@ -102,7 +103,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 1193.9
+      "minutes_since_active": 1194.0
     },
     {
       "id": "b514d97a",
@@ -118,7 +119,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 1194.2
+      "minutes_since_active": 1194.3
     },
     {
       "id": "a8b9aea8",
@@ -134,7 +135,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 1250.3
+      "minutes_since_active": 1250.4
     }
   ]
 }
