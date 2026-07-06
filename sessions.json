@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-06T02:18:26Z",
+  "updated_at": "2026-07-06T02:19:22Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 2,
     "archived": 335,
-    "total": 338
+    "total": 339
   },
   "active": [
+    {
+      "id": "b514d97a",
+      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
+      "last_user_msg": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
+      "last_assistant_snippet": "Notes 4 was transcribed (4 batches, ~44KB in `/tmp/notes4-transcription/`) but let me check if it got integrated into the organized webpage.",
+      "message_count": 23,
+      "file_size_kb": 180,
+      "modified_ts": 1783304358.3003135,
+      "modified_iso": "2026-07-05T22:19:18.300313",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "a8b9aea8",
       "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
@@ -21,7 +37,7 @@
       "file_size_kb": 5440,
       "modified_ts": 1783304300.5250273,
       "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 237,
       "modified_ts": 1783288511.4775696,
       "modified_iso": "2026-07-05T17:55:11.477570",
-      "minutes_since_active": 263.2
+      "minutes_since_active": 264.2
     },
     {
       "id": "99c7b217",
@@ -55,7 +71,7 @@
       "file_size_kb": 1286,
       "modified_ts": 1783267841.5231802,
       "modified_iso": "2026-07-05T12:10:41.523180",
-      "minutes_since_active": 607.7
+      "minutes_since_active": 608.7
     }
   ]
 }
