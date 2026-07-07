@@ -1,60 +1,49 @@
 {
-  "updated_at": "2026-07-07T18:20:10Z",
-  "total_tabs": 405,
+  "updated_at": "2026-07-07T18:21:15Z",
+  "total_tabs": 279,
   "total_windows": 8,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 26,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 252,
-      "domain_count": 189,
+      "count": 159,
+      "domain_count": 117,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 17
+          "count": 13
         },
         {
           "domain": "higgsfield.ai",
-          "count": 10
+          "count": 6
+        },
+        {
+          "domain": "gemini.google.com",
+          "count": 5
         },
         {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
-          "domain": "skool.com",
+          "domain": "hibid.com",
           "count": 4
-        },
-        {
-          "domain": "conceptkb.com",
-          "count": 4
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 62,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 62
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 58,
+      "count": 50,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 42
+          "count": 38
         },
         {
           "domain": "github.com",
-          "count": 13
+          "count": 9
         },
         {
           "domain": "anthropic.com",
@@ -71,40 +60,28 @@
       ]
     },
     {
-      "name": "social",
-      "count": 15,
-      "domain_count": 9,
+      "name": "video",
+      "count": 42,
+      "domain_count": 1,
       "top_domains": [
         {
-          "domain": "linkedin.com",
-          "count": 4
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
-          "domain": "lawsofux.com",
-          "count": 1
+          "domain": "youtube.com",
+          "count": 42
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 14,
+      "count": 15,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "docs.google.com",
           "count": 5
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 3
         },
         {
           "domain": "drive.google.com",
@@ -115,11 +92,34 @@
           "count": 2
         },
         {
-          "domain": "mail.google.com",
+          "domain": "calendar.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 9,
+      "domain_count": 5,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 4
+        },
+        {
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "marex.com",
           "count": 1
         }
       ]
