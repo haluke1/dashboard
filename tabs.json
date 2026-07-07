@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-07T16:45:54Z",
-  "total_tabs": 418,
+  "updated_at": "2026-07-07T16:46:59Z",
+  "total_tabs": 420,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 261,
+      "count": 263,
       "domain_count": 198,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 11
         },
         {
+          "domain": "promptbase.com",
+          "count": 4
+        },
+        {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
           "domain": "skool.com",
-          "count": 4
-        },
-        {
-          "domain": "conceptkb.com",
           "count": 4
         }
       ]
