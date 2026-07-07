@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T16:01:53Z",
-  "total_tabs": 433,
+  "updated_at": "2026-07-07T16:02:58Z",
+  "total_tabs": 432,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 272,
-      "domain_count": 209,
+      "count": 271,
+      "domain_count": 208,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -84,15 +84,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
           "domain": "instagram.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "lawsofux.com",
           "count": 1
         }
       ]
@@ -111,11 +111,11 @@
           "count": 3
         },
         {
-          "domain": "mail.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "medium.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
