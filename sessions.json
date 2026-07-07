@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-07T22:35:59Z",
+  "updated_at": "2026-07-07T22:37:08Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 341,
     "total": 343
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "358aeea8",
       "full_id": "358aeea8-4ebc-40b4-8f49-16bac78fc305",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "could you take a look at this and tell me if it could be useful to us or not https://string-tune.fiddle.digital/",
-      "last_user_msg": "considering i am a villanova mba and will be doing workshops for design build and general contractors, who could i be targeting realistically? i dont wanna go for small or too big \u2026",
+      "last_user_msg": "okey so i am a little scared / worried about if this is viable or not. in ckb, we are using excel word powerpoint email (classic low end tech stack) and these companies are probabl\u2026",
       "last_assistant_snippet": "Sizing done, wedge sequence flipped per advisor (Villanova + owner-rep first, MEP second), F1 constraint honored. Named channels: Rob Duke + Steven Hildebrand at Villanova, KCI Tec\u2026",
-      "message_count": 75,
-      "file_size_kb": 425,
-      "modified_ts": 1783463268.0396152,
-      "modified_iso": "2026-07-07T18:27:48.039615",
-      "minutes_since_active": 8.2
-    },
+      "message_count": 76,
+      "file_size_kb": 429,
+      "modified_ts": 1783463819.3357184,
+      "modified_iso": "2026-07-07T18:36:59.335718",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "99c7b217",
       "full_id": "99c7b217-ade9-444e-8905-4f406c786285",
@@ -38,7 +39,7 @@
       "file_size_kb": 1773,
       "modified_ts": 1783392263.2222555,
       "modified_iso": "2026-07-06T22:44:23.222255",
-      "minutes_since_active": 1191.6
+      "minutes_since_active": 1192.7
     }
   ]
 }
