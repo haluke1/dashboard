@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-07T03:32:00Z",
-  "total_tabs": 448,
+  "updated_at": "2026-07-07T03:33:05Z",
+  "total_tabs": 450,
   "total_windows": 7,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 287,
+      "count": 289,
       "domain_count": 220,
       "top_domains": [
         {
@@ -19,27 +19,27 @@
           "count": 11
         },
         {
+          "domain": "kittl.com",
+          "count": 5
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "conceptkb.com",
           "count": 4
-        },
-        {
-          "domain": "hibid.com",
-          "count": 4
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 64,
+      "count": 63,
       "domain_count": 5,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 43
+          "count": 42
         },
         {
           "domain": "github.com",
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 61,
+      "count": 62,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 61
+          "count": 62
         }
       ]
     },
