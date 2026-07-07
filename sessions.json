@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T03:34:13Z",
+  "updated_at": "2026-07-07T03:35:18Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 337,
+    "recent": 4,
+    "archived": 338,
     "total": 342
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 1773,
       "modified_ts": 1783392263.2222555,
       "modified_iso": "2026-07-06T22:44:23.222255",
-      "minutes_since_active": 49.8
+      "minutes_since_active": 50.9
     },
     {
       "id": "c3395c44",
@@ -38,7 +38,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 738.0
+      "minutes_since_active": 739.1
     },
     {
       "id": "799acb1f",
@@ -54,7 +54,7 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 742.6
+      "minutes_since_active": 743.7
     },
     {
       "id": "9d1d1a8e",
@@ -70,23 +70,7 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350575.6680033,
       "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 744.6
-    },
-    {
-      "id": "098e1207",
-      "full_id": "098e1207-c854-4f28-bee7-eee12cc6d4c2",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "how can i rename the claude code tabs on terminal",
-      "last_user_msg": "[Image: original 2880x240, displayed at 2576x215. Multiply coordinates by 1.12 to map to original image.]",
-      "last_assistant_snippet": "## Q1: Did it work? **Dupes closed: yes** (519 \u2192 490, minus 1 for the extensions window I opened = 29 closed vs 30 predicted, close enough). **Groups: I can't verify visually becau\u2026",
-      "message_count": 143,
-      "file_size_kb": 1437,
-      "modified_ts": 1783308915.1403737,
-      "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 1439.0
+      "minutes_since_active": 745.7
     }
   ]
 }
