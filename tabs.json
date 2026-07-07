@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-07T22:38:11Z",
-  "total_tabs": 378,
+  "updated_at": "2026-07-07T22:39:16Z",
+  "total_tabs": 377,
   "total_windows": 7,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
@@ -132,17 +132,6 @@
         {
           "domain": "amazon.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "127.0.0.1:61319",
-          "count": 1
         }
       ]
     },
