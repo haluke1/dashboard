@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T03:06:51Z",
-  "total_tabs": 454,
+  "updated_at": "2026-07-07T03:07:56Z",
+  "total_tabs": 457,
   "total_windows": 7,
   "duplicate_tabs": 4,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 289,
-      "domain_count": 220,
+      "count": 293,
+      "domain_count": 221,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 11
         },
         {
+          "domain": "eksisozluk.com",
+          "count": 4
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "conceptkb.com",
-          "count": 4
-        },
-        {
-          "domain": "hibid.com",
           "count": 4
         }
       ]
@@ -61,12 +61,12 @@
     },
     {
       "name": "video",
-      "count": 64,
+      "count": 63,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 64
+          "count": 63
         }
       ]
     },
