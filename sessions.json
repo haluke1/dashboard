@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T02:17:17Z",
+  "updated_at": "2026-07-07T02:18:22Z",
   "counts": {
     "active": 0,
-    "recent": 8,
-    "archived": 334,
+    "recent": 7,
+    "archived": 335,
     "total": 342
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 1682,
       "modified_ts": 1783379712.9688432,
       "modified_iso": "2026-07-06T19:15:12.968843",
-      "minutes_since_active": 182.1
+      "minutes_since_active": 183.1
     },
     {
       "id": "c3395c44",
@@ -38,7 +38,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 661.1
+      "minutes_since_active": 662.2
     },
     {
       "id": "799acb1f",
@@ -54,7 +54,7 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 665.7
+      "minutes_since_active": 666.8
     },
     {
       "id": "9d1d1a8e",
@@ -70,7 +70,7 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350575.6680033,
       "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 667.7
+      "minutes_since_active": 668.8
     },
     {
       "id": "098e1207",
@@ -86,7 +86,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 1362.0
+      "minutes_since_active": 1363.1
     },
     {
       "id": "13b89a18",
@@ -102,7 +102,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 1382.5
+      "minutes_since_active": 1383.6
     },
     {
       "id": "b514d97a",
@@ -118,23 +118,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 1382.8
-    },
-    {
-      "id": "a8b9aea8",
-      "full_id": "a8b9aea8-2412-458a-b5fa-c4742d0d9415",
-      "status": "recent",
-      "project": "/Users/halukgul/Desktop/Notes 4",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "/Users/halukgul/Desktop/Notes\\ \\\" /Users/halukgul/Desktop/Notes\\ 2 /Users/halukgul/Desktop/Notes\\ 3 could you analyze the notes inside these, turn them to text, organize them prope\u2026",
-      "last_user_msg": "<local-command-stdout>Bye!</local-command-stdout>",
-      "last_assistant_snippet": "Not logged in \u00b7 Please run /login",
-      "message_count": 463,
-      "file_size_kb": 5440,
-      "modified_ts": 1783304300.5250273,
-      "modified_iso": "2026-07-05T22:18:20.525027",
-      "minutes_since_active": 1438.9
+      "minutes_since_active": 1383.9
     }
   ]
 }
