@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T15:15:53Z",
+  "updated_at": "2026-07-07T15:16:58Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 340,
+    "recent": 1,
+    "archived": 341,
     "total": 342
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 1773,
       "modified_ts": 1783392263.2222555,
       "modified_iso": "2026-07-06T22:44:23.222255",
-      "minutes_since_active": 751.5
-    },
-    {
-      "id": "c3395c44",
-      "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "<task-notification> <task-id>ab8b587e29b9b3120</task-id> <tool-use-id>toolu_01ERjS8qij6NuCgrXyV52Tjb</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
-      "last_assistant_snippet": "Done. 9 files on disk, 1,462 lines total. **SUMMARY.md** is the entry point \u2014 top-10 flat ranking + cluster tables + DROP list + cross-cluster patterns + workshop-ready quotes + pi\u2026",
-      "message_count": 118,
-      "file_size_kb": 706,
-      "modified_ts": 1783350970.4639568,
-      "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 1439.7
+      "minutes_since_active": 752.6
     }
   ]
 }
