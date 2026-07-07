@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-07-07T07:17:35Z",
-  "total_tabs": 458,
-  "total_windows": 8,
+  "updated_at": "2026-07-07T07:18:43Z",
+  "total_tabs": 442,
+  "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 298,
-      "domain_count": 219,
+      "count": 281,
+      "domain_count": 218,
       "top_domains": [
-        {
-          "domain": "rule34video.com",
-          "count": 17
-        },
         {
           "domain": "(no domain)",
           "count": 16
@@ -29,6 +25,21 @@
         {
           "domain": "conceptkb.com",
           "count": 4
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 63,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 63
         }
       ]
     },
@@ -56,17 +67,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 62,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 62
         }
       ]
     },
