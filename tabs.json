@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T16:53:34Z",
+  "updated_at": "2026-07-07T16:54:40Z",
   "total_tabs": 423,
   "total_windows": 7,
   "duplicate_tabs": 6,
@@ -80,7 +80,7 @@
           "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
@@ -88,11 +88,11 @@
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "lawsofux.com",
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -111,11 +111,11 @@
           "count": 3
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
-          "domain": "mail.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        },
+        {
           "domain": "medium.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
