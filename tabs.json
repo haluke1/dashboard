@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T18:10:20Z",
-  "total_tabs": 408,
+  "updated_at": "2026-07-07T18:12:30Z",
+  "total_tabs": 405,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 253,
-      "domain_count": 191,
+      "count": 251,
+      "domain_count": 189,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -125,21 +125,6 @@
       ]
     },
     {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 2,
       "domain_count": 1,
@@ -157,6 +142,17 @@
       "top_domains": [
         {
           "domain": "127.0.0.1:61319",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
