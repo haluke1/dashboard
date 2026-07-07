@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T15:18:04Z",
-  "total_tabs": 442,
+  "updated_at": "2026-07-07T15:19:13Z",
+  "total_tabs": 441,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 282,
-      "domain_count": 219,
+      "count": 280,
+      "domain_count": 217,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 11
         },
         {
+          "domain": "open.spotify.com",
+          "count": 4
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "conceptkb.com",
-          "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 4
         }
       ]
@@ -84,15 +84,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
           "domain": "instagram.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "lawsofux.com",
           "count": 1
         }
       ]
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "medium.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
@@ -151,6 +151,17 @@
         {
           "domain": "amazon.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "127.0.0.1:61319",
+          "count": 1
         }
       ]
     }
