@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-07T04:40:39Z",
-  "total_tabs": 451,
+  "updated_at": "2026-07-07T04:41:44Z",
+  "total_tabs": 450,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
@@ -33,17 +33,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 63,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 63
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
       "count": 63,
       "domain_count": 5,
@@ -71,6 +60,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 62,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 62
+        }
+      ]
+    },
+    {
       "name": "social",
       "count": 16,
       "domain_count": 9,
@@ -84,15 +84,15 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
           "domain": "instagram.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "lawsofux.com",
           "count": 1
         }
       ]
@@ -111,15 +111,15 @@
           "count": 3
         },
         {
-          "domain": "mail.google.com",
-          "count": 2
-        },
-        {
           "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "mail.google.com",
+          "count": 2
+        },
+        {
+          "domain": "expertphotography.com",
           "count": 1
         }
       ]
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "medium.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
