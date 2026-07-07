@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T15:09:19Z",
+  "updated_at": "2026-07-07T15:10:24Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 338,
+    "recent": 3,
+    "archived": 339,
     "total": 342
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 1773,
       "modified_ts": 1783392263.2222555,
       "modified_iso": "2026-07-06T22:44:23.222255",
-      "minutes_since_active": 744.9
+      "minutes_since_active": 746.0
     },
     {
       "id": "c3395c44",
@@ -38,7 +38,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 1433.1
+      "minutes_since_active": 1434.2
     },
     {
       "id": "799acb1f",
@@ -54,23 +54,7 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 1437.8
-    },
-    {
-      "id": "9d1d1a8e",
-      "full_id": "9d1d1a8e-2333-4dcd-a4cd-0d291d533575",
-      "status": "recent",
-      "project": "/Users/halukgul/reports/ontology-vs-embeddings-2026-07/assets",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you do research on this, find similar things like it and give me a report of how we can structure all the knowledge and information we have and how we can use it? - https://m\u2026",
-      "last_user_msg": "<task-notification> <task-id>ab5b299a7c8bc1724</task-id> <tool-use-id>toolu_01EESeULYu4yfRe5AvSsdvAP</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/9d1d1a8e-233\u2026",
-      "last_assistant_snippet": "Handoff. **Shipped** - **Report** (~10K words, 76 unique verified sources, tier-labeled): `~/reports/ontology-vs-embeddings-2026-07/index.md` - **Runnable POC** at `assets/` \u2014 `sch\u2026",
-      "message_count": 160,
-      "file_size_kb": 1158,
-      "modified_ts": 1783350575.6680033,
-      "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 1439.7
+      "minutes_since_active": 1438.8
     }
   ]
 }
