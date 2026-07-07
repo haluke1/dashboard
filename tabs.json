@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-07T05:12:14Z",
-  "total_tabs": 449,
+  "updated_at": "2026-07-07T05:13:21Z",
+  "total_tabs": 448,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 288,
+      "count": 287,
       "domain_count": 219,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 11
         },
         {
-          "domain": "kittl.com",
-          "count": 4
-        },
-        {
           "domain": "open.spotify.com",
           "count": 4
         },
         {
           "domain": "skool.com",
+          "count": 4
+        },
+        {
+          "domain": "conceptkb.com",
           "count": 4
         }
       ]
