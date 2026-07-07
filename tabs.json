@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-07T17:03:27Z",
-  "total_tabs": 426,
-  "total_windows": 7,
+  "updated_at": "2026-07-07T17:04:33Z",
+  "total_tabs": 422,
+  "total_windows": 8,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 269,
+      "count": 265,
       "domain_count": 198,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 16
+          "count": 17
         },
         {
           "domain": "higgsfield.ai",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "promptbase.com",
-          "count": 10
+          "count": 5
         },
         {
           "domain": "open.spotify.com",
@@ -80,7 +80,7 @@
           "count": 4
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
@@ -88,11 +88,11 @@
           "count": 2
         },
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "lawsofux.com",
           "count": 1
         }
       ]
@@ -111,11 +111,11 @@
           "count": 3
         },
         {
-          "domain": "mail.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        },
-        {
           "domain": "medium.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
