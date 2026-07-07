@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T18:15:49Z",
-  "total_tabs": 409,
+  "updated_at": "2026-07-07T18:16:54Z",
+  "total_tabs": 406,
   "total_windows": 8,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 253,
-      "domain_count": 190,
+      "count": 252,
+      "domain_count": 189,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -72,16 +72,16 @@
     },
     {
       "name": "social",
-      "count": 17,
+      "count": 16,
       "domain_count": 9,
       "top_domains": [
         {
-          "domain": "reddit.com",
+          "domain": "linkedin.com",
           "count": 4
         },
         {
-          "domain": "linkedin.com",
-          "count": 4
+          "domain": "reddit.com",
+          "count": 3
         },
         {
           "domain": "instagram.com",
@@ -125,21 +125,6 @@
       ]
     },
     {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "shopping",
       "count": 2,
       "domain_count": 1,
@@ -157,6 +142,17 @@
       "top_domains": [
         {
           "domain": "127.0.0.1:61319",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
