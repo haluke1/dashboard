@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-07T06:36:27Z",
+  "updated_at": "2026-07-07T06:37:32Z",
   "total_tabs": 442,
-  "total_windows": 7,
-  "duplicate_tabs": 6,
+  "total_windows": 8,
+  "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
@@ -19,15 +19,15 @@
           "count": 11
         },
         {
-          "domain": "open.spotify.com",
-          "count": 4
-        },
-        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "conceptkb.com",
+          "count": 4
+        },
+        {
+          "domain": "open.spotify.com",
           "count": 4
         }
       ]
@@ -84,15 +84,15 @@
           "count": 3
         },
         {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
           "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "lawsofux.com",
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
           "count": 1
         }
       ]
@@ -130,15 +130,15 @@
       "domain_count": 3,
       "top_domains": [
         {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        },
+        {
           "domain": "medium.com",
           "count": 1
         },
         {
           "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
