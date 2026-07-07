@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-07T15:11:29Z",
+  "updated_at": "2026-07-07T15:12:37Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 339,
+    "recent": 2,
+    "archived": 340,
     "total": 342
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 1773,
       "modified_ts": 1783392263.2222555,
       "modified_iso": "2026-07-06T22:44:23.222255",
-      "minutes_since_active": 747.1
+      "minutes_since_active": 748.2
     },
     {
       "id": "c3395c44",
@@ -38,23 +38,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 1435.3
-    },
-    {
-      "id": "799acb1f",
-      "full_id": "799acb1f-b5af-4975-9f4d-6b14d4abb039",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i wanna use fable 5",
-      "last_user_msg": "open up the tab on chrome",
-      "last_assistant_snippet": "Opened `http://localhost:8765` as a new tab in Chrome \u2014 Tab Commander is up.",
-      "message_count": 277,
-      "file_size_kb": 837,
-      "modified_ts": 1783350693.5470748,
-      "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 1439.9
+      "minutes_since_active": 1436.4
     }
   ]
 }
