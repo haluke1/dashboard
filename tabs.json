@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-07T18:13:36Z",
-  "total_tabs": 405,
-  "total_windows": 7,
+  "updated_at": "2026-07-07T18:15:49Z",
+  "total_tabs": 409,
+  "total_windows": 8,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 251,
-      "domain_count": 189,
+      "count": 253,
+      "domain_count": 190,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 16
+          "count": 17
         },
         {
           "domain": "higgsfield.ai",
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 59,
+      "count": 58,
       "domain_count": 5,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "github.com",
-          "count": 14
+          "count": 13
         },
         {
           "domain": "anthropic.com",
@@ -72,16 +72,16 @@
     },
     {
       "name": "social",
-      "count": 15,
+      "count": 17,
       "domain_count": 9,
       "top_domains": [
         {
-          "domain": "linkedin.com",
+          "domain": "reddit.com",
           "count": 4
         },
         {
-          "domain": "reddit.com",
-          "count": 2
+          "domain": "linkedin.com",
+          "count": 4
         },
         {
           "domain": "instagram.com",
@@ -125,6 +125,21 @@
       ]
     },
     {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "medium.com",
+          "count": 1
+        },
+        {
+          "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 2,
       "domain_count": 1,
@@ -142,17 +157,6 @@
       "top_domains": [
         {
           "domain": "127.0.0.1:61319",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "natesnewsletter.substack.com",
           "count": 1
         }
       ]
