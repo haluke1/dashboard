@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T02:43:45Z",
+  "updated_at": "2026-07-07T02:44:55Z",
   "counts": {
     "active": 1,
     "recent": 6,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Confirmed \u2014 CKB FULL isn't in either Drive mount yet. So the shortcut step from Arc is required. Standing by until you tell me it's added and which account you added it under.",
       "message_count": 400,
       "file_size_kb": 1773,
-      "modified_ts": 1783392079.9165628,
-      "modified_iso": "2026-07-06T22:41:19.916563",
-      "minutes_since_active": 2.4
+      "modified_ts": 1783392263.2222555,
+      "modified_iso": "2026-07-06T22:44:23.222255",
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 706,
       "modified_ts": 1783350970.4639568,
       "modified_iso": "2026-07-06T11:16:10.463957",
-      "minutes_since_active": 687.6
+      "minutes_since_active": 688.7
     },
     {
       "id": "799acb1f",
@@ -55,7 +55,7 @@
       "file_size_kb": 837,
       "modified_ts": 1783350693.5470748,
       "modified_iso": "2026-07-06T11:11:33.547075",
-      "minutes_since_active": 692.2
+      "minutes_since_active": 693.4
     },
     {
       "id": "9d1d1a8e",
@@ -71,7 +71,7 @@
       "file_size_kb": 1158,
       "modified_ts": 1783350575.6680033,
       "modified_iso": "2026-07-06T11:09:35.668003",
-      "minutes_since_active": 694.2
+      "minutes_since_active": 695.3
     },
     {
       "id": "098e1207",
@@ -87,7 +87,7 @@
       "file_size_kb": 1437,
       "modified_ts": 1783308915.1403737,
       "modified_iso": "2026-07-05T23:35:15.140374",
-      "minutes_since_active": 1388.5
+      "minutes_since_active": 1389.7
     },
     {
       "id": "13b89a18",
@@ -103,7 +103,7 @@
       "file_size_kb": 344,
       "modified_ts": 1783307685.3910866,
       "modified_iso": "2026-07-05T23:14:45.391087",
-      "minutes_since_active": 1409.0
+      "minutes_since_active": 1410.2
     },
     {
       "id": "b514d97a",
@@ -119,7 +119,7 @@
       "file_size_kb": 1098,
       "modified_ts": 1783307666.766312,
       "modified_iso": "2026-07-05T23:14:26.766312",
-      "minutes_since_active": 1409.3
+      "minutes_since_active": 1410.5
     }
   ]
 }
