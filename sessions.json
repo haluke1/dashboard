@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-07-08T21:06:17Z",
+  "updated_at": "2026-07-08T21:07:22Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 341,
     "total": 343
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/Notion-Organized/assets",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 1426,
       "modified_ts": 1783544499.5731516,
       "modified_iso": "2026-07-08T17:01:39.573152",
-      "minutes_since_active": 4.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.7
+    },
     {
       "id": "358aeea8",
       "full_id": "358aeea8-4ebc-40b4-8f49-16bac78fc305",
@@ -39,7 +38,7 @@
       "file_size_kb": 752,
       "modified_ts": 1783464201.5477195,
       "modified_iso": "2026-07-07T18:43:21.547719",
-      "minutes_since_active": 1342.9
+      "minutes_since_active": 1344.0
     }
   ]
 }
