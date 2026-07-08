@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T21:28:32Z",
-  "total_tabs": 295,
+  "updated_at": "2026-07-08T21:29:37Z",
+  "total_tabs": 292,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
@@ -33,24 +33,13 @@
       ]
     },
     {
-      "name": "video",
-      "count": 53,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 53
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
-      "count": 52,
+      "count": 53,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 41
+          "count": 42
         },
         {
           "domain": "github.com",
@@ -63,6 +52,17 @@
         {
           "domain": "anthropic.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 53,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 53
         }
       ]
     },
@@ -117,17 +117,6 @@
         {
           "domain": "reddit.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 4,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 4
         }
       ]
     },
