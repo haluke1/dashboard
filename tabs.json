@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T21:22:44Z",
-  "total_tabs": 304,
+  "updated_at": "2026-07-08T21:23:52Z",
+  "total_tabs": 300,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 170,
-      "domain_count": 123,
+      "count": 169,
+      "domain_count": 122,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 54,
+      "count": 52,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 43
+          "count": 41
         },
         {
           "domain": "github.com",
@@ -95,13 +95,9 @@
     },
     {
       "name": "social",
-      "count": 11,
+      "count": 10,
       "domain_count": 7,
       "top_domains": [
-        {
-          "domain": "reddit.com",
-          "count": 2
-        },
         {
           "domain": "instagram.com",
           "count": 2
@@ -116,6 +112,10 @@
         },
         {
           "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
+          "domain": "facebook.com",
           "count": 1
         }
       ]
