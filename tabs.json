@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T04:04:21Z",
-  "total_tabs": 381,
+  "updated_at": "2026-07-08T04:05:27Z",
+  "total_tabs": 382,
   "total_windows": 7,
   "duplicate_tabs": 6,
   "bridge_online": true,
@@ -19,27 +19,27 @@
           "count": 10
         },
         {
+          "domain": "open.spotify.com",
+          "count": 4
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "conceptkb.com",
           "count": 4
-        },
-        {
-          "domain": "open.spotify.com",
-          "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 66,
+      "count": 67,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 66
+          "count": 67
         }
       ]
     },
@@ -107,7 +107,7 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
@@ -115,7 +115,7 @@
           "count": 2
         },
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
