@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T21:24:59Z",
+  "updated_at": "2026-07-08T21:26:19Z",
   "total_tabs": 295,
   "total_windows": 7,
   "duplicate_tabs": 5,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 167,
-      "domain_count": 122,
+      "count": 164,
+      "domain_count": 120,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -57,11 +57,11 @@
           "count": 9
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -99,15 +99,15 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "web.whatsapp.com",
           "count": 1
         },
         {
@@ -121,23 +121,23 @@
       ]
     },
     {
+      "name": "shopping",
+      "count": 4,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
+          "count": 4
+        }
+      ]
+    },
+    {
       "name": "research",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "natesnewsletter.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
