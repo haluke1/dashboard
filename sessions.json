@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-08T21:49:31Z",
+  "updated_at": "2026-07-08T22:42:47Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 341,
     "total": 343
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Desktop/Notion-Organized/assets",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -19,11 +18,13 @@
       "last_user_msg": "i want you to double check everything from notion to this one cause this is so incredibly short and it literally cant contain everything. i dont want a fucking sample or whatever. \u2026",
       "last_assistant_snippet": "Fair. Measuring the actual text size first \u2014 if it's smaller than the assets suggest, single-page might still work.",
       "message_count": 426,
-      "file_size_kb": 1603,
-      "modified_ts": 1783546372.012203,
-      "modified_iso": "2026-07-08T17:32:52.012203",
-      "minutes_since_active": 16.6
-    },
+      "file_size_kb": 1606,
+      "modified_ts": 1783550564.177576,
+      "modified_iso": "2026-07-08T18:42:44.177576",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "358aeea8",
       "full_id": "358aeea8-4ebc-40b4-8f49-16bac78fc305",
@@ -38,7 +39,7 @@
       "file_size_kb": 752,
       "modified_ts": 1783464201.5477195,
       "modified_iso": "2026-07-07T18:43:21.547719",
-      "minutes_since_active": 1386.1
+      "minutes_since_active": 1439.4
     }
   ]
 }
