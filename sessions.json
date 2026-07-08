@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T20:41:02Z",
+  "updated_at": "2026-07-08T20:41:24Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "so now do we have notes 1 2 3 4 , notion and keep notes?",
-      "last_assistant_snippet": "Notion phase complete. Final layout at `~/Desktop/Notion-Organized/`: ``` Notion-Organized/ \u251c\u2500\u2500 INDEX.md \u2190 ship-triage: 6 tiers, cross-ref, quarantine \u251c\u2500\u2500 01-private-and-shared.md \u2026",
-      "message_count": 290,
-      "file_size_kb": 1113,
-      "modified_ts": 1783543252.943182,
-      "modified_iso": "2026-07-08T16:40:52.943182",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Two organized, one ready to process. | Source | Status | Location | |---|---|---| | Notes 1-4 | \u2705 Organized (webpage) | `~/Desktop/Notes-Organized/index.html` \u2014 15 categories, 163 \u2026",
+      "message_count": 295,
+      "file_size_kb": 1125,
+      "modified_ts": 1783543283.175751,
+      "modified_iso": "2026-07-08T16:41:23.175751",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 752,
       "modified_ts": 1783464201.5477195,
       "modified_iso": "2026-07-07T18:43:21.547719",
-      "minutes_since_active": 1317.7
+      "minutes_since_active": 1318.0
     }
   ]
 }
