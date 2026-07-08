@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-07-08T20:39:55Z",
+  "updated_at": "2026-07-08T20:41:02Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 1,
-    "archived": 342,
+    "archived": 341,
     "total": 343
   },
-  "active": [],
+  "active": [
+    {
+      "id": "b514d97a",
+      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/Notion-Organized/assets",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
+      "last_user_msg": "so now do we have notes 1 2 3 4 , notion and keep notes?",
+      "last_assistant_snippet": "Notion phase complete. Final layout at `~/Desktop/Notion-Organized/`: ``` Notion-Organized/ \u251c\u2500\u2500 INDEX.md \u2190 ship-triage: 6 tiers, cross-ref, quarantine \u251c\u2500\u2500 01-private-and-shared.md \u2026",
+      "message_count": 290,
+      "file_size_kb": 1113,
+      "modified_ts": 1783543252.943182,
+      "modified_iso": "2026-07-08T16:40:52.943182",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "358aeea8",
@@ -22,7 +39,7 @@
       "file_size_kb": 752,
       "modified_ts": 1783464201.5477195,
       "modified_iso": "2026-07-07T18:43:21.547719",
-      "minutes_since_active": 1316.5
+      "minutes_since_active": 1317.7
     }
   ]
 }
