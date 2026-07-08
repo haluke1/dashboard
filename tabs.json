@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T21:30:43Z",
-  "total_tabs": 292,
+  "updated_at": "2026-07-08T21:31:48Z",
+  "total_tabs": 291,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 164,
-      "domain_count": 120,
+      "count": 163,
+      "domain_count": 119,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -33,6 +33,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 53,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 53
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 53,
       "domain_count": 4,
@@ -46,23 +57,12 @@
           "count": 9
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 53,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 53
         }
       ]
     },
@@ -107,15 +107,15 @@
           "count": 2
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        },
-        {
           "domain": "facebook.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
