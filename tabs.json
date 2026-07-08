@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T20:56:20Z",
-  "total_tabs": 372,
+  "updated_at": "2026-07-08T20:57:26Z",
+  "total_tabs": 368,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
@@ -19,27 +19,27 @@
           "count": 10
         },
         {
-          "domain": "skool.com",
-          "count": 4
-        },
-        {
-          "domain": "conceptkb.com",
-          "count": 4
-        },
-        {
           "domain": "gemini.google.com",
+          "count": 4
+        },
+        {
+          "domain": "hibid.com",
+          "count": 4
+        },
+        {
+          "domain": "skool.com",
           "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 63,
+      "count": 59,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 63
+          "count": 59
         }
       ]
     },
@@ -57,15 +57,15 @@
           "count": 9
         },
         {
+          "domain": "vercel.com",
+          "count": 1
+        },
+        {
           "domain": "anthropic.com",
           "count": 1
         },
         {
           "domain": "openai.com",
-          "count": 1
-        },
-        {
-          "domain": "vercel.com",
           "count": 1
         }
       ]
@@ -84,11 +84,11 @@
           "count": 3
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
-          "domain": "mail.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
@@ -103,7 +103,7 @@
       "domain_count": 8,
       "top_domains": [
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
@@ -111,15 +111,15 @@
           "count": 2
         },
         {
-          "domain": "reddit.com",
-          "count": 2
-        },
-        {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "marex.com",
           "count": 1
         }
       ]
