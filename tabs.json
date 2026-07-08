@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-07-08T20:57:26Z",
-  "total_tabs": 368,
+  "updated_at": "2026-07-08T20:58:35Z",
+  "total_tabs": 358,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 225,
-      "domain_count": 169,
+      "count": 216,
+      "domain_count": 163,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 15
+          "count": 16
         },
         {
           "domain": "higgsfield.ai",
           "count": 10
         },
         {
-          "domain": "gemini.google.com",
-          "count": 4
-        },
-        {
-          "domain": "hibid.com",
-          "count": 4
-        },
-        {
           "domain": "skool.com",
           "count": 4
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 4
+        },
+        {
+          "domain": "gemini.google.com",
+          "count": 3
         }
       ]
     },
@@ -45,8 +45,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 55,
-      "domain_count": 5,
+      "count": 54,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -55,10 +55,6 @@
         {
           "domain": "github.com",
           "count": 9
-        },
-        {
-          "domain": "vercel.com",
-          "count": 1
         },
         {
           "domain": "anthropic.com",
