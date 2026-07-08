@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-08T21:23:52Z",
-  "total_tabs": 300,
+  "updated_at": "2026-07-08T21:24:59Z",
+  "total_tabs": 295,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 169,
+      "count": 167,
       "domain_count": 122,
       "top_domains": [
         {
@@ -19,27 +19,27 @@
           "count": 10
         },
         {
-          "domain": "conceptkb.com",
-          "count": 4
-        },
-        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "keep.google.com",
           "count": 3
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 55,
+      "count": 53,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 55
+          "count": 53
         }
       ]
     },
@@ -57,11 +57,11 @@
           "count": 9
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -95,11 +95,11 @@
     },
     {
       "name": "social",
-      "count": 10,
+      "count": 9,
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
           "count": 2
         },
         {
@@ -107,15 +107,15 @@
           "count": 2
         },
         {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "web.whatsapp.com",
+          "domain": "instagram.com",
           "count": 1
         },
         {
           "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
