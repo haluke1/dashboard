@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T21:11:43Z",
-  "total_tabs": 334,
+  "updated_at": "2026-07-08T21:12:50Z",
+  "total_tabs": 325,
   "total_windows": 7,
   "duplicate_tabs": 3,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 193,
-      "domain_count": 142,
+      "count": 186,
+      "domain_count": 138,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "gemini.google.com",
+          "domain": "managementconcepts.com",
           "count": 3
         }
       ]
@@ -68,12 +68,12 @@
     },
     {
       "name": "productivity",
-      "count": 13,
+      "count": 12,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "drive.google.com",
@@ -121,23 +121,23 @@
       ]
     },
     {
-      "name": "shopping",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
-          "count": 2
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "natesnewsletter.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "shopping",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "amazon.com",
           "count": 1
         }
       ]
