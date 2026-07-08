@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T20:58:35Z",
-  "total_tabs": 358,
+  "updated_at": "2026-07-08T20:59:40Z",
+  "total_tabs": 356,
   "total_windows": 7,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 3,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 216,
-      "domain_count": 163,
+      "count": 215,
+      "domain_count": 162,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -68,7 +68,7 @@
     },
     {
       "name": "productivity",
-      "count": 14,
+      "count": 13,
       "domain_count": 6,
       "top_domains": [
         {
@@ -80,15 +80,15 @@
           "count": 3
         },
         {
-          "domain": "mail.google.com",
-          "count": 2
-        },
-        {
           "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
           "domain": "calendar.google.com",
+          "count": 1
+        },
+        {
+          "domain": "notion.so",
           "count": 1
         }
       ]
