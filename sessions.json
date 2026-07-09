@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T00:09:18Z",
+  "updated_at": "2026-07-09T00:10:51Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "i want you to double check everything from notion to this one cause this is so incredibly short and it literally cant contain everything. i dont want a fucking sample or whatever. \u2026",
-      "last_assistant_snippet": "Fair. Measuring the actual text size first \u2014 if it's smaller than the assets suggest, single-page might still work.",
-      "message_count": 426,
-      "file_size_kb": 1609,
-      "modified_ts": 1783555748.0782762,
-      "modified_iso": "2026-07-08T20:09:08.078276",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "API Error: Unable to connect to API (ConnectionRefused)",
+      "message_count": 427,
+      "file_size_kb": 1610,
+      "modified_ts": 1783555811.8976889,
+      "modified_iso": "2026-07-08T20:10:11.897689",
+      "minutes_since_active": 0.6
     }
   ],
   "recent": []
