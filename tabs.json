@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-09T00:21:44Z",
-  "total_tabs": 291,
+  "updated_at": "2026-07-09T00:23:18Z",
+  "total_tabs": 290,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 163,
-      "domain_count": 119,
+      "count": 162,
+      "domain_count": 118,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -46,11 +46,11 @@
           "count": 9
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -99,15 +99,15 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "web.whatsapp.com",
           "count": 1
         },
         {
