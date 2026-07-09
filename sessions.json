@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-08T22:42:47Z",
+  "updated_at": "2026-07-09T00:07:41Z",
   "counts": {
     "active": 1,
-    "recent": 1,
-    "archived": 341,
+    "recent": 0,
+    "archived": 342,
     "total": 343
   },
   "active": [
@@ -18,28 +18,11 @@
       "last_user_msg": "i want you to double check everything from notion to this one cause this is so incredibly short and it literally cant contain everything. i dont want a fucking sample or whatever. \u2026",
       "last_assistant_snippet": "Fair. Measuring the actual text size first \u2014 if it's smaller than the assets suggest, single-page might still work.",
       "message_count": 426,
-      "file_size_kb": 1606,
-      "modified_ts": 1783550564.177576,
-      "modified_iso": "2026-07-08T18:42:44.177576",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1607,
+      "modified_ts": 1783555613.6238112,
+      "modified_iso": "2026-07-08T20:06:53.623811",
+      "minutes_since_active": 0.8
     }
   ],
-  "recent": [
-    {
-      "id": "358aeea8",
-      "full_id": "358aeea8-4ebc-40b4-8f49-16bac78fc305",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "could you take a look at this and tell me if it could be useful to us or not https://string-tune.fiddle.digital/",
-      "last_user_msg": "okey so i am a little scared / worried about if this is viable or not. in ckb, we are using excel word powerpoint email (classic low end tech stack) and these companies are probabl\u2026",
-      "last_assistant_snippet": "## First \u2014 the anxiety is well-placed, and the answer is better than you think Your fear is: \"My Excel/Word/PPT/email stack is too low-end to translate. They've got Procore. I'm so\u2026",
-      "message_count": 90,
-      "file_size_kb": 752,
-      "modified_ts": 1783464201.5477195,
-      "modified_iso": "2026-07-07T18:43:21.547719",
-      "minutes_since_active": 1439.4
-    }
-  ]
+  "recent": []
 }
