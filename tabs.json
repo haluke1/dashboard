@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T02:31:44Z",
+  "updated_at": "2026-07-09T02:32:50Z",
   "total_tabs": 292,
   "total_windows": 7,
   "duplicate_tabs": 5,
@@ -27,19 +27,8 @@
           "count": 3
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "google.com",
           "count": 3
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 53,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 53
         }
       ]
     },
@@ -67,6 +56,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 53,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 53
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 12,
       "domain_count": 6,
@@ -84,11 +84,11 @@
           "count": 2
         },
         {
-          "domain": "mail.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "notion.so",
           "count": 1
         }
       ]
