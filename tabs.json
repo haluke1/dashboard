@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-09T19:34:41Z",
-  "total_tabs": 308,
+  "updated_at": "2026-07-09T19:35:47Z",
+  "total_tabs": 313,
   "total_windows": 8,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 177,
+      "count": 182,
       "domain_count": 129,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 10
         },
         {
+          "domain": "rule34video.com",
+          "count": 7
+        },
+        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "skool.com",
           "count": 4
-        },
-        {
-          "domain": "conceptkb.com",
-          "count": 3
         }
       ]
     },
