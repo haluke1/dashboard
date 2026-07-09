@@ -1,45 +1,56 @@
 {
-  "updated_at": "2026-07-09T15:17:25Z",
-  "total_tabs": 306,
+  "updated_at": "2026-07-09T15:18:58Z",
+  "total_tabs": 394,
   "total_windows": 7,
-  "duplicate_tabs": 10,
+  "duplicate_tabs": 287,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 174,
-      "domain_count": 127,
+      "count": 220,
+      "domain_count": 96,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 17
+          "count": 25
         },
         {
           "domain": "higgsfield.ai",
-          "count": 10
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 4
+          "count": 14
         },
         {
           "domain": "skool.com",
-          "count": 4
+          "count": 7
         },
         {
           "domain": "conceptkb.com",
-          "count": 3
+          "count": 6
+        },
+        {
+          "domain": "contentdistribution.com",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 73,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 73
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 55,
+      "count": 69,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 44
+          "count": 56
         },
         {
           "domain": "github.com",
@@ -47,75 +58,64 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "openai.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 53,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 53
+          "count": 2
         }
       ]
     },
     {
       "name": "productivity",
-      "count": 13,
+      "count": 22,
       "domain_count": 6,
       "top_domains": [
         {
           "domain": "docs.google.com",
-          "count": 4
+          "count": 7
         },
         {
           "domain": "drive.google.com",
-          "count": 3
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 2
+          "count": 6
         },
         {
           "domain": "toolbox.googleapps.com",
-          "count": 2
+          "count": 4
         },
         {
           "domain": "calendar.google.com",
-          "count": 1
+          "count": 2
+        },
+        {
+          "domain": "notion.so",
+          "count": 2
         }
       ]
     },
     {
       "name": "social",
-      "count": 10,
-      "domain_count": 7,
+      "count": 9,
+      "domain_count": 5,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 3
+          "domain": "facebook.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 2
+        },
+        {
+          "domain": "gtmetrix.com",
+          "count": 2
         },
         {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
+          "domain": "web.whatsapp.com",
           "count": 1
         }
       ]
