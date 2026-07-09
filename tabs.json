@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T00:20:11Z",
+  "updated_at": "2026-07-09T00:21:44Z",
   "total_tabs": 291,
   "total_windows": 7,
   "duplicate_tabs": 5,
@@ -99,12 +99,16 @@
       "domain_count": 7,
       "top_domains": [
         {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "x.com",
-          "count": 2
+          "domain": "instagram.com",
+          "count": 1
         },
         {
           "domain": "facebook.com",
@@ -112,10 +116,6 @@
         },
         {
           "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
