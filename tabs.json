@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-09T22:05:12Z",
-  "total_tabs": 313,
+  "updated_at": "2026-07-09T22:06:18Z",
+  "total_tabs": 316,
   "total_windows": 8,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 178,
-      "domain_count": 131,
+      "count": 181,
+      "domain_count": 132,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -80,15 +80,15 @@
           "count": 2
         },
         {
-          "domain": "ixxx.com",
-          "count": 1
-        },
-        {
-          "domain": "anysex.com",
-          "count": 1
-        },
-        {
           "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
