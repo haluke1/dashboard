@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-10T23:53:13Z",
-  "total_tabs": 315,
+  "updated_at": "2026-07-10T23:54:18Z",
+  "total_tabs": 316,
   "total_windows": 7,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 176,
+      "count": 177,
       "domain_count": 129,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 10
         },
         {
-          "domain": "keep.google.com",
-          "count": 4
-        },
-        {
           "domain": "skool.com",
           "count": 4
         },
         {
-          "domain": "conceptkb.com",
+          "domain": "keep.google.com",
+          "count": 4
+        },
+        {
+          "domain": "google.com",
           "count": 3
         }
       ]
@@ -99,16 +99,12 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
           "domain": "linkedin.com",
           "count": 3
         },
         {
-          "domain": "instagram.com",
-          "count": 1
+          "domain": "x.com",
+          "count": 3
         },
         {
           "domain": "facebook.com",
@@ -116,6 +112,10 @@
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
