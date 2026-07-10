@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-07-10T00:09:25Z",
+  "updated_at": "2026-07-10T00:10:33Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 342,
+    "recent": 0,
+    "archived": 343,
     "total": 343
   },
   "active": [],
-  "recent": [
-    {
-      "id": "b514d97a",
-      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
-      "project": "/Users/halukgul/Desktop/Notion-Organized/assets",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "i want you to double check everything from notion to this one cause this is so incredibly short and it literally cant contain everything. i dont want a fucking sample or whatever. \u2026",
-      "last_assistant_snippet": "API Error: Unable to connect to API (ConnectionRefused)",
-      "message_count": 427,
-      "file_size_kb": 1610,
-      "modified_ts": 1783555811.8976889,
-      "modified_iso": "2026-07-08T20:10:11.897689",
-      "minutes_since_active": 1439.2
-    }
-  ]
+  "recent": []
 }
