@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-07-11T19:22:28Z",
-  "total_tabs": 358,
-  "total_windows": 8,
+  "updated_at": "2026-07-11T19:23:33Z",
+  "total_tabs": 337,
+  "total_windows": 7,
   "duplicate_tabs": 17,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 218,
-      "domain_count": 136,
+      "count": 196,
+      "domain_count": 133,
       "top_domains": [
         {
           "domain": "(no domain)",
           "count": 24
-        },
-        {
-          "domain": "eporner.com",
-          "count": 18
         },
         {
           "domain": "higgsfield.ai",
@@ -24,22 +20,26 @@
         },
         {
           "domain": "google.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "keep.google.com",
+          "count": 4
+        },
+        {
+          "domain": "skool.com",
           "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 58,
+      "count": 59,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 58
+          "count": 59
         }
       ]
     },
@@ -80,11 +80,11 @@
           "count": 3
         },
         {
-          "domain": "toolbox.googleapps.com",
+          "domain": "mail.google.com",
           "count": 2
         },
         {
-          "domain": "mail.google.com",
+          "domain": "toolbox.googleapps.com",
           "count": 2
         },
         {
