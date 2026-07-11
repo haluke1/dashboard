@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-11T17:23:17Z",
+  "updated_at": "2026-07-11T17:24:23Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 342,
     "total": 344
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Desktop/Notion-Organized/assets",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_eDoSoB/Screenshot 2026-07-11 at 12.36.54.png]",
+      "last_user_msg": "i want exact topics of every part to be listed so i can see what to keep and which things we can get rid of (like bo\u011fazi\u00e7i dao or prag labs or vertical farming etc). i want pinpoin\u2026",
       "last_assistant_snippet": "Rebuilt + reopened. The `\\!` corruption is gone; only the valid `\\/script` escape remains. Reload the tab \u2014 should show all 179 sections + the topic pills with checkboxes at top. I\u2026",
-      "message_count": 688,
-      "file_size_kb": 3925,
-      "modified_ts": 1783788049.5224168,
-      "modified_iso": "2026-07-11T12:40:49.522417",
-      "minutes_since_active": 42.4
-    },
+      "message_count": 689,
+      "file_size_kb": 3930,
+      "modified_ts": 1783790630.3119183,
+      "modified_iso": "2026-07-11T13:23:50.311918",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "fbd854b8",
       "full_id": "fbd854b8-3952-4ba2-b14f-fda52886a8e5",
@@ -38,7 +39,7 @@
       "file_size_kb": 149,
       "modified_ts": 1783783151.1354885,
       "modified_iso": "2026-07-11T11:19:11.135489",
-      "minutes_since_active": 124.1
+      "minutes_since_active": 125.2
     }
   ]
 }
