@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:25:23Z",
+  "updated_at": "2026-07-11T15:26:28Z",
   "total_tabs": 315,
   "total_windows": 7,
   "duplicate_tabs": 6,
@@ -19,27 +19,16 @@
           "count": 10
         },
         {
-          "domain": "keep.google.com",
+          "domain": "skool.com",
           "count": 4
         },
         {
-          "domain": "skool.com",
+          "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "google.com",
           "count": 4
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 57,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 57
         }
       ]
     },
@@ -63,6 +52,17 @@
         {
           "domain": "openai.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 57,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 57
         }
       ]
     },
