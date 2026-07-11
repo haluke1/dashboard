@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T16:37:10Z",
+  "updated_at": "2026-07-11T16:37:40Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_eDoSoB/Screenshot 2026-07-11 at 12.36.54.png]",
-      "last_assistant_snippet": "Two fixes shipped: **Fix 1 \u2014 the bug:** JSON payload contained `</script>` text (from Notion clipped articles about JS). Now escaped to `<\\/script>` in Python before embedding. Als\u2026",
-      "message_count": 681,
-      "file_size_kb": 3911,
-      "modified_ts": 1783787825.7515068,
-      "modified_iso": "2026-07-11T12:37:05.751507",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Rebuilt + reopened. The `\\!` corruption is gone; only the valid `\\/script` escape remains. Reload the tab \u2014 should show all 179 sections + the topic pills with checkboxes at top. I\u2026",
+      "message_count": 688,
+      "file_size_kb": 3923,
+      "modified_ts": 1783787858.7668436,
+      "modified_iso": "2026-07-11T12:37:38.766844",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 149,
       "modified_ts": 1783783151.1354885,
       "modified_iso": "2026-07-11T11:19:11.135489",
-      "minutes_since_active": 78.0
+      "minutes_since_active": 78.5
     }
   ]
 }
