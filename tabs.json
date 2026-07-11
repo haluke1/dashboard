@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:16:38Z",
+  "updated_at": "2026-07-11T15:17:43Z",
   "total_tabs": 315,
   "total_windows": 7,
   "duplicate_tabs": 6,
@@ -19,7 +19,7 @@
           "count": 10
         },
         {
-          "domain": "google.com",
+          "domain": "skool.com",
           "count": 4
         },
         {
@@ -27,7 +27,7 @@
           "count": 4
         },
         {
-          "domain": "skool.com",
+          "domain": "google.com",
           "count": 4
         }
       ]
@@ -46,11 +46,11 @@
           "count": 9
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        },
-        {
           "domain": "facebook.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
