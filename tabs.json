@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-11T00:10:31Z",
-  "total_tabs": 323,
+  "updated_at": "2026-07-11T00:11:37Z",
+  "total_tabs": 320,
   "total_windows": 7,
   "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 183,
+      "count": 180,
       "domain_count": 131,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 10
         },
         {
-          "domain": "govdeals.com",
-          "count": 5
-        },
-        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "skool.com",
           "count": 4
+        },
+        {
+          "domain": "conceptkb.com",
+          "count": 3
         }
       ]
     },
