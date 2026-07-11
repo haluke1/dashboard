@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-11T18:26:42Z",
-  "total_tabs": 334,
-  "total_windows": 7,
-  "duplicate_tabs": 16,
+  "updated_at": "2026-07-11T18:42:43Z",
+  "total_tabs": 341,
+  "total_windows": 8,
+  "duplicate_tabs": 17,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 194,
-      "domain_count": 132,
+      "count": 199,
+      "domain_count": 135,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 23
+          "count": 24
         },
         {
           "domain": "higgsfield.ai",
@@ -23,11 +23,11 @@
           "count": 5
         },
         {
-          "domain": "skool.com",
+          "domain": "keep.google.com",
           "count": 4
         },
         {
-          "domain": "keep.google.com",
+          "domain": "skool.com",
           "count": 4
         }
       ]
@@ -67,6 +67,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 14,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "facebook.com",
+          "count": 2
+        },
+        {
+          "domain": "ixxx.com",
+          "count": 1
+        },
+        {
+          "domain": "faphouse.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 13,
       "domain_count": 6,
@@ -89,33 +116,6 @@
         },
         {
           "domain": "calendar.google.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 12,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "facebook.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
