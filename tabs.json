@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-11T00:09:25Z",
-  "total_tabs": 319,
+  "updated_at": "2026-07-11T00:10:31Z",
+  "total_tabs": 323,
   "total_windows": 7,
   "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 178,
-      "domain_count": 130,
+      "count": 183,
+      "domain_count": 131,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,27 +19,27 @@
           "count": 10
         },
         {
+          "domain": "govdeals.com",
+          "count": 5
+        },
+        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "skool.com",
           "count": 4
-        },
-        {
-          "domain": "conceptkb.com",
-          "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 61,
+      "count": 60,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 61
+          "count": 60
         }
       ]
     },
