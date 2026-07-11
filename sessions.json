@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:15:34Z",
+  "updated_at": "2026-07-11T15:16:07Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
       "last_user_msg": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
-      "last_assistant_snippet": "Guru is oriented. Now calling advisor before I commit to an analysis frame.",
-      "message_count": 14,
-      "file_size_kb": 132,
-      "modified_ts": 1783782907.6238093,
-      "modified_iso": "2026-07-11T11:15:07.623809",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "## Bottom line **Don't replicate Guru. Steal two specific things from it: the positioning discipline (for your Intent Engineering pitch) and the mechanism vocabulary (for POE v0.2)\u2026",
+      "message_count": 16,
+      "file_size_kb": 146,
+      "modified_ts": 1783782965.3244114,
+      "modified_iso": "2026-07-11T11:16:05.324411",
+      "minutes_since_active": 0.0
     },
     {
       "id": "b514d97a",
@@ -37,7 +37,7 @@
       "file_size_kb": 1858,
       "modified_ts": 1783782890.1568394,
       "modified_iso": "2026-07-11T11:14:50.156839",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.3
     }
   ],
   "recent": []
