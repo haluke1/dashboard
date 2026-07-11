@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:23:13Z",
+  "updated_at": "2026-07-11T15:24:18Z",
   "total_tabs": 315,
   "total_windows": 7,
   "duplicate_tabs": 6,
@@ -19,16 +19,27 @@
           "count": 10
         },
         {
-          "domain": "google.com",
-          "count": 4
-        },
-        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "skool.com",
           "count": 4
+        },
+        {
+          "domain": "google.com",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 57,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 57
         }
       ]
     },
@@ -46,23 +57,12 @@
           "count": 9
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 57,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 57
         }
       ]
     },
@@ -107,15 +107,15 @@
           "count": 3
         },
         {
-          "domain": "web.whatsapp.com",
-          "count": 1
-        },
-        {
           "domain": "facebook.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
