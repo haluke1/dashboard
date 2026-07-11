@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:35:11Z",
+  "updated_at": "2026-07-11T15:35:31Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "<task-notification> <task-id>a8ee0996fafa09f95</task-id> <tool-use-id>toolu_01Jxw1CLkDPjST4bNQjWtZ5u</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b514d97a-2c7\u2026",
-      "last_assistant_snippet": "**Bo\u011fazi\u00e7i images done (20/21):** `mining/images-bogazici.md`. **Killer findings:** 1. **DAO founding lineage confirmed via LinkedIn screenshot** \u2014 verbatim: *\"Elite Team - Founder\u2026",
-      "message_count": 626,
-      "file_size_kb": 2121,
-      "modified_ts": 1783784100.0938814,
-      "modified_iso": "2026-07-11T11:35:00.093881",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "**Keep attachments done (26/40, skipped 14 sub-20KB):** `mining/images-keep.md`. **Standouts:** 1. **Quality Ladder framework (6 levels: Broken\u2192Correct\u2192Fitted\u2192Decision-grade\u2192Distin\u2026",
+      "message_count": 630,
+      "file_size_kb": 2129,
+      "modified_ts": 1783784130.2945619,
+      "modified_iso": "2026-07-11T11:35:30.294562",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 149,
       "modified_ts": 1783783151.1354885,
       "modified_iso": "2026-07-11T11:19:11.135489",
-      "minutes_since_active": 16.0
+      "minutes_since_active": 16.3
     }
   ]
 }
