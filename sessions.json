@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T19:00:40Z",
+  "updated_at": "2026-07-11T19:01:15Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_Wpf7In/Screenshot 2026-07-11 at 14.59.54.png]",
-      "last_assistant_snippet": "## Bottom line **Don't replicate Guru. Steal two specific things from it: the positioning discipline (for your Intent Engineering pitch) and the mechanism vocabulary (for POE v0.2)\u2026",
-      "message_count": 18,
-      "file_size_kb": 452,
-      "modified_ts": 1783796428.4456153,
-      "modified_iso": "2026-07-11T15:00:28.445615",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Yes \u2014 force-resume Chrome from the terminal: ```bash killall -CONT \"Google Chrome\" \"Google Chrome Helper\" \"Google Chrome Helper (Renderer)\" \"Google Chrome Helper (GPU)\" ``` But the\u2026",
+      "message_count": 20,
+      "file_size_kb": 464,
+      "modified_ts": 1783796474.1064434,
+      "modified_iso": "2026-07-11T15:01:14.106443",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 4576,
       "modified_ts": 1783795265.4248414,
       "modified_iso": "2026-07-11T14:41:05.424841",
-      "minutes_since_active": 19.6
+      "minutes_since_active": 20.2
     }
   ]
 }
