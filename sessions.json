@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:14:49Z",
+  "updated_at": "2026-07-11T15:15:34Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 344
   },
   "active": [
+    {
+      "id": "fbd854b8",
+      "full_id": "fbd854b8-3952-4ba2-b14f-fda52886a8e5",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
+      "last_user_msg": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
+      "last_assistant_snippet": "Guru is oriented. Now calling advisor before I commit to an analysis frame.",
+      "message_count": 14,
+      "file_size_kb": 132,
+      "modified_ts": 1783782907.6238093,
+      "modified_iso": "2026-07-11T11:15:07.623809",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
@@ -18,26 +34,10 @@
       "last_user_msg": "<task-notification> <task-id>aa805a41ae0056c80</task-id> <tool-use-id>toolu_012EE1G3VgXL58wQ27cJpqjW</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/b514d97a-2c7\u2026",
       "last_assistant_snippet": "**6/8 done:** `synthesis/04-agent-architecture-personal-os.md` shipped (647 lines). **The intellectual timeline for Intent Engineering is now traced dated-source-by-source** \u2014 Prom\u2026",
       "message_count": 513,
-      "file_size_kb": 1856,
-      "modified_ts": 1783782888.0725462,
-      "modified_iso": "2026-07-11T11:14:48.072546",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "fbd854b8",
-      "full_id": "fbd854b8-3952-4ba2-b14f-fda52886a8e5",
-      "status": "active",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
-      "last_user_msg": "i want you to analyze this in depth and tell me if this makes sense to replicate and how can we instill the principles and logic to what we are doing -> https://www.getguru.com/?r=\u2026",
-      "last_assistant_snippet": "I'll orient before analyzing \u2014 fetch the actual Guru page, load the reverse-engineer skill, then call advisor before writing conclusions.",
-      "message_count": 10,
-      "file_size_kb": 115,
-      "modified_ts": 1783782859.3609583,
-      "modified_iso": "2026-07-11T11:14:19.360958",
-      "minutes_since_active": 0.5
+      "file_size_kb": 1858,
+      "modified_ts": 1783782890.1568394,
+      "modified_iso": "2026-07-11T11:14:50.156839",
+      "minutes_since_active": 0.7
     }
   ],
   "recent": []
