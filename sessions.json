@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T16:36:05Z",
+  "updated_at": "2026-07-11T16:36:59Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_qLQ7Jk/Screenshot 2026-07-11 at 12.33.24.png] [Image: source: /var/folders/9l/\u2026",
-      "last_assistant_snippet": "**Curate page is open \u2014 `~/Desktop/Personal-Ontology/curate.html` (5.3MB, 179 sections)** ## What it does **Top bar \u2014 topic pills** (28 topics auto-tagged): Bo\u011fazi\u00e7i/DAO \u00b7 PRAG LAB\u2026",
-      "message_count": 672,
-      "file_size_kb": 3630,
-      "modified_ts": 1783787622.5588787,
-      "modified_iso": "2026-07-11T12:33:42.558879",
-      "minutes_since_active": 2.4
+      "last_assistant_snippet": "Two fixes shipped: **Fix 1 \u2014 the bug:** JSON payload contained `</script>` text (from Notion clipped articles about JS). Now escaped to `<\\/script>` in Python before embedding. Als\u2026",
+      "message_count": 679,
+      "file_size_kb": 3681,
+      "modified_ts": 1783787817.724721,
+      "modified_iso": "2026-07-11T12:36:57.724721",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 149,
       "modified_ts": 1783783151.1354885,
       "modified_iso": "2026-07-11T11:19:11.135489",
-      "minutes_since_active": 76.9
+      "minutes_since_active": 77.8
     }
   ]
 }
