@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T15:15:32Z",
+  "updated_at": "2026-07-11T15:16:38Z",
   "total_tabs": 315,
   "total_windows": 7,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
@@ -12,11 +12,15 @@
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 17
+          "count": 16
         },
         {
           "domain": "higgsfield.ai",
           "count": 10
+        },
+        {
+          "domain": "google.com",
+          "count": 4
         },
         {
           "domain": "keep.google.com",
@@ -25,10 +29,6 @@
         {
           "domain": "skool.com",
           "count": 4
-        },
-        {
-          "domain": "conceptkb.com",
-          "count": 3
         }
       ]
     },
