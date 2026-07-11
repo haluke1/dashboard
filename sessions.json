@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T15:09:00Z",
+  "updated_at": "2026-07-11T15:10:08Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "8 subagents running in parallel now. Each has scoped context (specific file paths + grep terms + output path), not the whole corpus. Each writes to `~/Desktop/Personal-Ontology/syn\u2026",
       "message_count": 485,
       "file_size_kb": 1781,
-      "modified_ts": 1783782387.690821,
-      "modified_iso": "2026-07-11T11:06:27.690821",
-      "minutes_since_active": 2.5
+      "modified_ts": 1783782571.9398336,
+      "modified_iso": "2026-07-11T11:09:31.939834",
+      "minutes_since_active": 0.6
     }
   ],
   "recent": []
