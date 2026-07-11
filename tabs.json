@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T18:09:39Z",
-  "total_tabs": 333,
+  "updated_at": "2026-07-11T18:10:45Z",
+  "total_tabs": 334,
   "total_windows": 7,
-  "duplicate_tabs": 14,
+  "duplicate_tabs": 15,
   "bridge_online": true,
   "categories": [
     {
@@ -12,7 +12,7 @@
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 21
+          "count": 22
         },
         {
           "domain": "higgsfield.ai",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "google.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "skool.com",
@@ -95,7 +95,7 @@
     },
     {
       "name": "social",
-      "count": 11,
+      "count": 12,
       "domain_count": 7,
       "top_domains": [
         {
@@ -108,7 +108,7 @@
         },
         {
           "domain": "facebook.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "reddit.com",
