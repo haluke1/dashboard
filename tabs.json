@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T20:05:38Z",
+  "updated_at": "2026-07-12T20:07:49Z",
   "total_tabs": 272,
   "total_windows": 6,
   "duplicate_tabs": 15,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 45,
+      "count": 44,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 45
+          "count": 44
         }
       ]
     },
@@ -122,9 +122,13 @@
     },
     {
       "name": "local",
-      "count": 1,
-      "domain_count": 1,
+      "count": 2,
+      "domain_count": 2,
       "top_domains": [
+        {
+          "domain": "localhost:8766",
+          "count": 1
+        },
         {
           "domain": "localhost:8765",
           "count": 1
