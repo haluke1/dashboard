@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-12T19:15:25Z",
-  "total_tabs": 305,
+  "updated_at": "2026-07-12T19:16:28Z",
+  "total_tabs": 308,
   "total_windows": 6,
   "duplicate_tabs": 14,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 182,
+      "count": 183,
       "domain_count": 127,
       "top_domains": [
         {
@@ -19,27 +19,27 @@
           "count": 10
         },
         {
+          "domain": "skool.com",
+          "count": 5
+        },
+        {
           "domain": "keep.google.com",
           "count": 4
         },
         {
           "domain": "open.spotify.com",
           "count": 4
-        },
-        {
-          "domain": "skool.com",
-          "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 59,
+      "count": 61,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 59
+          "count": 61
         }
       ]
     },
