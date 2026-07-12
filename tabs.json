@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T17:23:06Z",
-  "total_tabs": 331,
-  "total_windows": 7,
-  "duplicate_tabs": 11,
+  "updated_at": "2026-07-12T17:25:18Z",
+  "total_tabs": 324,
+  "total_windows": 6,
+  "duplicate_tabs": 13,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 193,
-      "domain_count": 136,
+      "count": 191,
+      "domain_count": 133,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,38 +19,38 @@
           "count": 10
         },
         {
+          "domain": "jobtread.com",
+          "count": 4
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "google.com",
           "count": 4
-        },
-        {
-          "domain": "jobtread.com",
-          "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 57,
+      "count": 56,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 57
+          "count": 56
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 57,
+      "count": 53,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 46
+          "count": 42
         },
         {
           "domain": "github.com",
@@ -62,33 +62,6 @@
         },
         {
           "domain": "openai.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 12,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "x.com",
-          "count": 3
-        },
-        {
-          "domain": "facebook.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
@@ -116,6 +89,33 @@
         },
         {
           "domain": "notion.so",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 12,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "facebook.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
