@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T23:17:05Z",
-  "total_tabs": 244,
+  "updated_at": "2026-07-12T23:18:09Z",
+  "total_tabs": 247,
   "total_windows": 6,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 138,
-      "domain_count": 97,
+      "count": 139,
+      "domain_count": 98,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -67,6 +67,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 12,
+      "domain_count": 8,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "uk.linkedin.com",
+          "count": 1
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 11,
       "domain_count": 6,
@@ -89,33 +116,6 @@
         },
         {
           "domain": "notion.so",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 10,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 3
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
