@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-12T18:40:32Z",
+  "updated_at": "2026-07-12T18:41:37Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 341,
+    "recent": 2,
+    "archived": 342,
     "total": 344
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 3541,
       "modified_ts": 1783818858.6411002,
       "modified_iso": "2026-07-11T21:14:18.641100",
-      "minutes_since_active": 1046.2
+      "minutes_since_active": 1047.3
     },
     {
       "id": "fbd854b8",
@@ -38,23 +38,7 @@
       "file_size_kb": 466,
       "modified_ts": 1783796476.1079452,
       "modified_iso": "2026-07-11T15:01:16.107945",
-      "minutes_since_active": 1419.2
-    },
-    {
-      "id": "b514d97a",
-      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
-      "project": "/Users/halukgul/Desktop/Notion-Organized/assets",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "could you open it again in a webpage",
-      "last_assistant_snippet": "Opened.",
-      "message_count": 895,
-      "file_size_kb": 4576,
-      "modified_ts": 1783795265.4248414,
-      "modified_iso": "2026-07-11T14:41:05.424841",
-      "minutes_since_active": 1439.4
+      "minutes_since_active": 1420.3
     }
   ]
 }
