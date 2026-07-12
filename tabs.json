@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-12T17:17:26Z",
-  "total_tabs": 350,
+  "updated_at": "2026-07-12T17:18:33Z",
+  "total_tabs": 347,
   "total_windows": 7,
-  "duplicate_tabs": 17,
+  "duplicate_tabs": 16,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 207,
+      "count": 206,
       "domain_count": 142,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 25
+          "count": 24
         },
         {
           "domain": "higgsfield.ai",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 61,
+      "count": 59,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 61
+          "count": 59
         }
       ]
     },
