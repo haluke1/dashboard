@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-07-12T01:19:09Z",
+  "updated_at": "2026-07-12T01:20:13Z",
   "counts": {
-    "active": 1,
-    "recent": 2,
+    "active": 0,
+    "recent": 3,
     "archived": 341,
     "total": 344
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "c3395c44",
       "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/Personal-Ontology",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -21,10 +22,8 @@
       "file_size_kb": 3541,
       "modified_ts": 1783818858.6411002,
       "modified_iso": "2026-07-11T21:14:18.641100",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "fbd854b8",
       "full_id": "fbd854b8-3952-4ba2-b14f-fda52886a8e5",
@@ -39,7 +38,7 @@
       "file_size_kb": 466,
       "modified_ts": 1783796476.1079452,
       "modified_iso": "2026-07-11T15:01:16.107945",
-      "minutes_since_active": 377.9
+      "minutes_since_active": 378.9
     },
     {
       "id": "b514d97a",
@@ -55,7 +54,7 @@
       "file_size_kb": 4576,
       "modified_ts": 1783795265.4248414,
       "modified_iso": "2026-07-11T14:41:05.424841",
-      "minutes_since_active": 398.0
+      "minutes_since_active": 399.1
     }
   ]
 }
