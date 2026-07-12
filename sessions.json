@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T21:54:30Z",
+  "updated_at": "2026-07-12T21:54:45Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "tier a can go. also get rid of these -> \u2502 11 \u2502 76 Sherlock-era marketing memes \u2502 ~150 \u2502 Archived project. \u2502 \u2502 9 \u2502 57 ETHGlobal DALL-E thread images references (from LOOP3) \u2502 ~150 \u2502\u2026",
+      "last_user_msg": "<local-command-stdout>\u001b[2mCompacted (ctrl+o to see full summary)\u001b[22m \u001b[2mPreCompact [bash \"$HOME/.claude/hooks/precompact-snapshot.sh\"] completed successfully: Snapshot saved: /Us\u2026",
       "last_assistant_snippet": "Executed. **8,278 lines cut**, all load-bearing preserved. ## Results | Metric | Before | After | Change | |---|---|---|---| | Lines | 100,070 | **91,792** | -8,278 (8.3%) | | Size\u2026",
-      "message_count": 723,
-      "file_size_kb": 5037,
-      "modified_ts": 1783893017.0675,
-      "modified_iso": "2026-07-12T17:50:17.067500",
-      "minutes_since_active": 4.2
+      "message_count": 727,
+      "file_size_kb": 5140,
+      "modified_ts": 1783893271.277308,
+      "modified_iso": "2026-07-12T17:54:31.277308",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": []
