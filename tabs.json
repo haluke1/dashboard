@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-12T17:35:07Z",
-  "total_tabs": 295,
+  "updated_at": "2026-07-12T17:36:13Z",
+  "total_tabs": 296,
   "total_windows": 6,
-  "duplicate_tabs": 13,
+  "duplicate_tabs": 14,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 180,
+      "count": 181,
       "domain_count": 127,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 10
         },
         {
+          "domain": "keep.google.com",
+          "count": 4
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "google.com",
           "count": 4
-        },
-        {
-          "domain": "managementconcepts.com",
-          "count": 3
         }
       ]
     },
