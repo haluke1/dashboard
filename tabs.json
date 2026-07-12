@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-07-12T17:18:33Z",
-  "total_tabs": 347,
+  "updated_at": "2026-07-12T17:19:50Z",
+  "total_tabs": 331,
   "total_windows": 7,
-  "duplicate_tabs": 16,
+  "duplicate_tabs": 11,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 206,
-      "domain_count": 142,
+      "count": 193,
+      "domain_count": 136,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 24
+          "count": 20
         },
         {
           "domain": "higgsfield.ai",
           "count": 10
         },
         {
-          "domain": "google.com",
-          "count": 5
-        },
-        {
-          "domain": "keep.google.com",
+          "domain": "skool.com",
           "count": 4
         },
         {
-          "domain": "skool.com",
+          "domain": "google.com",
+          "count": 4
+        },
+        {
+          "domain": "jobtread.com",
           "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 59,
+      "count": 57,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 59
+          "count": 57
         }
       ]
     },
@@ -67,33 +67,6 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 13,
-      "domain_count": 6,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 4
-        },
-        {
-          "domain": "drive.google.com",
-          "count": 3
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 2
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 12,
       "domain_count": 7,
@@ -116,6 +89,33 @@
         },
         {
           "domain": "gtmetrix.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 12,
+      "domain_count": 6,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 4
+        },
+        {
+          "domain": "drive.google.com",
+          "count": 3
+        },
+        {
+          "domain": "toolbox.googleapps.com",
+          "count": 2
+        },
+        {
+          "domain": "calendar.google.com",
+          "count": 1
+        },
+        {
+          "domain": "notion.so",
           "count": 1
         }
       ]
