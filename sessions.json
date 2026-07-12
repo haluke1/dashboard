@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T21:55:50Z",
+  "updated_at": "2026-07-12T21:56:54Z",
   "counts": {
     "active": 1,
     "recent": 0,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
       "first_prompt": "we had a solution for watching youtube videos can you take a look at what we created and give them to me? we were going over a few options but one of them was better cause it captu\u2026",
-      "last_user_msg": "<local-command-stdout>\u001b[2mCompacted (ctrl+o to see full summary)\u001b[22m \u001b[2mPreCompact [bash \"$HOME/.claude/hooks/precompact-snapshot.sh\"] completed successfully: Snapshot saved: /Us\u2026",
-      "last_assistant_snippet": "Executed. **8,278 lines cut**, all load-bearing preserved. ## Results | Metric | Before | After | Change | |---|---|---|---| | Lines | 100,070 | **91,792** | -8,278 (8.3%) | | Size\u2026",
-      "message_count": 727,
-      "file_size_kb": 5140,
-      "modified_ts": 1783893271.277308,
-      "modified_iso": "2026-07-12T17:54:31.277308",
-      "minutes_since_active": 1.3
+      "last_user_msg": "what is the progress",
+      "last_assistant_snippet": "## Where we are | | Start of session | Now | Cut | |---|---|---|---| | Lines | 155,070 | **91,792** | -63,278 (41%) | | Size | 7.6 MB | **4.36 MB** | -3.24 MB (43%) | | Est tokens \u2026",
+      "message_count": 732,
+      "file_size_kb": 5150,
+      "modified_ts": 1783893412.7463968,
+      "modified_iso": "2026-07-12T17:56:52.746397",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": []
