@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T03:45:27Z",
+  "updated_at": "2026-07-12T03:46:32Z",
   "total_tabs": 360,
   "total_windows": 7,
   "duplicate_tabs": 17,
@@ -95,15 +95,15 @@
     },
     {
       "name": "social",
-      "count": 12,
+      "count": 13,
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "linkedin.com",
-          "count": 3
+          "domain": "x.com",
+          "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "linkedin.com",
           "count": 3
         },
         {
@@ -116,17 +116,6 @@
         },
         {
           "domain": "gtmetrix.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
