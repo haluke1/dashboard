@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T19:54:45Z",
-  "total_tabs": 273,
+  "updated_at": "2026-07-12T19:55:50Z",
+  "total_tabs": 274,
   "total_windows": 6,
   "duplicate_tabs": 14,
   "bridge_online": true,
@@ -116,6 +116,17 @@
         },
         {
           "domain": "calendar.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:8765",
           "count": 1
         }
       ]
