@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T20:54:28Z",
-  "total_tabs": 275,
+  "updated_at": "2026-07-12T20:55:35Z",
+  "total_tabs": 276,
   "total_windows": 6,
   "duplicate_tabs": 15,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 164,
-      "domain_count": 113,
+      "count": 165,
+      "domain_count": 114,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -57,11 +57,11 @@
           "count": 9
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -84,11 +84,11 @@
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "web.whatsapp.com",
           "count": 1
         },
         {
-          "domain": "gtmetrix.com",
+          "domain": "reddit.com",
           "count": 1
         }
       ]
