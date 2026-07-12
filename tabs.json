@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T22:07:46Z",
-  "total_tabs": 287,
+  "updated_at": "2026-07-12T22:08:52Z",
+  "total_tabs": 286,
   "total_windows": 6,
   "duplicate_tabs": 15,
   "bridge_online": true,
@@ -68,16 +68,12 @@
     },
     {
       "name": "social",
-      "count": 12,
+      "count": 11,
       "domain_count": 7,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 3
-        },
-        {
-          "domain": "reddit.com",
-          "count": 2
         },
         {
           "domain": "facebook.com",
@@ -86,6 +82,10 @@
         {
           "domain": "x.com",
           "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
         },
         {
           "domain": "gtmetrix.com",
