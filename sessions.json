@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-13T04:47:09Z",
+  "updated_at": "2026-07-13T04:48:14Z",
   "counts": {
-    "active": 2,
-    "recent": 0,
+    "active": 1,
+    "recent": 1,
     "archived": 343,
     "total": 345
   },
@@ -17,16 +17,18 @@
       "first_prompt": "/Users/halukgul/Desktop/Personal-Ontology/EVERYTHING.md i have condensed all my notes into this file and removed some parts that were unnecessary. i want you to launch sub agents f\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/dispatching-parallel-agents # Dispatching Parallel Agents ## O\u2026",
       "last_assistant_snippet": "Launching all 8 agents in parallel.",
-      "message_count": 34,
-      "file_size_kb": 185,
-      "modified_ts": 1783917966.076131,
-      "modified_iso": "2026-07-13T00:46:06.076131",
-      "minutes_since_active": 1.0
-    },
+      "message_count": 35,
+      "file_size_kb": 193,
+      "modified_ts": 1783918064.5795915,
+      "modified_iso": "2026-07-13T00:47:44.579592",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "c3395c44",
       "full_id": "c3395c44-b79a-4d36-8a40-71409c243b5f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/Personal-Ontology",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,8 +39,7 @@
       "file_size_kb": 8443,
       "modified_ts": 1783917739.8616972,
       "modified_iso": "2026-07-13T00:42:19.861697",
-      "minutes_since_active": 4.8
+      "minutes_since_active": 5.9
     }
-  ],
-  "recent": []
+  ]
 }
