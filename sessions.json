@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:37:45Z",
+  "updated_at": "2026-07-13T23:38:02Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "i want them in a direct file where i can directly see them not in an md file. i want the actual files moved to a file where i can see all of them",
       "last_assistant_snippet": "Staging open in Finder at `~/CLEANUP-STAGING/`. **What's there (39 GB total):** - **A-caches-35GB/** (31 GB actual) \u2014 24 items, biggest is `uv-13G/`. Every one of these is pure cac\u2026",
       "message_count": 251,
-      "file_size_kb": 872,
-      "modified_ts": 1783985863.3832684,
-      "modified_iso": "2026-07-13T19:37:43.383268",
-      "minutes_since_active": 0.0
+      "file_size_kb": 874,
+      "modified_ts": 1783985865.4374294,
+      "modified_iso": "2026-07-13T19:37:45.437429",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1516,
       "modified_ts": 1783985540.950158,
       "modified_iso": "2026-07-13T19:32:20.950158",
-      "minutes_since_active": 5.4
+      "minutes_since_active": 5.7
     },
     {
       "id": "c3395c44",
@@ -55,7 +55,7 @@
       "file_size_kb": 8443,
       "modified_ts": 1783917739.8616972,
       "modified_iso": "2026-07-13T00:42:19.861697",
-      "minutes_since_active": 1135.4
+      "minutes_since_active": 1135.7
     }
   ]
 }
