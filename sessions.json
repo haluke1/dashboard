@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:54:37Z",
+  "updated_at": "2026-07-13T23:55:38Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_JhbLqa/Screenshot 2026-07-13 at 19.53.52.png]",
       "last_assistant_snippet": "Done. **Trashed:** - The 3 Systran faster-whisper models in your screenshot \u2014 **already in Trash** from the HuggingFace nuke earlier (they lived inside `~/.cache/huggingface/hub/`)\u2026",
       "message_count": 324,
-      "file_size_kb": 1356,
-      "modified_ts": 1783986875.8341498,
-      "modified_iso": "2026-07-13T19:54:35.834150",
-      "minutes_since_active": 0.0
+      "file_size_kb": 1358,
+      "modified_ts": 1783986877.5715654,
+      "modified_iso": "2026-07-13T19:54:37.571565",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1516,
       "modified_ts": 1783985540.950158,
       "modified_iso": "2026-07-13T19:32:20.950158",
-      "minutes_since_active": 22.3
+      "minutes_since_active": 23.3
     },
     {
       "id": "c3395c44",
@@ -55,7 +55,7 @@
       "file_size_kb": 8443,
       "modified_ts": 1783917739.8616972,
       "modified_iso": "2026-07-13T00:42:19.861697",
-      "minutes_since_active": 1152.3
+      "minutes_since_active": 1153.3
     }
   ]
 }
