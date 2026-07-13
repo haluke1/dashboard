@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:10:33Z",
+  "updated_at": "2026-07-13T23:10:35Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,9 +18,9 @@
       "last_user_msg": "<task-notification> <task-id>a4a4033408e637526</task-id> <tool-use-id>toolu_011vpDP8fX42hjEsZrmLFoQE</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
       "last_assistant_snippet": "Bucket 09 in (30 rows \u2014 POE flagship confirmed, plus tab-commander/tab-grouper-ext/wisprflow-alternative long-tail). 7 to go.",
       "message_count": 80,
-      "file_size_kb": 268,
-      "modified_ts": 1783984232.1305664,
-      "modified_iso": "2026-07-13T19:10:32.130566",
+      "file_size_kb": 269,
+      "modified_ts": 1783984233.831394,
+      "modified_iso": "2026-07-13T19:10:33.831394",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 1054,
       "modified_ts": 1783983899.8544393,
       "modified_iso": "2026-07-13T19:04:59.854439",
-      "minutes_since_active": 5.5
+      "minutes_since_active": 5.6
     },
     {
       "id": "c3395c44",
@@ -55,7 +55,7 @@
       "file_size_kb": 8443,
       "modified_ts": 1783917739.8616972,
       "modified_iso": "2026-07-13T00:42:19.861697",
-      "minutes_since_active": 1108.2
+      "minutes_since_active": 1108.3
     }
   ]
 }
