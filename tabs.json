@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T23:31:54Z",
-  "total_tabs": 260,
+  "updated_at": "2026-07-13T23:35:18Z",
+  "total_tabs": 261,
   "total_windows": 8,
-  "duplicate_tabs": 12,
+  "duplicate_tabs": 13,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 151,
+      "count": 152,
       "domain_count": 102,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 5
+          "count": 6
         },
         {
           "domain": "skool.com",
@@ -57,11 +57,11 @@
           "count": 9
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -80,15 +80,15 @@
           "count": 2
         },
         {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
           "domain": "facebook.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
