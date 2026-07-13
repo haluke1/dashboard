@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T23:11:14Z",
+  "updated_at": "2026-07-13T23:11:40Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "<task-notification> <task-id>a970e98c78d9a886e</task-id> <tool-use-id>toolu_01RdknEuBfTUQmwftXGB74x4</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul/c3395c44-b79\u2026",
       "last_assistant_snippet": "Bucket 10 in (36 rows \u2014 Personal Ontology topic taxonomy 279KB, 50 named Turkish enterprise prospects, Villanova Faculty CRM real-not-research, Dubai Expo case). 4 to go.",
       "message_count": 86,
-      "file_size_kb": 295,
-      "modified_ts": 1783984272.9817777,
-      "modified_iso": "2026-07-13T19:11:12.981778",
-      "minutes_since_active": 0.0
+      "file_size_kb": 296,
+      "modified_ts": 1783984274.6706753,
+      "modified_iso": "2026-07-13T19:11:14.670675",
+      "minutes_since_active": 0.4
     },
     {
       "id": "a2659029",
@@ -37,7 +37,7 @@
       "file_size_kb": 1066,
       "modified_ts": 1783984262.2176385,
       "modified_iso": "2026-07-13T19:11:02.217638",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 8443,
       "modified_ts": 1783917739.8616972,
       "modified_iso": "2026-07-13T00:42:19.861697",
-      "minutes_since_active": 1108.9
+      "minutes_since_active": 1109.3
     }
   ]
 }
