@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-13T04:29:51Z",
-  "total_tabs": 257,
+  "updated_at": "2026-07-13T04:30:56Z",
+  "total_tabs": 254,
   "total_windows": 6,
-  "duplicate_tabs": 13,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 151,
+      "count": 148,
       "domain_count": 102,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 10
         },
         {
-          "domain": "banssb9.villanova.edu",
-          "count": 6
-        },
-        {
           "domain": "keep.google.com",
           "count": 5
         },
         {
           "domain": "skool.com",
           "count": 4
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 3
         }
       ]
     },
