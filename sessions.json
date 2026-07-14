@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T02:37:29Z",
+  "updated_at": "2026-07-14T02:38:34Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -18,10 +18,10 @@
       "last_user_msg": "okey but why do sessions zero out when laptop goes out for a long time and reopens? or i gotta open up a new session with /claude and ask it to look at the previous session to get \u2026",
       "last_assistant_snippet": "**Analogy first**: sessions are like notebooks on your shelf. Typing `claude` grabs a **fresh** notebook. The old ones are still on the shelf \u2014 but you have to specifically ask for\u2026",
       "message_count": 383,
-      "file_size_kb": 3208,
-      "modified_ts": 1783996468.604162,
-      "modified_iso": "2026-07-13T22:34:28.604162",
-      "minutes_since_active": 3.0
+      "file_size_kb": 3209,
+      "modified_ts": 1783996652.0941653,
+      "modified_iso": "2026-07-13T22:37:32.094165",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1516,
       "modified_ts": 1783985540.950158,
       "modified_iso": "2026-07-13T19:32:20.950158",
-      "minutes_since_active": 185.1
+      "minutes_since_active": 186.2
     },
     {
       "id": "c3395c44",
@@ -55,7 +55,7 @@
       "file_size_kb": 8443,
       "modified_ts": 1783917739.8616972,
       "modified_iso": "2026-07-13T00:42:19.861697",
-      "minutes_since_active": 1315.2
+      "minutes_since_active": 1316.2
     }
   ]
 }
