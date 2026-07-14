@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T23:21:48Z",
-  "total_tabs": 261,
+  "updated_at": "2026-07-14T23:43:44Z",
+  "total_tabs": 263,
   "total_windows": 7,
   "duplicate_tabs": 13,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 48,
+      "count": 50,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 48
+          "count": 50
         }
       ]
     },
@@ -57,11 +57,11 @@
           "count": 9
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -80,15 +80,15 @@
           "count": 2
         },
         {
+          "domain": "web.whatsapp.com",
+          "count": 1
+        },
+        {
           "domain": "facebook.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]

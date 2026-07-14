@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-14T23:21:50Z",
+  "updated_at": "2026-07-14T23:43:47Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 322,
+    "recent": 1,
+    "archived": 323,
     "total": 324
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 3209,
       "modified_ts": 1783996652.0941653,
       "modified_iso": "2026-07-13T22:37:32.094165",
-      "minutes_since_active": 1244.3
-    },
-    {
-      "id": "a2659029",
-      "full_id": "a2659029-cf9a-4a68-87cc-b1e5ef874d61",
-      "status": "recent",
-      "project": "/Users/halukgul",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "/Users/halukgul/Desktop/Personal-Ontology/EVERYTHING.md i have condensed all my notes into this file and removed some parts that were unnecessary. i want you to launch sub agents f\u2026",
-      "last_user_msg": "any chance we lost anything of value from the things we trimmed? launch 4 sub agents to go in detail of everything we trimmed and give me a report",
-      "last_assistant_snippet": "Research done. Six angles fetched + advisor cross-check. Here's the honest synthesis. ## Direct answer: 10 Sonnet vs 5 Opus? **Both wrong frame.** The 2026 consensus (Anthropic doc\u2026",
-      "message_count": 171,
-      "file_size_kb": 1516,
-      "modified_ts": 1783985540.950158,
-      "modified_iso": "2026-07-13T19:32:20.950158",
-      "minutes_since_active": 1429.5
+      "minutes_since_active": 1266.2
     }
   ]
 }
