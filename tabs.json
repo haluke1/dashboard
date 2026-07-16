@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-16T02:59:03Z",
-  "total_tabs": 262,
-  "total_windows": 7,
+  "updated_at": "2026-07-16T03:00:08Z",
+  "total_tabs": 264,
+  "total_windows": 8,
   "duplicate_tabs": 13,
   "bridge_online": true,
   "categories": [
@@ -23,11 +23,11 @@
           "count": 6
         },
         {
-          "domain": "login.microsoftonline.com",
+          "domain": "skool.com",
           "count": 4
         },
         {
-          "domain": "skool.com",
+          "domain": "login.microsoftonline.com",
           "count": 4
         }
       ]
@@ -68,12 +68,16 @@
     },
     {
       "name": "social",
-      "count": 11,
-      "domain_count": 7,
+      "count": 13,
+      "domain_count": 8,
       "top_domains": [
         {
           "domain": "linkedin.com",
           "count": 4
+        },
+        {
+          "domain": "tnaflix.com",
+          "count": 2
         },
         {
           "domain": "x.com",
@@ -85,10 +89,6 @@
         },
         {
           "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
