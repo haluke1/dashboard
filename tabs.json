@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-16T03:21:56Z",
-  "total_tabs": 253,
+  "updated_at": "2026-07-16T03:23:04Z",
+  "total_tabs": 249,
   "total_windows": 7,
-  "duplicate_tabs": 11,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 148,
+      "count": 147,
       "domain_count": 100,
       "top_domains": [
         {
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "skool.com",
@@ -34,23 +34,23 @@
     },
     {
       "name": "video",
-      "count": 47,
+      "count": 46,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 47
+          "count": 46
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 36,
+      "count": 35,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 25
+          "count": 24
         },
         {
           "domain": "github.com",
@@ -95,15 +95,15 @@
     },
     {
       "name": "social",
-      "count": 10,
+      "count": 9,
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "linkedin.com",
-          "count": 3
+          "domain": "x.com",
+          "count": 2
         },
         {
-          "domain": "x.com",
+          "domain": "linkedin.com",
           "count": 2
         },
         {
