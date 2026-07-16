@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-16T03:01:16Z",
-  "total_tabs": 264,
-  "total_windows": 8,
-  "duplicate_tabs": 13,
+  "updated_at": "2026-07-16T03:03:31Z",
+  "total_tabs": 253,
+  "total_windows": 7,
+  "duplicate_tabs": 11,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 154,
-      "domain_count": 104,
+      "count": 148,
+      "domain_count": 100,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 14
+          "count": 13
         },
         {
           "domain": "higgsfield.ai",
@@ -20,7 +20,7 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "skool.com",
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 38,
+      "count": 36,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 27
+          "count": 25
         },
         {
           "domain": "github.com",
@@ -62,33 +62,6 @@
         },
         {
           "domain": "openai.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 12,
-      "domain_count": 8,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 4
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "tnaflix.com",
-          "count": 1
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
           "count": 1
         }
       ]
@@ -121,14 +94,37 @@
       ]
     },
     {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
+      "name": "social",
+      "count": 10,
+      "domain_count": 7,
       "top_domains": [
         {
-          "domain": "localhost:8766",
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
           "count": 1
         },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
         {
           "domain": "localhost:8765",
           "count": 1
