@@ -1,26 +1,22 @@
 {
-  "updated_at": "2026-07-16T03:50:13Z",
-  "total_tabs": 241,
+  "updated_at": "2026-07-16T03:51:18Z",
+  "total_tabs": 234,
   "total_windows": 7,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 143,
-      "domain_count": 98,
+      "count": 138,
+      "domain_count": 97,
       "top_domains": [
         {
           "domain": "(no domain)",
-          "count": 13
+          "count": 11
         },
         {
           "domain": "higgsfield.ai",
           "count": 10
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 4
         },
         {
           "domain": "skool.com",
@@ -29,17 +25,21 @@
         {
           "domain": "login.microsoftonline.com",
           "count": 4
+        },
+        {
+          "domain": "keep.google.com",
+          "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 43,
+      "count": 42,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 43
+          "count": 42
         }
       ]
     },
@@ -68,8 +68,8 @@
     },
     {
       "name": "productivity",
-      "count": 11,
-      "domain_count": 6,
+      "count": 10,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "drive.google.com",
@@ -84,11 +84,11 @@
           "count": 2
         },
         {
-          "domain": "mail.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "notion.so",
           "count": 1
         }
       ]
