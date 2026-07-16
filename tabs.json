@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T01:35:52Z",
-  "total_tabs": 263,
+  "updated_at": "2026-07-16T01:36:57Z",
+  "total_tabs": 264,
   "total_windows": 7,
   "duplicate_tabs": 13,
   "bridge_online": true,
@@ -131,6 +131,17 @@
         },
         {
           "domain": "localhost:8765",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "timesofisrael.com",
           "count": 1
         }
       ]
