@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-16T03:25:18Z",
-  "total_tabs": 246,
+  "updated_at": "2026-07-16T03:26:26Z",
+  "total_tabs": 244,
   "total_windows": 7,
-  "duplicate_tabs": 10,
+  "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 146,
-      "domain_count": 99,
+      "count": 143,
+      "domain_count": 98,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 44,
+      "count": 46,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 44
+          "count": 46
         }
       ]
     },
@@ -84,11 +84,11 @@
           "count": 2
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "mail.google.com",
           "count": 1
         },
         {
-          "domain": "notion.so",
+          "domain": "calendar.google.com",
           "count": 1
         }
       ]
@@ -99,16 +99,12 @@
       "domain_count": 7,
       "top_domains": [
         {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
           "domain": "linkedin.com",
           "count": 2
         },
         {
-          "domain": "instagram.com",
-          "count": 1
+          "domain": "x.com",
+          "count": 2
         },
         {
           "domain": "facebook.com",
@@ -117,16 +113,9 @@
         {
           "domain": "reddit.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
+        },
         {
-          "domain": "localhost:8765",
+          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
