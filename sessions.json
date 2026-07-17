@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-17T23:15:14Z",
+  "updated_at": "2026-07-17T23:15:33Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 1,
     "archived": 323,
-    "total": 325
+    "total": 326
   },
   "active": [
+    {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_assistant_snippet": "I'll analyze your Personal-Ontology folder in depth. Let me start by orienting \u2014 checking the folder structure and the size/shape of EVERYTHING_CURATED.md before reading it.",
+      "message_count": 5,
+      "file_size_kb": 155,
+      "modified_ts": 1784330127.968212,
+      "modified_iso": "2026-07-17T19:15:27.968212",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
@@ -21,7 +37,7 @@
       "file_size_kb": 5424,
       "modified_ts": 1784329943.1500957,
       "modified_iso": "2026-07-17T19:12:23.150096",
-      "minutes_since_active": 2.8
+      "minutes_since_active": 3.0
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1303.7
+      "minutes_since_active": 1303.9
     }
   ]
 }
