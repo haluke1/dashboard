@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T02:22:02Z",
+  "updated_at": "2026-07-17T02:23:08Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "how confident are you that you were able to get the things in the pictures into text from 0 to 100",
       "last_assistant_snippet": "**Around 85 out of 100.** Honest breakdown: **High confidence (~95+):** - **Page coverage**: 100% \u2014 every real photo has a `## IMG_XXXX` block in the raw transcription. Audit confi\u2026",
       "message_count": 1162,
-      "file_size_kb": 5272,
-      "modified_ts": 1784254786.4323938,
-      "modified_iso": "2026-07-16T22:19:46.432394",
-      "minutes_since_active": 2.2
+      "file_size_kb": 5273,
+      "modified_ts": 1784254978.5298898,
+      "modified_iso": "2026-07-16T22:22:58.529890",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 50.4
+      "minutes_since_active": 51.5
     }
   ]
 }
