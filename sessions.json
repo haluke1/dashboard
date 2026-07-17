@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T23:38:23Z",
+  "updated_at": "2026-07-17T23:39:33Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -8,9 +8,27 @@
   },
   "active": [
     {
+      "id": "b514d97a",
+      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/Personal-Ontology/topics",
+      "git_branch": "master",
+      "permission_mode": "bypassPermissions",
+      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
+      "last_user_msg": "what session id or session name is this? i wanna give this to fable 5 and have it analyze what happened here",
+      "last_assistant_snippet": "That's a git commit bar. It's tracking every file change on your computer for the \"master\" branch. **Reading it:** - **+192,776** = 192,776 lines of text ADDED since your last comm\u2026",
+      "message_count": 1208,
+      "file_size_kb": 5471,
+      "modified_ts": 1784331570.0864089,
+      "modified_iso": "2026-07-17T19:39:30.086409",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
+    {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,25 +39,7 @@
       "file_size_kb": 767,
       "modified_ts": 1784331248.2888799,
       "modified_iso": "2026-07-17T19:34:08.288880",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
-    {
-      "id": "b514d97a",
-      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
-      "project": "/Users/halukgul/Desktop/Personal-Ontology/topics",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "[Image: source: /var/folders/9l/dg87rm3n5rbbrcdt9lywd8lm0000gn/T/TemporaryItems/NSIRD_screencaptureui_28hRRe/Screenshot 2026-07-17 at 19.25.21.png]",
-      "last_assistant_snippet": "That's a git commit bar. It's tracking every file change on your computer for the \"master\" branch. **Reading it:** - **+192,776** = 192,776 lines of text ADDED since your last comm\u2026",
-      "message_count": 1207,
-      "file_size_kb": 5465,
-      "modified_ts": 1784330995.4346902,
-      "modified_iso": "2026-07-17T19:29:55.434690",
-      "minutes_since_active": 8.4
+      "minutes_since_active": 5.4
     },
     {
       "id": "76294ed1",
@@ -55,7 +55,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1326.8
+      "minutes_since_active": 1328.0
     }
   ]
 }
