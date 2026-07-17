@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T23:48:19Z",
-  "total_tabs": 158,
+  "updated_at": "2026-07-17T23:49:26Z",
+  "total_tabs": 153,
   "total_windows": 6,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 93,
-      "domain_count": 70,
+      "count": 91,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -23,11 +23,11 @@
           "count": 3
         },
         {
-          "domain": "(no domain)",
-          "count": 3
+          "domain": "moneyatlas.com",
+          "count": 2
         },
         {
-          "domain": "moneyatlas.com",
+          "domain": "skool.com",
           "count": 2
         }
       ]
@@ -57,12 +57,12 @@
     },
     {
       "name": "video",
-      "count": 24,
+      "count": 21,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 24
+          "count": 21
         }
       ]
     },
