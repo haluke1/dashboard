@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-17T00:28:38Z",
-  "total_tabs": 253,
+  "updated_at": "2026-07-17T00:29:43Z",
+  "total_tabs": 254,
   "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
@@ -8,7 +8,7 @@
     {
       "name": "other",
       "count": 151,
-      "domain_count": 104,
+      "domain_count": 105,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -67,6 +67,33 @@
       ]
     },
     {
+      "name": "social",
+      "count": 10,
+      "domain_count": 7,
+      "top_domains": [
+        {
+          "domain": "linkedin.com",
+          "count": 3
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "gtmetrix.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 10,
       "domain_count": 5,
@@ -89,33 +116,6 @@
         },
         {
           "domain": "notion.so",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 9,
-      "domain_count": 7,
-      "top_domains": [
-        {
-          "domain": "linkedin.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "gtmetrix.com",
           "count": 1
         }
       ]
