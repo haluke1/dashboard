@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T23:25:41Z",
+  "updated_at": "2026-07-17T23:27:10Z",
   "total_tabs": 237,
   "total_windows": 7,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 139,
-      "domain_count": 97,
+      "domain_count": 96,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 10
         },
         {
+          "domain": "keep.google.com",
+          "count": 4
+        },
+        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "login.microsoftonline.com",
           "count": 4
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 3
         }
       ]
     },
