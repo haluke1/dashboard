@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T00:22:09Z",
-  "total_tabs": 244,
+  "updated_at": "2026-07-17T00:23:14Z",
+  "total_tabs": 246,
   "total_windows": 7,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 142,
-      "domain_count": 99,
+      "count": 144,
+      "domain_count": 101,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,15 +19,15 @@
           "count": 10
         },
         {
-          "domain": "login.microsoftonline.com",
-          "count": 5
-        },
-        {
           "domain": "skool.com",
           "count": 4
         },
         {
-          "domain": "keep.google.com",
+          "domain": "login.microsoftonline.com",
+          "count": 4
+        },
+        {
+          "domain": "wisprflow.ai",
           "count": 3
         }
       ]
