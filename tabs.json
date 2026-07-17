@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T23:42:44Z",
-  "total_tabs": 224,
+  "updated_at": "2026-07-17T23:43:55Z",
+  "total_tabs": 206,
   "total_windows": 7,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 139,
-      "domain_count": 96,
+      "count": 133,
+      "domain_count": 93,
       "top_domains": [
         {
           "domain": "(no domain)",
@@ -19,16 +19,16 @@
           "count": 10
         },
         {
-          "domain": "keep.google.com",
-          "count": 4
-        },
-        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "login.microsoftonline.com",
           "count": 4
+        },
+        {
+          "domain": "keep.google.com",
+          "count": 3
         }
       ]
     },
@@ -57,39 +57,12 @@
     },
     {
       "name": "video",
-      "count": 30,
+      "count": 25,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 30
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 11,
-      "domain_count": 5,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 4
-        },
-        {
-          "domain": "drive.google.com",
-          "count": 3
-        },
-        {
-          "domain": "toolbox.googleapps.com",
-          "count": 2
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 1
-        },
-        {
-          "domain": "notion.so",
-          "count": 1
+          "count": 25
         }
       ]
     },
@@ -117,6 +90,17 @@
         {
           "domain": "web.whatsapp.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 4,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 4
         }
       ]
     }
