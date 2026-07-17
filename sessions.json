@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T01:36:04Z",
+  "updated_at": "2026-07-17T01:36:19Z",
   "counts": {
     "active": 2,
     "recent": 0,
@@ -16,12 +16,12 @@
       "permission_mode": "bypassPermissions",
       "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
       "last_user_msg": "Add the raw files back, but I want to get suggestions of what parts we could get rid of.",
-      "last_assistant_snippet": "Bad news: **`~/Desktop/Notion Full Export/` folder is gone.** Was deleted between Jul 11 and now. What remains: `Notion-Organized/` (the 7 extractions + 898MB assets), and the raw \u2026",
-      "message_count": 977,
-      "file_size_kb": 4869,
-      "modified_ts": 1784252149.382063,
-      "modified_iso": "2026-07-16T21:35:49.382063",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "**Done. `EVERYTHING_CURATED.md` is now 5.06 MB.** Recovered **461 raw Notion md files** from the EVERYTHING.md snapshot. The original had 2,537, so **~2,076 got lost when EVERYTHIN\u2026",
+      "message_count": 979,
+      "file_size_kb": 4876,
+      "modified_ts": 1784252177.523594,
+      "modified_iso": "2026-07-16T21:36:17.523594",
+      "minutes_since_active": 0.0
     },
     {
       "id": "76294ed1",
@@ -37,7 +37,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 4.5
+      "minutes_since_active": 4.7
     }
   ],
   "recent": []
