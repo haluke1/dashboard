@@ -1,26 +1,18 @@
 {
-  "updated_at": "2026-07-17T23:46:08Z",
-  "total_tabs": 196,
-  "total_windows": 6,
+  "updated_at": "2026-07-17T23:47:14Z",
+  "total_tabs": 159,
+  "total_windows": 7,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 127,
-      "domain_count": 89,
+      "count": 93,
+      "domain_count": 70,
       "top_domains": [
-        {
-          "domain": "(no domain)",
-          "count": 10
-        },
         {
           "domain": "higgsfield.ai",
           "count": 10
-        },
-        {
-          "domain": "skool.com",
-          "count": 4
         },
         {
           "domain": "login.microsoftonline.com",
@@ -29,17 +21,25 @@
         {
           "domain": "keep.google.com",
           "count": 3
+        },
+        {
+          "domain": "(no domain)",
+          "count": 3
+        },
+        {
+          "domain": "moneyatlas.com",
+          "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 35,
+      "count": 33,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 24
+          "count": 22
         },
         {
           "domain": "github.com",
@@ -68,8 +68,8 @@
     },
     {
       "name": "social",
-      "count": 8,
-      "domain_count": 6,
+      "count": 7,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "linkedin.com",
@@ -84,11 +84,11 @@
           "count": 1
         },
         {
-          "domain": "gtmetrix.com",
+          "domain": "web.whatsapp.com",
           "count": 1
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "instagram.com",
           "count": 1
         }
       ]
