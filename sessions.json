@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T02:14:05Z",
+  "updated_at": "2026-07-17T02:14:29Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "how does th\u0131s happen how can they have 70 lines for that many notes? does every page have only 1 line? -> 01-notes-photos-5831-5900.md (70 lines, one per photo)",
       "last_assistant_snippet": "Actual audit file above. Each `- IMG_XXXX: PRESENT (N)` line = one photo verified, where N is how many times that IMG number is referenced in `EVERYTHING_CURATED.md`. For example `\u2026",
       "message_count": 1147,
-      "file_size_kb": 5235,
-      "modified_ts": 1784254443.4641984,
-      "modified_iso": "2026-07-16T22:14:03.464198",
-      "minutes_since_active": 0.0
+      "file_size_kb": 5237,
+      "modified_ts": 1784254445.4684298,
+      "modified_iso": "2026-07-16T22:14:05.468430",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 42.5
+      "minutes_since_active": 42.9
     }
   ]
 }
