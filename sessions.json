@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-17T23:16:38Z",
+  "updated_at": "2026-07-17T23:17:53Z",
   "counts": {
-    "active": 2,
-    "recent": 1,
+    "active": 1,
+    "recent": 2,
     "archived": 323,
     "total": 326
   },
@@ -17,16 +17,18 @@
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_user_msg": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_assistant_snippet": "I have a clear picture of the existing work now. Before designing the plan, let me get strategic guidance per the advisor pattern.",
-      "message_count": 31,
-      "file_size_kb": 305,
-      "modified_ts": 1784330196.2743196,
-      "modified_iso": "2026-07-17T19:16:36.274320",
-      "minutes_since_active": 0.0
-    },
+      "message_count": 37,
+      "file_size_kb": 329,
+      "modified_ts": 1784330239.5677962,
+      "modified_iso": "2026-07-17T19:17:19.567796",
+      "minutes_since_active": 0.6
+    }
+  ],
+  "recent": [
     {
       "id": "b514d97a",
       "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/Personal-Ontology/topics",
       "git_branch": "master",
       "permission_mode": "bypassPermissions",
@@ -37,10 +39,8 @@
       "file_size_kb": 5424,
       "modified_ts": 1784329943.1500957,
       "modified_iso": "2026-07-17T19:12:23.150096",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.5
+    },
     {
       "id": "76294ed1",
       "full_id": "76294ed1-f4c0-4524-b3b4-52ef4c50c270",
@@ -55,7 +55,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1305.0
+      "minutes_since_active": 1306.3
     }
   ]
 }
