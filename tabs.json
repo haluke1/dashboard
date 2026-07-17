@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T01:34:57Z",
+  "updated_at": "2026-07-17T01:36:02Z",
   "total_tabs": 253,
   "total_windows": 7,
   "duplicate_tabs": 5,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 151,
+      "count": 150,
       "domain_count": 102,
       "top_domains": [
         {
@@ -19,27 +19,27 @@
           "count": 10
         },
         {
-          "domain": "google.com",
-          "count": 4
-        },
-        {
           "domain": "skool.com",
           "count": 4
         },
         {
           "domain": "wisprflow.ai",
           "count": 4
+        },
+        {
+          "domain": "login.microsoftonline.com",
+          "count": 4
         }
       ]
     },
     {
       "name": "video",
-      "count": 46,
+      "count": 47,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 46
+          "count": 47
         }
       ]
     },
@@ -115,7 +115,7 @@
           "count": 1
         },
         {
-          "domain": "web.whatsapp.com",
+          "domain": "instagram.com",
           "count": 1
         }
       ]
