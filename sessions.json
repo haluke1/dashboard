@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T02:15:24Z",
+  "updated_at": "2026-07-17T02:15:34Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -18,10 +18,10 @@
       "last_user_msg": "Okay, so does the everything curated have the notes from the pages?",
       "last_assistant_snippet": "**Two ways the same photo appears:** **Organized bullets** (extracted, categorized, tagged `[5835]`) \u2014 these are the bullets you can find in Categories 1-15 of the file. Example ab\u2026",
       "message_count": 1153,
-      "file_size_kb": 5248,
-      "modified_ts": 1784254522.1597278,
-      "modified_iso": "2026-07-16T22:15:22.159728",
-      "minutes_since_active": 0.0
+      "file_size_kb": 5249,
+      "modified_ts": 1784254524.64656,
+      "modified_iso": "2026-07-16T22:15:24.646560",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 43.8
+      "minutes_since_active": 44.0
     }
   ]
 }
