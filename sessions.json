@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T22:08:46Z",
+  "updated_at": "2026-07-18T22:09:37Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "get rid of these too, again, with incredible attention to detail and micro surgeon like line by line -> Held back on purpose (not \"safe,\" they're taste calls \u2014 waiting for your exp\u2026",
-      "last_assistant_snippet": "Stop \u2014 the surgeon's inspection just prevented a real mistake. That \"second cram copy\" is **not** cram: the 1,634-line region has only **1** interview question in it (the first blo\u2026",
-      "message_count": 327,
-      "file_size_kb": 2146,
-      "modified_ts": 1784412509.489,
-      "modified_iso": "2026-07-18T18:08:29.489000",
-      "minutes_since_active": 0.3
+      "last_user_msg": "is this at any part of the doc? -> the options ai gives you have to be calculated and calibrated. / i wanna make sure we got it in the notes",
+      "last_assistant_snippet": "Yes \u2014 it's captured, and it survived all the cleanup. It's in the current file at **line 20228**, under the heading `## Prompting Layers and Filters for Max Effort`: > \"AI should g\u2026",
+      "message_count": 333,
+      "file_size_kb": 2180,
+      "modified_ts": 1784412575.1313,
+      "modified_iso": "2026-07-18T18:09:35.131300",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 877.2
+      "minutes_since_active": 878.0
     },
     {
       "id": "1cd376c2",
@@ -55,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 1182.0
+      "minutes_since_active": 1182.8
     },
     {
       "id": "e5e83dfb",
@@ -71,7 +71,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 1302.9
+      "minutes_since_active": 1303.7
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 1344.9
+      "minutes_since_active": 1345.7
     }
   ]
 }
