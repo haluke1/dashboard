@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T06:28:35Z",
+  "updated_at": "2026-07-18T06:29:35Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "Those two are pointers/meta-references (a table row and a \"meta-observation\" note), not pricing blocks \u2014 the actual Alstone pricing packages are gone. Chasing them further is dimin\u2026",
       "message_count": 879,
       "file_size_kb": 5670,
-      "modified_ts": 1784355822.9197047,
-      "modified_iso": "2026-07-18T02:23:42.919705",
-      "minutes_since_active": 4.9
+      "modified_ts": 1784356117.349,
+      "modified_iso": "2026-07-18T02:28:37.349000",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 241.8
+      "minutes_since_active": 242.8
     },
     {
       "id": "e5e83dfb",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 362.7
+      "minutes_since_active": 363.7
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 404.6
+      "minutes_since_active": 405.6
     }
   ]
 }
