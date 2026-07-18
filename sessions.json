@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T01:15:42Z",
+  "updated_at": "2026-07-18T01:18:23Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -8,9 +8,27 @@
   },
   "active": [
     {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "whats the update whats goingon",
+      "last_assistant_snippet": "**6 of 7 mappers are done.** Live numbers: - 183 items classified so far across five finished mappers (notebook parts, Keep notes, Notion extractions) - The voice/identity extracto\u2026",
+      "message_count": 419,
+      "file_size_kb": 2184,
+      "modified_ts": 1784337428.3010814,
+      "modified_iso": "2026-07-17T21:17:08.301081",
+      "minutes_since_active": 1.3
+    }
+  ],
+  "recent": [
+    {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,25 +39,7 @@
       "file_size_kb": 616,
       "modified_ts": 1784337146.3819497,
       "modified_iso": "2026-07-17T21:12:26.381950",
-      "minutes_since_active": 3.3
-    }
-  ],
-  "recent": [
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "havent you already checked when you started them?",
-      "last_assistant_snippet": "Yes \u2014 I was checking, and every check showed the same thing: **0 of 7 finished.** That's exactly why nothing could be saved. The way these background agents work: their results onl\u2026",
-      "message_count": 413,
-      "file_size_kb": 2171,
-      "modified_ts": 1784336898.1632085,
-      "modified_iso": "2026-07-17T21:08:18.163208",
-      "minutes_since_active": 7.4
+      "minutes_since_active": 6.0
     },
     {
       "id": "e5e83dfb",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 49.8
+      "minutes_since_active": 52.5
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 91.8
+      "minutes_since_active": 94.5
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1424.1
+      "minutes_since_active": 1426.8
     }
   ]
 }
