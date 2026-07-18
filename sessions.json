@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18T01:07:58Z",
+  "updated_at": "2026-07-18T01:08:22Z",
   "counts": {
-    "active": 2,
-    "recent": 3,
+    "active": 1,
+    "recent": 4,
     "archived": 323,
     "total": 328
   },
@@ -15,18 +15,20 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "whats the progress",
-      "last_assistant_snippet": "**Progress, simply:** - **Done and safe (in git, 7 commits):** secrets purged including the wallet seeds, file cut from 5.24MB \u2192 3.6MB, all your Round 1\u20134 decisions executed, drop \u2026",
-      "message_count": 410,
-      "file_size_kb": 2164,
-      "modified_ts": 1784336876.5600626,
-      "modified_iso": "2026-07-17T21:07:56.560063",
-      "minutes_since_active": 0.0
-    },
+      "last_user_msg": "havent you already checked when you started them?",
+      "last_assistant_snippet": "Yes \u2014 I was checking, and every check showed the same thing: **0 of 7 finished.** That's exactly why nothing could be saved. The way these background agents work: their results onl\u2026",
+      "message_count": 413,
+      "file_size_kb": 2171,
+      "modified_ts": 1784336898.1632085,
+      "modified_iso": "2026-07-17T21:08:18.163208",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 611,
       "modified_ts": 1784336596.7625973,
       "modified_iso": "2026-07-17T21:03:16.762597",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "e5e83dfb",
       "full_id": "e5e83dfb-fed3-42a9-a128-0e268869e3a0",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 42.1
+      "minutes_since_active": 42.5
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 84.1
+      "minutes_since_active": 84.4
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1416.4
+      "minutes_since_active": 1416.8
     }
   ]
 }
