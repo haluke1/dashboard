@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:07:11Z",
+  "updated_at": "2026-07-18T02:08:15Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "were you able to extract content from the videos or are the videos the same ones in youtube",
-      "last_assistant_snippet": "Both test videos return \"unavailable.\" These are likely **unlisted** videos (common for course content \u2014 creators upload them unlisted so only the embed plays). Let me diagnose the\u2026",
-      "message_count": 238,
-      "file_size_kb": 733,
-      "modified_ts": 1784340429.2923758,
-      "modified_iso": "2026-07-17T22:07:09.292376",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Auto-captions are available. So yes \u2014 I can extract the full spoken content of all 22 videos from their YouTube captions, and it runs entirely through `yt-dlp` (a command-line tool\u2026",
+      "message_count": 249,
+      "file_size_kb": 762,
+      "modified_ts": 1784340478.800026,
+      "modified_iso": "2026-07-17T22:07:58.800026",
+      "minutes_since_active": 0.3
     },
     {
       "id": "645a5e08",
@@ -37,7 +37,7 @@
       "file_size_kb": 2928,
       "modified_ts": 1784340365.898453,
       "modified_iso": "2026-07-17T22:06:05.898453",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 2.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 101.3
+      "minutes_since_active": 102.4
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 143.3
+      "minutes_since_active": 144.4
     }
   ]
 }
