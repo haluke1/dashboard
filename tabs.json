@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-18T23:31:38Z",
-  "total_tabs": 145,
+  "updated_at": "2026-07-18T23:32:44Z",
+  "total_tabs": 146,
   "total_windows": 5,
-  "duplicate_tabs": 7,
+  "duplicate_tabs": 9,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 90,
+      "count": 91,
       "domain_count": 61,
       "top_domains": [
         {
@@ -16,18 +16,18 @@
         },
         {
           "domain": "higgsfield.ai",
-          "count": 7
+          "count": 8
         },
         {
           "domain": "hilton.com",
           "count": 6
         },
         {
-          "domain": "priceline.com",
+          "domain": "keep.google.com",
           "count": 3
         },
         {
-          "domain": "keep.google.com",
+          "domain": "priceline.com",
           "count": 3
         }
       ]
