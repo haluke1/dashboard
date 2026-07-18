@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:36:40Z",
+  "updated_at": "2026-07-18T00:37:20Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,22 +7,6 @@
     "total": 328
   },
   "active": [
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "what do you mean? explain simply by the way you are fable 5, the most advanced model. use yourself as advisor. dont use opus 4.8 as advisor why the fuck are you freezing source fil\u2026",
-      "last_assistant_snippet": "The build is mid-flight: all 7 mappers are still reading through the 75,000-line corpus (this phase takes several minutes \u2014 they're classifying every note, section, and file into t\u2026",
-      "message_count": 383,
-      "file_size_kb": 1989,
-      "modified_ts": 1784334998.1378748,
-      "modified_iso": "2026-07-17T20:36:38.137875",
-      "minutes_since_active": 0.0
-    },
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -32,12 +16,28 @@
       "permission_mode": null,
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "`selectedModule` is just the id string, and `video` is null here because lesson 0.1 is text-only. The selected module's full `desc` lands in the course tree when opened. I need to \u2026",
-      "message_count": 119,
-      "file_size_kb": 444,
-      "modified_ts": 1784334981.0924714,
-      "modified_iso": "2026-07-17T20:36:21.092471",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "Everything resolves cleanly now. Each lesson's node exposes `videoLink` (the real YouTube URL), `desc` (full lesson text as structured JSON), `videoLenMs`, `videoThumbnail`, and `r\u2026",
+      "message_count": 128,
+      "file_size_kb": 469,
+      "modified_ts": 1784335037.6262808,
+      "modified_iso": "2026-07-17T20:37:17.626281",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "okey so tell me what you are doing simply as tldr",
+      "last_assistant_snippet": "The build is mid-flight: all 7 mappers are still reading through the 75,000-line corpus (this phase takes several minutes \u2014 they're classifying every note, section, and file into t\u2026",
+      "message_count": 384,
+      "file_size_kb": 1991,
+      "modified_ts": 1784335035.3269007,
+      "modified_iso": "2026-07-17T20:37:15.326901",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 10.8
+      "minutes_since_active": 11.4
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 52.8
+      "minutes_since_active": 53.4
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1385.1
+      "minutes_since_active": 1385.7
     }
   ]
 }
