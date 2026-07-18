@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:24:42Z",
+  "updated_at": "2026-07-18T00:24:53Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 327
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "cdp.mjs relies on the HTTP tab list, which this browser doesn't populate. I'll drive the target directly through the browser WebSocket. Building a small reusable driver.",
+      "message_count": 66,
+      "file_size_kb": 273,
+      "modified_ts": 1784334290.2132876,
+      "modified_iso": "2026-07-17T20:24:50.213288",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -21,23 +37,7 @@
       "file_size_kb": 1738,
       "modified_ts": 1784334275.7751193,
       "modified_iso": "2026-07-17T20:24:35.775119",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "Zero page tabs \u2014 the :9222 browser is an extension-only Chrome (likely an automation profile), not your everyday Arc where your Skool login lives. Let me create a page there, load \u2026",
-      "message_count": 62,
-      "file_size_kb": 266,
-      "modified_ts": 1784334272.2579892,
-      "modified_iso": "2026-07-17T20:24:32.257989",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 40.8
+      "minutes_since_active": 41.0
     },
     {
       "id": "76294ed1",
@@ -71,7 +71,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1373.1
+      "minutes_since_active": 1373.3
     }
   ]
 }
