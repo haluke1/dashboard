@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:05:00Z",
+  "updated_at": "2026-07-18T02:05:18Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_user_msg": "so fable credits arent different right its pulls from the same credit pool",
-      "last_assistant_snippet": "Two different things can stop it \u2014 one is already handled, one depends on you: 1. **Usage limits: handled.** With the credits toggle on, hitting the cap doesn't stop anything \u2014 bil\u2026",
-      "message_count": 461,
-      "file_size_kb": 2897,
-      "modified_ts": 1784340296.2101717,
-      "modified_iso": "2026-07-17T22:04:56.210172",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Correct \u2014 it's one pool. Your screenshots show it: there's a single \"Usage credits\" balance (the $116.65-spent bar), not separate per-model wallets. The \"Fable limit\" is a *plan* l\u2026",
+      "message_count": 463,
+      "file_size_kb": 2903,
+      "modified_ts": 1784340315.819282,
+      "modified_iso": "2026-07-17T22:05:15.819282",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 702,
       "modified_ts": 1784338759.9545732,
       "modified_iso": "2026-07-17T21:39:19.954573",
-      "minutes_since_active": 25.7
+      "minutes_since_active": 26.0
     },
     {
       "id": "e5e83dfb",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 99.1
+      "minutes_since_active": 99.4
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 141.1
+      "minutes_since_active": 141.4
     }
   ]
 }
