@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:38:51Z",
+  "updated_at": "2026-07-18T00:39:31Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -17,11 +17,11 @@
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
       "last_assistant_snippet": "Now running the full extraction in the background (96 lessons, ~10 min with polite pacing). It's resumable, so a mid-run failure won't lose progress.",
-      "message_count": 138,
-      "file_size_kb": 503,
-      "modified_ts": 1784335128.8764172,
-      "modified_iso": "2026-07-17T20:38:48.876417",
-      "minutes_since_active": 0.0
+      "message_count": 139,
+      "file_size_kb": 506,
+      "modified_ts": 1784335162.914923,
+      "modified_iso": "2026-07-17T20:39:22.914923",
+      "minutes_since_active": 0.1
     },
     {
       "id": "645a5e08",
@@ -37,7 +37,7 @@
       "file_size_kb": 2006,
       "modified_ts": 1784335128.0935888,
       "modified_iso": "2026-07-17T20:38:48.093589",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 13.0
+      "minutes_since_active": 13.6
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 54.9
+      "minutes_since_active": 55.6
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1387.2
+      "minutes_since_active": 1387.9
     }
   ]
 }
