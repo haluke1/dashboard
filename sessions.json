@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-18T03:29:07Z",
+  "updated_at": "2026-07-18T03:30:11Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 324,
     "total": 328
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_user_msg": "okey so whats the next step and can we get started on it? also should i click commit changes on this one?",
       "last_assistant_snippet": "Card 13 is Turkey again \u2014 your delete ruling already covers it. Seven genuine calls remain. Batch 2:",
-      "message_count": 563,
-      "file_size_kb": 4273,
-      "modified_ts": 1784344251.8755817,
-      "modified_iso": "2026-07-17T23:10:51.875582",
-      "minutes_since_active": 18.3
-    },
+      "message_count": 564,
+      "file_size_kb": 4279,
+      "modified_ts": 1784345402.3569443,
+      "modified_iso": "2026-07-17T23:30:02.356944",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -38,7 +39,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 62.3
+      "minutes_since_active": 63.4
     },
     {
       "id": "e5e83dfb",
@@ -54,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 183.2
+      "minutes_since_active": 184.3
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 225.2
+      "minutes_since_active": 226.3
     }
   ]
 }
