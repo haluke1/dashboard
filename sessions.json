@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-18T01:20:34Z",
+  "updated_at": "2026-07-18T01:21:42Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
+    "active": 2,
+    "recent": 3,
     "archived": 323,
     "total": 328
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "57 done \u2014 Building Your Stack and The Archive complete, now working through Davids Corner (42 lessons). Nearly there.",
+      "message_count": 187,
+      "file_size_kb": 620,
+      "modified_ts": 1784337694.3821304,
+      "modified_iso": "2026-07-17T21:21:34.382130",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -21,26 +37,10 @@
       "file_size_kb": 2184,
       "modified_ts": 1784337428.3010814,
       "modified_iso": "2026-07-17T21:17:08.301081",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 4.6
     }
   ],
   "recent": [
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "57 done \u2014 Building Your Stack and The Archive complete, now working through Davids Corner (42 lessons). Nearly there.",
-      "message_count": 185,
-      "file_size_kb": 616,
-      "modified_ts": 1784337146.3819497,
-      "modified_iso": "2026-07-17T21:12:26.381950",
-      "minutes_since_active": 8.1
-    },
     {
       "id": "e5e83dfb",
       "full_id": "e5e83dfb-fed3-42a9-a128-0e268869e3a0",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 54.7
+      "minutes_since_active": 55.8
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 96.7
+      "minutes_since_active": 97.8
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1429.0
+      "minutes_since_active": 1430.1
     }
   ]
 }
