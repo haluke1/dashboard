@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-18T00:54:15Z",
+  "updated_at": "2026-07-18T00:55:20Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 323,
     "total": 328
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "17 files, more than halfway through The Foundation. The background node process keeps running independent of my shell. Let me wait for it to complete.",
-      "message_count": 174,
-      "file_size_kb": 598,
-      "modified_ts": 1784335614.954695,
-      "modified_iso": "2026-07-17T20:46:54.954695",
-      "minutes_since_active": 7.3
-    },
+      "last_assistant_snippet": "37 done \u2014 Getting Started, The Foundation, and Implementation Playbooks complete. Now onto the remaining courses (Building Your Stack, The Archive, Davids Corner \u2014 the biggest at 4\u2026",
+      "message_count": 178,
+      "file_size_kb": 605,
+      "modified_ts": 1784336107.162472,
+      "modified_iso": "2026-07-17T20:55:07.162472",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 2038,
       "modified_ts": 1784335337.4428844,
       "modified_iso": "2026-07-17T20:42:17.442884",
-      "minutes_since_active": 12.0
+      "minutes_since_active": 13.1
     },
     {
       "id": "e5e83dfb",
@@ -54,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 28.4
+      "minutes_since_active": 29.4
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 70.4
+      "minutes_since_active": 71.4
     },
     {
       "id": "76294ed1",
@@ -86,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1402.7
+      "minutes_since_active": 1403.7
     }
   ]
 }
