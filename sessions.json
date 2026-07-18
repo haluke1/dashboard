@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-18T02:48:23Z",
+  "updated_at": "2026-07-18T02:49:29Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 324,
     "total": 328
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "what were they doing anyway and why did they stop",
-      "last_assistant_snippet": "**What they were doing:** They were the *surveyors*. This afternoon you approved deletion rules (cash-register logs, Web3-era notes, life-admin scraps, credential notes, plus the 6\u2026",
-      "message_count": 501,
-      "file_size_kb": 4034,
-      "modified_ts": 1784342534.9985824,
-      "modified_iso": "2026-07-17T22:42:14.998582",
-      "minutes_since_active": 6.1
-    },
+      "last_user_msg": "okey continue where you left off",
+      "last_assistant_snippet": "You're out of usage credits. Run /usage-credits to keep using Fable 5 or /model to switch models.",
+      "message_count": 509,
+      "file_size_kb": 4055,
+      "modified_ts": 1784342969.112433,
+      "modified_iso": "2026-07-17T22:49:29.112433",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -38,7 +39,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 21.6
+      "minutes_since_active": 22.7
     },
     {
       "id": "e5e83dfb",
@@ -54,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 142.5
+      "minutes_since_active": 143.6
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 184.5
+      "minutes_since_active": 185.6
     }
   ]
 }
