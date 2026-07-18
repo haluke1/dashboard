@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-18T01:01:50Z",
-  "total_tabs": 120,
+  "updated_at": "2026-07-18T01:02:54Z",
+  "total_tabs": 121,
   "total_windows": 6,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 71,
+      "count": 72,
       "domain_count": 58,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 2
         },
         {
+          "domain": "magnific.com",
+          "count": 2
+        },
+        {
           "domain": "google.com",
           "count": 2
         },
         {
           "domain": "keep.google.com",
-          "count": 2
-        },
-        {
-          "domain": "moneyatlas.com",
           "count": 2
         }
       ]
