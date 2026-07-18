@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:40:35Z",
+  "updated_at": "2026-07-18T00:41:42Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -17,11 +17,11 @@
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
       "last_assistant_snippet": "Diagnosis: `self` is null on course SSR pages (Skool only hydrates it client-side), but the course tree and content come through fine \u2014 because these 6 courses are public (`privacy\u2026",
-      "message_count": 149,
-      "file_size_kb": 546,
-      "modified_ts": 1784335231.5327582,
-      "modified_iso": "2026-07-17T20:40:31.532758",
-      "minutes_since_active": 0.1
+      "message_count": 153,
+      "file_size_kb": 552,
+      "modified_ts": 1784335302.4727268,
+      "modified_iso": "2026-07-17T20:41:42.472727",
+      "minutes_since_active": 0.0
     },
     {
       "id": "645a5e08",
@@ -37,7 +37,7 @@
       "file_size_kb": 2025,
       "modified_ts": 1784335228.054481,
       "modified_iso": "2026-07-17T20:40:28.054481",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 14.7
+      "minutes_since_active": 15.8
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 56.7
+      "minutes_since_active": 57.8
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1389.0
+      "minutes_since_active": 1390.1
     }
   ]
 }
