@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-18T04:15:21Z",
+  "updated_at": "2026-07-18T04:16:34Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 324,
     "total": 328
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "The final decisions that genuinely need you:",
-      "message_count": 617,
-      "file_size_kb": 4473,
-      "modified_ts": 1784347733.3010383,
-      "modified_iso": "2026-07-18T00:08:53.301038",
-      "minutes_since_active": 6.5
-    },
+      "last_assistant_snippet": "That consolidates everything. Recording the final batch \u2014 and the cascade is now unambiguous.",
+      "message_count": 622,
+      "file_size_kb": 4491,
+      "modified_ts": 1784348184.1239483,
+      "modified_iso": "2026-07-18T00:16:24.123948",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -38,7 +39,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 108.6
+      "minutes_since_active": 109.8
     },
     {
       "id": "e5e83dfb",
@@ -54,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 229.5
+      "minutes_since_active": 230.7
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 271.5
+      "minutes_since_active": 272.7
     }
   ]
 }
