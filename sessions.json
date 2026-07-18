@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-07-18T01:38:01Z",
+  "updated_at": "2026-07-18T01:39:06Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 324,
     "total": 328
   },
-  "active": [],
+  "active": [
+    {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "how long will this take on estimate? i will get out of the coffee shop in a while",
+      "last_assistant_snippet": "**6 of 7 mappers are done.** Live numbers: - 183 items classified so far across five finished mappers (notebook parts, Keep notes, Notion extractions) - The voice/identity extracto\u2026",
+      "message_count": 420,
+      "file_size_kb": 2197,
+      "modified_ts": 1784338740.2574768,
+      "modified_iso": "2026-07-17T21:39:00.257477",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "1cd376c2",
@@ -22,23 +39,7 @@
       "file_size_kb": 702,
       "modified_ts": 1784337859.4592202,
       "modified_iso": "2026-07-17T21:24:19.459220",
-      "minutes_since_active": 13.7
-    },
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "whats the update whats goingon",
-      "last_assistant_snippet": "**6 of 7 mappers are done.** Live numbers: - 183 items classified so far across five finished mappers (notebook parts, Keep notes, Notion extractions) - The voice/identity extracto\u2026",
-      "message_count": 419,
-      "file_size_kb": 2184,
-      "modified_ts": 1784337428.3010814,
-      "modified_iso": "2026-07-17T21:17:08.301081",
-      "minutes_since_active": 20.9
+      "minutes_since_active": 14.8
     },
     {
       "id": "e5e83dfb",
@@ -54,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 72.1
+      "minutes_since_active": 73.2
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 114.1
+      "minutes_since_active": 115.2
     }
   ]
 }
