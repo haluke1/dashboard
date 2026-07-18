@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:00:27Z",
+  "updated_at": "2026-07-18T00:01:34Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -17,11 +17,11 @@
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_user_msg": "could you split the doc to super small mini decisions, keep asking me to keep or delete and i keep answering your questions and you drop them? is that a good workflow? i think it's\u2026",
       "last_assistant_snippet": "Recorded. The Turkey pivot is now in permanent memory (so no future session pitches you Boun Diaspora or Ambassador plays), and the memory index is compacted per the housekeeping h\u2026",
-      "message_count": 200,
-      "file_size_kb": 1291,
-      "modified_ts": 1784332797.916953,
-      "modified_iso": "2026-07-17T19:59:57.916953",
-      "minutes_since_active": 0.5
+      "message_count": 203,
+      "file_size_kb": 1308,
+      "modified_ts": 1784332848.5974922,
+      "modified_iso": "2026-07-17T20:00:48.597492",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 16.6
+      "minutes_since_active": 17.7
     },
     {
       "id": "76294ed1",
@@ -55,7 +55,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1348.9
+      "minutes_since_active": 1350.0
     }
   ]
 }
