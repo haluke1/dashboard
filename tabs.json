@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-07-18T00:06:37Z",
-  "total_tabs": 132,
+  "updated_at": "2026-07-18T00:07:41Z",
+  "total_tabs": 129,
   "total_windows": 5,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 78,
-      "domain_count": 62,
+      "count": 76,
+      "domain_count": 60,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 10
-        },
-        {
-          "domain": "(no domain)",
-          "count": 2
         },
         {
           "domain": "keep.google.com",
@@ -28,6 +24,10 @@
         },
         {
           "domain": "skool.com",
+          "count": 2
+        },
+        {
+          "domain": "magnific.com",
           "count": 2
         }
       ]
@@ -46,23 +46,23 @@
           "count": 9
         },
         {
-          "domain": "openai.com",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "openai.com",
           "count": 1
         }
       ]
     },
     {
       "name": "video",
-      "count": 17,
+      "count": 16,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 17
+          "count": 16
         }
       ]
     },
