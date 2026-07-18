@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-07-18T06:12:59Z",
-  "total_tabs": 184,
+  "updated_at": "2026-07-18T06:16:03Z",
+  "total_tabs": 191,
   "total_windows": 6,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 126,
-      "domain_count": 72,
+      "count": 132,
+      "domain_count": 71,
       "top_domains": [
         {
           "domain": "pimpbunny.com",
           "count": 28
+        },
+        {
+          "domain": "pornhub.com",
+          "count": 8
         },
         {
           "domain": "google.com",
@@ -25,10 +29,6 @@
         {
           "domain": "hilton.com",
           "count": 5
-        },
-        {
-          "domain": "priceline.com",
-          "count": 3
         }
       ]
     },
@@ -68,19 +68,19 @@
     },
     {
       "name": "social",
-      "count": 6,
+      "count": 7,
       "domain_count": 5,
       "top_domains": [
+        {
+          "domain": "ixxx.com",
+          "count": 2
+        },
         {
           "domain": "x.com",
           "count": 2
         },
         {
           "domain": "tiktok.com",
-          "count": 1
-        },
-        {
-          "domain": "ixxx.com",
           "count": 1
         },
         {
