@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:37:20Z",
+  "updated_at": "2026-07-18T00:37:28Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 328
   },
   "active": [
+    {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "okey so tell me what you are doing simply as tldr",
+      "last_assistant_snippet": "**TLDR:** Your 5MB brain-dump file is a messy warehouse. Right now, 7 AI workers are walking through it shelf by shelf, putting a sticker on every single item: \"this is philosophy,\u2026",
+      "message_count": 386,
+      "file_size_kb": 1995,
+      "modified_ts": 1784335047.263121,
+      "modified_iso": "2026-07-17T20:37:27.263121",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -21,23 +37,7 @@
       "file_size_kb": 469,
       "modified_ts": 1784335037.6262808,
       "modified_iso": "2026-07-17T20:37:17.626281",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "okey so tell me what you are doing simply as tldr",
-      "last_assistant_snippet": "The build is mid-flight: all 7 mappers are still reading through the 75,000-line corpus (this phase takes several minutes \u2014 they're classifying every note, section, and file into t\u2026",
-      "message_count": 384,
-      "file_size_kb": 1991,
-      "modified_ts": 1784335035.3269007,
-      "modified_iso": "2026-07-17T20:37:15.326901",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 11.4
+      "minutes_since_active": 11.6
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 53.4
+      "minutes_since_active": 53.6
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1385.7
+      "minutes_since_active": 1385.9
     }
   ]
 }
