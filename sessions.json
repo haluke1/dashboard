@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-18T23:43:43Z",
+  "updated_at": "2026-07-18T23:44:47Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 324,
+    "recent": 4,
+    "archived": 325,
     "total": 329
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 2265,
       "modified_ts": 1784417283.947,
       "modified_iso": "2026-07-18T19:28:03.947000",
-      "minutes_since_active": 15.7
+      "minutes_since_active": 16.7
     },
     {
       "id": "645a5e08",
@@ -38,7 +38,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 972.2
+      "minutes_since_active": 973.2
     },
     {
       "id": "1cd376c2",
@@ -54,7 +54,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 1276.9
+      "minutes_since_active": 1278.0
     },
     {
       "id": "e5e83dfb",
@@ -70,23 +70,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 1397.8
-    },
-    {
-      "id": "b514d97a",
-      "full_id": "b514d97a-2c77-446c-9197-a0cfdf422349",
-      "status": "recent",
-      "project": "/Users/halukgul/Desktop/Personal-Ontology/topics",
-      "git_branch": "master",
-      "permission_mode": "bypassPermissions",
-      "first_prompt": "can you continue on the session where we extracted notes and see if we got the notes 4 folder?",
-      "last_user_msg": "what session id or session name is this? i wanna give this to fable 5 and have it analyze what happened here",
-      "last_assistant_snippet": "Opened in Finder with the file selected. Note the folder is normally hidden \u2014 you're now inside `~/.claude/projects/-Users-halukgul/` which contains transcripts of every Claude Cod\u2026",
-      "message_count": 1216,
-      "file_size_kb": 5487,
-      "modified_ts": 1784331832.5628035,
-      "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1398.9
     }
   ]
 }
