@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:26:03Z",
+  "updated_at": "2026-07-18T00:26:14Z",
   "counts": {
     "active": 3,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 328
   },
   "active": [
+    {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "would you be able to keep asking me and get rid of the parts i dont want at the same time, in paralel? is it possible for you to continuously ask me questions (dont know if your li\u2026",
+      "last_assistant_snippet": "Executor running. While it works \u2014 Round 4, the judgment calls the mappers refused to make on their own (all are \"mixed\" notes where cutting risks taking something protected):",
+      "message_count": 306,
+      "file_size_kb": 1745,
+      "modified_ts": 1784334367.7124338,
+      "modified_iso": "2026-07-17T20:26:07.712434",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "e5e83dfb",
       "full_id": "e5e83dfb-fed3-42a9-a128-0e268869e3a0",
@@ -21,7 +37,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "1cd376c2",
@@ -37,23 +53,7 @@
       "file_size_kb": 302,
       "modified_ts": 1784334351.690707,
       "modified_iso": "2026-07-17T20:25:51.690707",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "would you be able to keep asking me and get rid of the parts i dont want at the same time, in paralel? is it possible for you to continuously ask me questions (dont know if your li\u2026",
-      "last_assistant_snippet": "Executor running. While it works \u2014 Round 4, the judgment calls the mappers refused to make on their own (all are \"mixed\" notes where cutting risks taking something protected):",
-      "message_count": 305,
-      "file_size_kb": 1738,
-      "modified_ts": 1784334275.7751193,
-      "modified_iso": "2026-07-17T20:24:35.775119",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 42.1
+      "minutes_since_active": 42.3
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1374.5
+      "minutes_since_active": 1374.6
     }
   ]
 }
