@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-07-18T00:48:38Z",
-  "total_tabs": 117,
-  "total_windows": 5,
+  "updated_at": "2026-07-18T00:49:43Z",
+  "total_tabs": 118,
+  "total_windows": 6,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 68,
+      "count": 69,
       "domain_count": 57,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 7
+        },
+        {
+          "domain": "(no domain)",
+          "count": 2
         },
         {
           "domain": "keep.google.com",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "skool.com",
-          "count": 2
-        },
-        {
-          "domain": "tr.pinterest.com",
           "count": 2
         }
       ]
