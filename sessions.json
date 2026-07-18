@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:15:52Z",
+  "updated_at": "2026-07-18T02:16:56Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -8,9 +8,27 @@
   },
   "active": [
     {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "whats the progress",
+      "last_assistant_snippet": "Harmless \u2014 here's what it was: The background workers (the agents building your library) run their own terminal commands as part of their work. One of them ran a command labeled **\u2026",
+      "message_count": 481,
+      "file_size_kb": 2941,
+      "modified_ts": 1784341008.7400389,
+      "modified_iso": "2026-07-17T22:16:48.740039",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
+    {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,25 +39,7 @@
       "file_size_kb": 879,
       "modified_ts": 1784340706.4320643,
       "modified_iso": "2026-07-17T22:11:46.432064",
-      "minutes_since_active": 4.1
-    }
-  ],
-  "recent": [
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "whats this and why did it happen - Background shell failed Check Haluk.md structure",
-      "last_assistant_snippet": "Harmless \u2014 here's what it was: The background workers (the agents building your library) run their own terminal commands as part of their work. One of them ran a command labeled **\u2026",
-      "message_count": 475,
-      "file_size_kb": 2928,
-      "modified_ts": 1784340365.898453,
-      "modified_iso": "2026-07-17T22:06:05.898453",
-      "minutes_since_active": 9.8
+      "minutes_since_active": 5.2
     },
     {
       "id": "e5e83dfb",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 110.0
+      "minutes_since_active": 111.1
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 152.0
+      "minutes_since_active": 153.0
     }
   ]
 }
