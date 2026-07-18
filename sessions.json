@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T07:57:44Z",
+  "updated_at": "2026-07-18T07:58:55Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -16,11 +16,11 @@
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "<task-notification> <task-id>a19819fe77fa40f7e</task-id> <tool-use-id>toolu_01CAgtvSH1f6mUtSDdBGrKU2</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/abc2ae\u2026",
-      "last_assistant_snippet": "4,119 lines removed, all applied except one **SKIP** \u2014 the DAO SOPs/CRM/PII block's start anchor `# Onboarding [ Lv 1 ]` didn't match (spacing differs). The script safely skipped r\u2026",
-      "message_count": 118,
-      "file_size_kb": 1013,
-      "modified_ts": 1784361459.363542,
-      "modified_iso": "2026-07-18T03:57:39.363542",
+      "last_assistant_snippet": "Confirmed \u2014 line 28351 has a non-breaking space (`Lv 1\\xa0]`), so the heading anchor failed but the FILE-comment anchor (normal spaces) matches at 28348. Switching to that and re-r\u2026",
+      "message_count": 128,
+      "file_size_kb": 1045,
+      "modified_ts": 1784361528.3171062,
+      "modified_iso": "2026-07-18T03:58:48.317106",
       "minutes_since_active": 0.1
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 26.2
+      "minutes_since_active": 27.4
     },
     {
       "id": "1cd376c2",
@@ -55,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 331.0
+      "minutes_since_active": 332.1
     },
     {
       "id": "e5e83dfb",
@@ -71,7 +71,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 451.9
+      "minutes_since_active": 453.0
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 493.8
+      "minutes_since_active": 495.0
     }
   ]
 }
