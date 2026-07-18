@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:11:33Z",
+  "updated_at": "2026-07-18T02:11:48Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "were you able to extract content from the videos or are the videos the same ones in youtube",
-      "last_assistant_snippet": "Let me verify the transcript renders correctly in the Markdown.",
-      "message_count": 272,
-      "file_size_kb": 872,
-      "modified_ts": 1784340685.773269,
-      "modified_iso": "2026-07-17T22:11:25.773269",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "Done \u2014 and I went past just links. Here's the honest picture: **The videos themselves are the same public YouTube videos** \u2014 the lessons embed them, so there's no separate/exclusiv\u2026",
+      "message_count": 274,
+      "file_size_kb": 879,
+      "modified_ts": 1784340706.4320643,
+      "modified_iso": "2026-07-17T22:11:46.432064",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 2928,
       "modified_ts": 1784340365.898453,
       "modified_iso": "2026-07-17T22:06:05.898453",
-      "minutes_since_active": 5.5
+      "minutes_since_active": 5.7
     },
     {
       "id": "e5e83dfb",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 105.7
+      "minutes_since_active": 105.9
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 147.7
+      "minutes_since_active": 147.9
     }
   ]
 }
