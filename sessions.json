@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-18T08:53:54Z",
+  "updated_at": "2026-07-18T08:54:58Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 324,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "<task-notification> <task-id>a6d27f65d9edb84bc</task-id> <tool-use-id>toolu_0111LJ4Na6LemiD9LFVfP8eg</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/abc2ae\u2026",
+      "last_user_msg": "get rid of these too, again, with incredible attention to detail and micro surgeon like line by line -> Held back on purpose (not \"safe,\" they're taste calls \u2014 waiting for your exp\u2026",
       "last_assistant_snippet": "Post-op verified clean \u2014 **no original was destroyed.** The checks that showed \"0\" were just multi-line regex artifacts: the Flow-triggers original (line 33099) and the 5-Levels-of\u2026",
-      "message_count": 282,
-      "file_size_kb": 1859,
-      "modified_ts": 1784364166.5247815,
-      "modified_iso": "2026-07-18T04:42:46.524781",
-      "minutes_since_active": 11.1
-    },
+      "message_count": 283,
+      "file_size_kb": 1863,
+      "modified_ts": 1784364874.1235788,
+      "modified_iso": "2026-07-18T04:54:34.123579",
+      "minutes_since_active": 0.4
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 82.3
+      "minutes_since_active": 83.4
     },
     {
       "id": "1cd376c2",
@@ -54,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 387.1
+      "minutes_since_active": 388.2
     },
     {
       "id": "e5e83dfb",
@@ -70,7 +71,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 508.0
+      "minutes_since_active": 509.1
     },
     {
       "id": "b514d97a",
@@ -86,7 +87,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 550.0
+      "minutes_since_active": 551.1
     }
   ]
 }
