@@ -1,45 +1,45 @@
 {
-  "updated_at": "2026-07-18T00:01:30Z",
-  "total_tabs": 154,
-  "total_windows": 6,
-  "duplicate_tabs": 5,
+  "updated_at": "2026-07-18T00:02:42Z",
+  "total_tabs": 142,
+  "total_windows": 5,
+  "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 92,
-      "domain_count": 70,
+      "count": 82,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 10
         },
         {
-          "domain": "login.microsoftonline.com",
-          "count": 4
-        },
-        {
           "domain": "keep.google.com",
-          "count": 3
-        },
-        {
-          "domain": "mynova.villanova.edu",
           "count": 2
         },
         {
-          "domain": "brightspace.villanova.edu",
+          "domain": "moneyatlas.com",
+          "count": 2
+        },
+        {
+          "domain": "skool.com",
+          "count": 2
+        },
+        {
+          "domain": "magnific.com",
           "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 33,
+      "count": 32,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 22
+          "count": 21
         },
         {
           "domain": "github.com",
@@ -57,12 +57,12 @@
     },
     {
       "name": "video",
-      "count": 21,
+      "count": 20,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 21
+          "count": 20
         }
       ]
     },
