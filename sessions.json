@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-18T02:00:11Z",
+  "updated_at": "2026-07-18T02:01:47Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 324,
     "total": 328
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "so we have around 14% battery left. do you wanna stop the agents momentarily so we can continue once i get home?",
-      "last_assistant_snippet": "Stopped cleanly. Everything important is on disk and safe: - **Saved permanently (git, 9 commits):** the full library \u2014 9 packs, 15 evidence files, archive map, drop ledger, the cl\u2026",
-      "message_count": 450,
-      "file_size_kb": 2293,
-      "modified_ts": 1784339184.1010265,
-      "modified_iso": "2026-07-17T21:46:24.101027",
-      "minutes_since_active": 13.8
-    },
+      "last_user_msg": "resume",
+      "last_assistant_snippet": "Resumed. The cached fix agent replayed instantly; the rest is running: identity-kernel pack \u2192 verdicts on all 10 packs \u2192 logic-audit rounds until dry. ETA ~30\u201340 minutes to the ful\u2026",
+      "message_count": 454,
+      "file_size_kb": 2300,
+      "modified_ts": 1784340105.0912874,
+      "modified_iso": "2026-07-17T22:01:45.091287",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -38,7 +39,7 @@
       "file_size_kb": 702,
       "modified_ts": 1784338759.9545732,
       "modified_iso": "2026-07-17T21:39:19.954573",
-      "minutes_since_active": 20.9
+      "minutes_since_active": 22.5
     },
     {
       "id": "e5e83dfb",
@@ -54,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 94.3
+      "minutes_since_active": 95.9
     },
     {
       "id": "b514d97a",
@@ -70,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 136.2
+      "minutes_since_active": 137.9
     }
   ]
 }
