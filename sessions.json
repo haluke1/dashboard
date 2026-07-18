@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T05:42:54Z",
+  "updated_at": "2026-07-18T05:45:07Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
       "last_user_msg": "yes do ckb pack to generalized business model patterns then give me a full report of where we are",
-      "last_assistant_snippet": "Reading pack 01 in full so the extracted patterns are grounded in your actual words, then transforming it.",
-      "message_count": 783,
-      "file_size_kb": 5309,
-      "modified_ts": 1784353309.614822,
-      "modified_iso": "2026-07-18T01:41:49.614822",
-      "minutes_since_active": 1.1
+      "last_assistant_snippet": "# Full Report \u2014 Where We Are ## The one-line status Your mind is cleaned, de-duplicated, contradiction-resolved, and reorganized into a 10-pack library. Everything is in git (28 co\u2026",
+      "message_count": 798,
+      "file_size_kb": 5382,
+      "modified_ts": 1784353502.286089,
+      "modified_iso": "2026-07-18T01:45:02.286089",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 196.1
+      "minutes_since_active": 198.3
     },
     {
       "id": "e5e83dfb",
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 317.0
+      "minutes_since_active": 319.2
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 359.0
+      "minutes_since_active": 361.2
     }
   ]
 }
