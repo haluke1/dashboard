@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-18T20:03:23Z",
+  "updated_at": "2026-07-18T20:03:44Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 324,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Stop \u2014 the surgeon's inspection just prevented a real mistake. That \"second cram copy\" is **not** cram: the 1,634-line region has only **1** interview question in it (the first blo\u2026",
       "message_count": 327,
       "file_size_kb": 2146,
-      "modified_ts": 1784394224.865242,
-      "modified_iso": "2026-07-18T13:03:44.865242",
-      "minutes_since_active": 179.6
-    },
+      "modified_ts": 1784405004.463,
+      "modified_iso": "2026-07-18T16:03:24.463000",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 751.8
+      "minutes_since_active": 752.2
     },
     {
       "id": "1cd376c2",
@@ -54,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 1056.6
+      "minutes_since_active": 1057.0
     },
     {
       "id": "e5e83dfb",
@@ -70,7 +71,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 1177.5
+      "minutes_since_active": 1177.8
     },
     {
       "id": "b514d97a",
@@ -86,7 +87,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 1219.3
+      "minutes_since_active": 1219.8
     }
   ]
 }
