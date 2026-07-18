@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T08:38:35Z",
+  "updated_at": "2026-07-18T08:39:47Z",
   "counts": {
     "active": 1,
     "recent": 4,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "<task-notification> <task-id>a6d27f65d9edb84bc</task-id> <tool-use-id>toolu_0111LJ4Na6LemiD9LFVfP8eg</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/abc2ae\u2026",
-      "last_assistant_snippet": "Tier 1, surgeon-mode. I won't trust agent line numbers blind on the big blocks \u2014 I verify boundaries by reading them, confirm true duplicates before cutting, and exclude the low-co\u2026",
-      "message_count": 254,
-      "file_size_kb": 1750,
-      "modified_ts": 1784363901.0046155,
-      "modified_iso": "2026-07-18T04:38:21.004616",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Confirmed \u2014 every distinctive token (COSTAR, PICOI, CRAFT, Micro-Prompt, 100 Prompt, Super Prompt, essay writer) appears in **both** regions, and the \"AI & Tools\" original has the \u2026",
+      "message_count": 262,
+      "file_size_kb": 1780,
+      "modified_ts": 1784363969.9819126,
+      "modified_iso": "2026-07-18T04:39:29.981913",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 67.0
+      "minutes_since_active": 68.2
     },
     {
       "id": "1cd376c2",
@@ -55,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 371.8
+      "minutes_since_active": 373.0
     },
     {
       "id": "e5e83dfb",
@@ -71,7 +71,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 492.7
+      "minutes_since_active": 493.9
     },
     {
       "id": "b514d97a",
@@ -87,7 +87,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 534.7
+      "minutes_since_active": 535.9
     }
   ]
 }
