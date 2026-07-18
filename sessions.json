@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:22:46Z",
+  "updated_at": "2026-07-18T00:23:38Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 327
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "The `open` likely triggered an \"Allow debugging\" prompt in Arc that needs your click, or the list output is being swallowed. Let me check more directly.",
+      "message_count": 50,
+      "file_size_kb": 242,
+      "modified_ts": 1784334215.593696,
+      "modified_iso": "2026-07-17T20:23:35.593696",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -21,23 +37,7 @@
       "file_size_kb": 1693,
       "modified_ts": 1784334147.932931,
       "modified_iso": "2026-07-17T20:22:27.932931",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_assistant_snippet": "Answer: **both, depending on which layer you want.** I tested it live just now. **What I can pull directly (no login needed):** Skool ships the classroom's catalog data inside the \u2026",
-      "message_count": 24,
-      "file_size_kb": 200,
-      "modified_ts": 1784333911.6828284,
-      "modified_iso": "2026-07-17T20:18:31.682828",
-      "minutes_since_active": 4.2
+      "minutes_since_active": 1.2
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 38.9
+      "minutes_since_active": 39.7
     },
     {
       "id": "76294ed1",
@@ -71,7 +71,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1371.2
+      "minutes_since_active": 1372.0
     }
   ]
 }
