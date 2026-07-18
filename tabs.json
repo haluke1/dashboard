@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T05:22:55Z",
-  "total_tabs": 143,
+  "updated_at": "2026-07-18T05:24:32Z",
+  "total_tabs": 142,
   "total_windows": 5,
   "duplicate_tabs": 2,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 87,
+      "count": 86,
       "domain_count": 62,
       "top_domains": [
-        {
-          "domain": "hilton.com",
-          "count": 7
-        },
         {
           "domain": "higgsfield.ai",
           "count": 7
         },
         {
           "domain": "google.com",
+          "count": 6
+        },
+        {
+          "domain": "hilton.com",
           "count": 6
         },
         {
