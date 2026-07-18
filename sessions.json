@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:32:39Z",
+  "updated_at": "2026-07-18T00:33:47Z",
   "counts": {
     "active": 2,
     "recent": 3,
@@ -7,6 +7,22 @@
     "total": 328
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
+      "last_assistant_snippet": "The `?md=` deep-link with the long ID hits an \"Oops\" page \u2014 wrong URL scheme. Skool uses the short `name` slug, not the long id. Let me read the actual lesson link hrefs from the r\u2026",
+      "message_count": 110,
+      "file_size_kb": 414,
+      "modified_ts": 1784334808.6922865,
+      "modified_iso": "2026-07-17T20:33:28.692286",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -21,23 +37,7 @@
       "file_size_kb": 1920,
       "modified_ts": 1784334747.378678,
       "modified_iso": "2026-07-17T20:32:27.378678",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/chrome-cdp # Chrome CDP Lightweight Chrome DevTools Protocol CLI. Connects directly via WebSocket \u2014 no Puppeteer, work\u2026",
-      "last_assistant_snippet": "Now the real shape is clear: courses nest into sets \u2192 leaf lessons, and each leaf's `desc` (lesson body) is lazy \u2014 only the currently-selected lesson is hydrated at course load (0.\u2026",
-      "message_count": 106,
-      "file_size_kb": 400,
-      "modified_ts": 1784334738.4700446,
-      "modified_iso": "2026-07-17T20:32:18.470045",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 6.8
+      "minutes_since_active": 7.9
     },
     {
       "id": "b514d97a",
@@ -71,7 +71,7 @@
       "file_size_kb": 5487,
       "modified_ts": 1784331832.5628035,
       "modified_iso": "2026-07-17T19:43:52.562804",
-      "minutes_since_active": 48.7
+      "minutes_since_active": 49.9
     },
     {
       "id": "76294ed1",
@@ -87,7 +87,7 @@
       "file_size_kb": 115,
       "modified_ts": 1784251895.3735516,
       "modified_iso": "2026-07-16T21:31:35.373552",
-      "minutes_since_active": 1381.1
+      "minutes_since_active": 1382.2
     }
   ]
 }
