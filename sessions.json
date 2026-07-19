@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-19T18:01:29Z",
+  "updated_at": "2026-07-19T18:01:47Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 327,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Yes \u2014 applied and saved to the real file. `EVERYTHING_CURATED.md` is **48,589 lines, 2.4 MB, modified today at 12:27** (just now). The 1,163 merges and 1,264 removed lines are live\u2026",
       "message_count": 668,
       "file_size_kb": 3715,
-      "modified_ts": 1784481169.9630296,
-      "modified_iso": "2026-07-19T13:12:49.963030",
-      "minutes_since_active": 48.7
-    },
+      "modified_ts": 1784484089.67,
+      "modified_iso": "2026-07-19T14:01:29.670000",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1046.7
+      "minutes_since_active": 1047.0
     }
   ]
 }
