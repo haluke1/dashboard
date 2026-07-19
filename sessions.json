@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-19T15:37:00Z",
+  "updated_at": "2026-07-19T15:37:47Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 327,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Both tasks done. Here's where things stand. ## 1. Secrets \u2014 extracted, removed, secured \u2705 - **14 credential blocks** pulled out of the corpus into `~/Desktop/Personal-Ontology-SECR\u2026",
       "message_count": 536,
       "file_size_kb": 3241,
-      "modified_ts": 1784434065.8146245,
-      "modified_iso": "2026-07-19T00:07:45.814625",
-      "minutes_since_active": 689.2
-    },
+      "modified_ts": 1784475421.129,
+      "modified_iso": "2026-07-19T11:37:01.129000",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 902.2
+      "minutes_since_active": 903.0
     }
   ]
 }
