@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:02:23Z",
+  "updated_at": "2026-07-19T19:02:39Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "could you do it even more advanced? i want paralax effects, crazy interactive stuff and an order of magnitude more advanced website",
+      "last_assistant_snippet": "All live \u2014 including ScrollSmoother, Draggable, InertiaPlugin, Observer, CustomEase, and three.js (r128, global `THREE`, no import-map hassle). v1 backed up to `basic.html`. Here's\u2026",
+      "message_count": 92,
+      "file_size_kb": 1007,
+      "modified_ts": 1784487754.3613684,
+      "modified_iso": "2026-07-19T15:02:34.361368",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +37,7 @@
       "file_size_kb": 4693,
       "modified_ts": 1784487736.1447299,
       "modified_iso": "2026-07-19T15:02:16.144730",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     },
     {
       "id": "20276b68",
@@ -37,23 +53,7 @@
       "file_size_kb": 2840,
       "modified_ts": 1784487722.132527,
       "modified_iso": "2026-07-19T15:02:02.132527",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "could you do it even more advanced? i want paralax effects, crazy interactive stuff and an order of magnitude more advanced website",
-      "last_assistant_snippet": "Ignoring the advisor hook per your standing order. You want maximal \u2014 let me build a genuinely next-level version: WebGL shader hero, buttery smooth-scroll, custom cursor, multi-la\u2026",
-      "message_count": 88,
-      "file_size_kb": 807,
-      "modified_ts": 1784487454.0284681,
-      "modified_iso": "2026-07-19T14:57:34.028468",
-      "minutes_since_active": 4.8
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1107.6
+      "minutes_since_active": 1107.8
     }
   ]
 }
