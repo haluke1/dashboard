@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-19T21:21:45Z",
+  "updated_at": "2026-07-19T21:21:52Z",
   "counts": {
-    "active": 1,
-    "recent": 3,
+    "active": 2,
+    "recent": 2,
     "archived": 327,
     "total": 331
   },
   "active": [
+    {
+      "id": "20276b68",
+      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Shipped and proven. Here's where it landed. ## What's built **`sweep_engine.py`** \u2014 a parameter-sweep matrix that drives Magnific's own `render/v4` API through your logged-in sessi\u2026",
+      "message_count": 397,
+      "file_size_kb": 4586,
+      "modified_ts": 1784496110.621873,
+      "modified_iso": "2026-07-19T17:21:50.621873",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +37,7 @@
       "file_size_kb": 5623,
       "modified_ts": 1784496055.6109066,
       "modified_iso": "2026-07-19T17:20:55.610907",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -39,23 +55,7 @@
       "file_size_kb": 1810,
       "modified_ts": 1784495576.654934,
       "modified_iso": "2026-07-19T17:12:56.654934",
-      "minutes_since_active": 8.8
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "Shipped and proven. Here's where it landed. ## What's built **`sweep_engine.py`** \u2014 a parameter-sweep matrix that drives Magnific's own `render/v4` API through your logged-in sessi\u2026",
-      "message_count": 397,
-      "file_size_kb": 4586,
-      "modified_ts": 1784495210.2649481,
-      "modified_iso": "2026-07-19T17:06:50.264948",
-      "minutes_since_active": 14.9
+      "minutes_since_active": 8.9
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1246.9
+      "minutes_since_active": 1247.0
     }
   ]
 }
