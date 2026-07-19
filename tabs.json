@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-19T16:03:05Z",
-  "total_tabs": 122,
+  "updated_at": "2026-07-19T16:04:09Z",
+  "total_tabs": 120,
   "total_windows": 5,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 65,
+      "count": 64,
       "domain_count": 48,
       "top_domains": [
         {
@@ -27,7 +27,7 @@
           "count": 3
         },
         {
-          "domain": "skool.com",
+          "domain": "google.com",
           "count": 2
         }
       ]
@@ -68,16 +68,16 @@
     },
     {
       "name": "social",
-      "count": 5,
+      "count": 4,
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "x.com",
-          "count": 2
+          "domain": "reddit.com",
+          "count": 1
         },
         {
           "domain": "instagram.com",
