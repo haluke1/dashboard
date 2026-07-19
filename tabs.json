@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-19T15:57:30Z",
-  "total_tabs": 138,
+  "updated_at": "2026-07-19T15:58:35Z",
+  "total_tabs": 125,
   "total_windows": 5,
-  "duplicate_tabs": 6,
+  "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 77,
-      "domain_count": 59,
+      "count": 65,
+      "domain_count": 48,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 8
         },
         {
-          "domain": "google.com",
+          "domain": "keep.google.com",
           "count": 3
         },
         {
@@ -27,19 +27,19 @@
           "count": 3
         },
         {
-          "domain": "moneyatlas.com",
+          "domain": "skool.com",
           "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 33,
+      "count": 32,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 22
+          "count": 21
         },
         {
           "domain": "github.com",
