@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-19T16:42:49Z",
+  "updated_at": "2026-07-19T16:43:56Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 327,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Done \u2014 verified clean. And the line you flagged as valuable is a good example of the merge working *right*: \"real value = feeding real-world data to Claude\" wasn't lost, it got **u\u2026",
       "message_count": 663,
       "file_size_kb": 3706,
-      "modified_ts": 1784478505.2917302,
-      "modified_iso": "2026-07-19T12:28:25.291730",
-      "minutes_since_active": 14.4
-    },
+      "modified_ts": 1784479405.6830466,
+      "modified_iso": "2026-07-19T12:43:25.683047",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 968.0
+      "minutes_since_active": 969.1
     }
   ]
 }
