@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:23:36Z",
+  "updated_at": "2026-07-19T21:24:04Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "phase 2 start",
+      "last_assistant_snippet": "Phase 2 approach \u2014 the smart move here is to **separate the cube's logic from its rendering**. The hard, bug-prone part (which cubies rotate, solve detection, scramble) is pure mat\u2026",
+      "message_count": 178,
+      "file_size_kb": 1853,
+      "modified_ts": 1784496238.2105784,
+      "modified_iso": "2026-07-19T17:23:58.210578",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -21,23 +37,7 @@
       "file_size_kb": 4588,
       "modified_ts": 1784496210.3125842,
       "modified_iso": "2026-07-19T17:23:30.312584",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "phase 2 start",
-      "last_assistant_snippet": "**Phase 1 shipped** \u2014 the gamified progression layer is live in [ai-portfolio/index.html](ai-portfolio/index.html), added without regressing v2 (verified: still 57 ScrollTriggers, \u2026",
-      "message_count": 171,
-      "file_size_kb": 1813,
-      "modified_ts": 1784496122.442834,
-      "modified_iso": "2026-07-19T17:22:02.442834",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 0.6
     },
     {
       "id": "abc2ae7e",
@@ -53,7 +53,7 @@
       "file_size_kb": 5623,
       "modified_ts": 1784496055.6109066,
       "modified_iso": "2026-07-19T17:20:55.610907",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 3.1
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1248.8
+      "minutes_since_active": 1249.2
     }
   ]
 }
