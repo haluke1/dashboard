@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:50:11Z",
+  "updated_at": "2026-07-19T18:50:46Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey so where is the file can you show me the location ? are all of these inside that file?",
+      "last_assistant_snippet": "Saved. Everything a future session needs is now on your Desktop in two forms: **Continuity artifacts (Desktop):** - **`POE-HANDOFF.md`** \u2014 the \"read this first\" doc: what POE is, t\u2026",
+      "message_count": 840,
+      "file_size_kb": 4601,
+      "modified_ts": 1784487030.7205656,
+      "modified_iso": "2026-07-19T14:50:30.720566",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -21,23 +37,7 @@
       "file_size_kb": 2622,
       "modified_ts": 1784486994.6642091,
       "modified_iso": "2026-07-19T14:49:54.664209",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "also make sure to save all of this md files and structure in a file in desktop so we can continue with future sessions and continuously improve upon it. save instructions for the o\u2026",
-      "last_assistant_snippet": "Saved. Everything a future session needs is now on your Desktop in two forms: **Continuity artifacts (Desktop):** - **`POE-HANDOFF.md`** \u2014 the \"read this first\" doc: what POE is, t\u2026",
-      "message_count": 839,
-      "file_size_kb": 4599,
-      "modified_ts": 1784486972.1021254,
-      "modified_iso": "2026-07-19T14:49:32.102125",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 0.9
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 783,
       "modified_ts": 1784486196.6895194,
       "modified_iso": "2026-07-19T14:36:36.689519",
-      "minutes_since_active": 13.6
+      "minutes_since_active": 14.2
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1095.4
+      "minutes_since_active": 1096.0
     }
   ]
 }
