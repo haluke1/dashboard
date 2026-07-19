@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:50:53Z",
+  "updated_at": "2026-07-19T18:51:08Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey so where is the file can you show me the location ? are all of these inside that file?",
+      "last_assistant_snippet": "Here's exactly where everything is, on your **Desktop**: ## The single bundle file **`/Users/halukgul/Desktop/POE-SNAPSHOT-2026-07-19.md`** (40 KB) **Yes \u2014 all 16 system files are \u2026",
+      "message_count": 845,
+      "file_size_kb": 4614,
+      "modified_ts": 1784487066.6975777,
+      "modified_iso": "2026-07-19T14:51:06.697578",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -21,23 +37,7 @@
       "file_size_kb": 2639,
       "modified_ts": 1784487053.20557,
       "modified_iso": "2026-07-19T14:50:53.205570",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey so where is the file can you show me the location ? are all of these inside that file?",
-      "last_assistant_snippet": "Saved. Everything a future session needs is now on your Desktop in two forms: **Continuity artifacts (Desktop):** - **`POE-HANDOFF.md`** \u2014 the \"read this first\" doc: what POE is, t\u2026",
-      "message_count": 843,
-      "file_size_kb": 4609,
-      "modified_ts": 1784487047.2588189,
-      "modified_iso": "2026-07-19T14:50:47.258819",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 783,
       "modified_ts": 1784486196.6895194,
       "modified_iso": "2026-07-19T14:36:36.689519",
-      "minutes_since_active": 14.3
+      "minutes_since_active": 14.5
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1096.1
+      "minutes_since_active": 1096.3
     }
   ]
 }
