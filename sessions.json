@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-19T00:12:59Z",
+  "updated_at": "2026-07-19T00:15:47Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 325,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Yes \u2014 captured at line **707** (current file), in the distilled/organized form with its source tag: > **[N4]** Onboard technical skills (CAD, simulation, Biz Plan + Financial Analy\u2026",
       "message_count": 356,
       "file_size_kb": 2265,
-      "modified_ts": 1784417283.947,
-      "modified_iso": "2026-07-18T19:28:03.947000",
-      "minutes_since_active": 44.9
-    },
+      "modified_ts": 1784420083.921,
+      "modified_iso": "2026-07-18T20:14:43.921000",
+      "minutes_since_active": 1.1
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784359894.0874665,
       "modified_iso": "2026-07-18T03:31:34.087466",
-      "minutes_since_active": 1001.4
+      "minutes_since_active": 1004.2
     },
     {
       "id": "1cd376c2",
@@ -54,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 1306.2
+      "minutes_since_active": 1309.0
     },
     {
       "id": "e5e83dfb",
@@ -70,7 +71,7 @@
       "file_size_kb": 187,
       "modified_ts": 1784334353.567993,
       "modified_iso": "2026-07-17T20:25:53.567993",
-      "minutes_since_active": 1427.1
+      "minutes_since_active": 1429.9
     }
   ]
 }
