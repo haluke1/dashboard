@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T21:42:12Z",
+  "updated_at": "2026-07-19T21:43:20Z",
   "counts": {
-    "active": 2,
-    "recent": 2,
+    "active": 1,
+    "recent": 3,
     "archived": 327,
     "total": 331
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 5905,
       "modified_ts": 1784497202.1421084,
       "modified_iso": "2026-07-19T17:40:02.142108",
-      "minutes_since_active": 2.2
-    },
+      "minutes_since_active": 3.3
+    }
+  ],
+  "recent": [
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/ai-portfolio-cube",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 2305,
       "modified_ts": 1784497045.756197,
       "modified_iso": "2026-07-19T17:37:25.756197",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -55,7 +55,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784496879.4980483,
       "modified_iso": "2026-07-19T17:34:39.498048",
-      "minutes_since_active": 7.5
+      "minutes_since_active": 8.7
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1267.4
+      "minutes_since_active": 1268.5
     }
   ]
 }
