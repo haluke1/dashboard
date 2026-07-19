@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:37:41Z",
+  "updated_at": "2026-07-19T21:38:48Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey use sonnet 5 for the sub agents launch wave 2a",
+      "last_assistant_snippet": "**Wave 2a filed: brain now at 79 notes** (54 \u2192 79). Merge queue saved to [merge-queue.md](Desktop/POE-brain/merge-queue.md) \u2014 22 nuance-merges preserved, applied in one integration\u2026",
+      "message_count": 1027,
+      "file_size_kb": 5869,
+      "modified_ts": 1784497099.8162606,
+      "modified_iso": "2026-07-19T17:38:19.816261",
+      "minutes_since_active": 0.5
+    },
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -21,23 +37,7 @@
       "file_size_kb": 2305,
       "modified_ts": 1784497045.756197,
       "modified_iso": "2026-07-19T17:37:25.756197",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey use sonnet 5 for the sub agents launch wave 2a",
-      "last_assistant_snippet": "**Wave 2a filed: brain now at 79 notes** (54 \u2192 79). Merge queue saved to [merge-queue.md](Desktop/POE-brain/merge-queue.md) \u2014 22 nuance-merges preserved, applied in one integration\u2026",
-      "message_count": 1026,
-      "file_size_kb": 5867,
-      "modified_ts": 1784497004.6428595,
-      "modified_iso": "2026-07-19T17:36:44.642859",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.4
     },
     {
       "id": "20276b68",
@@ -53,7 +53,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784496879.4980483,
       "modified_iso": "2026-07-19T17:34:39.498048",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 4.1
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1262.9
+      "minutes_since_active": 1264.0
     }
   ]
 }
