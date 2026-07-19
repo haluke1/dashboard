@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T00:34:41Z",
+  "updated_at": "2026-07-19T00:35:09Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "**51,406 lines** right now \u2014 down from 65,200 at the start of the session (13,794 removed, all recoverable from the backups).",
       "message_count": 360,
       "file_size_kb": 2272,
-      "modified_ts": 1784421279.1024308,
-      "modified_iso": "2026-07-18T20:34:39.102431",
-      "minutes_since_active": 0.0
+      "modified_ts": 1784421293.2928658,
+      "modified_iso": "2026-07-18T20:34:53.292866",
+      "minutes_since_active": 0.3
     },
     {
       "id": "645a5e08",
@@ -35,9 +35,9 @@
       "last_assistant_snippet": "Here it is \u2014 fully updated and committed (clean tree, nothing pending): **`/Users/halukgul/Desktop/Personal-Ontology/EVERYTHING_CURATED.md`** - **3.25 MB \u00b7 65,200 lines \u00b7 ~852K tok\u2026",
       "message_count": 903,
       "file_size_kb": 5769,
-      "modified_ts": 1784421233.522,
-      "modified_iso": "2026-07-18T20:33:53.522000",
-      "minutes_since_active": 0.8
+      "modified_ts": 1784421289.3317325,
+      "modified_iso": "2026-07-18T20:34:49.331733",
+      "minutes_since_active": 0.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 880,
       "modified_ts": 1784341606.8003738,
       "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 1327.9
+      "minutes_since_active": 1328.4
     }
   ]
 }
