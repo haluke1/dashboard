@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:08:03Z",
+  "updated_at": "2026-07-19T21:09:15Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey continue",
+      "last_assistant_snippet": "51 notes written. Now applying the merges into the 3 pilot notes (folding in the extra nuance the analysts flagged rather than duplicating). Reading them first.",
+      "message_count": 979,
+      "file_size_kb": 5439,
+      "modified_ts": 1784495346.35838,
+      "modified_iso": "2026-07-19T17:09:06.358380",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -21,7 +37,7 @@
       "file_size_kb": 1449,
       "modified_ts": 1784495275.5735383,
       "modified_iso": "2026-07-19T17:07:55.573538",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.3
     },
     {
       "id": "20276b68",
@@ -37,23 +53,7 @@
       "file_size_kb": 4586,
       "modified_ts": 1784495210.2649481,
       "modified_iso": "2026-07-19T17:06:50.264948",
-      "minutes_since_active": 1.2
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey continue",
-      "last_assistant_snippet": "Name can't contain spaces \u2014 using `CEO-Haluk-N`. Relaunching.",
-      "message_count": 954,
-      "file_size_kb": 5278,
-      "modified_ts": 1784495092.3549197,
-      "modified_iso": "2026-07-19T17:04:52.354920",
-      "minutes_since_active": 3.2
+      "minutes_since_active": 2.4
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1233.2
+      "minutes_since_active": 1234.4
     }
   ]
 }
