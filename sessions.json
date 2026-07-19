@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T21:21:52Z",
+  "updated_at": "2026-07-19T21:22:43Z",
   "counts": {
-    "active": 2,
-    "recent": 2,
+    "active": 3,
+    "recent": 1,
     "archived": 327,
     "total": 331
   },
@@ -19,9 +19,25 @@
       "last_assistant_snippet": "Shipped and proven. Here's where it landed. ## What's built **`sweep_engine.py`** \u2014 a parameter-sweep matrix that drives Magnific's own `render/v4` API through your logged-in sessi\u2026",
       "message_count": 397,
       "file_size_kb": 4586,
-      "modified_ts": 1784496110.621873,
-      "modified_iso": "2026-07-19T17:21:50.621873",
+      "modified_ts": 1784496161.289,
+      "modified_iso": "2026-07-19T17:22:41.289000",
       "minutes_since_active": 0.0
+    },
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "phase 2 start",
+      "last_assistant_snippet": "**Phase 1 shipped** \u2014 the gamified progression layer is live in [ai-portfolio/index.html](ai-portfolio/index.html), added without regressing v2 (verified: still 57 ScrollTriggers, \u2026",
+      "message_count": 171,
+      "file_size_kb": 1813,
+      "modified_ts": 1784496122.442834,
+      "modified_iso": "2026-07-19T17:22:02.442834",
+      "minutes_since_active": 0.7
     },
     {
       "id": "abc2ae7e",
@@ -37,26 +53,10 @@
       "file_size_kb": 5623,
       "modified_ts": 1784496055.6109066,
       "modified_iso": "2026-07-19T17:20:55.610907",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.8
     }
   ],
   "recent": [
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk/ai-portfolio",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "can we add potentially interactive stuff like gradient 3d buttons that activate the next level once they enter it right or a rubics cube that unlocks x when they solve it? what wou\u2026",
-      "last_assistant_snippet": "**Phase 1 shipped** \u2014 the gamified progression layer is live in [ai-portfolio/index.html](ai-portfolio/index.html), added without regressing v2 (verified: still 57 ScrollTriggers, \u2026",
-      "message_count": 170,
-      "file_size_kb": 1810,
-      "modified_ts": 1784495576.654934,
-      "modified_iso": "2026-07-19T17:12:56.654934",
-      "minutes_since_active": 8.9
-    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1247.0
+      "minutes_since_active": 1247.9
     }
   ]
 }
