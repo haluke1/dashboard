@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:05:57Z",
+  "updated_at": "2026-07-19T19:06:23Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "what is raycast and what are the advantages over macbooks text shortcut thing",
+      "last_assistant_snippet": "Yes \u2014 compact complete. Snapshot saved, handoff written, POE system files re-read and intact: - `POE-brain/` \u2014 17 system files + `_source.md` (48,589 lines), CLAUDE.md auto-orienta\u2026",
+      "message_count": 875,
+      "file_size_kb": 4856,
+      "modified_ts": 1784487982.735682,
+      "modified_iso": "2026-07-19T15:06:22.735682",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -21,7 +37,7 @@
       "file_size_kb": 2862,
       "modified_ts": 1784487955.1481164,
       "modified_iso": "2026-07-19T15:05:55.148116",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.5
     },
     {
       "id": "232ff70f",
@@ -37,23 +53,7 @@
       "file_size_kb": 1376,
       "modified_ts": 1784487951.1367867,
       "modified_iso": "2026-07-19T15:05:51.136787",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "compact complete?",
-      "last_assistant_snippet": "Yes \u2014 compact complete. Snapshot saved, handoff written, POE system files re-read and intact: - `POE-brain/` \u2014 17 system files + `_source.md` (48,589 lines), CLAUDE.md auto-orienta\u2026",
-      "message_count": 874,
-      "file_size_kb": 4854,
-      "modified_ts": 1784487932.5705047,
-      "modified_iso": "2026-07-19T15:05:32.570505",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1111.1
+      "minutes_since_active": 1111.6
     }
   ]
 }
