@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-19T02:22:11Z",
+  "updated_at": "2026-07-19T03:04:43Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 326,
+    "recent": 2,
+    "archived": 327,
     "total": 329
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 3035,
       "modified_ts": 1784425554.183533,
       "modified_iso": "2026-07-18T21:45:54.183533",
-      "minutes_since_active": 36.3
+      "minutes_since_active": 78.8
     },
     {
       "id": "645a5e08",
@@ -38,23 +38,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 107.4
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "were you able to extract content from the videos or are the videos the same ones in youtube",
-      "last_assistant_snippet": "Done \u2014 and I went past just links. Here's the honest picture: **The videos themselves are the same public YouTube videos** \u2014 the lessons embed them, so there's no separate/exclusiv\u2026",
-      "message_count": 274,
-      "file_size_kb": 880,
-      "modified_ts": 1784341606.8003738,
-      "modified_iso": "2026-07-17T22:26:46.800374",
-      "minutes_since_active": 1435.4
+      "minutes_since_active": 149.9
     }
   ]
 }
