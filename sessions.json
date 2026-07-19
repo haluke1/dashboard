@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:28:47Z",
+  "updated_at": "2026-07-19T19:41:33Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -8,9 +8,27 @@
   },
   "active": [
     {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "i will exit the cafe we can continue when i get home",
+      "last_assistant_snippet": "Sounds good. Everything's saved and safe to walk away from: - **Rebuild-safety fix** \u2014 applied across all 4 files (SCHEMA, rebuild, ingest, crystallize). Done. - **PENDING A** \u2014 pl\u2026",
+      "message_count": 924,
+      "file_size_kb": 5034,
+      "modified_ts": 1784490089.9619167,
+      "modified_iso": "2026-07-19T15:41:29.961917",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
+    {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/ai-portfolio",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,25 +39,7 @@
       "file_size_kb": 1376,
       "modified_ts": 1784489175.0676587,
       "modified_iso": "2026-07-19T15:26:15.067659",
-      "minutes_since_active": 2.5
-    }
-  ],
-  "recent": [
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "i will exit the cafe we can continue when i get home",
-      "last_assistant_snippet": "Sounds good. Everything's saved and safe to walk away from: - **Rebuild-safety fix** \u2014 applied across all 4 files (SCHEMA, rebuild, ingest, crystallize). Done. - **PENDING A** \u2014 pl\u2026",
-      "message_count": 924,
-      "file_size_kb": 5034,
-      "modified_ts": 1784488417.3521245,
-      "modified_iso": "2026-07-19T15:13:37.352124",
-      "minutes_since_active": 15.2
+      "minutes_since_active": 15.3
     },
     {
       "id": "20276b68",
@@ -55,7 +55,7 @@
       "file_size_kb": 2902,
       "modified_ts": 1784488228.850837,
       "modified_iso": "2026-07-19T15:10:28.850837",
-      "minutes_since_active": 18.3
+      "minutes_since_active": 31.1
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1134.0
+      "minutes_since_active": 1146.7
     }
   ]
 }
