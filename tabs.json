@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-19T15:50:55Z",
-  "total_tabs": 141,
+  "updated_at": "2026-07-19T15:52:00Z",
+  "total_tabs": 137,
   "total_windows": 5,
-  "duplicate_tabs": 7,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 79,
-      "domain_count": 58,
+      "count": 76,
+      "domain_count": 57,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -16,11 +16,7 @@
         },
         {
           "domain": "google.com",
-          "count": 5
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "magnific.com",
@@ -29,6 +25,10 @@
         {
           "domain": "hilton.com",
           "count": 3
+        },
+        {
+          "domain": "moneyatlas.com",
+          "count": 2
         }
       ]
     },
@@ -68,12 +68,12 @@
     },
     {
       "name": "social",
-      "count": 6,
+      "count": 5,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
-          "count": 3
+          "count": 2
         },
         {
           "domain": "x.com",
