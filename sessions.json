@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T19:10:32Z",
+  "updated_at": "2026-07-19T19:10:59Z",
   "counts": {
-    "active": 3,
-    "recent": 1,
+    "active": 2,
+    "recent": 2,
     "archived": 327,
     "total": 331
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 2902,
       "modified_ts": 1784488228.850837,
       "modified_iso": "2026-07-19T15:10:28.850837",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.5
     },
     {
       "id": "abc2ae7e",
@@ -37,12 +37,14 @@
       "file_size_kb": 4948,
       "modified_ts": 1784488217.883415,
       "modified_iso": "2026-07-19T15:10:17.883415",
-      "minutes_since_active": 0.2
-    },
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/ai-portfolio",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,10 +55,8 @@
       "file_size_kb": 1376,
       "modified_ts": 1784487951.1367867,
       "modified_iso": "2026-07-19T15:05:51.136787",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1115.7
+      "minutes_since_active": 1116.2
     }
   ]
 }
