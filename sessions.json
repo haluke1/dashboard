@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:07:35Z",
+  "updated_at": "2026-07-19T19:08:02Z",
   "counts": {
     "active": 3,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "also could you give me the new version of the tldr command for the new sessions since we updated claude.md in the file and make it such a great command that the new session gets on\u2026",
-      "last_assistant_snippet": "**Raycast** is a launcher app for Mac \u2014 think of it as Spotlight (the \u2318-Space search bar) with a toolbox bolted on. You hit a hotkey, a bar drops down, and from there you can launc\u2026",
-      "message_count": 878,
-      "file_size_kb": 4868,
-      "modified_ts": 1784488038.4268491,
-      "modified_iso": "2026-07-19T15:07:18.426849",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Skipping the advisor sub-agent per your standing order (2026-07-17). Here's the upgraded command. **Design logic first (why it's better than your draft):** now that `CLAUDE.md` aut\u2026",
+      "message_count": 880,
+      "file_size_kb": 4879,
+      "modified_ts": 1784488080.1515813,
+      "modified_iso": "2026-07-19T15:08:00.151581",
+      "minutes_since_active": 0.0
     },
     {
       "id": "20276b68",
@@ -37,7 +37,7 @@
       "file_size_kb": 2862,
       "modified_ts": 1784487955.1481164,
       "modified_iso": "2026-07-19T15:05:55.148116",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 2.1
     },
     {
       "id": "232ff70f",
@@ -53,7 +53,7 @@
       "file_size_kb": 1376,
       "modified_ts": 1784487951.1367867,
       "modified_iso": "2026-07-19T15:05:51.136787",
-      "minutes_since_active": 1.7
+      "minutes_since_active": 2.2
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1112.7
+      "minutes_since_active": 1113.2
     }
   ]
 }
