@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-07-19T15:55:23Z",
+  "updated_at": "2026-07-19T15:56:27Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 327,
     "total": 329
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 3418,
       "modified_ts": 1784476275.874302,
       "modified_iso": "2026-07-19T11:51:15.874302",
-      "minutes_since_active": 4.1
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.2
+    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -39,7 +38,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 920.6
+      "minutes_since_active": 921.6
     }
   ]
 }
