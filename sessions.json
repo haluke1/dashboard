@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-07-19T18:56:20Z",
+  "updated_at": "2026-07-19T18:56:51Z",
   "counts": {
-    "active": 2,
-    "recent": 2,
+    "active": 3,
+    "recent": 1,
     "archived": 327,
     "total": 331
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "could you do it even more advanced? i want paralax effects, crazy interactive stuff and an order of magnitude more advanced website",
+      "last_assistant_snippet": "Done. Shipped one self-contained portfolio page \u2014 [ai-portfolio/index.html](ai-portfolio/index.html) \u2014 with 5 scroll-driven sections, each a \"case study\" that visibly combines mult\u2026",
+      "message_count": 84,
+      "file_size_kb": 786,
+      "modified_ts": 1784487391.7528925,
+      "modified_iso": "2026-07-19T14:56:31.752892",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +37,7 @@
       "file_size_kb": 4646,
       "modified_ts": 1784487374.8088264,
       "modified_iso": "2026-07-19T14:56:14.808826",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.6
     },
     {
       "id": "20276b68",
@@ -37,26 +53,10 @@
       "file_size_kb": 2713,
       "modified_ts": 1784487373.7329855,
       "modified_iso": "2026-07-19T14:56:13.732985",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.6
     }
   ],
   "recent": [
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk/ai-portfolio",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/gsap-timeline # GSAP Timeline ## When to Use This Skill Apply when building multi-step animations, coordinating severa\u2026",
-      "last_assistant_snippet": "Done. Shipped one self-contained portfolio page \u2014 [ai-portfolio/index.html](ai-portfolio/index.html) \u2014 with 5 scroll-driven sections, each a \"case study\" that visibly combines mult\u2026",
-      "message_count": 83,
-      "file_size_kb": 783,
-      "modified_ts": 1784486196.6895194,
-      "modified_iso": "2026-07-19T14:36:36.689519",
-      "minutes_since_active": 19.7
-    },
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1101.5
+      "minutes_since_active": 1102.0
     }
   ]
 }
