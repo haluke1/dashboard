@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:13:36Z",
+  "updated_at": "2026-07-19T21:14:20Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 331
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "give me quick simplified tldr",
+      "last_assistant_snippet": "**TL;DR:** - Built you 51 notes from Part 1 of your brain \u2192 now 54 total, organized into 8 topic packs. - Quality's good \u2014 each note is one clean idea, tagged, traced back to exact\u2026",
+      "message_count": 983,
+      "file_size_kb": 5451,
+      "modified_ts": 1784495658.2419538,
+      "modified_iso": "2026-07-19T17:14:18.241954",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -21,23 +37,7 @@
       "file_size_kb": 1810,
       "modified_ts": 1784495576.654934,
       "modified_iso": "2026-07-19T17:12:56.654934",
-      "minutes_since_active": 0.7
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey continue",
-      "last_assistant_snippet": "**Wave 1 complete.** 51 new notes + 4 merges folded into the 3 pilots. The brain went from 3 notes \u2192 54. ## Counts per pack | Pack | Notes | |---|---| | 01-business-model-patterns \u2026",
-      "message_count": 981,
-      "file_size_kb": 5448,
-      "modified_ts": 1784495375.6573846,
-      "modified_iso": "2026-07-19T17:09:35.657385",
-      "minutes_since_active": 4.0
+      "minutes_since_active": 1.4
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 4586,
       "modified_ts": 1784495210.2649481,
       "modified_iso": "2026-07-19T17:06:50.264948",
-      "minutes_since_active": 6.8
+      "minutes_since_active": 7.5
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1238.8
+      "minutes_since_active": 1239.5
     }
   ]
 }
