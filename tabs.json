@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T17:41:04Z",
-  "total_tabs": 116,
+  "updated_at": "2026-07-19T17:42:08Z",
+  "total_tabs": 115,
   "total_windows": 5,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 30,
+      "count": 29,
       "domain_count": 3,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 12
+          "count": 11
         },
         {
           "domain": "anthropic.com",
