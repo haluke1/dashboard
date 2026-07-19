@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-19T16:13:41Z",
+  "updated_at": "2026-07-19T16:13:58Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 327,
     "total": 329
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Not found \u2014 not in the current file **or** the backup, in that phrasing or the concept. I also checked for the underlying idea (execution being commoditized/rentable, effort no lon\u2026",
       "message_count": 579,
       "file_size_kb": 3418,
-      "modified_ts": 1784477176.579809,
-      "modified_iso": "2026-07-19T12:06:16.579809",
-      "minutes_since_active": 7.4
-    },
+      "modified_ts": 1784477621.809,
+      "modified_iso": "2026-07-19T12:13:41.809000",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
@@ -38,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 938.9
+      "minutes_since_active": 939.2
     }
   ]
 }
