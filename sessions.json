@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T03:48:15Z",
+  "updated_at": "2026-07-19T03:49:20Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,11 +16,11 @@
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "okey put these in a separate folder and surgically remove from the doc -> API keys: Anthropic (`sk-ant\u2026`), Exa (\u00d75 spots), Gmail OAuth secret, GitHub 16 recovery codes, ElevenLabs,\u2026",
-      "last_assistant_snippet": "Blocks mapped. Most secrets sit in **dedicated credential notes** (Gmail, Claude key, GitHub codes \u00d716, Roku, Villanova ID, hgul23 login) \u2014 clean whole-note removals. Exa is embedd\u2026",
-      "message_count": 506,
-      "file_size_kb": 3130,
-      "modified_ts": 1784432867.24289,
-      "modified_iso": "2026-07-18T23:47:47.242890",
+      "last_assistant_snippet": "Clarifying the financial ones: the \"IBAN\" hits at 3529/3543/3893 are just the *word* \"IBAN\" in Turkish instructions/rants \u2014 no account numbers (false positives, skip). The real one\u2026",
+      "message_count": 510,
+      "file_size_kb": 3152,
+      "modified_ts": 1784432929.253941,
+      "modified_iso": "2026-07-18T23:48:49.253941",
       "minutes_since_active": 0.5
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 193.4
+      "minutes_since_active": 194.5
     }
   ]
 }
