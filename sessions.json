@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:49:10Z",
+  "updated_at": "2026-07-19T18:49:34Z",
   "counts": {
     "active": 2,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "also make sure to save all of this md files and structure in a file in desktop so we can continue with future sessions and continuously improve upon it. save instructions for the o\u2026",
-      "last_assistant_snippet": "On it \u2014 two artifacts so any future session (or a fresh you) has the complete picture in one place: a **continuity/instructions doc** and a **single-file snapshot bundle** of every\u2026",
-      "message_count": 833,
-      "file_size_kb": 4587,
-      "modified_ts": 1784486934.9847944,
-      "modified_iso": "2026-07-19T14:48:54.984794",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "Saved. Everything a future session needs is now on your Desktop in two forms: **Continuity artifacts (Desktop):** - **`POE-HANDOFF.md`** \u2014 the \"read this first\" doc: what POE is, t\u2026",
+      "message_count": 839,
+      "file_size_kb": 4599,
+      "modified_ts": 1784486972.1021254,
+      "modified_iso": "2026-07-19T14:49:32.102125",
+      "minutes_since_active": 0.0
     },
     {
       "id": "20276b68",
@@ -37,7 +37,7 @@
       "file_size_kb": 2602,
       "modified_ts": 1784486914.7195804,
       "modified_iso": "2026-07-19T14:48:34.719580",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 783,
       "modified_ts": 1784486196.6895194,
       "modified_iso": "2026-07-19T14:36:36.689519",
-      "minutes_since_active": 12.6
+      "minutes_since_active": 13.0
     },
     {
       "id": "645a5e08",
@@ -71,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1094.4
+      "minutes_since_active": 1094.8
     }
   ]
 }
