@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-19T23:43:05Z",
+  "updated_at": "2026-07-19T23:44:11Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 327,
     "total": 331
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "why does it say stalled here for some of them",
+      "last_user_msg": "region 19 and 21 gave errors can you look into that",
       "last_assistant_snippet": "\"Stalled\" here means **\"no visible progress in the last little while,\" not \"failed.\"** Each agent does two heavy things: reads ~750 lines, then writes a big organized file back. Du\u2026",
-      "message_count": 1102,
-      "file_size_kb": 6390,
-      "modified_ts": 1784500217.3275816,
-      "modified_iso": "2026-07-19T18:30:17.327582",
-      "minutes_since_active": 72.8
-    },
+      "message_count": 1103,
+      "file_size_kb": 6392,
+      "modified_ts": 1784504644.22893,
+      "modified_iso": "2026-07-19T19:44:04.228930",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -38,7 +39,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784497780.0037377,
       "modified_iso": "2026-07-19T17:49:40.003738",
-      "minutes_since_active": 113.4
+      "minutes_since_active": 114.5
     },
     {
       "id": "232ff70f",
@@ -54,7 +55,7 @@
       "file_size_kb": 2305,
       "modified_ts": 1784497045.756197,
       "modified_iso": "2026-07-19T17:37:25.756197",
-      "minutes_since_active": 125.7
+      "minutes_since_active": 126.8
     },
     {
       "id": "645a5e08",
@@ -70,7 +71,7 @@
       "file_size_kb": 5769,
       "modified_ts": 1784421289.3317325,
       "modified_iso": "2026-07-18T20:34:49.331733",
-      "minutes_since_active": 1388.3
+      "minutes_since_active": 1389.4
     }
   ]
 }
