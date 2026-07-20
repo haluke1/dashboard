@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-20T05:36:08Z",
+  "updated_at": "2026-07-20T05:37:25Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 328,
     "total": 331
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "<task-notification> <task-id>wv6pk7d4h</task-id> <tool-use-id>toolu_01GvS6yxjwgGx4L8vW5R2Q5q</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/abc2ae7e-3b3c-\u2026",
       "last_assistant_snippet": "Skipping advisor per standing order. The review is done, and it settles the 6\u20137k question honestly. ## The verdict on 6\u20137k Even approving **every** high-confidence cut only lands ~\u2026",
-      "message_count": 1280,
-      "file_size_kb": 7370,
-      "modified_ts": 1784524412.0850708,
-      "modified_iso": "2026-07-20T01:13:32.085071",
-      "minutes_since_active": 22.6
-    },
+      "message_count": 1281,
+      "file_size_kb": 7372,
+      "modified_ts": 1784525780.1710618,
+      "modified_iso": "2026-07-20T01:36:20.171062",
+      "minutes_since_active": 1.1
+    }
+  ],
+  "recent": [
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -38,7 +39,7 @@
       "file_size_kb": 2315,
       "modified_ts": 1784513070.2665942,
       "modified_iso": "2026-07-19T22:04:30.266594",
-      "minutes_since_active": 211.6
+      "minutes_since_active": 212.9
     },
     {
       "id": "20276b68",
@@ -54,7 +55,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784512058.798,
       "modified_iso": "2026-07-19T21:47:38.798000",
-      "minutes_since_active": 228.5
+      "minutes_since_active": 229.8
     }
   ]
 }
