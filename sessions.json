@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-07-20T04:58:16Z",
+  "updated_at": "2026-07-20T04:59:21Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 328,
     "total": 331
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "<task-notification> <task-id>w600i4hfq</task-id> <tool-use-id>toolu_017UyFm9it2XistNW5KncVMk</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/abc2ae7e-3b3c-\u2026",
       "last_assistant_snippet": "The dedup work is **complete and clean.** Final state: | | items | |---|---| | Original | 11,333 | | After pass 1 (dedup) | 10,541 | | After pass 2 (tighter + fixes) | **10,341** |\u2026",
-      "message_count": 1261,
-      "file_size_kb": 7256,
-      "modified_ts": 1784522420.6329734,
-      "modified_iso": "2026-07-20T00:40:20.632973",
-      "minutes_since_active": 17.9
-    },
+      "message_count": 1262,
+      "file_size_kb": 7259,
+      "modified_ts": 1784523503.5051148,
+      "modified_iso": "2026-07-20T00:58:23.505115",
+      "minutes_since_active": 1.0
+    }
+  ],
+  "recent": [
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -38,7 +39,7 @@
       "file_size_kb": 2315,
       "modified_ts": 1784513070.2665942,
       "modified_iso": "2026-07-19T22:04:30.266594",
-      "minutes_since_active": 173.8
+      "minutes_since_active": 174.9
     },
     {
       "id": "20276b68",
@@ -54,7 +55,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784512058.798,
       "modified_iso": "2026-07-19T21:47:38.798000",
-      "minutes_since_active": 190.6
+      "minutes_since_active": 191.7
     }
   ]
 }
