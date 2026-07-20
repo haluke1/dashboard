@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T05:34:54Z",
+  "updated_at": "2026-07-20T05:35:59Z",
   "total_tabs": 120,
   "total_windows": 5,
   "duplicate_tabs": 6,
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 27,
+      "count": 28,
       "domain_count": 3,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 10
+          "count": 11
         },
         {
           "domain": "anthropic.com",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 20,
+      "count": 19,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 20
+          "count": 19
         }
       ]
     },
