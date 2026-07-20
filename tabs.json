@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T01:59:02Z",
+  "updated_at": "2026-07-20T02:00:07Z",
   "total_tabs": 125,
   "total_windows": 5,
   "duplicate_tabs": 8,
@@ -16,7 +16,11 @@
         },
         {
           "domain": "shiroko.co",
-          "count": 6
+          "count": 5
+        },
+        {
+          "domain": "google.com",
+          "count": 3
         },
         {
           "domain": "magnific.com",
@@ -25,10 +29,6 @@
         {
           "domain": "hilton.com",
           "count": 3
-        },
-        {
-          "domain": "google.com",
-          "count": 2
         }
       ]
     },
