@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T01:19:47Z",
+  "updated_at": "2026-07-20T01:20:51Z",
   "counts": {
     "active": 1,
     "recent": 2,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
       "last_user_msg": "<task-notification> <task-id>wvuwcv9gb</task-id> <tool-use-id>toolu_01NW5Gs1c3AxScHHGPE6DHJC</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/abc2ae7e-3b3c-\u2026",
-      "last_assistant_snippet": "Yes, exactly \u2014 it's a rolling queue, not all-at-once. Here's the mechanism: The workflow *created* all 65 region-jobs immediately, but only runs **~16 at a time** (the cap is rough\u2026",
-      "message_count": 1129,
-      "file_size_kb": 6536,
-      "modified_ts": 1784510366.1014276,
-      "modified_iso": "2026-07-19T21:19:26.101428",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "**All 65 regions in, every one with a coverage assertion, 11,489 items filed** \u2014 that's the entire corpus organized, every bucket populated. Coverage by bucket confirms nothing was\u2026",
+      "message_count": 1137,
+      "file_size_kb": 6564,
+      "modified_ts": 1784510440.363145,
+      "modified_iso": "2026-07-19T21:20:40.363145",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784497780.0037377,
       "modified_iso": "2026-07-19T17:49:40.003738",
-      "minutes_since_active": 210.1
+      "minutes_since_active": 211.2
     },
     {
       "id": "232ff70f",
@@ -55,7 +55,7 @@
       "file_size_kb": 2305,
       "modified_ts": 1784497045.756197,
       "modified_iso": "2026-07-19T17:37:25.756197",
-      "minutes_since_active": 222.4
+      "minutes_since_active": 223.4
     }
   ]
 }
