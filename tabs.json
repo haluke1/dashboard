@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T01:47:47Z",
-  "total_tabs": 115,
+  "updated_at": "2026-07-20T01:48:51Z",
+  "total_tabs": 117,
   "total_windows": 5,
   "duplicate_tabs": 6,
   "bridge_online": true,
@@ -23,11 +23,11 @@
           "count": 3
         },
         {
-          "domain": "keep.google.com",
+          "domain": "google.com",
           "count": 2
         },
         {
-          "domain": "google.com",
+          "domain": "keep.google.com",
           "count": 2
         }
       ]
@@ -77,6 +77,21 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "localhost:3000",
+          "count": 1
+        },
+        {
+          "domain": "localhost:8080",
           "count": 1
         }
       ]
