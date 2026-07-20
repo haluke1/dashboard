@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-07-20T01:52:08Z",
-  "total_tabs": 121,
+  "updated_at": "2026-07-20T01:53:13Z",
+  "total_tabs": 125,
   "total_windows": 5,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 70,
+      "count": 74,
       "domain_count": 53,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 8
+        },
+        {
+          "domain": "shiroko.co",
+          "count": 6
         },
         {
           "domain": "magnific.com",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "google.com",
-          "count": 2
-        },
-        {
-          "domain": "keep.google.com",
           "count": 2
         }
       ]
