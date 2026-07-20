@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-07-20T02:00:10Z",
+  "updated_at": "2026-07-20T02:01:05Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 328,
     "total": 331
   },
-  "active": [],
+  "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey lets get rid of the packs/ section.",
+      "last_assistant_snippet": "Done. Verified clean: - **All references to the deleted `packs/` are gone** \u2014 44 repointed to `organized/` across ROUTER, SCHEMA, CONSTITUTION, IDENTITY, README, REGISTRY, CLAUDE, \u2026",
+      "message_count": 1176,
+      "file_size_kb": 6792,
+      "modified_ts": 1784512862.9360628,
+      "modified_iso": "2026-07-19T22:01:02.936063",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "232ff70f",
@@ -22,7 +39,7 @@
       "file_size_kb": 2315,
       "modified_ts": 1784512065.443018,
       "modified_iso": "2026-07-19T21:47:45.443018",
-      "minutes_since_active": 12.4
+      "minutes_since_active": 13.3
     },
     {
       "id": "20276b68",
@@ -38,23 +55,7 @@
       "file_size_kb": 6491,
       "modified_ts": 1784512058.798,
       "modified_iso": "2026-07-19T21:47:38.798000",
-      "minutes_since_active": 12.5
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey lets get rid of the packs/ section.",
-      "last_assistant_snippet": "Found them \u2014 12 files in `POE-brain/` plus the Desktop handoff, ~41 references total (`notes/` is empty scaffolding, I'll drop it too). Rather than leave the docs pointing at nothi\u2026",
-      "message_count": 1169,
-      "file_size_kb": 6740,
-      "modified_ts": 1784511498.74865,
-      "modified_iso": "2026-07-19T21:38:18.748650",
-      "minutes_since_active": 21.9
+      "minutes_since_active": 13.4
     }
   ]
 }
