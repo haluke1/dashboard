@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T00:58:02Z",
-  "total_tabs": 116,
+  "updated_at": "2026-07-20T00:59:09Z",
+  "total_tabs": 118,
   "total_windows": 5,
   "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 67,
-      "domain_count": 52,
+      "count": 68,
+      "domain_count": 53,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 16,
+      "count": 18,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -77,17 +77,6 @@
         },
         {
           "domain": "instagram.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "finance",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "checkout.stripe.com",
           "count": 1
         }
       ]
