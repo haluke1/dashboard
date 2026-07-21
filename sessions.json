@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-21T23:54:51Z",
+  "updated_at": "2026-07-21T23:55:59Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 329,
+    "recent": 1,
+    "archived": 330,
     "total": 331
   },
   "active": [],
@@ -22,23 +22,7 @@
       "file_size_kb": 190,
       "modified_ts": 1784656156.0379028,
       "modified_iso": "2026-07-21T13:49:16.037903",
-      "minutes_since_active": 365.6
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "also can you confirm we got the certain sections that gave an error or had stalled and theyre in this thing we created?",
-      "last_assistant_snippet": "Confirmed \u2014 all four errored sections made it through the full pipeline into the final brain. Traced by their source-line ranges: | Errored section | Status in final brain | |---|-\u2026",
-      "message_count": 1321,
-      "file_size_kb": 7535,
-      "modified_ts": 1784591719.229,
-      "modified_iso": "2026-07-20T19:55:19.229000",
-      "minutes_since_active": 1439.5
+      "minutes_since_active": 366.7
     }
   ]
 }
