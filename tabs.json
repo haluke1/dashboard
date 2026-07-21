@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-07-21T23:21:09Z",
-  "total_tabs": 125,
+  "updated_at": "2026-07-21T23:22:14Z",
+  "total_tabs": 129,
   "total_windows": 6,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 74,
+      "count": 78,
       "domain_count": 58,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 8
+        },
+        {
+          "domain": "xhamster.com",
+          "count": 5
         },
         {
           "domain": "magnific.com",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "keep.google.com",
-          "count": 2
-        },
-        {
-          "domain": "google.com",
           "count": 2
         }
       ]
