@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T23:35:17Z",
+  "updated_at": "2026-07-21T23:36:21Z",
   "total_tabs": 138,
   "total_windows": 6,
   "duplicate_tabs": 8,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 86,
+      "count": 87,
       "domain_count": 57,
       "top_domains": [
         {
@@ -19,16 +19,16 @@
           "count": 8
         },
         {
+          "domain": "google.com",
+          "count": 3
+        },
+        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "hilton.com",
           "count": 3
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 2
         }
       ]
     },
@@ -64,16 +64,12 @@
     },
     {
       "name": "social",
-      "count": 5,
-      "domain_count": 4,
+      "count": 4,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "x.com",
           "count": 2
-        },
-        {
-          "domain": "tnaflix.com",
-          "count": 1
         },
         {
           "domain": "reddit.com",
