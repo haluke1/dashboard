@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T23:12:50Z",
-  "total_tabs": 173,
+  "updated_at": "2026-07-22T23:13:55Z",
+  "total_tabs": 174,
   "total_windows": 7,
   "duplicate_tabs": 12,
   "bridge_online": true,
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
-          "domain": "keep.google.com",
-          "count": 3
-        },
-        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "hilton.com",
+          "count": 3
+        },
+        {
+          "domain": "keep.google.com",
           "count": 3
         }
       ]
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 17,
+      "count": 18,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 17
+          "count": 18
         }
       ]
     },
