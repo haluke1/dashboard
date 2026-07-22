@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-22T01:19:21Z",
-  "total_tabs": 160,
-  "total_windows": 7,
+  "updated_at": "2026-07-22T01:20:28Z",
+  "total_tabs": 158,
+  "total_windows": 6,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
-          "domain": "keep.google.com",
-          "count": 3
-        },
-        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "hilton.com",
+          "count": 3
+        },
+        {
+          "domain": "keep.google.com",
           "count": 3
         }
       ]
@@ -64,13 +64,9 @@
     },
     {
       "name": "social",
-      "count": 9,
-      "domain_count": 6,
+      "count": 7,
+      "domain_count": 5,
       "top_domains": [
-        {
-          "domain": "tnaflix.com",
-          "count": 2
-        },
         {
           "domain": "x.com",
           "count": 2
@@ -85,6 +81,10 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "inxxx.com",
           "count": 1
         }
       ]
