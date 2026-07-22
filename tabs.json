@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-22T22:56:37Z",
-  "total_tabs": 160,
-  "total_windows": 6,
+  "updated_at": "2026-07-22T22:57:43Z",
+  "total_tabs": 159,
+  "total_windows": 7,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
@@ -19,22 +19,22 @@
           "count": 8
         },
         {
+          "domain": "keep.google.com",
+          "count": 3
+        },
+        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "hilton.com",
           "count": 3
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 3
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 28,
+      "count": 29,
       "domain_count": 3,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 11
+          "count": 12
         },
         {
           "domain": "anthropic.com",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 19,
+      "count": 17,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 19
+          "count": 17
         }
       ]
     },
