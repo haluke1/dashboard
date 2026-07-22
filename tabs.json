@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-22T23:53:56Z",
-  "total_tabs": 175,
+  "updated_at": "2026-07-22T23:55:01Z",
+  "total_tabs": 176,
   "total_windows": 7,
-  "duplicate_tabs": 12,
+  "duplicate_tabs": 14,
   "bridge_online": true,
   "categories": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 30,
+      "count": 31,
       "domain_count": 3,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 13
+          "count": 14
         },
         {
           "domain": "anthropic.com",
@@ -68,11 +68,11 @@
       "domain_count": 5,
       "top_domains": [
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "x.com",
+          "domain": "instagram.com",
           "count": 2
         },
         {
