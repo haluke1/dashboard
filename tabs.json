@@ -1,22 +1,26 @@
 {
-  "updated_at": "2026-07-22T00:09:08Z",
-  "total_tabs": 152,
+  "updated_at": "2026-07-22T00:10:14Z",
+  "total_tabs": 159,
   "total_windows": 6,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 68,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 97,
-      "domain_count": 60,
+      "count": 113,
+      "domain_count": 50,
       "top_domains": [
         {
           "domain": "xhamster.com",
-          "count": 21
+          "count": 42
         },
         {
           "domain": "higgsfield.ai",
-          "count": 8
+          "count": 7
+        },
+        {
+          "domain": "eporner.com",
+          "count": 4
         },
         {
           "domain": "magnific.com",
@@ -25,66 +29,54 @@
         {
           "domain": "hilton.com",
           "count": 3
-        },
-        {
-          "domain": "google.com",
-          "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 28,
-      "domain_count": 3,
+      "count": 21,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 16
+          "count": 12
         },
         {
           "domain": "claude.ai",
-          "count": 11
-        },
-        {
-          "domain": "anthropic.com",
-          "count": 1
+          "count": 9
         }
       ]
     },
     {
       "name": "video",
-      "count": 17,
+      "count": 14,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 17
+          "count": 14
         }
       ]
     },
     {
       "name": "social",
-      "count": 7,
-      "domain_count": 5,
+      "count": 9,
+      "domain_count": 4,
       "top_domains": [
+        {
+          "domain": "abxxx.com",
+          "count": 4
+        },
+        {
+          "domain": "inxxx.com",
+          "count": 2
+        },
         {
           "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "abxxx.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
           "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "inxxx.com",
           "count": 1
         }
       ]
@@ -100,17 +92,6 @@
         },
         {
           "domain": "localhost:8080",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
           "count": 1
         }
       ]
