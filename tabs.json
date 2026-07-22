@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T00:06:51Z",
-  "total_tabs": 151,
+  "updated_at": "2026-07-22T00:07:59Z",
+  "total_tabs": 153,
   "total_windows": 6,
   "duplicate_tabs": 8,
   "bridge_online": true,
@@ -27,7 +27,7 @@
           "count": 3
         },
         {
-          "domain": "eporner.com",
+          "domain": "google.com",
           "count": 2
         }
       ]
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 16,
+      "count": 18,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 16
+          "count": 18
         }
       ]
     },
@@ -68,16 +68,12 @@
       "domain_count": 5,
       "top_domains": [
         {
-          "domain": "abxxx.com",
-          "count": 2
-        },
-        {
           "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "inxxx.com",
-          "count": 1
+          "domain": "abxxx.com",
+          "count": 2
         },
         {
           "domain": "reddit.com",
@@ -85,6 +81,10 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "inxxx.com",
           "count": 1
         }
       ]
