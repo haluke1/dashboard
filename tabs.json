@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-22T00:14:37Z",
-  "total_tabs": 157,
+  "updated_at": "2026-07-22T00:15:44Z",
+  "total_tabs": 158,
   "total_windows": 6,
   "duplicate_tabs": 12,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 103,
+      "count": 104,
       "domain_count": 62,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 8
         },
         {
+          "domain": "google.com",
+          "count": 3
+        },
+        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "hilton.com",
-          "count": 3
-        },
-        {
-          "domain": "keep.google.com",
           "count": 3
         }
       ]
