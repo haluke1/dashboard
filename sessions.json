@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-07-22T17:21:07Z",
+  "updated_at": "2026-07-22T18:26:37Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 330,
+    "recent": 0,
+    "archived": 331,
     "total": 331
   },
   "active": [],
-  "recent": [
-    {
-      "id": "e5e83dfb",
-      "full_id": "e5e83dfb-fed3-42a9-a128-0e268869e3a0",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you look at my desktop and give me suggestions on how we can organize it and execute what i approve",
-      "last_user_msg": "could you look at my desktop and give me suggestions on how we can organize it and execute what i approve",
-      "last_assistant_snippet": "Here's what's actually on your Desktop \u2014 about **4GB across 21 folders and 7 loose files**, and it clusters into clear groups: | Cluster | What's there | Size | |---|---|---| | **J\u2026",
-      "message_count": 15,
-      "file_size_kb": 190,
-      "modified_ts": 1784656156.0379028,
-      "modified_iso": "2026-07-21T13:49:16.037903",
-      "minutes_since_active": 1411.9
-    }
-  ]
+  "recent": []
 }
