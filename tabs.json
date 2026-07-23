@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-23T02:57:34Z",
-  "total_tabs": 179,
-  "total_windows": 7,
+  "updated_at": "2026-07-23T02:58:39Z",
+  "total_tabs": 149,
+  "total_windows": 6,
   "duplicate_tabs": 17,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 120,
-      "domain_count": 76,
+      "count": 93,
+      "domain_count": 69,
       "top_domains": [
-        {
-          "domain": "xhamster.com",
-          "count": 20
-        },
         {
           "domain": "higgsfield.ai",
           "count": 8
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 4
         },
         {
           "domain": "magnific.com",
           "count": 4
         },
         {
+          "domain": "keep.google.com",
+          "count": 4
+        },
+        {
           "domain": "hilton.com",
+          "count": 3
+        },
+        {
+          "domain": "flim.ai",
           "count": 3
         }
       ]
@@ -64,13 +64,9 @@
     },
     {
       "name": "social",
-      "count": 8,
-      "domain_count": 5,
+      "count": 5,
+      "domain_count": 3,
       "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 2
-        },
         {
           "domain": "x.com",
           "count": 2
@@ -78,10 +74,6 @@
         {
           "domain": "instagram.com",
           "count": 2
-        },
-        {
-          "domain": "inxxx.com",
-          "count": 1
         },
         {
           "domain": "reddit.com",
