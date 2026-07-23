@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T04:14:07Z",
+  "updated_at": "2026-07-23T04:15:12Z",
   "total_tabs": 156,
   "total_windows": 6,
-  "duplicate_tabs": 19,
+  "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 98,
+      "count": 97,
       "domain_count": 71,
       "top_domains": [
         {
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "super.com",
-          "count": 4
+          "domain": "hilton.com",
+          "count": 3
         },
         {
-          "domain": "hilton.com",
+          "domain": "flim.ai",
           "count": 3
         }
       ]
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 18,
+      "count": 19,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 18
+          "count": 19
         }
       ]
     },
