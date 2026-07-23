@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-23T04:13:01Z",
-  "total_tabs": 154,
+  "updated_at": "2026-07-23T04:14:07Z",
+  "total_tabs": 156,
   "total_windows": 6,
   "duplicate_tabs": 19,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 97,
+      "count": 98,
       "domain_count": 71,
       "top_domains": [
         {
@@ -23,11 +23,11 @@
           "count": 4
         },
         {
-          "domain": "hilton.com",
-          "count": 3
+          "domain": "super.com",
+          "count": 4
         },
         {
-          "domain": "flim.ai",
+          "domain": "hilton.com",
           "count": 3
         }
       ]
@@ -98,12 +98,12 @@
     },
     {
       "name": "productivity",
-      "count": 1,
+      "count": 2,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 1
+          "count": 2
         }
       ]
     }
