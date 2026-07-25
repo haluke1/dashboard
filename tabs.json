@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T01:42:28Z",
+  "updated_at": "2026-07-25T01:43:32Z",
   "total_tabs": 2,
   "total_windows": 1,
   "duplicate_tabs": 0,
@@ -8,11 +8,15 @@
     {
       "name": "other",
       "count": 2,
-      "domain_count": 1,
+      "domain_count": 2,
       "top_domains": [
         {
+          "domain": "magnific.com",
+          "count": 1
+        },
+        {
           "domain": "accounts.google.com",
-          "count": 2
+          "count": 1
         }
       ]
     }
