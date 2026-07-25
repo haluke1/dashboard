@@ -1,116 +1,17 @@
 {
-  "updated_at": "2026-07-25T01:40:18Z",
-  "total_tabs": 215,
-  "total_windows": 7,
-  "duplicate_tabs": 18,
+  "updated_at": "2026-07-25T01:41:22Z",
+  "total_tabs": 1,
+  "total_windows": 1,
+  "duplicate_tabs": 0,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 145,
-      "domain_count": 92,
+      "count": 1,
+      "domain_count": 1,
       "top_domains": [
-        {
-          "domain": "eporner.com",
-          "count": 15
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 9
-        },
-        {
-          "domain": "higgsfield.ai",
-          "count": 8
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 5
-        },
         {
           "domain": "magnific.com",
-          "count": 5
-        }
-      ]
-    },
-    {
-      "name": "ai-dev",
-      "count": 33,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "claude.ai",
-          "count": 16
-        },
-        {
-          "domain": "github.com",
-          "count": 16
-        },
-        {
-          "domain": "anthropic.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 27,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 27
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 6,
-      "domain_count": 5,
-      "top_domains": [
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "abxxx.com",
-          "count": 1
-        },
-        {
-          "domain": "vxxx.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3000",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8080",
           "count": 1
         }
       ]
