@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-07-25T10:42:53Z",
+  "updated_at": "2026-07-25T10:44:31Z",
   "counts": {
-    "active": 0,
-    "recent": 1,
+    "active": 1,
+    "recent": 0,
     "archived": 331,
     "total": 332
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,9 +19,10 @@
       "last_assistant_snippet": "Verified, and the answer is better than I expected. ## Magnific's reference system *is* this API Your own notes said a Magnific node holds **up to 14 references** with Style and Ch\u2026",
       "message_count": 365,
       "file_size_kb": 5478,
-      "modified_ts": 1784949453.3356805,
-      "modified_iso": "2026-07-24T23:17:33.335680",
-      "minutes_since_active": 445.3
+      "modified_ts": 1784976174.109,
+      "modified_iso": "2026-07-25T06:42:54.109000",
+      "minutes_since_active": 1.6
     }
-  ]
+  ],
+  "recent": []
 }
