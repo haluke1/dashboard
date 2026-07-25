@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T23:15:15Z",
-  "total_tabs": 187,
+  "updated_at": "2026-07-25T23:16:21Z",
+  "total_tabs": 188,
   "total_windows": 6,
   "duplicate_tabs": 22,
   "bridge_online": true,
@@ -8,7 +8,7 @@
     {
       "name": "other",
       "count": 112,
-      "domain_count": 80,
+      "domain_count": 81,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -24,7 +24,7 @@
         },
         {
           "domain": "google.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "hilton.com",
@@ -63,24 +63,17 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 5,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 5
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 4,
-      "domain_count": 3,
+      "count": 5,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "x.com",
           "count": 2
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 1
         },
         {
           "domain": "reddit.com",
@@ -89,6 +82,17 @@
         {
           "domain": "instagram.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 5,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 5
         }
       ]
     },
