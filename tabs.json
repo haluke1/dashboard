@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T01:18:24Z",
-  "total_tabs": 206,
+  "updated_at": "2026-07-25T01:19:28Z",
+  "total_tabs": 208,
   "total_windows": 7,
   "duplicate_tabs": 18,
   "bridge_online": true,
@@ -23,11 +23,11 @@
           "count": 8
         },
         {
-          "domain": "magnific.com",
+          "domain": "keep.google.com",
           "count": 5
         },
         {
-          "domain": "keep.google.com",
+          "domain": "magnific.com",
           "count": 5
         }
       ]
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 25,
+      "count": 27,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 25
+          "count": 27
         }
       ]
     },
@@ -90,6 +90,17 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 2,
       "domain_count": 2,
@@ -101,17 +112,6 @@
         {
           "domain": "localhost:8080",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 2
         }
       ]
     }
