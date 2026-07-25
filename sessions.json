@@ -1,11 +1,28 @@
 {
-  "updated_at": "2026-07-25T01:30:33Z",
+  "updated_at": "2026-07-25T01:31:26Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 0,
     "archived": 331,
-    "total": 331
+    "total": 332
   },
-  "active": [],
+  "active": [
+    {
+      "id": "caaf22e2",
+      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
+      "last_user_msg": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
+      "last_assistant_snippet": "I'll start by orienting on what already exists before writing anything.",
+      "message_count": 21,
+      "file_size_kb": 230,
+      "modified_ts": 1784943077.005451,
+      "modified_iso": "2026-07-24T21:31:17.005451",
+      "minutes_since_active": 0.2
+    }
+  ],
   "recent": []
 }
