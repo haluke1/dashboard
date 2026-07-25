@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-07-25T02:14:32Z",
+  "updated_at": "2026-07-25T02:15:36Z",
   "counts": {
-    "active": 1,
-    "recent": 0,
+    "active": 0,
+    "recent": 1,
     "archived": 331,
     "total": 332
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,8 +22,7 @@
       "file_size_kb": 5338,
       "modified_ts": 1784945395.9711382,
       "modified_iso": "2026-07-24T22:09:55.971138",
-      "minutes_since_active": 4.6
+      "minutes_since_active": 5.7
     }
-  ],
-  "recent": []
+  ]
 }
