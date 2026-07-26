@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T01:22:58Z",
-  "total_tabs": 188,
+  "updated_at": "2026-07-26T01:24:02Z",
+  "total_tabs": 187,
   "total_windows": 6,
   "duplicate_tabs": 21,
   "bridge_online": true,
@@ -33,17 +33,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 34,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 34
-        }
-      ]
-    },
-    {
       "name": "ai-dev",
       "count": 34,
       "domain_count": 3,
@@ -59,6 +48,17 @@
         {
           "domain": "anthropic.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 33,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 33
         }
       ]
     },
