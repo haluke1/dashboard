@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-26T01:56:15Z",
-  "total_tabs": 185,
+  "updated_at": "2026-07-26T01:57:20Z",
+  "total_tabs": 184,
   "total_windows": 6,
   "duplicate_tabs": 21,
   "bridge_online": true,
@@ -63,17 +63,24 @@
       ]
     },
     {
+      "name": "productivity",
+      "count": 4,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 4
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 5,
-      "domain_count": 4,
+      "count": 4,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "x.com",
           "count": 2
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 1
         },
         {
           "domain": "reddit.com",
@@ -82,17 +89,6 @@
         {
           "domain": "instagram.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 4,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 4
         }
       ]
     },
