@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-07-26T17:15:38Z",
+  "updated_at": "2026-07-26T18:23:10Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 331,
+    "recent": 0,
+    "archived": 332,
     "total": 332
   },
   "active": [],
-  "recent": [
-    {
-      "id": "caaf22e2",
-      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
-      "last_user_msg": "okey but for the gemini batch pipeline can we connect references and generate consistent images just like in magnific? how would that work? what i am aiming for is ultra consistenc\u2026",
-      "last_assistant_snippet": "Verified, and the answer is better than I expected. ## Magnific's reference system *is* this API Your own notes said a Magnific node holds **up to 14 references** with Style and Ch\u2026",
-      "message_count": 365,
-      "file_size_kb": 5478,
-      "modified_ts": 1785001623.849,
-      "modified_iso": "2026-07-25T13:47:03.849000",
-      "minutes_since_active": 1408.6
-    }
-  ]
+  "recent": []
 }
