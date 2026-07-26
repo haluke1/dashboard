@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-26T22:32:25Z",
-  "total_tabs": 168,
+  "updated_at": "2026-07-26T22:33:30Z",
+  "total_tabs": 165,
   "total_windows": 5,
   "duplicate_tabs": 21,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 104,
+      "count": 103,
       "domain_count": 72,
       "top_domains": [
         {
@@ -15,11 +15,11 @@
           "count": 8
         },
         {
-          "domain": "magnific.com",
-          "count": 7
+          "domain": "keep.google.com",
+          "count": 6
         },
         {
-          "domain": "keep.google.com",
+          "domain": "magnific.com",
           "count": 6
         },
         {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 31,
+      "count": 29,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 31
+          "count": 29
         }
       ]
     },
