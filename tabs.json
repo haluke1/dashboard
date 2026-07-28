@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-07-28T22:47:11Z",
-  "total_tabs": 214,
+  "updated_at": "2026-07-28T22:48:22Z",
+  "total_tabs": 219,
   "total_windows": 7,
   "duplicate_tabs": 27,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 125,
+      "count": 130,
       "domain_count": 86,
       "top_domains": [
+        {
+          "domain": "notmik.com",
+          "count": 8
+        },
         {
           "domain": "higgsfield.ai",
           "count": 8
@@ -24,10 +28,6 @@
         },
         {
           "domain": "tr.pinterest.com",
-          "count": 5
-        },
-        {
-          "domain": "canva.com",
           "count": 5
         }
       ]
