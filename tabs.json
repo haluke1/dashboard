@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T00:12:42Z",
-  "total_tabs": 194,
+  "updated_at": "2026-07-28T00:13:46Z",
+  "total_tabs": 196,
   "total_windows": 6,
   "duplicate_tabs": 21,
   "bridge_online": true,
@@ -63,6 +63,25 @@
       ]
     },
     {
+      "name": "social",
+      "count": 6,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 3
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "facebook.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 5,
       "domain_count": 2,
@@ -74,21 +93,6 @@
         {
           "domain": "calendar.google.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 4,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 2
         }
       ]
     },
