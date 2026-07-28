@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T00:19:11Z",
+  "updated_at": "2026-07-28T00:20:17Z",
   "total_tabs": 195,
   "total_windows": 6,
   "duplicate_tabs": 21,
@@ -53,31 +53,12 @@
     },
     {
       "name": "video",
-      "count": 33,
+      "count": 34,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 33
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 5,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
+          "count": 34
         }
       ]
     },
@@ -93,6 +74,21 @@
         {
           "domain": "calendar.google.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 4,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "x.com",
+          "count": 2
         }
       ]
     },
