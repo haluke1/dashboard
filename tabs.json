@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T00:35:57Z",
-  "total_tabs": 204,
-  "total_windows": 6,
+  "updated_at": "2026-07-29T00:37:01Z",
+  "total_tabs": 207,
+  "total_windows": 7,
   "duplicate_tabs": 27,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 114,
-      "domain_count": 77,
+      "count": 117,
+      "domain_count": 79,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 36,
+      "count": 35,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 36
+          "count": 35
         }
       ]
     },
@@ -79,8 +79,8 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 2,
+      "count": 5,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "instagram.com",
@@ -89,6 +89,10 @@
         {
           "domain": "x.com",
           "count": 2
+        },
+        {
+          "domain": "tnaflix.com",
+          "count": 1
         }
       ]
     },
