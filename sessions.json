@@ -1,28 +1,11 @@
 {
-  "updated_at": "2026-07-29T22:25:57Z",
+  "updated_at": "2026-07-29T23:09:31Z",
   "counts": {
     "active": 0,
-    "recent": 1,
-    "archived": 331,
+    "recent": 0,
+    "archived": 332,
     "total": 332
   },
   "active": [],
-  "recent": [
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "also can you confirm we got the certain sections that gave an error or had stalled and theyre in this thing we created?",
-      "last_assistant_snippet": "Confirmed \u2014 all four errored sections made it through the full pipeline into the final brain. Traced by their source-line ranges: | Errored section | Status in final brain | |---|-\u2026",
-      "message_count": 1321,
-      "file_size_kb": 7535,
-      "modified_ts": 1785278730.317,
-      "modified_iso": "2026-07-28T18:45:30.317000",
-      "minutes_since_active": 1420.5
-    }
-  ]
+  "recent": []
 }
