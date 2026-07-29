@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-07-29T00:38:06Z",
-  "total_tabs": 210,
+  "updated_at": "2026-07-29T00:39:10Z",
+  "total_tabs": 213,
   "total_windows": 7,
   "duplicate_tabs": 27,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 120,
+      "count": 123,
       "domain_count": 79,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 8
+        },
+        {
+          "domain": "noodlemagazine.com",
+          "count": 6
         },
         {
           "domain": "magnific.com",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "tr.pinterest.com",
-          "count": 5
-        },
-        {
-          "domain": "canva.com",
           "count": 5
         }
       ]
