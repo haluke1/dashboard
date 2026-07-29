@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T03:04:00Z",
-  "total_tabs": 184,
+  "updated_at": "2026-07-29T03:05:05Z",
+  "total_tabs": 185,
   "total_windows": 6,
   "duplicate_tabs": 28,
   "bridge_online": true,
@@ -79,8 +79,8 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 2,
+      "count": 5,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "instagram.com",
@@ -89,6 +89,10 @@
         {
           "domain": "x.com",
           "count": 2
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 1
         }
       ]
     },
