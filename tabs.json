@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-07-29T00:49:55Z",
-  "total_tabs": 216,
-  "total_windows": 7,
+  "updated_at": "2026-07-29T00:51:00Z",
+  "total_tabs": 203,
+  "total_windows": 6,
   "duplicate_tabs": 27,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 126,
-      "domain_count": 79,
+      "count": 114,
+      "domain_count": 77,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 8
-        },
-        {
-          "domain": "noodlemagazine.com",
-          "count": 7
         },
         {
           "domain": "magnific.com",
@@ -27,7 +23,11 @@
           "count": 6
         },
         {
-          "domain": "eporner.com",
+          "domain": "tr.pinterest.com",
+          "count": 5
+        },
+        {
+          "domain": "canva.com",
           "count": 5
         }
       ]
@@ -79,8 +79,8 @@
     },
     {
       "name": "social",
-      "count": 5,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "instagram.com",
@@ -89,10 +89,6 @@
         {
           "domain": "x.com",
           "count": 2
-        },
-        {
-          "domain": "tnaflix.com",
-          "count": 1
         }
       ]
     },
