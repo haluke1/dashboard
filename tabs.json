@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-29T01:00:41Z",
-  "total_tabs": 203,
+  "updated_at": "2026-07-29T01:01:45Z",
+  "total_tabs": 183,
   "total_windows": 6,
   "duplicate_tabs": 28,
   "bridge_online": true,
@@ -23,23 +23,34 @@
           "count": 6
         },
         {
-          "domain": "tr.pinterest.com",
+          "domain": "canva.com",
           "count": 5
         },
         {
-          "domain": "canva.com",
+          "domain": "tr.pinterest.com",
           "count": 5
         }
       ]
     },
     {
+      "name": "video",
+      "count": 32,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 32
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
-      "count": 43,
+      "count": 25,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 37
+          "count": 19
         },
         {
           "domain": "github.com",
@@ -48,17 +59,6 @@
         {
           "domain": "anthropic.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 34,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 34
         }
       ]
     },
