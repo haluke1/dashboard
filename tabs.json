@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T03:52:03Z",
+  "updated_at": "2026-07-30T03:53:08Z",
   "total_tabs": 272,
   "total_windows": 8,
   "duplicate_tabs": 38,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 161,
-      "domain_count": 113,
+      "count": 162,
+      "domain_count": 114,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -83,7 +83,7 @@
     },
     {
       "name": "social",
-      "count": 7,
+      "count": 6,
       "domain_count": 3,
       "top_domains": [
         {
@@ -91,12 +91,12 @@
           "count": 3
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
-          "domain": "x.com",
-          "count": 2
+          "domain": "reddit.com",
+          "count": 1
         }
       ]
     },
