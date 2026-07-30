@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T00:08:54Z",
-  "total_tabs": 249,
+  "updated_at": "2026-07-30T00:10:00Z",
+  "total_tabs": 250,
   "total_windows": 8,
   "duplicate_tabs": 35,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 66,
+      "count": 65,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 66
+          "count": 65
         }
       ]
     },
@@ -63,6 +63,25 @@
       ]
     },
     {
+      "name": "social",
+      "count": 7,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 4
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "linkedin.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "productivity",
       "count": 7,
       "domain_count": 3,
@@ -77,25 +96,6 @@
         },
         {
           "domain": "docs.google.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 5,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "linkedin.com",
           "count": 1
         }
       ]
