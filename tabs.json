@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T02:31:59Z",
-  "total_tabs": 238,
+  "updated_at": "2026-07-30T02:33:04Z",
+  "total_tabs": 242,
   "total_windows": 8,
   "duplicate_tabs": 35,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 134,
-      "domain_count": 91,
+      "count": 137,
+      "domain_count": 93,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 52,
+      "count": 53,
       "domain_count": 3,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "github.com",
-          "count": 6
+          "count": 7
         },
         {
           "domain": "anthropic.com",
