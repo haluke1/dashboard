@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T01:03:49Z",
-  "total_tabs": 217,
+  "updated_at": "2026-07-30T01:04:53Z",
+  "total_tabs": 216,
   "total_windows": 8,
-  "duplicate_tabs": 35,
+  "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
       "count": 119,
-      "domain_count": 80,
+      "domain_count": 81,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -72,19 +72,19 @@
           "count": 5
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "docs.google.com",
           "count": 1
         },
         {
-          "domain": "docs.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         }
       ]
     },
     {
       "name": "social",
-      "count": 6,
-      "domain_count": 3,
+      "count": 5,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "instagram.com",
@@ -93,10 +93,6 @@
         {
           "domain": "x.com",
           "count": 2
-        },
-        {
-          "domain": "linkedin.com",
-          "count": 1
         }
       ]
     },
