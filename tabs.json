@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T02:16:52Z",
-  "total_tabs": 221,
+  "updated_at": "2026-07-30T02:17:56Z",
+  "total_tabs": 231,
   "total_windows": 8,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 122,
-      "domain_count": 82,
+      "count": 128,
+      "domain_count": 86,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 51,
+      "count": 52,
       "domain_count": 3,
       "top_domains": [
         {
@@ -43,7 +43,7 @@
         },
         {
           "domain": "github.com",
-          "count": 5
+          "count": 6
         },
         {
           "domain": "anthropic.com",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 32,
+      "count": 34,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 32
+          "count": 34
         }
       ]
     },
@@ -111,6 +111,17 @@
         },
         {
           "domain": "localhost:8080",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "medium.com",
           "count": 1
         }
       ]
