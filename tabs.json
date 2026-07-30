@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T02:19:02Z",
-  "total_tabs": 232,
+  "updated_at": "2026-07-30T02:20:06Z",
+  "total_tabs": 234,
   "total_windows": 8,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 127,
-      "domain_count": 86,
+      "count": 129,
+      "domain_count": 87,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -63,8 +63,27 @@
       ]
     },
     {
-      "name": "social",
+      "name": "productivity",
       "count": 8,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "mail.google.com",
+          "count": 5
+        },
+        {
+          "domain": "docs.google.com",
+          "count": 2
+        },
+        {
+          "domain": "calendar.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 7,
       "domain_count": 3,
       "top_domains": [
         {
@@ -73,30 +92,11 @@
         },
         {
           "domain": "reddit.com",
-          "count": 3
+          "count": 2
         },
         {
           "domain": "x.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "productivity",
-      "count": 7,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "mail.google.com",
-          "count": 5
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 1
-        },
-        {
-          "domain": "docs.google.com",
-          "count": 1
         }
       ]
     },
