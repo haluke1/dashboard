@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-30T02:17:56Z",
-  "total_tabs": 231,
+  "updated_at": "2026-07-30T02:19:02Z",
+  "total_tabs": 232,
   "total_windows": 8,
   "duplicate_tabs": 33,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 128,
+      "count": 127,
       "domain_count": 86,
       "top_domains": [
         {
@@ -64,7 +64,7 @@
     },
     {
       "name": "social",
-      "count": 7,
+      "count": 8,
       "domain_count": 3,
       "top_domains": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "domain": "reddit.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "x.com",
@@ -101,6 +101,21 @@
       ]
     },
     {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "medium.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "local",
       "count": 2,
       "domain_count": 2,
@@ -111,17 +126,6 @@
         },
         {
           "domain": "localhost:8080",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "medium.com",
           "count": 1
         }
       ]
