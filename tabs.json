@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T02:43:56Z",
-  "total_tabs": 322,
+  "updated_at": "2026-07-31T02:45:00Z",
+  "total_tabs": 323,
   "total_windows": 9,
   "duplicate_tabs": 42,
   "bridge_online": true,
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 37,
+      "count": 38,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 37
+          "count": 38
         }
       ]
     },
@@ -72,11 +72,11 @@
           "count": 4
         },
         {
-          "domain": "x.com",
+          "domain": "reddit.com",
           "count": 2
         },
         {
-          "domain": "reddit.com",
+          "domain": "x.com",
           "count": 2
         },
         {
@@ -109,21 +109,6 @@
       ]
     },
     {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3000",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8080",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "research",
       "count": 2,
       "domain_count": 2,
@@ -134,6 +119,21 @@
         },
         {
           "domain": "medium.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "localhost:3000",
+          "count": 1
+        },
+        {
+          "domain": "localhost:8080",
           "count": 1
         }
       ]
