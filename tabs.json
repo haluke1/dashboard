@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-07-31T02:21:13Z",
-  "total_tabs": 296,
+  "updated_at": "2026-07-31T02:22:19Z",
+  "total_tabs": 303,
   "total_windows": 9,
   "duplicate_tabs": 42,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 181,
+      "count": 188,
       "domain_count": 126,
       "top_domains": [
+        {
+          "domain": "eporner.com",
+          "count": 11
+        },
         {
           "domain": "higgsfield.ai",
           "count": 9
@@ -24,10 +28,6 @@
         },
         {
           "domain": "tr.pinterest.com",
-          "count": 5
-        },
-        {
-          "domain": "canva.com",
           "count": 5
         }
       ]
