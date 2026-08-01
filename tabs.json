@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-08-01T18:49:24Z",
-  "total_tabs": 377,
-  "total_windows": 9,
-  "duplicate_tabs": 44,
+  "updated_at": "2026-08-01T18:50:28Z",
+  "total_tabs": 294,
+  "total_windows": 8,
+  "duplicate_tabs": 42,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 253,
-      "domain_count": 151,
+      "count": 177,
+      "domain_count": 122,
       "top_domains": [
-        {
-          "domain": "eporner.com",
-          "count": 23
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 12
-        },
         {
           "domain": "higgsfield.ai",
           "count": 9
@@ -29,6 +21,14 @@
         {
           "domain": "magnific.com",
           "count": 6
+        },
+        {
+          "domain": "tr.pinterest.com",
+          "count": 5
+        },
+        {
+          "domain": "canva.com",
+          "count": 5
         }
       ]
     },
@@ -53,39 +53,12 @@
     },
     {
       "name": "video",
-      "count": 42,
+      "count": 43,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 42
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 13,
-      "domain_count": 10,
-      "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "ixxx.com",
-          "count": 1
-        },
-        {
-          "domain": "faphouse.com",
-          "count": 1
+          "count": 43
         }
       ]
     },
@@ -104,6 +77,25 @@
         },
         {
           "domain": "calendar.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 5,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
