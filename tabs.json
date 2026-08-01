@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-01T00:05:01Z",
-  "total_tabs": 291,
+  "updated_at": "2026-08-01T00:06:06Z",
+  "total_tabs": 293,
   "total_windows": 8,
   "duplicate_tabs": 40,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 178,
+      "count": 177,
       "domain_count": 122,
       "top_domains": [
         {
@@ -23,11 +23,11 @@
           "count": 6
         },
         {
-          "domain": "dreamina.capcut.com",
+          "domain": "tr.pinterest.com",
           "count": 5
         },
         {
-          "domain": "tr.pinterest.com",
+          "domain": "canva.com",
           "count": 5
         }
       ]
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 39,
+      "count": 42,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 39
+          "count": 42
         }
       ]
     },
