@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T01:24:37Z",
+  "updated_at": "2026-08-01T01:25:42Z",
   "total_tabs": 299,
   "total_windows": 8,
   "duplicate_tabs": 40,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 182,
+      "count": 183,
       "domain_count": 124,
       "top_domains": [
         {
@@ -101,21 +101,6 @@
       ]
     },
     {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "medium.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "local",
       "count": 2,
       "domain_count": 2,
@@ -126,6 +111,17 @@
         },
         {
           "domain": "localhost:8080",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "james-palm.medium.com",
           "count": 1
         }
       ]
