@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T19:18:27Z",
+  "updated_at": "2026-08-01T19:19:31Z",
   "total_tabs": 294,
   "total_windows": 8,
   "duplicate_tabs": 42,
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 43,
+      "count": 42,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 43
+          "count": 42
         }
       ]
     },
@@ -83,8 +83,8 @@
     },
     {
       "name": "social",
-      "count": 5,
-      "domain_count": 3,
+      "count": 6,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "instagram.com",
@@ -96,6 +96,10 @@
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "linkedin.com",
           "count": 1
         }
       ]
