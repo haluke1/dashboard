@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-08-01T18:24:12Z",
-  "total_tabs": 378,
-  "total_windows": 9,
+  "updated_at": "2026-08-01T18:25:17Z",
+  "total_tabs": 292,
+  "total_windows": 8,
   "duplicate_tabs": 44,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 254,
-      "domain_count": 153,
+      "count": 177,
+      "domain_count": 122,
       "top_domains": [
-        {
-          "domain": "eporner.com",
-          "count": 23
-        },
-        {
-          "domain": "xhamster.com",
-          "count": 12
-        },
         {
           "domain": "higgsfield.ai",
           "count": 9
@@ -29,6 +21,14 @@
         {
           "domain": "magnific.com",
           "count": 6
+        },
+        {
+          "domain": "tr.pinterest.com",
+          "count": 5
+        },
+        {
+          "domain": "canva.com",
+          "count": 5
         }
       ]
     },
@@ -63,33 +63,6 @@
       ]
     },
     {
-      "name": "social",
-      "count": 14,
-      "domain_count": 11,
-      "top_domains": [
-        {
-          "domain": "abxxx.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 2
-        },
-        {
-          "domain": "x.com",
-          "count": 2
-        },
-        {
-          "domain": "ixxx.com",
-          "count": 1
-        },
-        {
-          "domain": "faphouse.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 9,
       "domain_count": 3,
@@ -104,6 +77,25 @@
         },
         {
           "domain": "calendar.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 5,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "x.com",
+          "count": 2
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
