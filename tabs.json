@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-08-02T22:28:20Z",
-  "total_tabs": 280,
+  "updated_at": "2026-08-02T22:29:38Z",
+  "total_tabs": 277,
   "total_windows": 8,
-  "duplicate_tabs": 36,
+  "duplicate_tabs": 35,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 186,
+      "count": 183,
       "domain_count": 130,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 9
-        },
-        {
-          "domain": "dreamina.capcut.com",
-          "count": 6
         },
         {
           "domain": "magnific.com",
@@ -28,6 +24,10 @@
         },
         {
           "domain": "tr.pinterest.com",
+          "count": 5
+        },
+        {
+          "domain": "canva.com",
           "count": 5
         }
       ]
