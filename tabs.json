@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T02:32:50Z",
-  "total_tabs": 276,
+  "updated_at": "2026-08-02T02:33:55Z",
+  "total_tabs": 277,
   "total_windows": 8,
   "duplicate_tabs": 34,
   "bridge_online": true,
@@ -83,8 +83,8 @@
     },
     {
       "name": "social",
-      "count": 5,
-      "domain_count": 3,
+      "count": 6,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "instagram.com",
@@ -93,6 +93,10 @@
         {
           "domain": "x.com",
           "count": 2
+        },
+        {
+          "domain": "motionvfx.com",
+          "count": 1
         },
         {
           "domain": "reddit.com",
