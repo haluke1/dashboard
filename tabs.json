@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-02T22:25:00Z",
-  "total_tabs": 282,
+  "updated_at": "2026-08-02T22:26:05Z",
+  "total_tabs": 281,
   "total_windows": 8,
   "duplicate_tabs": 36,
   "bridge_online": true,
@@ -134,17 +134,6 @@
         },
         {
           "domain": "localhost:8080",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "finance",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "checkout.stripe.com",
           "count": 1
         }
       ]
