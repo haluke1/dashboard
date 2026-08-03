@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T23:21:18Z",
-  "total_tabs": 318,
+  "updated_at": "2026-08-03T23:22:25Z",
+  "total_tabs": 317,
   "total_windows": 8,
   "duplicate_tabs": 37,
   "bridge_online": true,
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 76,
+      "count": 75,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 76
+          "count": 75
         }
       ]
     },
@@ -57,11 +57,11 @@
           "count": 10
         },
         {
-          "domain": "huggingface.co",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "huggingface.co",
           "count": 1
         }
       ]
@@ -76,11 +76,11 @@
           "count": 6
         },
         {
-          "domain": "docs.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
@@ -109,6 +109,21 @@
       ]
     },
     {
+      "name": "local",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "localhost:3000",
+          "count": 1
+        },
+        {
+          "domain": "localhost:8080",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "shopping",
       "count": 2,
       "domain_count": 1,
@@ -130,21 +145,6 @@
         },
         {
           "domain": "medium.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3000",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8080",
           "count": 1
         }
       ]
