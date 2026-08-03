@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-08-03T23:36:36Z",
-  "total_tabs": 303,
-  "total_windows": 7,
+  "updated_at": "2026-08-03T23:37:41Z",
+  "total_tabs": 299,
+  "total_windows": 8,
   "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 178,
+      "count": 176,
       "domain_count": 127,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 9
-        },
-        {
-          "domain": "tr.pinterest.com",
-          "count": 6
         },
         {
           "domain": "magnific.com",
@@ -27,6 +23,10 @@
           "count": 6
         },
         {
+          "domain": "tr.pinterest.com",
+          "count": 5
+        },
+        {
           "domain": "midjourney.com",
           "count": 4
         }
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 71,
+      "count": 70,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 71
+          "count": 70
         }
       ]
     },
@@ -87,16 +87,16 @@
     },
     {
       "name": "social",
-      "count": 6,
+      "count": 5,
       "domain_count": 4,
       "top_domains": [
         {
-          "domain": "x.com",
+          "domain": "instagram.com",
           "count": 2
         },
         {
-          "domain": "instagram.com",
-          "count": 2
+          "domain": "x.com",
+          "count": 1
         },
         {
           "domain": "motionvfx.com",
