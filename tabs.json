@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-03T23:44:18Z",
-  "total_tabs": 312,
+  "updated_at": "2026-08-03T23:45:27Z",
+  "total_tabs": 308,
   "total_windows": 8,
   "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 192,
-      "domain_count": 133,
+      "count": 188,
+      "domain_count": 134,
       "top_domains": [
-        {
-          "domain": "google.com",
-          "count": 12
-        },
         {
           "domain": "higgsfield.ai",
           "count": 9
+        },
+        {
+          "domain": "google.com",
+          "count": 7
         },
         {
           "domain": "magnific.com",
