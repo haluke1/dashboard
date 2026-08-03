@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T23:49:48Z",
+  "updated_at": "2026-08-03T23:50:53Z",
   "total_tabs": 307,
   "total_windows": 8,
   "duplicate_tabs": 31,
@@ -7,16 +7,12 @@
   "categories": [
     {
       "name": "other",
-      "count": 187,
+      "count": 186,
       "domain_count": 134,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 9
-        },
-        {
-          "domain": "google.com",
-          "count": 6
         },
         {
           "domain": "magnific.com",
@@ -25,6 +21,10 @@
         {
           "domain": "keep.google.com",
           "count": 6
+        },
+        {
+          "domain": "google.com",
+          "count": 5
         },
         {
           "domain": "tr.pinterest.com",
@@ -87,12 +87,12 @@
     },
     {
       "name": "social",
-      "count": 4,
+      "count": 5,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "instagram.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "x.com",
