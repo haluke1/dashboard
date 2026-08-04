@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T00:50:06Z",
+  "updated_at": "2026-08-04T00:51:11Z",
   "counts": {
-    "active": 3,
-    "recent": 1,
+    "active": 1,
+    "recent": 3,
     "archived": 328,
     "total": 332
   },
@@ -21,12 +21,14 @@
       "file_size_kb": 7570,
       "modified_ts": 1785804477.737332,
       "modified_iso": "2026-08-03T20:47:57.737332",
-      "minutes_since_active": 2.1
-    },
+      "minutes_since_active": 3.2
+    }
+  ],
+  "recent": [
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,12 +39,12 @@
       "file_size_kb": 5478,
       "modified_ts": 1785804323.986,
       "modified_iso": "2026-08-03T20:45:23.986000",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 5.8
     },
     {
       "id": "e5e83dfb",
       "full_id": "e5e83dfb-fed3-42a9-a128-0e268869e3a0",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,10 +55,8 @@
       "file_size_kb": 190,
       "modified_ts": 1785804319.215,
       "modified_iso": "2026-08-03T20:45:19.215000",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -71,7 +71,7 @@
       "file_size_kb": 2315,
       "modified_ts": 1785804261.41,
       "modified_iso": "2026-08-03T20:44:21.410000",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.8
     }
   ]
 }
