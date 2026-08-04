@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T00:49:01Z",
+  "updated_at": "2026-08-04T00:50:06Z",
   "counts": {
-    "active": 4,
-    "recent": 0,
+    "active": 3,
+    "recent": 1,
     "archived": 328,
     "total": 332
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 7570,
       "modified_ts": 1785804477.737332,
       "modified_iso": "2026-08-03T20:47:57.737332",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 2.1
     },
     {
       "id": "caaf22e2",
@@ -37,7 +37,7 @@
       "file_size_kb": 5478,
       "modified_ts": 1785804323.986,
       "modified_iso": "2026-08-03T20:45:23.986000",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 4.7
     },
     {
       "id": "e5e83dfb",
@@ -53,12 +53,14 @@
       "file_size_kb": 190,
       "modified_ts": 1785804319.215,
       "modified_iso": "2026-08-03T20:45:19.215000",
-      "minutes_since_active": 3.7
-    },
+      "minutes_since_active": 4.8
+    }
+  ],
+  "recent": [
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk/ai-portfolio",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,8 +71,7 @@
       "file_size_kb": 2315,
       "modified_ts": 1785804261.41,
       "modified_iso": "2026-08-03T20:44:21.410000",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 5.7
     }
-  ],
-  "recent": []
+  ]
 }
