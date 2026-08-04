@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T20:45:47Z",
+  "updated_at": "2026-08-04T20:46:43Z",
   "counts": {
-    "active": 5,
-    "recent": 11,
+    "active": 2,
+    "recent": 14,
     "archived": 316,
     "total": 332
   },
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
       "last_user_msg": "could you give me the full extraction and give a system prompt in claude in the beginning so i can feed this whole system to it and get a working system",
-      "last_assistant_snippet": "That's the concrete method. Let me grab the 5-part prompt framework (1.3) and the folder-architecture detail to make the distillation faithful.",
-      "message_count": 294,
-      "file_size_kb": 993,
-      "modified_ts": 1785876327.6352353,
-      "modified_iso": "2026-08-04T16:45:27.635235",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "I have the actual method now. The ICM system is concrete: a folder (`CLAUDE.md` = identity/rules, `CONTEXT.md` = current project, `REFERENCES.md` = background) + a 5-part prompt fr\u2026",
+      "message_count": 298,
+      "file_size_kb": 1021,
+      "modified_ts": 1785876397.9171205,
+      "modified_iso": "2026-08-04T16:46:37.917120",
+      "minutes_since_active": 0.1
     },
     {
       "id": "026df754",
@@ -37,12 +37,14 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 3.0
-    },
+      "minutes_since_active": 4.0
+    }
+  ],
+  "recent": [
     {
       "id": "645a5e08",
       "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,12 +55,12 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 4.5
+      "minutes_since_active": 5.5
     },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,12 +71,12 @@
       "file_size_kb": 8073,
       "modified_ts": 1785876056.8582861,
       "modified_iso": "2026-08-04T16:40:56.858286",
-      "minutes_since_active": 4.8
+      "minutes_since_active": 5.8
     },
     {
       "id": "fd6fdfc2",
       "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -85,10 +87,8 @@
       "file_size_kb": 1454,
       "modified_ts": 1785876050.0562348,
       "modified_iso": "2026-08-04T16:40:50.056235",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -103,7 +103,7 @@
       "file_size_kb": 2339,
       "modified_ts": 1785876045.3888144,
       "modified_iso": "2026-08-04T16:40:45.388814",
-      "minutes_since_active": 5.0
+      "minutes_since_active": 6.0
     },
     {
       "id": "20276b68",
@@ -119,7 +119,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785876033.5770242,
       "modified_iso": "2026-08-04T16:40:33.577024",
-      "minutes_since_active": 5.2
+      "minutes_since_active": 6.2
     },
     {
       "id": "caaf22e2",
@@ -135,7 +135,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785876025.5141008,
       "modified_iso": "2026-08-04T16:40:25.514101",
-      "minutes_since_active": 5.4
+      "minutes_since_active": 6.3
     },
     {
       "id": "e5ada063",
@@ -151,7 +151,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 5.4
+      "minutes_since_active": 6.4
     },
     {
       "id": "110846e7",
@@ -167,7 +167,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 5.5
+      "minutes_since_active": 6.4
     },
     {
       "id": "71595298",
@@ -183,7 +183,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 5.5
+      "minutes_since_active": 6.5
     },
     {
       "id": "4f895634",
@@ -199,7 +199,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 5.6
+      "minutes_since_active": 6.5
     },
     {
       "id": "57069057",
@@ -215,7 +215,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 181.2
+      "minutes_since_active": 182.2
     },
     {
       "id": "7bf56971",
@@ -231,7 +231,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 181.2
+      "minutes_since_active": 182.2
     },
     {
       "id": "0084f348",
@@ -247,7 +247,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 181.8
+      "minutes_since_active": 182.7
     },
     {
       "id": "e5e83dfb",
@@ -263,7 +263,7 @@
       "file_size_kb": 190,
       "modified_ts": 1785804319.215,
       "modified_iso": "2026-08-03T20:45:19.215000",
-      "minutes_since_active": 1200.5
+      "minutes_since_active": 1201.4
     }
   ]
 }
