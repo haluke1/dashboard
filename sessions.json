@@ -1,11 +1,44 @@
 {
-  "updated_at": "2026-08-04T00:43:25Z",
+  "updated_at": "2026-08-04T00:44:32Z",
   "counts": {
-    "active": 0,
+    "active": 2,
     "recent": 0,
-    "archived": 332,
+    "archived": 330,
     "total": 332
   },
-  "active": [],
+  "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk/ai-portfolio",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "give me the link to your output",
+      "last_assistant_snippet": "Both are live on your machine right now \u2014 open these in **Arc** (a real browser; the animations need it): | Output | Link | What it is | |---|---|---| | **Phase 2 \u2014 Rubik's cube** \u2026",
+      "message_count": 300,
+      "file_size_kb": 2315,
+      "modified_ts": 1785804261.41,
+      "modified_iso": "2026-08-03T20:44:21.410000",
+      "minutes_since_active": 0.2
+    },
+    {
+      "id": "caaf22e2",
+      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
+      "last_user_msg": "okey but for the gemini batch pipeline can we connect references and generate consistent images just like in magnific? how would that work? what i am aiming for is ultra consistenc\u2026",
+      "last_assistant_snippet": "Verified, and the answer is better than I expected. ## Magnific's reference system *is* this API Your own notes said a Magnific node holds **up to 14 references** with Style and Ch\u2026",
+      "message_count": 365,
+      "file_size_kb": 5478,
+      "modified_ts": 1785804261.41,
+      "modified_iso": "2026-08-03T20:44:21.410000",
+      "minutes_since_active": 0.2
+    }
+  ],
   "recent": []
 }
