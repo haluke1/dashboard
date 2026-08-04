@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T20:40:59Z",
+  "updated_at": "2026-08-04T20:41:18Z",
   "counts": {
     "active": 12,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 332
   },
   "active": [
+    {
+      "id": "645a5e08",
+      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
+      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
+      "last_assistant_snippet": "**TLDR \u2014 honest, not a hype summary:** **What this session did:** Cleaned your 5.3MB mind-dump. Corpus 117k \u2192 65k lines (\u221244%): purged secrets (incl. live wallet seeds), swept cafe\u2026",
+      "message_count": 906,
+      "file_size_kb": 5807,
+      "modified_ts": 1785876075.7166288,
+      "modified_iso": "2026-08-04T16:41:15.716629",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +37,7 @@
       "file_size_kb": 8073,
       "modified_ts": 1785876056.8582861,
       "modified_iso": "2026-08-04T16:40:56.858286",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.4
     },
     {
       "id": "fd6fdfc2",
@@ -37,7 +53,7 @@
       "file_size_kb": 1454,
       "modified_ts": 1785876050.0562348,
       "modified_iso": "2026-08-04T16:40:50.056235",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.5
     },
     {
       "id": "232ff70f",
@@ -53,7 +69,7 @@
       "file_size_kb": 2339,
       "modified_ts": 1785876045.3888144,
       "modified_iso": "2026-08-04T16:40:45.388814",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.5
     },
     {
       "id": "1cd376c2",
@@ -69,23 +85,7 @@
       "file_size_kb": 907,
       "modified_ts": 1785876042.9041352,
       "modified_iso": "2026-08-04T16:40:42.904135",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "Here it is \u2014 fully updated and committed (clean tree, nothing pending): **`/Users/halukgul/Desktop/Personal-Ontology/EVERYTHING_CURATED.md`** - **3.25 MB \u00b7 65,200 lines \u00b7 ~852K tok\u2026",
-      "message_count": 904,
-      "file_size_kb": 5797,
-      "modified_ts": 1785876035.7989302,
-      "modified_iso": "2026-08-04T16:40:35.798930",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.6
     },
     {
       "id": "20276b68",
@@ -101,7 +101,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785876033.5770242,
       "modified_iso": "2026-08-04T16:40:33.577024",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     },
     {
       "id": "caaf22e2",
@@ -117,7 +117,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785876025.5141008,
       "modified_iso": "2026-08-04T16:40:25.514101",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 0.9
     },
     {
       "id": "e5ada063",
@@ -133,7 +133,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 0.9
     },
     {
       "id": "110846e7",
@@ -149,7 +149,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.0
     },
     {
       "id": "71595298",
@@ -165,7 +165,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.1
     },
     {
       "id": "4f895634",
@@ -181,7 +181,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.1
     },
     {
       "id": "026df754",
@@ -197,7 +197,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785875975.4271016,
       "modified_iso": "2026-08-04T16:39:35.427102",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 1.7
     }
   ],
   "recent": [
@@ -215,7 +215,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 176.4
+      "minutes_since_active": 176.7
     },
     {
       "id": "7bf56971",
@@ -231,7 +231,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 176.4
+      "minutes_since_active": 176.8
     },
     {
       "id": "0084f348",
@@ -247,7 +247,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 177.0
+      "minutes_since_active": 177.3
     },
     {
       "id": "e5e83dfb",
@@ -263,7 +263,7 @@
       "file_size_kb": 190,
       "modified_ts": 1785804319.215,
       "modified_iso": "2026-08-03T20:45:19.215000",
-      "minutes_since_active": 1195.7
+      "minutes_since_active": 1196.0
     }
   ]
 }
