@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:59:40Z",
+  "updated_at": "2026-08-05T15:00:05Z",
   "counts": {
     "active": 1,
     "recent": 18,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "<task-notification> <task-id>aa26f288aa18d1487</task-id> <tool-use-id>toolu_016LV9RxoQCsb7X4DC9EQvkC</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
-      "last_assistant_snippet": "**All 30 core YouTube videos are done** \u2014 the main digest content is complete (just needs final PDF compile). Heads up on scale: the first scoped StudioBinder article (a24-cinemato\u2026",
-      "message_count": 797,
-      "file_size_kb": 2541,
-      "modified_ts": 1785941980.2507575,
-      "modified_iso": "2026-08-05T10:59:40.250757",
-      "minutes_since_active": 0.0
+      "last_user_msg": "<task-notification> <task-id>a4095a20151eface4</task-id> <tool-use-id>toolu_01RRgEit4uAoUakcQ5npdhKV</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
+      "last_assistant_snippet": "Confirms it \u2014 `07AqhElKOnc` is StudioBinder's generic site-wide shot-list product demo (already captured in shared-videos/), appearing as a CTA on unrelated articles. That's one fe\u2026",
+      "message_count": 802,
+      "file_size_kb": 2552,
+      "modified_ts": 1785942001.3233764,
+      "modified_iso": "2026-08-05T11:00:01.323376",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 1862,
       "modified_ts": 1785941193.220776,
       "modified_iso": "2026-08-05T10:46:33.220776",
-      "minutes_since_active": 13.1
+      "minutes_since_active": 13.5
     },
     {
       "id": "33f45461",
@@ -55,7 +55,7 @@
       "file_size_kb": 216,
       "modified_ts": 1785941099.0527518,
       "modified_iso": "2026-08-05T10:44:59.052752",
-      "minutes_since_active": 14.7
+      "minutes_since_active": 15.1
     },
     {
       "id": "a669c245",
@@ -71,7 +71,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 60.5
+      "minutes_since_active": 60.9
     },
     {
       "id": "abc2ae7e",
@@ -87,7 +87,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 741.6
+      "minutes_since_active": 742.0
     },
     {
       "id": "1cd376c2",
@@ -103,7 +103,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1060.0
+      "minutes_since_active": 1060.4
     },
     {
       "id": "232ff70f",
@@ -119,7 +119,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1077.1
+      "minutes_since_active": 1077.5
     },
     {
       "id": "fd6fdfc2",
@@ -135,7 +135,7 @@
       "file_size_kb": 1454,
       "modified_ts": 1785877356.3584986,
       "modified_iso": "2026-08-04T17:02:36.358499",
-      "minutes_since_active": 1077.1
+      "minutes_since_active": 1077.5
     },
     {
       "id": "20276b68",
@@ -151,7 +151,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1077.1
+      "minutes_since_active": 1077.5
     },
     {
       "id": "caaf22e2",
@@ -167,7 +167,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1077.1
+      "minutes_since_active": 1077.5
     },
     {
       "id": "026df754",
@@ -183,7 +183,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1096.9
+      "minutes_since_active": 1097.3
     },
     {
       "id": "645a5e08",
@@ -199,7 +199,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1098.4
+      "minutes_since_active": 1098.8
     },
     {
       "id": "e5ada063",
@@ -215,7 +215,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1099.3
+      "minutes_since_active": 1099.7
     },
     {
       "id": "110846e7",
@@ -231,7 +231,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1099.4
+      "minutes_since_active": 1099.8
     },
     {
       "id": "71595298",
@@ -247,7 +247,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1099.4
+      "minutes_since_active": 1099.8
     },
     {
       "id": "4f895634",
@@ -263,7 +263,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1099.4
+      "minutes_since_active": 1099.9
     },
     {
       "id": "57069057",
@@ -279,7 +279,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1275.1
+      "minutes_since_active": 1275.5
     },
     {
       "id": "7bf56971",
@@ -295,7 +295,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1275.1
+      "minutes_since_active": 1275.5
     },
     {
       "id": "0084f348",
@@ -311,7 +311,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 1275.7
+      "minutes_since_active": 1276.1
     }
   ]
 }
