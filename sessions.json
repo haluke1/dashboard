@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:56:10Z",
+  "updated_at": "2026-08-05T15:56:33Z",
   "counts": {
     "active": 3,
     "recent": 17,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "are you able to extract all the principles from here with the visuals and if so can you do so and create a pdf-> https://deck.artofgamedesign.com/#/menu/1/?lang=en",
-      "last_user_msg": "are you able to extract all the principles from here with the visuals and if so can you do so and create a pdf-> https://deck.artofgamedesign.com/#/menu/1/?lang=en",
-      "last_assistant_snippet": "Clicking through each card individually doesn't change what it is \u2014 it's still compiling all 113 cards' full text and commissioned artwork from a commercial product into one docume\u2026",
-      "message_count": 13,
-      "file_size_kb": 184,
-      "modified_ts": 1785945285.1234353,
-      "modified_iso": "2026-08-05T11:54:45.123435",
-      "minutes_since_active": 1.4
+      "last_user_msg": "i dont understand why you cant get them one by one whats the reason",
+      "last_assistant_snippet": "Because the method doesn't change what's being produced. Whether I bulk-scrape it or click through 113 individual cards copying each one's title, quote, illustrator's artwork, and \u2026",
+      "message_count": 15,
+      "file_size_kb": 189,
+      "modified_ts": 1785945392.072601,
+      "modified_iso": "2026-08-05T11:56:32.072601",
+      "minutes_since_active": 0.0
     },
     {
       "id": "fd6fdfc2",
@@ -37,7 +37,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785945276.8911662,
       "modified_iso": "2026-08-05T11:54:36.891166",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 1.9
     },
     {
       "id": "882e5f1d",
@@ -53,7 +53,7 @@
       "file_size_kb": 2101,
       "modified_ts": 1785945229.3742802,
       "modified_iso": "2026-08-05T11:53:49.374280",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.7
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 3036,
       "modified_ts": 1785945069.0608423,
       "modified_iso": "2026-08-05T11:51:09.060842",
-      "minutes_since_active": 5.0
+      "minutes_since_active": 5.4
     },
     {
       "id": "33f45461",
@@ -87,7 +87,7 @@
       "file_size_kb": 235,
       "modified_ts": 1785944894.684315,
       "modified_iso": "2026-08-05T11:48:14.684315",
-      "minutes_since_active": 7.9
+      "minutes_since_active": 8.3
     },
     {
       "id": "a669c245",
@@ -103,7 +103,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 117.0
+      "minutes_since_active": 117.4
     },
     {
       "id": "abc2ae7e",
@@ -119,7 +119,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 798.1
+      "minutes_since_active": 798.5
     },
     {
       "id": "1cd376c2",
@@ -135,7 +135,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1116.5
+      "minutes_since_active": 1116.9
     },
     {
       "id": "232ff70f",
@@ -151,7 +151,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1133.6
+      "minutes_since_active": 1134.0
     },
     {
       "id": "20276b68",
@@ -167,7 +167,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1133.6
+      "minutes_since_active": 1134.0
     },
     {
       "id": "caaf22e2",
@@ -183,7 +183,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1133.6
+      "minutes_since_active": 1134.0
     },
     {
       "id": "026df754",
@@ -199,7 +199,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1153.4
+      "minutes_since_active": 1153.8
     },
     {
       "id": "645a5e08",
@@ -215,7 +215,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1154.9
+      "minutes_since_active": 1155.3
     },
     {
       "id": "e5ada063",
@@ -231,7 +231,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1155.8
+      "minutes_since_active": 1156.2
     },
     {
       "id": "110846e7",
@@ -247,7 +247,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1155.9
+      "minutes_since_active": 1156.3
     },
     {
       "id": "71595298",
@@ -263,7 +263,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1155.9
+      "minutes_since_active": 1156.3
     },
     {
       "id": "4f895634",
@@ -279,7 +279,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1155.8
+      "minutes_since_active": 1156.4
     },
     {
       "id": "57069057",
@@ -295,7 +295,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1331.6
+      "minutes_since_active": 1332.0
     },
     {
       "id": "7bf56971",
@@ -311,7 +311,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1331.6
+      "minutes_since_active": 1332.0
     },
     {
       "id": "0084f348",
@@ -327,7 +327,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 1332.2
+      "minutes_since_active": 1332.6
     }
   ]
 }
