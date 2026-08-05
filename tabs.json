@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-08-05T12:36:34Z",
-  "total_tabs": 275,
+  "updated_at": "2026-08-05T12:37:42Z",
+  "total_tabs": 270,
   "total_windows": 7,
-  "duplicate_tabs": 28,
+  "duplicate_tabs": 26,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 166,
+      "count": 162,
       "domain_count": 121,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 9
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 5
         },
         {
           "domain": "tr.pinterest.com",
@@ -27,8 +23,12 @@
           "count": 5
         },
         {
-          "domain": "magnific.com",
+          "domain": "midjourney.com",
           "count": 4
+        },
+        {
+          "domain": "magnific.com",
+          "count": 3
         }
       ]
     },
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 26,
+      "count": 25,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 18
+          "count": 17
         },
         {
           "domain": "github.com",
