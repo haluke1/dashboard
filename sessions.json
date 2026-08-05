@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-05T15:53:29Z",
+  "updated_at": "2026-08-05T15:54:02Z",
   "counts": {
-    "active": 3,
+    "active": 4,
     "recent": 16,
     "archived": 317,
-    "total": 336
+    "total": 337
   },
   "active": [
+    {
+      "id": "dbeddfd1",
+      "full_id": "dbeddfd1-b0fd-4846-a5d8-f418964fee98",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "are you able to extract all the principles from here with the visuals and if so can you do so and create a pdf-> https://deck.artofgamedesign.com/#/menu/1/?lang=en",
+      "last_user_msg": "are you able to extract all the principles from here with the visuals and if so can you do so and create a pdf-> https://deck.artofgamedesign.com/#/menu/1/?lang=en",
+      "last_assistant_snippet": "I'll start by opening the deck to see what it actually contains before deciding how to handle this \u2014 the \"Art of Game Design\" Lenses deck is Jesse Schell's copyrighted card system,\u2026",
+      "message_count": 7,
+      "file_size_kb": 169,
+      "modified_ts": 1785945239.899097,
+      "modified_iso": "2026-08-05T11:53:59.899097",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "882e5f1d",
+      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/spec-lock # Spec Lock \u2014 Define Before You Build Run this BEFORE building any deliverable that takes more than 30 minut\u2026",
+      "last_assistant_snippet": "All 5 batches (25 videos, \"AI Clone\" excluded) are extracting in the background \u2014 downloading, transcribing, pulling frames, and re-scanning key moments at higher resolution to get\u2026",
+      "message_count": 77,
+      "file_size_kb": 2101,
+      "modified_ts": 1785945229.3742802,
+      "modified_iso": "2026-08-05T11:53:49.374280",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "fd6fdfc2",
       "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
@@ -21,23 +53,7 @@
       "file_size_kb": 1536,
       "modified_ts": 1785945202.7810884,
       "modified_iso": "2026-08-05T11:53:22.781088",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "882e5f1d",
-      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/spec-lock # Spec Lock \u2014 Define Before You Build Run this BEFORE building any deliverable that takes more than 30 minut\u2026",
-      "last_assistant_snippet": "Understood the video-watching pipeline: it downloads via yt-dlp, extracts frames via ffmpeg into a temp dir, pulls transcript from captions, and I read the frame JPEGs directly. Si\u2026",
-      "message_count": 53,
-      "file_size_kb": 2011,
-      "modified_ts": 1785945135.2731059,
-      "modified_iso": "2026-08-05T11:52:15.273106",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 0.6
     },
     {
       "id": "b3c81a35",
@@ -53,7 +69,7 @@
       "file_size_kb": 3036,
       "modified_ts": 1785945069.0608423,
       "modified_iso": "2026-08-05T11:51:09.060842",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.9
     }
   ],
   "recent": [
@@ -71,7 +87,7 @@
       "file_size_kb": 235,
       "modified_ts": 1785944894.684315,
       "modified_iso": "2026-08-05T11:48:14.684315",
-      "minutes_since_active": 5.3
+      "minutes_since_active": 5.8
     },
     {
       "id": "a669c245",
@@ -87,7 +103,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 114.3
+      "minutes_since_active": 114.8
     },
     {
       "id": "abc2ae7e",
@@ -103,7 +119,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 795.4
+      "minutes_since_active": 795.9
     },
     {
       "id": "1cd376c2",
@@ -119,7 +135,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1113.8
+      "minutes_since_active": 1114.4
     },
     {
       "id": "232ff70f",
@@ -135,7 +151,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1130.9
+      "minutes_since_active": 1131.4
     },
     {
       "id": "20276b68",
@@ -151,7 +167,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1130.9
+      "minutes_since_active": 1131.4
     },
     {
       "id": "caaf22e2",
@@ -167,7 +183,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1130.9
+      "minutes_since_active": 1131.4
     },
     {
       "id": "026df754",
@@ -183,7 +199,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1150.8
+      "minutes_since_active": 1151.3
     },
     {
       "id": "645a5e08",
@@ -199,7 +215,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1152.2
+      "minutes_since_active": 1152.8
     },
     {
       "id": "e5ada063",
@@ -215,7 +231,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1153.1
+      "minutes_since_active": 1153.7
     },
     {
       "id": "110846e7",
@@ -231,7 +247,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1153.2
+      "minutes_since_active": 1153.7
     },
     {
       "id": "71595298",
@@ -247,7 +263,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1153.2
+      "minutes_since_active": 1153.8
     },
     {
       "id": "4f895634",
@@ -263,7 +279,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1153.2
+      "minutes_since_active": 1153.7
     },
     {
       "id": "57069057",
@@ -279,7 +295,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1328.9
+      "minutes_since_active": 1329.5
     },
     {
       "id": "7bf56971",
@@ -295,7 +311,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1328.9
+      "minutes_since_active": 1329.5
     },
     {
       "id": "0084f348",
@@ -311,7 +327,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 1329.5
+      "minutes_since_active": 1330.0
     }
   ]
 }
