@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-05T12:05:30Z",
-  "total_tabs": 298,
+  "updated_at": "2026-08-05T12:23:19Z",
+  "total_tabs": 280,
   "total_windows": 7,
-  "duplicate_tabs": 31,
+  "duplicate_tabs": 28,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 178,
-      "domain_count": 128,
+      "count": 167,
+      "domain_count": 121,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
           "count": 9
         },
         {
-          "domain": "magnific.com",
-          "count": 6
+          "domain": "keep.google.com",
+          "count": 5
         },
         {
-          "domain": "keep.google.com",
-          "count": 6
+          "domain": "magnific.com",
+          "count": 5
         },
         {
           "domain": "tr.pinterest.com",
@@ -34,23 +34,23 @@
     },
     {
       "name": "video",
-      "count": 74,
+      "count": 72,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 74
+          "count": 72
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 28,
+      "count": 27,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 20
+          "count": 19
         },
         {
           "domain": "github.com",
@@ -68,23 +68,19 @@
     },
     {
       "name": "productivity",
-      "count": 9,
-      "domain_count": 4,
+      "count": 5,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 5
-        },
-        {
-          "domain": "docs.google.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "calendar.google.com",
           "count": 1
         },
         {
-          "domain": "drive.google.com",
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
