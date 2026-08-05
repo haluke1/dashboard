@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-05T17:33:08Z",
+  "updated_at": "2026-08-05T17:34:33Z",
   "counts": {
-    "active": 2,
-    "recent": 18,
+    "active": 4,
+    "recent": 17,
     "archived": 317,
-    "total": 337
+    "total": 338
   },
   "active": [
+    {
+      "id": "882e5f1d",
+      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
+      "last_user_msg": "<task-notification> <task-id>a0c982936eb423570</task-id> <tool-use-id>toolu_019Qu1W9az7fyRWs748LweP4</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/882e5f\u2026",
+      "last_assistant_snippet": "**Done.** `~/reports/taoprompts-ai-filmmaking-playbook/AI-Filmmaking-Playbook.pdf` \u2014 84 pages. What it covers, organized by **theme** instead of video (7 chapters): Prompting Frame\u2026",
+      "message_count": 217,
+      "file_size_kb": 5199,
+      "modified_ts": 1785951245.1937354,
+      "modified_iso": "2026-08-05T13:34:05.193735",
+      "minutes_since_active": 0.5
+    },
+    {
+      "id": "acd139f9",
+      "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
+      "last_user_msg": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
+      "last_assistant_snippet": "Watching a ~90+ min AI movie start-to-finish and running it through the reverse-engineering framework is a real task \u2014 the `/watch` or `claude-video` skill can pull the transcript \u2026",
+      "message_count": 4,
+      "file_size_kb": 161,
+      "modified_ts": 1785951235.7932117,
+      "modified_iso": "2026-08-05T13:33:55.793212",
+      "minutes_since_active": 0.6
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -21,7 +53,7 @@
       "file_size_kb": 4018,
       "modified_ts": 1785951172.3680375,
       "modified_iso": "2026-08-05T13:32:52.368037",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 1.7
     },
     {
       "id": "33f45461",
@@ -37,7 +69,7 @@
       "file_size_kb": 779,
       "modified_ts": 1785951056.9721544,
       "modified_iso": "2026-08-05T13:30:56.972154",
-      "minutes_since_active": 2.2
+      "minutes_since_active": 3.6
     }
   ],
   "recent": [
@@ -55,23 +87,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785950347.078,
       "modified_iso": "2026-08-05T13:19:07.078000",
-      "minutes_since_active": 14.0
-    },
-    {
-      "id": "882e5f1d",
-      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
-      "last_user_msg": "<task-notification> <task-id>a0c982936eb423570</task-id> <tool-use-id>toolu_019Qu1W9az7fyRWs748LweP4</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/882e5f\u2026",
-      "last_assistant_snippet": "**Done.** `~/reports/taoprompts-ai-filmmaking-playbook/AI-Filmmaking-Playbook.pdf` \u2014 84 pages. What it covers, organized by **theme** instead of video (7 chapters): Prompting Frame\u2026",
-      "message_count": 217,
-      "file_size_kb": 5198,
-      "modified_ts": 1785949513.140592,
-      "modified_iso": "2026-08-05T13:05:13.140592",
-      "minutes_since_active": 27.9
+      "minutes_since_active": 15.4
     },
     {
       "id": "dbeddfd1",
@@ -87,7 +103,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 93.9
+      "minutes_since_active": 95.3
     },
     {
       "id": "a669c245",
@@ -103,7 +119,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 213.9
+      "minutes_since_active": 215.4
     },
     {
       "id": "abc2ae7e",
@@ -119,7 +135,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 895.0
+      "minutes_since_active": 896.4
     },
     {
       "id": "1cd376c2",
@@ -135,7 +151,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1213.5
+      "minutes_since_active": 1214.9
     },
     {
       "id": "232ff70f",
@@ -151,7 +167,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1230.5
+      "minutes_since_active": 1231.9
     },
     {
       "id": "20276b68",
@@ -167,7 +183,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1230.5
+      "minutes_since_active": 1231.9
     },
     {
       "id": "caaf22e2",
@@ -183,7 +199,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1230.5
+      "minutes_since_active": 1231.9
     },
     {
       "id": "026df754",
@@ -199,7 +215,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1250.4
+      "minutes_since_active": 1251.8
     },
     {
       "id": "645a5e08",
@@ -215,7 +231,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1251.9
+      "minutes_since_active": 1253.3
     },
     {
       "id": "e5ada063",
@@ -231,7 +247,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1252.8
+      "minutes_since_active": 1254.2
     },
     {
       "id": "110846e7",
@@ -247,7 +263,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1252.8
+      "minutes_since_active": 1254.2
     },
     {
       "id": "71595298",
@@ -263,7 +279,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1252.9
+      "minutes_since_active": 1254.3
     },
     {
       "id": "4f895634",
@@ -279,7 +295,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1252.9
+      "minutes_since_active": 1254.2
     },
     {
       "id": "57069057",
@@ -295,7 +311,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1428.6
+      "minutes_since_active": 1430.0
     },
     {
       "id": "7bf56971",
@@ -311,7 +327,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1428.6
+      "minutes_since_active": 1430.0
     },
     {
       "id": "0084f348",
@@ -327,7 +343,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 1429.1
+      "minutes_since_active": 1430.6
     }
   ]
 }
