@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-08-05T14:32:15Z",
-  "total_tabs": 238,
+  "updated_at": "2026-08-05T14:39:19Z",
+  "total_tabs": 217,
   "total_windows": 7,
-  "duplicate_tabs": 26,
+  "duplicate_tabs": 25,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 168,
+      "count": 147,
       "domain_count": 110,
       "top_domains": [
-        {
-          "domain": "studiobinder.com",
-          "count": 22
-        },
         {
           "domain": "higgsfield.ai",
           "count": 9
@@ -28,6 +24,10 @@
         },
         {
           "domain": "midjourney.com",
+          "count": 3
+        },
+        {
+          "domain": "cosmos.so",
           "count": 3
         }
       ]
@@ -57,11 +57,11 @@
           "count": 6
         },
         {
-          "domain": "anthropic.com",
+          "domain": "huggingface.co",
           "count": 1
         },
         {
-          "domain": "huggingface.co",
+          "domain": "anthropic.com",
           "count": 1
         }
       ]
@@ -76,11 +76,11 @@
           "count": 3
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "docs.google.com",
           "count": 1
         },
         {
-          "domain": "docs.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         }
       ]
@@ -91,30 +91,15 @@
       "domain_count": 3,
       "top_domains": [
         {
-          "domain": "instagram.com",
-          "count": 1
-        },
-        {
           "domain": "motionvfx.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3000",
-          "count": 1
         },
         {
-          "domain": "localhost:8080",
+          "domain": "instagram.com",
           "count": 1
         }
       ]
@@ -141,6 +126,21 @@
         },
         {
           "domain": "medium.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "localhost:3000",
+          "count": 1
+        },
+        {
+          "domain": "localhost:8080",
           "count": 1
         }
       ]
