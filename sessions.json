@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-05T17:48:33Z",
+  "updated_at": "2026-08-05T17:52:32Z",
   "counts": {
-    "active": 2,
-    "recent": 16,
+    "active": 1,
+    "recent": 17,
     "archived": 320,
     "total": 338
   },
@@ -15,18 +15,20 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "<task-notification> <task-id>aa45d0b145bf62e25</task-id> <tool-use-id>toolu_01TPxbjkco4ziydNK1GGMoMv</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
-      "last_assistant_snippet": "Best-independent-films part 2 done (7/8, one video permanently removed by YouTube for policy violation \u2014 unrecoverable, documented).",
-      "message_count": 1384,
-      "file_size_kb": 4226,
-      "modified_ts": 1785952103.8623054,
-      "modified_iso": "2026-08-05T13:48:23.862305",
-      "minutes_since_active": 0.2
-    },
+      "last_user_msg": "<task-notification> <task-id>ab3c06de51aa5cb39</task-id> <tool-use-id>toolu_01VGdxV1agASA5RZKFCenQV6</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
+      "last_assistant_snippet": "Rule-of-three batch done (2/2, clean).",
+      "message_count": 1388,
+      "file_size_kb": 4240,
+      "modified_ts": 1785952347.2109253,
+      "modified_iso": "2026-08-05T13:52:27.210925",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "33f45461",
       "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 2470,
       "modified_ts": 1785951966.2897465,
       "modified_iso": "2026-08-05T13:46:06.289747",
-      "minutes_since_active": 2.5
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.4
+    },
     {
       "id": "acd139f9",
       "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
@@ -55,7 +55,7 @@
       "file_size_kb": 251,
       "modified_ts": 1785951569.7461393,
       "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 9.1
+      "minutes_since_active": 13.0
     },
     {
       "id": "882e5f1d",
@@ -71,7 +71,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1785951245.1937354,
       "modified_iso": "2026-08-05T13:34:05.193735",
-      "minutes_since_active": 14.5
+      "minutes_since_active": 18.4
     },
     {
       "id": "fd6fdfc2",
@@ -87,7 +87,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785950347.078,
       "modified_iso": "2026-08-05T13:19:07.078000",
-      "minutes_since_active": 29.4
+      "minutes_since_active": 33.4
     },
     {
       "id": "dbeddfd1",
@@ -103,7 +103,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 109.3
+      "minutes_since_active": 113.3
     },
     {
       "id": "a669c245",
@@ -119,7 +119,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 229.4
+      "minutes_since_active": 233.3
     },
     {
       "id": "abc2ae7e",
@@ -135,7 +135,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 910.4
+      "minutes_since_active": 914.4
     },
     {
       "id": "1cd376c2",
@@ -151,7 +151,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1228.9
+      "minutes_since_active": 1232.9
     },
     {
       "id": "232ff70f",
@@ -167,7 +167,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1245.9
+      "minutes_since_active": 1249.9
     },
     {
       "id": "20276b68",
@@ -183,7 +183,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1245.9
+      "minutes_since_active": 1249.9
     },
     {
       "id": "caaf22e2",
@@ -199,7 +199,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1245.9
+      "minutes_since_active": 1249.9
     },
     {
       "id": "026df754",
@@ -215,7 +215,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1265.8
+      "minutes_since_active": 1269.8
     },
     {
       "id": "645a5e08",
@@ -231,7 +231,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1267.3
+      "minutes_since_active": 1271.3
     },
     {
       "id": "e5ada063",
@@ -247,7 +247,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1268.2
+      "minutes_since_active": 1272.2
     },
     {
       "id": "110846e7",
@@ -263,7 +263,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1268.2
+      "minutes_since_active": 1272.2
     },
     {
       "id": "71595298",
@@ -279,7 +279,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1268.3
+      "minutes_since_active": 1272.3
     },
     {
       "id": "4f895634",
@@ -295,7 +295,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1268.2
+      "minutes_since_active": 1272.3
     }
   ]
 }
