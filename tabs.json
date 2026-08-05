@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-05T15:53:00Z",
-  "total_tabs": 209,
+  "updated_at": "2026-08-05T15:54:12Z",
+  "total_tabs": 131,
   "total_windows": 7,
-  "duplicate_tabs": 24,
+  "duplicate_tabs": 48,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 143,
-      "domain_count": 106,
+      "count": 91,
+      "domain_count": 62,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
-          "count": 9
+          "count": 10
         },
         {
           "domain": "dreamina.capcut.com",
@@ -20,37 +20,26 @@
         },
         {
           "domain": "tr.pinterest.com",
-          "count": 4
+          "count": 3
         },
         {
           "domain": "midjourney.com",
           "count": 3
         },
         {
-          "domain": "magnific.com",
-          "count": 3
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 30,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 30
+          "domain": "frameset.app",
+          "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 22,
+      "count": 18,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 14
+          "count": 9
         },
         {
           "domain": "github.com",
@@ -58,7 +47,7 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "huggingface.co",
@@ -67,17 +56,39 @@
       ]
     },
     {
+      "name": "video",
+      "count": 14,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 4,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "motionvfx.com",
+          "count": 2
+        }
+      ]
+    },
+    {
       "name": "productivity",
-      "count": 5,
-      "domain_count": 3,
+      "count": 3,
+      "domain_count": 2,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 3
-        },
-        {
-          "domain": "calendar.google.com",
-          "count": 1
+          "count": 2
         },
         {
           "domain": "docs.google.com",
@@ -86,61 +97,12 @@
       ]
     },
     {
-      "name": "social",
-      "count": 3,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "motionvfx.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3000",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8080",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 2,
+      "name": "research",
+      "count": 1,
       "domain_count": 1,
       "top_domains": [
         {
-          "domain": "amazon.com",
-          "count": 2
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
           "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "medium.com",
           "count": 1
         }
       ]
