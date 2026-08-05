@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-05T17:19:04Z",
+  "updated_at": "2026-08-05T17:19:08Z",
   "counts": {
-    "active": 1,
-    "recent": 19,
+    "active": 2,
+    "recent": 18,
     "archived": 317,
     "total": 337
   },
   "active": [
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "analyze this and tell me which parts we should include and what parts are redundant. this is our claude stack at the moment -> https://claude-system-mindmap.vercel.app/",
+      "last_assistant_snippet": "Read your real system on disk \u2014 the ground truth behind that mindmap. First, the mindmap is **stale**: it says 234 items generated April 14. Your actual system now has **50 skills \u2026",
+      "message_count": 144,
+      "file_size_kb": 1558,
+      "modified_ts": 1785950347.078,
+      "modified_iso": "2026-08-05T13:19:07.078000",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -21,7 +37,7 @@
       "file_size_kb": 3360,
       "modified_ts": 1785950338.426367,
       "modified_iso": "2026-08-05T13:18:58.426367",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -55,7 +71,7 @@
       "file_size_kb": 235,
       "modified_ts": 1785945794.9554937,
       "modified_iso": "2026-08-05T12:03:14.955494",
-      "minutes_since_active": 75.8
+      "minutes_since_active": 75.9
     },
     {
       "id": "dbeddfd1",
@@ -71,23 +87,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 79.8
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "analyze this and tell me which parts we should include and what parts are redundant. this is our claude stack at the moment -> https://claude-system-mindmap.vercel.app/",
-      "last_assistant_snippet": "Read your real system on disk \u2014 the ground truth behind that mindmap. First, the mindmap is **stale**: it says 234 items generated April 14. Your actual system now has **50 skills \u2026",
-      "message_count": 144,
-      "file_size_kb": 1558,
-      "modified_ts": 1785945276.8911662,
-      "modified_iso": "2026-08-05T11:54:36.891166",
-      "minutes_since_active": 84.5
+      "minutes_since_active": 79.9
     },
     {
       "id": "a669c245",
@@ -103,7 +103,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 199.9
+      "minutes_since_active": 200.0
     },
     {
       "id": "abc2ae7e",
@@ -135,7 +135,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1199.4
+      "minutes_since_active": 1199.5
     },
     {
       "id": "232ff70f",
@@ -199,7 +199,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1236.3
+      "minutes_since_active": 1236.4
     },
     {
       "id": "645a5e08",
@@ -215,7 +215,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1237.8
+      "minutes_since_active": 1237.9
     },
     {
       "id": "e5ada063",
@@ -231,7 +231,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1238.7
+      "minutes_since_active": 1238.8
     },
     {
       "id": "110846e7",
@@ -263,7 +263,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1238.8
+      "minutes_since_active": 1238.9
     },
     {
       "id": "4f895634",
@@ -295,7 +295,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1414.5
+      "minutes_since_active": 1414.6
     },
     {
       "id": "7bf56971",
@@ -311,7 +311,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1414.5
+      "minutes_since_active": 1414.6
     },
     {
       "id": "0084f348",
