@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-05T04:09:55Z",
+  "updated_at": "2026-08-05T04:11:00Z",
   "counts": {
-    "active": 0,
-    "recent": 16,
+    "active": 1,
+    "recent": 15,
     "archived": 317,
     "total": 333
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "a669c245",
       "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Straight answer: **you don't need to build either system \u2014 you already own both, locked and written down. What you're asking me for is the thing your own doctrine just declared ter\u2026",
       "message_count": 202,
       "file_size_kb": 3075,
-      "modified_ts": 1785902131.996,
-      "modified_iso": "2026-08-04T23:55:31.996000",
-      "minutes_since_active": 14.4
-    },
+      "modified_ts": 1785903039.1451633,
+      "modified_iso": "2026-08-05T00:10:39.145163",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -38,7 +39,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 91.8
+      "minutes_since_active": 92.9
     },
     {
       "id": "1cd376c2",
@@ -54,7 +55,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 410.3
+      "minutes_since_active": 411.4
     },
     {
       "id": "232ff70f",
@@ -70,7 +71,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 427.3
+      "minutes_since_active": 428.4
     },
     {
       "id": "fd6fdfc2",
@@ -86,7 +87,7 @@
       "file_size_kb": 1454,
       "modified_ts": 1785877356.3584986,
       "modified_iso": "2026-08-04T17:02:36.358499",
-      "minutes_since_active": 427.3
+      "minutes_since_active": 428.4
     },
     {
       "id": "20276b68",
@@ -102,7 +103,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 427.3
+      "minutes_since_active": 428.4
     },
     {
       "id": "caaf22e2",
@@ -118,7 +119,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 427.3
+      "minutes_since_active": 428.4
     },
     {
       "id": "026df754",
@@ -134,7 +135,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 447.2
+      "minutes_since_active": 448.3
     },
     {
       "id": "645a5e08",
@@ -150,7 +151,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 448.7
+      "minutes_since_active": 449.7
     },
     {
       "id": "e5ada063",
@@ -166,7 +167,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 449.5
+      "minutes_since_active": 450.6
     },
     {
       "id": "110846e7",
@@ -182,7 +183,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 449.6
+      "minutes_since_active": 450.7
     },
     {
       "id": "71595298",
@@ -198,7 +199,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 449.7
+      "minutes_since_active": 450.8
     },
     {
       "id": "4f895634",
@@ -214,7 +215,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 449.7
+      "minutes_since_active": 450.8
     },
     {
       "id": "57069057",
@@ -230,7 +231,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 625.4
+      "minutes_since_active": 626.4
     },
     {
       "id": "7bf56971",
@@ -246,7 +247,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 625.4
+      "minutes_since_active": 626.5
     },
     {
       "id": "0084f348",
@@ -262,7 +263,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 625.9
+      "minutes_since_active": 627.0
     }
   ]
 }
