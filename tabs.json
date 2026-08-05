@@ -1,52 +1,52 @@
 {
-  "updated_at": "2026-08-05T16:07:05Z",
-  "total_tabs": 194,
+  "updated_at": "2026-08-05T16:09:24Z",
+  "total_tabs": 205,
   "total_windows": 7,
-  "duplicate_tabs": 26,
+  "duplicate_tabs": 24,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 136,
+      "count": 141,
       "domain_count": 102,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
-          "count": 8
+          "count": 14
         },
         {
-          "domain": "dreamina.capcut.com",
-          "count": 5
+          "domain": "tr.pinterest.com",
+          "count": 4
         },
         {
-          "domain": "hilton.com",
+          "domain": "midjourney.com",
           "count": 3
         },
         {
-          "domain": "film-grab.com",
+          "domain": "magnific.com",
           "count": 3
         },
         {
-          "domain": "flim.ai",
+          "domain": "keep.google.com",
           "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 26,
+      "count": 28,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 26
+          "count": 28
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 20,
-      "domain_count": 3,
+      "count": 22,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
@@ -54,7 +54,11 @@
         },
         {
           "domain": "github.com",
-          "count": 5
+          "count": 6
+        },
+        {
+          "domain": "anthropic.com",
+          "count": 1
         },
         {
           "domain": "huggingface.co",
@@ -64,12 +68,12 @@
     },
     {
       "name": "productivity",
-      "count": 4,
+      "count": 5,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "mail.google.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "calendar.google.com",
@@ -77,6 +81,25 @@
         },
         {
           "domain": "docs.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "motionvfx.com",
+          "count": 1
+        },
+        {
+          "domain": "reddit.com",
           "count": 1
         }
       ]
@@ -104,21 +127,6 @@
         {
           "domain": "amazon.com",
           "count": 2
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "motionvfx.com",
-          "count": 1
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
         }
       ]
     },
