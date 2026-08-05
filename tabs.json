@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-05T16:13:56Z",
-  "total_tabs": 207,
-  "total_windows": 7,
-  "duplicate_tabs": 27,
+  "updated_at": "2026-08-05T16:15:10Z",
+  "total_tabs": 192,
+  "total_windows": 6,
+  "duplicate_tabs": 20,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 143,
-      "domain_count": 102,
+      "count": 128,
+      "domain_count": 101,
       "top_domains": [
-        {
-          "domain": "higgsfield.ai",
-          "count": 16
-        },
         {
           "domain": "tr.pinterest.com",
           "count": 4
         },
         {
+          "domain": "frameset.app",
+          "count": 3
+        },
+        {
+          "domain": "cosmos.so",
+          "count": 3
+        },
+        {
+          "domain": "flim.ai",
+          "count": 3
+        },
+        {
           "domain": "midjourney.com",
-          "count": 3
-        },
-        {
-          "domain": "magnific.com",
-          "count": 3
-        },
-        {
-          "domain": "keep.google.com",
           "count": 3
         }
       ]
