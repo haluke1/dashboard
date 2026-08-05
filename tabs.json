@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-05T00:09:29Z",
-  "total_tabs": 393,
+  "updated_at": "2026-08-05T00:10:37Z",
+  "total_tabs": 392,
   "total_windows": 8,
   "duplicate_tabs": 35,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 268,
-      "domain_count": 168,
+      "count": 266,
+      "domain_count": 167,
       "top_domains": [
         {
           "domain": "eporner.com",
-          "count": 23
+          "count": 22
         },
         {
           "domain": "xhamster.com",
@@ -114,9 +114,13 @@
     },
     {
       "name": "local",
-      "count": 2,
-      "domain_count": 2,
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
+        {
+          "domain": "xotic.ai",
+          "count": 1
+        },
         {
           "domain": "localhost:3000",
           "count": 1
