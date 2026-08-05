@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-05T17:09:23Z",
+  "updated_at": "2026-08-05T17:10:28Z",
   "counts": {
-    "active": 1,
-    "recent": 19,
+    "active": 0,
+    "recent": 20,
     "archived": 317,
     "total": 337
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "882e5f1d",
       "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 5198,
       "modified_ts": 1785949513.140592,
       "modified_iso": "2026-08-05T13:05:13.140592",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -39,7 +38,7 @@
       "file_size_kb": 3337,
       "modified_ts": 1785947063.2853816,
       "modified_iso": "2026-08-05T12:24:23.285382",
-      "minutes_since_active": 45.0
+      "minutes_since_active": 46.1
     },
     {
       "id": "33f45461",
@@ -55,7 +54,7 @@
       "file_size_kb": 235,
       "modified_ts": 1785945794.9554937,
       "modified_iso": "2026-08-05T12:03:14.955494",
-      "minutes_since_active": 66.1
+      "minutes_since_active": 67.2
     },
     {
       "id": "dbeddfd1",
@@ -71,7 +70,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 70.1
+      "minutes_since_active": 71.2
     },
     {
       "id": "fd6fdfc2",
@@ -87,7 +86,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785945276.8911662,
       "modified_iso": "2026-08-05T11:54:36.891166",
-      "minutes_since_active": 74.8
+      "minutes_since_active": 75.9
     },
     {
       "id": "a669c245",
@@ -103,7 +102,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 190.2
+      "minutes_since_active": 191.3
     },
     {
       "id": "abc2ae7e",
@@ -119,7 +118,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 871.3
+      "minutes_since_active": 872.4
     },
     {
       "id": "1cd376c2",
@@ -135,7 +134,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1189.7
+      "minutes_since_active": 1190.8
     },
     {
       "id": "232ff70f",
@@ -151,7 +150,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1206.8
+      "minutes_since_active": 1207.9
     },
     {
       "id": "20276b68",
@@ -167,7 +166,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1206.8
+      "minutes_since_active": 1207.9
     },
     {
       "id": "caaf22e2",
@@ -183,7 +182,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1206.8
+      "minutes_since_active": 1207.9
     },
     {
       "id": "026df754",
@@ -199,7 +198,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1226.7
+      "minutes_since_active": 1227.7
     },
     {
       "id": "645a5e08",
@@ -215,7 +214,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1228.1
+      "minutes_since_active": 1229.2
     },
     {
       "id": "e5ada063",
@@ -231,7 +230,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1229.0
+      "minutes_since_active": 1230.1
     },
     {
       "id": "110846e7",
@@ -247,7 +246,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1229.1
+      "minutes_since_active": 1230.2
     },
     {
       "id": "71595298",
@@ -263,7 +262,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1229.2
+      "minutes_since_active": 1230.2
     },
     {
       "id": "4f895634",
@@ -279,7 +278,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1229.2
+      "minutes_since_active": 1230.3
     },
     {
       "id": "57069057",
@@ -295,7 +294,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1404.8
+      "minutes_since_active": 1405.9
     },
     {
       "id": "7bf56971",
@@ -311,7 +310,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1404.9
+      "minutes_since_active": 1405.9
     },
     {
       "id": "0084f348",
@@ -327,7 +326,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 1405.4
+      "minutes_since_active": 1406.5
     }
   ]
 }
