@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-05T20:41:13Z",
+  "updated_at": "2026-08-05T21:17:50Z",
   "counts": {
     "active": 0,
-    "recent": 14,
-    "archived": 324,
+    "recent": 9,
+    "archived": 329,
     "total": 338
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4901,
       "modified_ts": 1785958386.4520156,
       "modified_iso": "2026-08-05T15:33:06.452016",
-      "minutes_since_active": 68.1
+      "minutes_since_active": 104.7
     },
     {
       "id": "b3c81a35",
@@ -38,7 +38,7 @@
       "file_size_kb": 6739,
       "modified_ts": 1785958316.6944528,
       "modified_iso": "2026-08-05T15:31:56.694453",
-      "minutes_since_active": 69.3
+      "minutes_since_active": 105.9
     },
     {
       "id": "acd139f9",
@@ -54,7 +54,7 @@
       "file_size_kb": 251,
       "modified_ts": 1785951569.7461393,
       "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 181.7
+      "minutes_since_active": 218.3
     },
     {
       "id": "882e5f1d",
@@ -70,7 +70,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1785951245.1937354,
       "modified_iso": "2026-08-05T13:34:05.193735",
-      "minutes_since_active": 187.1
+      "minutes_since_active": 223.8
     },
     {
       "id": "fd6fdfc2",
@@ -86,7 +86,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785950347.078,
       "modified_iso": "2026-08-05T13:19:07.078000",
-      "minutes_since_active": 202.1
+      "minutes_since_active": 238.7
     },
     {
       "id": "dbeddfd1",
@@ -102,7 +102,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 281.9
+      "minutes_since_active": 318.6
     },
     {
       "id": "a669c245",
@@ -118,7 +118,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 402.0
+      "minutes_since_active": 438.6
     },
     {
       "id": "abc2ae7e",
@@ -134,7 +134,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 1083.1
+      "minutes_since_active": 1119.7
     },
     {
       "id": "1cd376c2",
@@ -150,87 +150,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1401.6
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "**TL;DR of this session** **What got built (3 things, all working code):** | # | Artifact | Location | State | |---|---|---|---| | 1 | Basic GSAP portfolio \u2014 5 animated \"case-study\u2026",
-      "message_count": 303,
-      "file_size_kb": 2340,
-      "modified_ts": 1785877356.471845,
-      "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1418.6
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "## TL;DR of this session **What got built (all working, verified):** - **`magnific-unlimited` skill** \u2014 drives Magnific's web app via Arc/CDP to generate images on **Unlimited mode\u2026",
-      "message_count": 497,
-      "file_size_kb": 6518,
-      "modified_ts": 1785877356.2845972,
-      "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1418.6
-    },
-    {
-      "id": "caaf22e2",
-      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "# TLDR ## What actually shipped | | status | |---|---| | Playwright/CDP runner + watchdog + launchd + README | \u2705 built, syntax-checked, error paths tested | | Safety layer (pause s\u2026",
-      "message_count": 370,
-      "file_size_kb": 5522,
-      "modified_ts": 1785877356.276902,
-      "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1418.6
-    },
-    {
-      "id": "026df754",
-      "full_id": "026df754-3584-4ea4-8094-491039e54868",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can i now run multiple claude code instances within the app",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "**Session TL;DR \u2014 worth continuing?** **What got built:** - **Live interactive dashboard** of your entire Claude Code system: https://claude-system-mindmap.vercel.app - Click any c\u2026",
-      "message_count": 302,
-      "file_size_kb": 2346,
-      "modified_ts": 1785876164.5057359,
-      "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1438.5
-    },
-    {
-      "id": "645a5e08",
-      "full_id": "645a5e08-8314-4796-a8ba-681c6444b6ba",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze this folder? it's everything i worked towards, my notes, philosophy, mentality, reasoning, logic, and my mind basically. i wanna be able to use it for running the\u2026",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "**TLDR \u2014 honest, not a hype summary:** **What this session did:** Cleaned your 5.3MB mind-dump. Corpus 117k \u2192 65k lines (\u221244%): purged secrets (incl. live wallet seeds), swept cafe\u2026",
-      "message_count": 906,
-      "file_size_kb": 5807,
-      "modified_ts": 1785876075.7166288,
-      "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1440.0
+      "minutes_since_active": 1438.2
     }
   ]
 }
