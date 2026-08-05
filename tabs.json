@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-05T15:50:47Z",
-  "total_tabs": 218,
+  "updated_at": "2026-08-05T15:53:00Z",
+  "total_tabs": 209,
   "total_windows": 7,
-  "duplicate_tabs": 26,
+  "duplicate_tabs": 24,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 148,
-      "domain_count": 110,
+      "count": 143,
+      "domain_count": 106,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -16,41 +16,41 @@
         },
         {
           "domain": "dreamina.capcut.com",
-          "count": 6
+          "count": 5
         },
         {
           "domain": "tr.pinterest.com",
           "count": 4
         },
         {
-          "domain": "frameset.app",
+          "domain": "midjourney.com",
           "count": 3
         },
         {
-          "domain": "cosmos.so",
+          "domain": "magnific.com",
           "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 33,
+      "count": 30,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 33
+          "count": 30
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 23,
+      "count": 22,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 15
+          "count": 14
         },
         {
           "domain": "github.com",
