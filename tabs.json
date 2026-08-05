@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-05T00:22:52Z",
-  "total_tabs": 278,
+  "updated_at": "2026-08-05T00:24:02Z",
+  "total_tabs": 295,
   "total_windows": 7,
-  "duplicate_tabs": 38,
+  "duplicate_tabs": 31,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 163,
-      "domain_count": 114,
+      "count": 178,
+      "domain_count": 128,
       "top_domains": [
         {
           "domain": "higgsfield.ai",
@@ -23,29 +23,29 @@
           "count": 6
         },
         {
-          "domain": "midjourney.com",
-          "count": 4
+          "domain": "tr.pinterest.com",
+          "count": 5
         },
         {
-          "domain": "tr.pinterest.com",
-          "count": 4
+          "domain": "dreamina.capcut.com",
+          "count": 5
         }
       ]
     },
     {
       "name": "video",
-      "count": 70,
+      "count": 73,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 70
+          "count": 73
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 29,
+      "count": 28,
       "domain_count": 4,
       "top_domains": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "domain": "anthropic.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "huggingface.co",
