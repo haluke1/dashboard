@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-05T19:27:53Z",
+  "updated_at": "2026-08-05T19:29:06Z",
   "counts": {
-    "active": 0,
-    "recent": 18,
+    "active": 1,
+    "recent": 17,
     "archived": 320,
     "total": 338
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,11 +18,13 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/haluk-brand # Haluk Gul Brand System v2.0 Single source of truth for visual identity across workshops, proposals, cont\u2026",
       "last_assistant_snippet": "## Done \u2014 3 PDFs delivered **1. `festival-filmmaking-digest.pdf`** (264 pages, 6.1MB) 30 YouTube video breakdowns (cinematography, AI filmmaking, directing craft) + the 4-doc pipel\u2026",
       "message_count": 1626,
-      "file_size_kb": 6589,
-      "modified_ts": 1785956162.6673882,
-      "modified_iso": "2026-08-05T14:56:02.667388",
-      "minutes_since_active": 31.8
-    },
+      "file_size_kb": 6590,
+      "modified_ts": 1785958094.4923606,
+      "modified_iso": "2026-08-05T15:28:14.492361",
+      "minutes_since_active": 0.9
+    }
+  ],
+  "recent": [
     {
       "id": "33f45461",
       "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
@@ -38,7 +39,7 @@
       "file_size_kb": 2470,
       "modified_ts": 1785951966.2897465,
       "modified_iso": "2026-08-05T13:46:06.289747",
-      "minutes_since_active": 101.8
+      "minutes_since_active": 103.0
     },
     {
       "id": "acd139f9",
@@ -54,7 +55,7 @@
       "file_size_kb": 251,
       "modified_ts": 1785951569.7461393,
       "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 108.4
+      "minutes_since_active": 109.6
     },
     {
       "id": "882e5f1d",
@@ -70,7 +71,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1785951245.1937354,
       "modified_iso": "2026-08-05T13:34:05.193735",
-      "minutes_since_active": 113.8
+      "minutes_since_active": 115.0
     },
     {
       "id": "fd6fdfc2",
@@ -86,7 +87,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785950347.078,
       "modified_iso": "2026-08-05T13:19:07.078000",
-      "minutes_since_active": 128.8
+      "minutes_since_active": 130.0
     },
     {
       "id": "dbeddfd1",
@@ -102,7 +103,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 208.6
+      "minutes_since_active": 209.8
     },
     {
       "id": "a669c245",
@@ -118,7 +119,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 328.7
+      "minutes_since_active": 329.9
     },
     {
       "id": "abc2ae7e",
@@ -134,7 +135,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 1009.8
+      "minutes_since_active": 1011.0
     },
     {
       "id": "1cd376c2",
@@ -150,7 +151,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1328.2
+      "minutes_since_active": 1329.5
     },
     {
       "id": "232ff70f",
@@ -166,7 +167,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1345.3
+      "minutes_since_active": 1346.5
     },
     {
       "id": "20276b68",
@@ -182,7 +183,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1345.3
+      "minutes_since_active": 1346.5
     },
     {
       "id": "caaf22e2",
@@ -198,7 +199,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1345.3
+      "minutes_since_active": 1346.5
     },
     {
       "id": "026df754",
@@ -214,7 +215,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1365.1
+      "minutes_since_active": 1366.4
     },
     {
       "id": "645a5e08",
@@ -230,7 +231,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1366.6
+      "minutes_since_active": 1367.8
     },
     {
       "id": "e5ada063",
@@ -246,7 +247,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1367.5
+      "minutes_since_active": 1368.7
     },
     {
       "id": "110846e7",
@@ -262,7 +263,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1367.6
+      "minutes_since_active": 1368.8
     },
     {
       "id": "71595298",
@@ -278,7 +279,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1367.6
+      "minutes_since_active": 1368.9
     },
     {
       "id": "4f895634",
@@ -294,7 +295,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1367.7
+      "minutes_since_active": 1368.9
     }
   ]
 }
