@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T17:27:21Z",
-  "total_tabs": 193,
+  "updated_at": "2026-08-05T17:28:36Z",
+  "total_tabs": 190,
   "total_windows": 6,
   "duplicate_tabs": 21,
   "bridge_online": true,
@@ -15,42 +15,42 @@
           "count": 4
         },
         {
-          "domain": "frameset.app",
-          "count": 3
-        },
-        {
-          "domain": "cosmos.so",
-          "count": 3
-        },
-        {
-          "domain": "flim.ai",
-          "count": 3
-        },
-        {
           "domain": "midjourney.com",
+          "count": 3
+        },
+        {
+          "domain": "magnific.com",
+          "count": 3
+        },
+        {
+          "domain": "keep.google.com",
+          "count": 3
+        },
+        {
+          "domain": "hilton.com",
           "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 29,
+      "count": 28,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 29
+          "count": 28
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 21,
+      "count": 19,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 13
+          "count": 11
         },
         {
           "domain": "github.com",
