@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-05T14:39:19Z",
-  "total_tabs": 217,
+  "updated_at": "2026-08-05T14:44:38Z",
+  "total_tabs": 216,
   "total_windows": 7,
-  "duplicate_tabs": 25,
+  "duplicate_tabs": 24,
   "bridge_online": true,
   "categories": [
     {
@@ -27,19 +27,19 @@
           "count": 3
         },
         {
-          "domain": "cosmos.so",
+          "domain": "magnific.com",
           "count": 3
         }
       ]
     },
     {
       "name": "video",
-      "count": 33,
+      "count": 32,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 33
+          "count": 32
         }
       ]
     },
@@ -57,11 +57,11 @@
           "count": 6
         },
         {
-          "domain": "huggingface.co",
+          "domain": "anthropic.com",
           "count": 1
         },
         {
-          "domain": "anthropic.com",
+          "domain": "huggingface.co",
           "count": 1
         }
       ]
@@ -76,11 +76,11 @@
           "count": 3
         },
         {
-          "domain": "docs.google.com",
+          "domain": "calendar.google.com",
           "count": 1
         },
         {
-          "domain": "calendar.google.com",
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
@@ -91,15 +91,30 @@
       "domain_count": 3,
       "top_domains": [
         {
+          "domain": "instagram.com",
+          "count": 1
+        },
+        {
           "domain": "motionvfx.com",
           "count": 1
         },
         {
           "domain": "reddit.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "localhost:3000",
+          "count": 1
         },
         {
-          "domain": "instagram.com",
+          "domain": "localhost:8080",
           "count": 1
         }
       ]
@@ -126,21 +141,6 @@
         },
         {
           "domain": "medium.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "localhost:3000",
-          "count": 1
-        },
-        {
-          "domain": "localhost:8080",
           "count": 1
         }
       ]
