@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:48:37Z",
+  "updated_at": "2026-08-05T15:49:24Z",
   "counts": {
     "active": 3,
     "recent": 16,
@@ -7,6 +7,22 @@
     "total": 336
   },
   "active": [
+    {
+      "id": "b3c81a35",
+      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
+      "last_user_msg": "<task-notification> <task-id>ae3c827facd1b926f</task-id> <tool-use-id>toolu_01GWTWSqxNjNSDQPm5xHSMgH</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
+      "last_assistant_snippet": "7/22 scoping done.",
+      "message_count": 945,
+      "file_size_kb": 2958,
+      "modified_ts": 1785944962.7685738,
+      "modified_iso": "2026-08-05T11:49:22.768574",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "882e5f1d",
       "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
@@ -16,12 +32,12 @@
       "permission_mode": null,
       "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/spec-lock # Spec Lock \u2014 Define Before You Build Run this BEFORE building any deliverable that takes more than 30 minut\u2026",
-      "last_assistant_snippet": "Good \u2014 I have the real channel data. The screenshots you sent show exactly **26 videos** (a curated subset of this channel's ~90-video archive, not the whole thing), and I can matc\u2026",
-      "message_count": 13,
-      "file_size_kb": 1866,
-      "modified_ts": 1785944897.3891366,
-      "modified_iso": "2026-08-05T11:48:17.389137",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "Spec locked: **25 videos, no pilot, organized by theme (Prompting / Consistency / Camera Control / Lip Sync & Avatars / Tools & Comparisons / VFX & Action / Long-form Workflow), sc\u2026",
+      "message_count": 20,
+      "file_size_kb": 1909,
+      "modified_ts": 1785944934.2855265,
+      "modified_iso": "2026-08-05T11:48:54.285527",
+      "minutes_since_active": 0.5
     },
     {
       "id": "33f45461",
@@ -37,23 +53,7 @@
       "file_size_kb": 235,
       "modified_ts": 1785944894.684315,
       "modified_iso": "2026-08-05T11:48:14.684315",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "b3c81a35",
-      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "whats the status progress",
-      "last_assistant_snippet": "8 more scoping agents dispatched (14/22 in flight or done now). I'll keep processing as they land.",
-      "message_count": 941,
-      "file_size_kb": 2948,
-      "modified_ts": 1785944866.0701108,
-      "modified_iso": "2026-08-05T11:47:46.070111",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.2
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1785938351.248,
       "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 109.4
+      "minutes_since_active": 110.2
     },
     {
       "id": "abc2ae7e",
@@ -87,7 +87,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1785897486.5925858,
       "modified_iso": "2026-08-04T22:38:06.592586",
-      "minutes_since_active": 790.5
+      "minutes_since_active": 791.3
     },
     {
       "id": "1cd376c2",
@@ -103,7 +103,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1785878378.894899,
       "modified_iso": "2026-08-04T17:19:38.894899",
-      "minutes_since_active": 1109.0
+      "minutes_since_active": 1109.8
     },
     {
       "id": "232ff70f",
@@ -119,7 +119,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1785877356.471845,
       "modified_iso": "2026-08-04T17:02:36.471845",
-      "minutes_since_active": 1126.0
+      "minutes_since_active": 1126.8
     },
     {
       "id": "fd6fdfc2",
@@ -135,7 +135,7 @@
       "file_size_kb": 1454,
       "modified_ts": 1785877356.3584986,
       "modified_iso": "2026-08-04T17:02:36.358499",
-      "minutes_since_active": 1126.0
+      "minutes_since_active": 1126.8
     },
     {
       "id": "20276b68",
@@ -151,7 +151,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1785877356.2845972,
       "modified_iso": "2026-08-04T17:02:36.284597",
-      "minutes_since_active": 1126.0
+      "minutes_since_active": 1126.8
     },
     {
       "id": "caaf22e2",
@@ -167,7 +167,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1785877356.276902,
       "modified_iso": "2026-08-04T17:02:36.276902",
-      "minutes_since_active": 1126.0
+      "minutes_since_active": 1126.8
     },
     {
       "id": "026df754",
@@ -183,7 +183,7 @@
       "file_size_kb": 2346,
       "modified_ts": 1785876164.5057359,
       "modified_iso": "2026-08-04T16:42:44.505736",
-      "minutes_since_active": 1145.9
+      "minutes_since_active": 1146.7
     },
     {
       "id": "645a5e08",
@@ -199,7 +199,7 @@
       "file_size_kb": 5807,
       "modified_ts": 1785876075.7166288,
       "modified_iso": "2026-08-04T16:41:15.716629",
-      "minutes_since_active": 1147.4
+      "minutes_since_active": 1148.1
     },
     {
       "id": "e5ada063",
@@ -215,7 +215,7 @@
       "file_size_kb": 624,
       "modified_ts": 1785876022.585,
       "modified_iso": "2026-08-04T16:40:22.585000",
-      "minutes_since_active": 1148.3
+      "minutes_since_active": 1149.0
     },
     {
       "id": "110846e7",
@@ -231,7 +231,7 @@
       "file_size_kb": 1494,
       "modified_ts": 1785876018.606,
       "modified_iso": "2026-08-04T16:40:18.606000",
-      "minutes_since_active": 1148.3
+      "minutes_since_active": 1149.1
     },
     {
       "id": "71595298",
@@ -247,7 +247,7 @@
       "file_size_kb": 2268,
       "modified_ts": 1785876014.343,
       "modified_iso": "2026-08-04T16:40:14.343000",
-      "minutes_since_active": 1148.4
+      "minutes_since_active": 1149.2
     },
     {
       "id": "4f895634",
@@ -263,7 +263,7 @@
       "file_size_kb": 299,
       "modified_ts": 1785876009.768,
       "modified_iso": "2026-08-04T16:40:09.768000",
-      "minutes_since_active": 1148.4
+      "minutes_since_active": 1149.2
     },
     {
       "id": "57069057",
@@ -279,7 +279,7 @@
       "file_size_kb": 10107,
       "modified_ts": 1785865473.587,
       "modified_iso": "2026-08-04T13:44:33.587000",
-      "minutes_since_active": 1324.1
+      "minutes_since_active": 1324.8
     },
     {
       "id": "7bf56971",
@@ -295,7 +295,7 @@
       "file_size_kb": 1420,
       "modified_ts": 1785865472.7736046,
       "modified_iso": "2026-08-04T13:44:32.773605",
-      "minutes_since_active": 1324.1
+      "minutes_since_active": 1324.9
     },
     {
       "id": "0084f348",
@@ -311,7 +311,7 @@
       "file_size_kb": 140,
       "modified_ts": 1785865440.087,
       "modified_iso": "2026-08-04T13:44:00.087000",
-      "minutes_since_active": 1324.6
+      "minutes_since_active": 1325.4
     }
   ]
 }
