@@ -1,44 +1,11 @@
 {
-  "updated_at": "2026-08-06T18:28:17Z",
+  "updated_at": "2026-08-06T19:36:44Z",
   "counts": {
     "active": 0,
-    "recent": 2,
-    "archived": 336,
+    "recent": 0,
+    "archived": 338,
     "total": 338
   },
   "active": [],
-  "recent": [
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "whats the progress? can you make sure everything is flowing correctly?",
-      "last_assistant_snippet": "Full progress check: **everything is complete and verified.** - **Structural scan** (all 29 pages, via text extraction): each of the 8 \"VIDEO XX OF 08\" headers appears exactly once\u2026",
-      "message_count": 196,
-      "file_size_kb": 4901,
-      "modified_ts": 1785958386.4520156,
-      "modified_iso": "2026-08-05T15:33:06.452016",
-      "minutes_since_active": 1375.2
-    },
-    {
-      "id": "b3c81a35",
-      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "whats the progress report and were you able to go through everything? i want you do triple check that you got it all",
-      "last_assistant_snippet": "## Verified progress report **Task tracker: 125/125 complete.** File counts on disk match exactly: | Source | Expected | Found | Status | |---|---|---|---| | Main digest videos (`n\u2026",
-      "message_count": 1658,
-      "file_size_kb": 6739,
-      "modified_ts": 1785958316.6944528,
-      "modified_iso": "2026-08-05T15:31:56.694453",
-      "minutes_since_active": 1376.3
-    }
-  ]
+  "recent": []
 }
