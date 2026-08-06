@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-06T17:34:19Z",
+  "updated_at": "2026-08-06T17:41:21Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 335,
+    "recent": 2,
+    "archived": 336,
     "total": 338
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4901,
       "modified_ts": 1785958386.4520156,
       "modified_iso": "2026-08-05T15:33:06.452016",
-      "minutes_since_active": 1321.2
+      "minutes_since_active": 1328.2
     },
     {
       "id": "b3c81a35",
@@ -38,23 +38,7 @@
       "file_size_kb": 6739,
       "modified_ts": 1785958316.6944528,
       "modified_iso": "2026-08-05T15:31:56.694453",
-      "minutes_since_active": 1322.4
-    },
-    {
-      "id": "acd139f9",
-      "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
-      "last_user_msg": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
-      "last_assistant_snippet": "Real numbers, not estimates \u2014 I pulled the actual video metadata via yt-dlp: **\"Hell Grind\" \u2014 Higgsfield Originals, 95.9 min (5,754s), released 2026-08-04.** [VENDOR, fetched this \u2026",
-      "message_count": 20,
-      "file_size_kb": 251,
-      "modified_ts": 1785951569.7461393,
-      "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 1434.8
+      "minutes_since_active": 1329.4
     }
   ]
 }
