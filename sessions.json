@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-06T17:25:13Z",
+  "updated_at": "2026-08-06T17:34:19Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 334,
+    "recent": 3,
+    "archived": 335,
     "total": 338
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4901,
       "modified_ts": 1785958386.4520156,
       "modified_iso": "2026-08-05T15:33:06.452016",
-      "minutes_since_active": 1312.1
+      "minutes_since_active": 1321.2
     },
     {
       "id": "b3c81a35",
@@ -38,7 +38,7 @@
       "file_size_kb": 6739,
       "modified_ts": 1785958316.6944528,
       "modified_iso": "2026-08-05T15:31:56.694453",
-      "minutes_since_active": 1313.3
+      "minutes_since_active": 1322.4
     },
     {
       "id": "acd139f9",
@@ -54,23 +54,7 @@
       "file_size_kb": 251,
       "modified_ts": 1785951569.7461393,
       "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 1425.7
-    },
-    {
-      "id": "882e5f1d",
-      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
-      "last_user_msg": "<task-notification> <task-id>a0c982936eb423570</task-id> <tool-use-id>toolu_019Qu1W9az7fyRWs748LweP4</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/882e5f\u2026",
-      "last_assistant_snippet": "**Done.** `~/reports/taoprompts-ai-filmmaking-playbook/AI-Filmmaking-Playbook.pdf` \u2014 84 pages. What it covers, organized by **theme** instead of video (7 chapters): Prompting Frame\u2026",
-      "message_count": 217,
-      "file_size_kb": 5199,
-      "modified_ts": 1785951245.1937354,
-      "modified_iso": "2026-08-05T13:34:05.193735",
-      "minutes_since_active": 1431.1
+      "minutes_since_active": 1434.8
     }
   ]
 }
