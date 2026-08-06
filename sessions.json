@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-06T13:51:04Z",
+  "updated_at": "2026-08-06T14:17:49Z",
   "counts": {
     "active": 0,
-    "recent": 7,
-    "archived": 331,
+    "recent": 6,
+    "archived": 332,
     "total": 338
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4901,
       "modified_ts": 1785958386.4520156,
       "modified_iso": "2026-08-05T15:33:06.452016",
-      "minutes_since_active": 1098.0
+      "minutes_since_active": 1124.7
     },
     {
       "id": "b3c81a35",
@@ -38,7 +38,7 @@
       "file_size_kb": 6739,
       "modified_ts": 1785958316.6944528,
       "modified_iso": "2026-08-05T15:31:56.694453",
-      "minutes_since_active": 1099.1
+      "minutes_since_active": 1125.9
     },
     {
       "id": "acd139f9",
@@ -54,7 +54,7 @@
       "file_size_kb": 251,
       "modified_ts": 1785951569.7461393,
       "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 1211.6
+      "minutes_since_active": 1238.3
     },
     {
       "id": "882e5f1d",
@@ -70,7 +70,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1785951245.1937354,
       "modified_iso": "2026-08-05T13:34:05.193735",
-      "minutes_since_active": 1217.0
+      "minutes_since_active": 1243.7
     },
     {
       "id": "fd6fdfc2",
@@ -86,7 +86,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1785950347.078,
       "modified_iso": "2026-08-05T13:19:07.078000",
-      "minutes_since_active": 1231.9
+      "minutes_since_active": 1258.7
     },
     {
       "id": "dbeddfd1",
@@ -102,23 +102,7 @@
       "file_size_kb": 202,
       "modified_ts": 1785945556.3968446,
       "modified_iso": "2026-08-05T11:59:16.396845",
-      "minutes_since_active": 1311.8
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "i quit ckb today and the renovation consultancy angle is out of the door i will not be going forward with that - i might be doing general business consulting",
-      "last_assistant_snippet": "Okay \u2014 that's a material world-state change, and it answers my \u00a71 question: the July-28 map is already stale too. Before strategy, three things in order of urgency, then my honest \u2026",
-      "message_count": 208,
-      "file_size_kb": 3124,
-      "modified_ts": 1785938351.248,
-      "modified_iso": "2026-08-05T09:59:11.248000",
-      "minutes_since_active": 1431.9
+      "minutes_since_active": 1338.6
     }
   ]
 }
