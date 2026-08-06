@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-06T17:16:06Z",
+  "updated_at": "2026-08-06T17:25:13Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 333,
+    "recent": 4,
+    "archived": 334,
     "total": 338
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 4901,
       "modified_ts": 1785958386.4520156,
       "modified_iso": "2026-08-05T15:33:06.452016",
-      "minutes_since_active": 1303.0
+      "minutes_since_active": 1312.1
     },
     {
       "id": "b3c81a35",
@@ -38,7 +38,7 @@
       "file_size_kb": 6739,
       "modified_ts": 1785958316.6944528,
       "modified_iso": "2026-08-05T15:31:56.694453",
-      "minutes_since_active": 1304.2
+      "minutes_since_active": 1313.3
     },
     {
       "id": "acd139f9",
@@ -54,7 +54,7 @@
       "file_size_kb": 251,
       "modified_ts": 1785951569.7461393,
       "modified_iso": "2026-08-05T13:39:29.746139",
-      "minutes_since_active": 1416.6
+      "minutes_since_active": 1425.7
     },
     {
       "id": "882e5f1d",
@@ -70,23 +70,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1785951245.1937354,
       "modified_iso": "2026-08-05T13:34:05.193735",
-      "minutes_since_active": 1422.0
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "analyze this and tell me which parts we should include and what parts are redundant. this is our claude stack at the moment -> https://claude-system-mindmap.vercel.app/",
-      "last_assistant_snippet": "Read your real system on disk \u2014 the ground truth behind that mindmap. First, the mindmap is **stale**: it says 234 items generated April 14. Your actual system now has **50 skills \u2026",
-      "message_count": 144,
-      "file_size_kb": 1558,
-      "modified_ts": 1785950347.078,
-      "modified_iso": "2026-08-05T13:19:07.078000",
-      "minutes_since_active": 1437.0
+      "minutes_since_active": 1431.1
     }
   ]
 }
