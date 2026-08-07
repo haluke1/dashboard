@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:25:31Z",
+  "updated_at": "2026-08-07T23:26:45Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "1/8 confirmed done, others resumed or still in flight. Continuing to monitor.",
       "message_count": 1757,
       "file_size_kb": 7124,
-      "modified_ts": 1786145127.9398136,
-      "modified_iso": "2026-08-07T19:25:27.939814",
-      "minutes_since_active": 0.1
+      "modified_ts": 1786145147.269314,
+      "modified_iso": "2026-08-07T19:25:47.269314",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 4905,
       "modified_ts": 1786143739.9427016,
       "modified_iso": "2026-08-07T19:02:19.942702",
-      "minutes_since_active": 23.2
+      "minutes_since_active": 24.4
     }
   ]
 }
