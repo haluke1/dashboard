@@ -1,11 +1,44 @@
 {
-  "updated_at": "2026-08-07T23:01:13Z",
+  "updated_at": "2026-08-07T23:02:21Z",
   "counts": {
-    "active": 0,
+    "active": 2,
     "recent": 0,
-    "archived": 338,
+    "archived": 336,
     "total": 338
   },
-  "active": [],
+  "active": [
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "progress?",
+      "last_assistant_snippet": "The 8-video digest PDF is done and was already delivered to you in this conversation \u2014 `~/reports/robonuggets-claude-updates-2026-08/digest.pdf` (29 pages, all 8 videos, verified s\u2026",
+      "message_count": 198,
+      "file_size_kb": 4905,
+      "modified_ts": 1786143739.9427016,
+      "modified_iso": "2026-08-07T19:02:19.942702",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b3c81a35",
+      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
+      "last_user_msg": "whats the progress report and were you able to go through everything? i want you do triple check that you got it all",
+      "last_assistant_snippet": "## Verified progress report **Task tracker: 125/125 complete.** File counts on disk match exactly: | Source | Expected | Found | Status | |---|---|---|---| | Main digest videos (`n\u2026",
+      "message_count": 1658,
+      "file_size_kb": 6739,
+      "modified_ts": 1786143736.466,
+      "modified_iso": "2026-08-07T19:02:16.466000",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": []
 }
