@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:37:12Z",
+  "updated_at": "2026-08-07T23:37:50Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -19,9 +19,9 @@
       "last_assistant_snippet": "5/8 confirmed. Waiting on 3 more (videos 1, 3, 6).",
       "message_count": 1776,
       "file_size_kb": 7201,
-      "modified_ts": 1786145829.794627,
-      "modified_iso": "2026-08-07T19:37:09.794627",
-      "minutes_since_active": 0.0
+      "modified_ts": 1786145861.7775717,
+      "modified_iso": "2026-08-07T19:37:41.777572",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 4905,
       "modified_ts": 1786143739.9427016,
       "modified_iso": "2026-08-07T19:02:19.942702",
-      "minutes_since_active": 34.9
+      "minutes_since_active": 35.5
     }
   ]
 }
