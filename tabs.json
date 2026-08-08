@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-08T23:56:13Z",
-  "total_tabs": 126,
+  "updated_at": "2026-08-08T23:57:17Z",
+  "total_tabs": 127,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 93,
+      "count": 92,
       "domain_count": 82,
       "top_domains": [
         {
@@ -64,9 +64,13 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 3,
+      "count": 6,
+      "domain_count": 4,
       "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 2
+        },
         {
           "domain": "motionvfx.com",
           "count": 2
