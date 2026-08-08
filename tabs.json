@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:40:38Z",
+  "updated_at": "2026-08-08T15:42:21Z",
   "total_tabs": 123,
   "total_windows": 4,
   "duplicate_tabs": 7,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 90,
-      "domain_count": 80,
+      "count": 91,
+      "domain_count": 81,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 15,
+      "count": 14,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 15
+          "count": 14
         }
       ]
     },
