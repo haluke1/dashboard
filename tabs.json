@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-08T23:58:22Z",
-  "total_tabs": 126,
+  "updated_at": "2026-08-08T23:59:27Z",
+  "total_tabs": 125,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -64,19 +64,19 @@
     },
     {
       "name": "social",
-      "count": 6,
+      "count": 5,
       "domain_count": 4,
       "top_domains": [
-        {
-          "domain": "x.com",
-          "count": 2
-        },
         {
           "domain": "motionvfx.com",
           "count": 2
         },
         {
           "domain": "reddit.com",
+          "count": 1
+        },
+        {
+          "domain": "x.com",
           "count": 1
         },
         {
