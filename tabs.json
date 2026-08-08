@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-08T23:49:30Z",
-  "total_tabs": 123,
+  "updated_at": "2026-08-08T23:50:35Z",
+  "total_tabs": 127,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 90,
-      "domain_count": 80,
+      "count": 94,
+      "domain_count": 82,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
+          "domain": "eksisozluk.com",
+          "count": 3
+        },
+        {
           "domain": "midlibrary.io",
           "count": 2
         },
         {
           "domain": "eyecannndy.com",
-          "count": 2
-        },
-        {
-          "domain": "flim.ai",
           "count": 2
         }
       ]
