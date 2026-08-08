@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-08T00:12:07Z",
+  "updated_at": "2026-08-08T00:29:12Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 336,
     "total": 338
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,11 +18,13 @@
       "last_user_msg": "<task-notification> <task-id>af77e1abded3a5922</task-id> <tool-use-id>toolu_01L5nb8nWcpAxGYNx273GjPT</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
       "last_assistant_snippet": "All 8 videos done. Here are the bullet-point TLDRs: --- ## 1. How to Win $3 Million For Your Film With XPRIZE (Wonder Sessions, ~55 min) **Host Marcus, guests Ben Everard (Sony-bas\u2026",
       "message_count": 1791,
-      "file_size_kb": 7276,
-      "modified_ts": 1786146837.7189853,
-      "modified_iso": "2026-08-07T19:53:57.718985",
-      "minutes_since_active": 18.2
-    },
+      "file_size_kb": 7279,
+      "modified_ts": 1786148951.0540743,
+      "modified_iso": "2026-08-07T20:29:11.054074",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "33f45461",
       "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
@@ -38,7 +39,7 @@
       "file_size_kb": 4905,
       "modified_ts": 1786143739.9427016,
       "modified_iso": "2026-08-07T19:02:19.942702",
-      "minutes_since_active": 69.8
+      "minutes_since_active": 86.9
     }
   ]
 }
