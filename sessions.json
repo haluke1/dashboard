@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-08T02:08:53Z",
+  "updated_at": "2026-08-08T02:10:12Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 2,
+    "recent": 0,
     "archived": 336,
     "total": 338
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,14 +19,14 @@
       "last_assistant_snippet": "All 8 videos done. Here are the bullet-point TLDRs: --- ## 1. How to Win $3 Million For Your Film With XPRIZE (Wonder Sessions, ~55 min) **Host Marcus, guests Ben Everard (Sony-bas\u2026",
       "message_count": 1791,
       "file_size_kb": 7279,
-      "modified_ts": 1786148951.0540743,
-      "modified_iso": "2026-08-07T20:29:11.054074",
-      "minutes_since_active": 99.7
+      "modified_ts": 1786155002.089,
+      "modified_iso": "2026-08-07T22:10:02.089000",
+      "minutes_since_active": 0.2
     },
     {
       "id": "33f45461",
       "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -35,10 +34,11 @@
       "last_user_msg": "progress?",
       "last_assistant_snippet": "The 8-video digest PDF is done and was already delivered to you in this conversation \u2014 `~/reports/robonuggets-claude-updates-2026-08/digest.pdf` (29 pages, all 8 videos, verified s\u2026",
       "message_count": 198,
-      "file_size_kb": 4905,
-      "modified_ts": 1786143739.9427016,
-      "modified_iso": "2026-08-07T19:02:19.942702",
-      "minutes_since_active": 186.6
+      "file_size_kb": 4906,
+      "modified_ts": 1786154954.0697446,
+      "modified_iso": "2026-08-07T22:09:14.069745",
+      "minutes_since_active": 1.0
     }
-  ]
+  ],
+  "recent": []
 }
