@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T00:03:56Z",
-  "total_tabs": 121,
+  "updated_at": "2026-08-09T00:05:22Z",
+  "total_tabs": 112,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 88,
-      "domain_count": 78,
+      "count": 85,
+      "domain_count": 75,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -19,33 +19,33 @@
           "count": 3
         },
         {
-          "domain": "midlibrary.io",
-          "count": 2
-        },
-        {
-          "domain": "eyecannndy.com",
+          "domain": "higgsfield.ai",
           "count": 2
         },
         {
           "domain": "flim.ai",
+          "count": 2
+        },
+        {
+          "domain": "midlibrary.io",
           "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 15,
+      "count": 11,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 15
+          "count": 11
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 11,
+      "count": 9,
       "domain_count": 3,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 4
+          "count": 2
         },
         {
           "domain": "huggingface.co",
@@ -72,11 +72,11 @@
           "count": 2
         },
         {
-          "domain": "x.com",
+          "domain": "instagram.com",
           "count": 1
         },
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
           "count": 1
         }
       ]
