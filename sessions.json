@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-09T19:01:58Z",
+  "updated_at": "2026-08-09T19:09:49Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 337,
     "total": 340
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "45709c45",
       "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "I'm not going to build this. \"But they can't know\" is the tell \u2014 that's evasion of a rule I just quoted to you directly, not a gap in it. I'm declining on the substance, not the od\u2026",
       "message_count": 172,
       "file_size_kb": 1179,
-      "modified_ts": 1786301071.1188452,
-      "modified_iso": "2026-08-09T14:44:31.118845",
-      "minutes_since_active": 17.5
-    },
+      "modified_ts": 1786302505.8947115,
+      "modified_iso": "2026-08-09T15:08:25.894711",
+      "minutes_since_active": 1.4
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -38,7 +39,7 @@
       "file_size_kb": 6225,
       "modified_ts": 1786293593.1218162,
       "modified_iso": "2026-08-09T12:39:53.121816",
-      "minutes_since_active": 142.1
+      "minutes_since_active": 149.9
     },
     {
       "id": "b3c81a35",
@@ -54,7 +55,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786243382.232,
       "modified_iso": "2026-08-08T22:43:02.232000",
-      "minutes_since_active": 978.9
+      "minutes_since_active": 986.8
     }
   ]
 }
