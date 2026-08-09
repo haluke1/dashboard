@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-09T04:18:13Z",
+  "updated_at": "2026-08-09T04:19:17Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 337,
     "total": 340
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "45709c45",
       "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Full harvest plan for the list, grouped by destination folder (matches the `INDEX.md` routing table). Status column flags what's already done vs. still open. ## `01-srefs/` \u2014 Midjo\u2026",
       "message_count": 24,
       "file_size_kb": 311,
-      "modified_ts": 1786248225.878,
-      "modified_iso": "2026-08-09T00:03:45.878000",
-      "minutes_since_active": 14.5
-    },
+      "modified_ts": 1786249116.7930934,
+      "modified_iso": "2026-08-09T00:18:36.793093",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -38,7 +39,7 @@
       "file_size_kb": 4359,
       "modified_ts": 1786244304.999833,
       "modified_iso": "2026-08-08T22:58:24.999833",
-      "minutes_since_active": 79.8
+      "minutes_since_active": 80.9
     },
     {
       "id": "b3c81a35",
@@ -54,7 +55,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786243382.232,
       "modified_iso": "2026-08-08T22:43:02.232000",
-      "minutes_since_active": 95.2
+      "minutes_since_active": 96.3
     }
   ]
 }
