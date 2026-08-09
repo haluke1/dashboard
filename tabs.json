@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T02:41:55Z",
-  "total_tabs": 94,
-  "total_windows": 4,
+  "updated_at": "2026-08-09T02:43:04Z",
+  "total_tabs": 92,
+  "total_windows": 3,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 75,
-      "domain_count": 67,
+      "count": 74,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 5,
+      "count": 4,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 5
+          "count": 4
         }
       ]
     },
