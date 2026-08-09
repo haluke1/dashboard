@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-09T17:22:12Z",
+  "updated_at": "2026-08-09T17:22:31Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 337,
     "total": 340
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "45709c45",
       "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "No export/API feature exists \u2014 checked their FAQ just now. This is built as a browse-in-their-UI product (they upsell generation tools alongside the library), not a data-export one\u2026",
       "message_count": 152,
       "file_size_kb": 979,
-      "modified_ts": 1786295020.885899,
-      "modified_iso": "2026-08-09T13:03:40.885899",
-      "minutes_since_active": 18.5
-    },
+      "modified_ts": 1786296133.67,
+      "modified_iso": "2026-08-09T13:22:13.670000",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -38,7 +39,7 @@
       "file_size_kb": 6225,
       "modified_ts": 1786293593.1218162,
       "modified_iso": "2026-08-09T12:39:53.121816",
-      "minutes_since_active": 42.3
+      "minutes_since_active": 42.6
     },
     {
       "id": "b3c81a35",
@@ -54,7 +55,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786243382.232,
       "modified_iso": "2026-08-08T22:43:02.232000",
-      "minutes_since_active": 879.1
+      "minutes_since_active": 879.5
     }
   ]
 }
