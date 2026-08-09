@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-08-09T16:29:30Z",
-  "total_tabs": 99,
+  "updated_at": "2026-08-09T16:30:34Z",
+  "total_tabs": 100,
   "total_windows": 2,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 81,
+      "count": 82,
       "domain_count": 72,
       "top_domains": [
         {
           "domain": "cosmos.so",
+          "count": 3
+        },
+        {
+          "domain": "promptsref.com",
           "count": 3
         },
         {
@@ -24,10 +28,6 @@
         },
         {
           "domain": "higgsfield.ai",
-          "count": 2
-        },
-        {
-          "domain": "runway.com",
           "count": 2
         }
       ]
