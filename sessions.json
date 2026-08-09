@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-09T02:00:21Z",
+  "updated_at": "2026-08-09T02:01:25Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 336,
     "total": 339
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,11 +18,13 @@
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/haluk-brand # Haluk Gul Brand System v2.0 Single source of truth for visual identity across workshops, proposals, cont\u2026",
       "last_assistant_snippet": "Opened it in your browser. Done \u2014 all four sources. ## What's in it `~/Desktop/AI TECHNIQUES/01-srefs/lummy-midjourney-srefs/` **223 unique codes \u00b7 714 images** | Source | Codes | \u2026",
       "message_count": 344,
-      "file_size_kb": 2553,
-      "modified_ts": 1786239973.2285833,
-      "modified_iso": "2026-08-08T21:46:13.228583",
-      "minutes_since_active": 14.1
-    },
+      "file_size_kb": 2554,
+      "modified_ts": 1786240873.6792507,
+      "modified_iso": "2026-08-08T22:01:13.679251",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -38,7 +39,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786231094.793,
       "modified_iso": "2026-08-08T19:18:14.793000",
-      "minutes_since_active": 162.1
+      "minutes_since_active": 163.2
     },
     {
       "id": "33f45461",
@@ -54,7 +55,7 @@
       "file_size_kb": 4906,
       "modified_ts": 1786154954.0697446,
       "modified_iso": "2026-08-07T22:09:14.069745",
-      "minutes_since_active": 1431.1
+      "minutes_since_active": 1432.2
     }
   ]
 }
