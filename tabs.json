@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T02:25:29Z",
-  "total_tabs": 101,
+  "updated_at": "2026-08-09T02:26:35Z",
+  "total_tabs": 99,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 82,
-      "domain_count": 72,
+      "count": 80,
+      "domain_count": 71,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "midlibrary.io",
+          "count": 2
+        },
+        {
+          "domain": "eyecannndy.com",
           "count": 2
         },
         {
           "domain": "flim.ai",
-          "count": 2
-        },
-        {
-          "domain": "midlibrary.io",
           "count": 2
         }
       ]
