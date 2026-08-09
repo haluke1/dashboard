@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T02:02:30Z",
-  "total_tabs": 109,
+  "updated_at": "2026-08-09T02:03:34Z",
+  "total_tabs": 110,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -19,27 +19,27 @@
           "count": 3
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "midlibrary.io",
+          "count": 2
+        },
+        {
+          "domain": "eyecannndy.com",
           "count": 2
         },
         {
           "domain": "flim.ai",
-          "count": 2
-        },
-        {
-          "domain": "midlibrary.io",
           "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 11,
+      "count": 12,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 11
+          "count": 12
         }
       ]
     },
