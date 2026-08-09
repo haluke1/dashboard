@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-09T01:00:49Z",
+  "updated_at": "2026-08-09T01:03:27Z",
   "counts": {
-    "active": 0,
-    "recent": 3,
+    "active": 1,
+    "recent": 2,
     "archived": 336,
     "total": 339
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "## What I can actually do **Yes:** text. Sref codes + names, technique lists, aesthetic taxonomies, prompt patterns, YouTube transcripts, GitHub repos. I fetch the page, pull the s\u2026",
       "message_count": 136,
       "file_size_kb": 634,
-      "modified_ts": 1786235563.4851496,
-      "modified_iso": "2026-08-08T20:32:43.485150",
-      "minutes_since_active": 28.1
-    },
+      "modified_ts": 1786237342.592,
+      "modified_iso": "2026-08-08T21:02:22.592000",
+      "minutes_since_active": 1.1
+    }
+  ],
+  "recent": [
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -38,7 +39,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786231094.793,
       "modified_iso": "2026-08-08T19:18:14.793000",
-      "minutes_since_active": 102.6
+      "minutes_since_active": 105.2
     },
     {
       "id": "33f45461",
@@ -54,7 +55,7 @@
       "file_size_kb": 4906,
       "modified_ts": 1786154954.0697446,
       "modified_iso": "2026-08-07T22:09:14.069745",
-      "minutes_since_active": 1371.6
+      "minutes_since_active": 1374.2
     }
   ]
 }
