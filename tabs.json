@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T01:08:13Z",
-  "total_tabs": 118,
+  "updated_at": "2026-08-09T01:09:18Z",
+  "total_tabs": 120,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -44,6 +44,29 @@
       ]
     },
     {
+      "name": "social",
+      "count": 9,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "reddit.com",
+          "count": 5
+        },
+        {
+          "domain": "motionvfx.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "x.com",
+          "count": 1
+        }
+      ]
+    },
+    {
       "name": "ai-dev",
       "count": 9,
       "domain_count": 3,
@@ -58,29 +81,6 @@
         },
         {
           "domain": "huggingface.co",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 7,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "reddit.com",
-          "count": 3
-        },
-        {
-          "domain": "motionvfx.com",
-          "count": 2
-        },
-        {
-          "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "x.com",
           "count": 1
         }
       ]
