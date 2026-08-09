@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-09T02:43:04Z",
+  "updated_at": "2026-08-09T02:44:11Z",
   "total_tabs": 92,
-  "total_windows": 3,
+  "total_windows": 2,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
@@ -11,15 +11,15 @@
       "domain_count": 66,
       "top_domains": [
         {
-          "domain": "frameset.app",
-          "count": 3
-        },
-        {
           "domain": "cosmos.so",
           "count": 3
         },
         {
-          "domain": "higgsfield.ai",
+          "domain": "frameset.app",
+          "count": 3
+        },
+        {
+          "domain": "runway.com",
           "count": 2
         },
         {
@@ -27,7 +27,7 @@
           "count": 2
         },
         {
-          "domain": "eyecannndy.com",
+          "domain": "higgsfield.ai",
           "count": 2
         }
       ]

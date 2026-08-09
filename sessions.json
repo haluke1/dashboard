@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-09T02:43:26Z",
+  "updated_at": "2026-08-09T02:44:14Z",
   "counts": {
     "active": 2,
-    "recent": 0,
+    "recent": 1,
     "archived": 337,
-    "total": 339
+    "total": 340
   },
   "active": [
+    {
+      "id": "45709c45",
+      "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "how do you think i should organize these tabs? which ones to keep and which ones to maybe index and close? -> https://runway.com/studios https://www.midjourney.com/explore?tab=top \u2026",
+      "last_user_msg": "how do you think i should organize these tabs? which ones to keep and which ones to maybe index and close? -> https://runway.com/studios https://www.midjourney.com/explore?tab=top \u2026",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 156,
+      "modified_ts": 1786243440.5185037,
+      "modified_iso": "2026-08-08T22:44:00.518504",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -21,12 +37,14 @@
       "file_size_kb": 7279,
       "modified_ts": 1786243382.232,
       "modified_iso": "2026-08-08T22:43:02.232000",
-      "minutes_since_active": 0.4
-    },
+      "minutes_since_active": 1.2
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,8 +55,7 @@
       "file_size_kb": 4359,
       "modified_ts": 1786243133.7123494,
       "modified_iso": "2026-08-08T22:38:53.712349",
-      "minutes_since_active": 4.5
+      "minutes_since_active": 5.3
     }
-  ],
-  "recent": []
+  ]
 }
