@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T04:33:14Z",
-  "total_tabs": 94,
+  "updated_at": "2026-08-09T04:34:18Z",
+  "total_tabs": 95,
   "total_windows": 2,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 75,
-      "domain_count": 67,
+      "count": 77,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "cosmos.so",
@@ -53,7 +53,7 @@
     },
     {
       "name": "social",
-      "count": 5,
+      "count": 4,
       "domain_count": 3,
       "top_domains": [
         {
@@ -61,11 +61,11 @@
           "count": 2
         },
         {
-          "domain": "reddit.com",
-          "count": 2
+          "domain": "instagram.com",
+          "count": 1
         },
         {
-          "domain": "instagram.com",
+          "domain": "reddit.com",
           "count": 1
         }
       ]
