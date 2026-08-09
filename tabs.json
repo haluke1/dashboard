@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-09T01:03:24Z",
-  "total_tabs": 113,
+  "updated_at": "2026-08-09T01:04:43Z",
+  "total_tabs": 114,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 85,
-      "domain_count": 75,
+      "count": 86,
+      "domain_count": 76,
       "top_domains": [
+        {
+          "domain": "cosmos.so",
+          "count": 3
+        },
         {
           "domain": "frameset.app",
           "count": 3
         },
         {
-          "domain": "cosmos.so",
-          "count": 3
+          "domain": "runway.com",
+          "count": 2
         },
         {
           "domain": "midlibrary.io",
           "count": 2
         },
         {
-          "domain": "eyecannndy.com",
-          "count": 2
-        },
-        {
-          "domain": "flim.ai",
+          "domain": "lummi.ai",
           "count": 2
         }
       ]
@@ -72,11 +72,11 @@
           "count": 2
         },
         {
-          "domain": "x.com",
+          "domain": "instagram.com",
           "count": 1
         },
         {
-          "domain": "instagram.com",
+          "domain": "x.com",
           "count": 1
         }
       ]
