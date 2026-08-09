@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-09T02:09:00Z",
+  "updated_at": "2026-08-09T02:10:05Z",
   "counts": {
     "active": 1,
-    "recent": 2,
-    "archived": 336,
+    "recent": 1,
+    "archived": 337,
     "total": 339
   },
   "active": [
@@ -21,7 +21,7 @@
       "file_size_kb": 2601,
       "modified_ts": 1786241165.5401745,
       "modified_iso": "2026-08-08T22:06:05.540174",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 4.0
     }
   ],
   "recent": [
@@ -39,23 +39,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786231094.793,
       "modified_iso": "2026-08-08T19:18:14.793000",
-      "minutes_since_active": 170.8
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "progress?",
-      "last_assistant_snippet": "The 8-video digest PDF is done and was already delivered to you in this conversation \u2014 `~/reports/robonuggets-claude-updates-2026-08/digest.pdf` (29 pages, all 8 videos, verified s\u2026",
-      "message_count": 198,
-      "file_size_kb": 4906,
-      "modified_ts": 1786154954.0697446,
-      "modified_iso": "2026-08-07T22:09:14.069745",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 171.8
     }
   ]
 }
