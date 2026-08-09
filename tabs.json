@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T02:34:20Z",
-  "total_tabs": 102,
+  "updated_at": "2026-08-09T02:35:24Z",
+  "total_tabs": 101,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 81,
-      "domain_count": 71,
+      "count": 79,
+      "domain_count": 70,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -52,21 +52,14 @@
       ]
     },
     {
-      "name": "video",
-      "count": 5,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 5
-        }
-      ]
-    },
-    {
       "name": "social",
-      "count": 4,
+      "count": 5,
       "domain_count": 3,
       "top_domains": [
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
         {
           "domain": "motionvfx.com",
           "count": 2
@@ -74,10 +67,17 @@
         {
           "domain": "reddit.com",
           "count": 1
-        },
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 5,
+      "domain_count": 1,
+      "top_domains": [
         {
-          "domain": "instagram.com",
-          "count": 1
+          "domain": "youtube.com",
+          "count": 5
         }
       ]
     },
