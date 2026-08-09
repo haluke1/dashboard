@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T16:23:02Z",
+  "updated_at": "2026-08-09T16:24:08Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 340
   },
   "active": [
+    {
+      "id": "45709c45",
+      "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "how do you think i should organize these tabs? which ones to keep and which ones to maybe index and close? -> https://runway.com/studios https://www.midjourney.com/explore?tab=top \u2026",
+      "last_user_msg": "okey lets do https://srefhunt.com/listing-category/srefcode/ and https://sref-midjourney.com/ and https://masteringaiart.com/midjourney-sref-codes/ and midlibrary.io/tops/top-10-ci\u2026",
+      "last_assistant_snippet": "Full harvest plan for the list, grouped by destination folder (matches the `INDEX.md` routing table). Status column flags what's already done vs. still open. ## `01-srefs/` \u2014 Midjo\u2026",
+      "message_count": 33,
+      "file_size_kb": 397,
+      "modified_ts": 1786292601.926859,
+      "modified_iso": "2026-08-09T12:23:21.926859",
+      "minutes_since_active": 0.8
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -21,23 +37,7 @@
       "file_size_kb": 4359,
       "modified_ts": 1786292569.056,
       "modified_iso": "2026-08-09T12:22:49.056000",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "45709c45",
-      "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "how do you think i should organize these tabs? which ones to keep and which ones to maybe index and close? -> https://runway.com/studios https://www.midjourney.com/explore?tab=top \u2026",
-      "last_user_msg": "okey lets do https://srefhunt.com/listing-category/srefcode/ and https://sref-midjourney.com/ and https://masteringaiart.com/midjourney-sref-codes/ and midlibrary.io/tops/top-10-ci\u2026",
-      "last_assistant_snippet": "Full harvest plan for the list, grouped by destination folder (matches the `INDEX.md` routing table). Status column flags what's already done vs. still open. ## `01-srefs/` \u2014 Midjo\u2026",
-      "message_count": 25,
-      "file_size_kb": 315,
-      "modified_ts": 1786292556.398745,
-      "modified_iso": "2026-08-09T12:22:36.398745",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 7279,
       "modified_ts": 1786243382.232,
       "modified_iso": "2026-08-08T22:43:02.232000",
-      "minutes_since_active": 820.0
+      "minutes_since_active": 821.1
     }
   ]
 }
