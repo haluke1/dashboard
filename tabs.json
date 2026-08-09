@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T16:31:41Z",
+  "updated_at": "2026-08-09T16:32:46Z",
   "total_tabs": 100,
   "total_windows": 2,
   "duplicate_tabs": 5,
@@ -7,15 +7,11 @@
   "categories": [
     {
       "name": "other",
-      "count": 82,
+      "count": 81,
       "domain_count": 72,
       "top_domains": [
         {
           "domain": "cosmos.so",
-          "count": 3
-        },
-        {
-          "domain": "promptsref.com",
           "count": 3
         },
         {
@@ -28,6 +24,10 @@
         },
         {
           "domain": "higgsfield.ai",
+          "count": 2
+        },
+        {
+          "domain": "runway.com",
           "count": 2
         }
       ]
@@ -88,6 +88,17 @@
         },
         {
           "domain": "mail.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "finance",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "checkout.stripe.com",
           "count": 1
         }
       ]
