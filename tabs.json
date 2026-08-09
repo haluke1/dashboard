@@ -1,19 +1,15 @@
 {
-  "updated_at": "2026-08-09T06:01:42Z",
-  "total_tabs": 99,
+  "updated_at": "2026-08-09T06:02:47Z",
+  "total_tabs": 96,
   "total_windows": 2,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 81,
+      "count": 78,
       "domain_count": 69,
       "top_domains": [
-        {
-          "domain": "eksisozluk.com",
-          "count": 4
-        },
         {
           "domain": "cosmos.so",
           "count": 3
@@ -28,6 +24,10 @@
         },
         {
           "domain": "midlibrary.io",
+          "count": 2
+        },
+        {
+          "domain": "eyecannndy.com",
           "count": 2
         }
       ]
