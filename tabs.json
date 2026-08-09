@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T01:04:43Z",
-  "total_tabs": 114,
+  "updated_at": "2026-08-09T01:06:04Z",
+  "total_tabs": 116,
   "total_windows": 4,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 86,
-      "domain_count": 76,
+      "count": 87,
+      "domain_count": 77,
       "top_domains": [
         {
           "domain": "cosmos.so",
@@ -64,12 +64,16 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 3,
+      "count": 5,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "motionvfx.com",
           "count": 2
+        },
+        {
+          "domain": "reddit.com",
+          "count": 1
         },
         {
           "domain": "instagram.com",
