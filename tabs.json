@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T02:46:22Z",
-  "total_tabs": 92,
+  "updated_at": "2026-08-09T02:47:26Z",
+  "total_tabs": 91,
   "total_windows": 2,
   "duplicate_tabs": 5,
   "bridge_online": true,
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
-          "domain": "runway.com",
-          "count": 2
-        },
-        {
-          "domain": "midlibrary.io",
-          "count": 2
-        },
-        {
           "domain": "eyecannndy.com",
+          "count": 2
+        },
+        {
+          "domain": "higgsfield.ai",
+          "count": 2
+        },
+        {
+          "domain": "runway.com",
           "count": 2
         }
       ]
@@ -52,17 +52,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 4,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 4
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 3,
       "domain_count": 2,
@@ -74,6 +63,17 @@
         {
           "domain": "instagram.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 3
         }
       ]
     },
