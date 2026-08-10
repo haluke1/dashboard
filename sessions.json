@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T23:47:06Z",
+  "updated_at": "2026-08-10T23:48:35Z",
   "counts": {
-    "active": 2,
-    "recent": 1,
+    "active": 1,
+    "recent": 2,
     "archived": 339,
     "total": 342
   },
@@ -17,16 +17,18 @@
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
       "last_user_msg": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
       "last_assistant_snippet": "I'll do a real scan before recommending anything. Let me map the actual filesystem first.",
-      "message_count": 8,
-      "file_size_kb": 165,
-      "modified_ts": 1786405461.2194736,
-      "modified_iso": "2026-08-10T19:44:21.219474",
-      "minutes_since_active": 2.7
-    },
+      "message_count": 13,
+      "file_size_kb": 175,
+      "modified_ts": 1786405691.504662,
+      "modified_iso": "2026-08-10T19:48:11.504662",
+      "minutes_since_active": 0.4
+    }
+  ],
+  "recent": [
     {
       "id": "af3019d0",
       "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 272,
       "modified_ts": 1786405408.7869806,
       "modified_iso": "2026-08-10T19:43:28.786981",
-      "minutes_since_active": 3.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "45709c45",
       "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
@@ -55,7 +55,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786404758.87,
       "modified_iso": "2026-08-10T19:32:38.870000",
-      "minutes_since_active": 14.4
+      "minutes_since_active": 15.9
     }
   ]
 }
