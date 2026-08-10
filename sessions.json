@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-10T02:42:06Z",
+  "updated_at": "2026-08-10T02:43:10Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 337,
+    "recent": 2,
+    "archived": 338,
     "total": 340
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786324962.535,
       "modified_iso": "2026-08-09T21:22:42.535000",
-      "minutes_since_active": 79.4
+      "minutes_since_active": 80.5
     },
     {
       "id": "28fe40c8",
@@ -38,23 +38,7 @@
       "file_size_kb": 6225,
       "modified_ts": 1786293593.1218162,
       "modified_iso": "2026-08-09T12:39:53.121816",
-      "minutes_since_active": 602.2
-    },
-    {
-      "id": "b3c81a35",
-      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "<task-notification> <task-id>af77e1abded3a5922</task-id> <tool-use-id>toolu_01L5nb8nWcpAxGYNx273GjPT</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/b3c81a\u2026",
-      "last_assistant_snippet": "All 8 videos done. Here are the bullet-point TLDRs: --- ## 1. How to Win $3 Million For Your Film With XPRIZE (Wonder Sessions, ~55 min) **Host Marcus, guests Ben Everard (Sony-bas\u2026",
-      "message_count": 1791,
-      "file_size_kb": 7279,
-      "modified_ts": 1786243382.232,
-      "modified_iso": "2026-08-08T22:43:02.232000",
-      "minutes_since_active": 1439.1
+      "minutes_since_active": 603.3
     }
   ]
 }
