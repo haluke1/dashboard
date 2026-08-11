@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-11T00:05:56Z",
+  "updated_at": "2026-08-11T00:09:59Z",
   "counts": {
-    "active": 2,
-    "recent": 2,
+    "active": 1,
+    "recent": 3,
     "archived": 338,
     "total": 342
   },
@@ -17,16 +17,18 @@
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
       "last_user_msg": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
       "last_assistant_snippet": "Full access via that channel. Now the deep scan \u2014 I'll write results to files and read them.",
-      "message_count": 92,
-      "file_size_kb": 451,
-      "modified_ts": 1786406649.5166295,
-      "modified_iso": "2026-08-10T20:04:09.516629",
-      "minutes_since_active": 1.8
-    },
+      "message_count": 97,
+      "file_size_kb": 459,
+      "modified_ts": 1786406971.282797,
+      "modified_iso": "2026-08-10T20:09:31.282797",
+      "minutes_since_active": 0.5
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 7382,
       "modified_ts": 1786406493.5396783,
       "modified_iso": "2026-08-10T20:01:33.539678",
-      "minutes_since_active": 4.4
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 8.4
+    },
     {
       "id": "af3019d0",
       "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
@@ -55,7 +55,7 @@
       "file_size_kb": 273,
       "modified_ts": 1786405864.0886624,
       "modified_iso": "2026-08-10T19:51:04.088662",
-      "minutes_since_active": 14.9
+      "minutes_since_active": 18.9
     },
     {
       "id": "45709c45",
@@ -71,7 +71,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786404758.87,
       "modified_iso": "2026-08-10T19:32:38.870000",
-      "minutes_since_active": 33.3
+      "minutes_since_active": 37.3
     }
   ]
 }
