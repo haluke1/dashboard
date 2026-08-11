@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T02:00:52Z",
+  "updated_at": "2026-08-11T02:01:57Z",
   "counts": {
     "active": 1,
     "recent": 3,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "i have downsized open tabs down to fewer ones (theres still quite a few but i closed a lot), i organized my notes a lot, organized claude.ai chats and closed a lot of them and will\u2026",
-      "last_assistant_snippet": "Pulled your execution frameworks. But first \u2014 one number changes the design. ## Your infrastructure vs. your usage | You have | Actually used | |---|---| | `scheduled_tasks.json` (\u2026",
-      "message_count": 297,
-      "file_size_kb": 1678,
-      "modified_ts": 1786413621.0454218,
-      "modified_iso": "2026-08-10T22:00:21.045422",
-      "minutes_since_active": 0.5
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/ai-techniques # AI Techniques Reference System Haluk's consolidated craft library lives at `~/Desktop/AI TECHNIQUES/`.\u2026",
+      "last_assistant_snippet": "Two facts from the skill change the ordering. Recon before I say more:",
+      "message_count": 313,
+      "file_size_kb": 1743,
+      "modified_ts": 1786413713.8362556,
+      "modified_iso": "2026-08-10T22:01:53.836256",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 7382,
       "modified_ts": 1786406493.5396783,
       "modified_iso": "2026-08-10T20:01:33.539678",
-      "minutes_since_active": 119.3
+      "minutes_since_active": 120.4
     },
     {
       "id": "af3019d0",
@@ -55,7 +55,7 @@
       "file_size_kb": 273,
       "modified_ts": 1786405864.0886624,
       "modified_iso": "2026-08-10T19:51:04.088662",
-      "minutes_since_active": 129.8
+      "minutes_since_active": 130.9
     },
     {
       "id": "45709c45",
@@ -71,7 +71,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786404758.87,
       "modified_iso": "2026-08-10T19:32:38.870000",
-      "minutes_since_active": 148.2
+      "minutes_since_active": 149.3
     }
   ]
 }
