@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-11T01:09:10Z",
+  "updated_at": "2026-08-11T01:10:33Z",
   "counts": {
-    "active": 0,
-    "recent": 4,
+    "active": 1,
+    "recent": 3,
     "archived": 338,
     "total": 342
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,11 +18,13 @@
       "last_user_msg": "i didnt say yes to this -> `POE-brain` is confirmed as the keeper, by both your memory and the evidence. The plan from before stands, with one addition: / i want this one to be the\u2026",
       "last_assistant_snippet": "Done. `Personal-Ontology` moved (146 MB), links repointed, evidence verified reachable. ## What happened **Moved:** `Personal-Ontology` \u2192 `old mental organization/` (146 MB, logged\u2026",
       "message_count": 208,
-      "file_size_kb": 947,
-      "modified_ts": 1786409659.552827,
-      "modified_iso": "2026-08-10T20:54:19.552827",
-      "minutes_since_active": 14.9
-    },
+      "file_size_kb": 948,
+      "modified_ts": 1786410559.7669246,
+      "modified_iso": "2026-08-10T21:09:19.766925",
+      "minutes_since_active": 1.2
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -38,7 +39,7 @@
       "file_size_kb": 7382,
       "modified_ts": 1786406493.5396783,
       "modified_iso": "2026-08-10T20:01:33.539678",
-      "minutes_since_active": 67.6
+      "minutes_since_active": 69.0
     },
     {
       "id": "af3019d0",
@@ -54,7 +55,7 @@
       "file_size_kb": 273,
       "modified_ts": 1786405864.0886624,
       "modified_iso": "2026-08-10T19:51:04.088662",
-      "minutes_since_active": 78.1
+      "minutes_since_active": 79.5
     },
     {
       "id": "45709c45",
@@ -70,7 +71,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786404758.87,
       "modified_iso": "2026-08-10T19:32:38.870000",
-      "minutes_since_active": 96.5
+      "minutes_since_active": 97.9
     }
   ]
 }
