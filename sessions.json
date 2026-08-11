@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-11T23:50:54Z",
+  "updated_at": "2026-08-11T23:53:54Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 339,
+    "recent": 2,
+    "archived": 340,
     "total": 342
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 1870,
       "modified_ts": 1786419766.5775092,
       "modified_iso": "2026-08-10T23:42:46.577509",
-      "minutes_since_active": 1208.1
+      "minutes_since_active": 1211.1
     },
     {
       "id": "28fe40c8",
@@ -38,23 +38,7 @@
       "file_size_kb": 7382,
       "modified_ts": 1786406493.5396783,
       "modified_iso": "2026-08-10T20:01:33.539678",
-      "minutes_since_active": 1429.3
-    },
-    {
-      "id": "af3019d0",
-      "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you create a note software that auto syncs with some form of claude updates daily? so i could use wisprflow or visual uploads or text to upload context there and it synthesiz\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "Read the watch skill \u2014 it's a Python pipeline (`download.py` \u2192 `frames.py` \u2192 `transcribe.py`) that hands frames + transcript to Claude. One gap: no Whisper key is set, so videos wi\u2026",
-      "message_count": 47,
-      "file_size_kb": 273,
-      "modified_ts": 1786405864.0886624,
-      "modified_iso": "2026-08-10T19:51:04.088662",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1432.3
     }
   ]
 }
