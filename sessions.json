@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-13T00:32:44Z",
+  "updated_at": "2026-08-13T00:33:56Z",
   "counts": {
-    "active": 1,
-    "recent": 4,
+    "active": 2,
+    "recent": 3,
     "archived": 338,
     "total": 343
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "keep going -> have a \"success board\" display so we can show them results with all the google reviews. - Get photos from measurement to present in the customer call - Explain terms \u2026",
+      "last_assistant_snippet": "**All three in.** That's now **8 for 8.** | Your note | Verbatim at | Filed in | |---|---|---| | \"step by step reasoning\u2026 assumptions\u2026 confidence levels\u2026 red teamed\" | `_source.md`\u2026",
+      "message_count": 391,
+      "file_size_kb": 2094,
+      "modified_ts": 1786581221.6032786,
+      "modified_iso": "2026-08-12T20:33:41.603279",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "af3019d0",
       "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
@@ -21,26 +37,10 @@
       "file_size_kb": 443,
       "modified_ts": 1786581106.1544235,
       "modified_iso": "2026-08-12T20:31:46.154423",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 2.2
     }
   ],
   "recent": [
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "i wanna make sure of all of them do these too -> ask ai to show full step by step reasoning, explicitly list every assumption, flag uncertainties and confidence levels, deliver red\u2026",
-      "last_assistant_snippet": "**All three in.** That's now **8 for 8.** | Your note | Verbatim at | Filed in | |---|---|---| | \"step by step reasoning\u2026 assumptions\u2026 confidence levels\u2026 red teamed\" | `_source.md`\u2026",
-      "message_count": 390,
-      "file_size_kb": 2090,
-      "modified_ts": 1786580597.8870606,
-      "modified_iso": "2026-08-12T20:23:17.887061",
-      "minutes_since_active": 9.4
-    },
     {
       "id": "fac9e092",
       "full_id": "fac9e092-7dff-4b25-bbbe-379d7b0295e4",
@@ -55,7 +55,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786580128.307969,
       "modified_iso": "2026-08-12T20:15:28.307969",
-      "minutes_since_active": 17.2
+      "minutes_since_active": 18.4
     },
     {
       "id": "33f45461",
@@ -71,7 +71,7 @@
       "file_size_kb": 4942,
       "modified_ts": 1786580088.1239207,
       "modified_iso": "2026-08-12T20:14:48.123921",
-      "minutes_since_active": 17.9
+      "minutes_since_active": 19.1
     },
     {
       "id": "45709c45",
@@ -87,7 +87,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786580049.116,
       "modified_iso": "2026-08-12T20:14:09.116000",
-      "minutes_since_active": 18.6
+      "minutes_since_active": 19.8
     }
   ]
 }
