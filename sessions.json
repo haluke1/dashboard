@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-08-13T00:31:28Z",
+  "updated_at": "2026-08-13T00:32:44Z",
   "counts": {
-    "active": 0,
-    "recent": 5,
+    "active": 1,
+    "recent": 4,
     "archived": 338,
     "total": 343
   },
-  "active": [],
+  "active": [
+    {
+      "id": "af3019d0",
+      "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you create a note software that auto syncs with some form of claude updates daily? so i could use wisprflow or visual uploads or text to upload context there and it synthesiz\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
+      "last_assistant_snippet": "## What I found first \u2014 it changes the design **Your \"massive context_everything doc\" isn't one file.** It's `~/Desktop/POE-brain/`: - `_source.md` \u2014 48,589 lines, marked **immutab\u2026",
+      "message_count": 90,
+      "file_size_kb": 443,
+      "modified_ts": 1786581106.1544235,
+      "modified_iso": "2026-08-12T20:31:46.154423",
+      "minutes_since_active": 1.0
+    }
+  ],
   "recent": [
     {
       "id": "2b825ea7",
@@ -22,23 +39,7 @@
       "file_size_kb": 2090,
       "modified_ts": 1786580597.8870606,
       "modified_iso": "2026-08-12T20:23:17.887061",
-      "minutes_since_active": 8.2
-    },
-    {
-      "id": "af3019d0",
-      "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you create a note software that auto syncs with some form of claude updates daily? so i could use wisprflow or visual uploads or text to upload context there and it synthesiz\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "## What I found first \u2014 it changes the design **Your \"massive context_everything doc\" isn't one file.** It's `~/Desktop/POE-brain/`: - `_source.md` \u2014 48,589 lines, marked **immutab\u2026",
-      "message_count": 90,
-      "file_size_kb": 442,
-      "modified_ts": 1786580205.6185,
-      "modified_iso": "2026-08-12T20:16:45.618500",
-      "minutes_since_active": 14.7
+      "minutes_since_active": 9.4
     },
     {
       "id": "fac9e092",
@@ -54,7 +55,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786580128.307969,
       "modified_iso": "2026-08-12T20:15:28.307969",
-      "minutes_since_active": 15.9
+      "minutes_since_active": 17.2
     },
     {
       "id": "33f45461",
@@ -70,7 +71,7 @@
       "file_size_kb": 4942,
       "modified_ts": 1786580088.1239207,
       "modified_iso": "2026-08-12T20:14:48.123921",
-      "minutes_since_active": 16.7
+      "minutes_since_active": 17.9
     },
     {
       "id": "45709c45",
@@ -86,7 +87,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786580049.116,
       "modified_iso": "2026-08-12T20:14:09.116000",
-      "minutes_since_active": 17.3
+      "minutes_since_active": 18.6
     }
   ]
 }
