@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T00:20:18Z",
+  "updated_at": "2026-08-13T00:21:30Z",
   "counts": {
-    "active": 3,
-    "recent": 2,
+    "active": 2,
+    "recent": 3,
     "archived": 338,
     "total": 343
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 2010,
       "modified_ts": 1786580410.531842,
       "modified_iso": "2026-08-12T20:20:10.531842",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.3
     },
     {
       "id": "af3019d0",
@@ -37,12 +37,14 @@
       "file_size_kb": 442,
       "modified_ts": 1786580205.6185,
       "modified_iso": "2026-08-12T20:16:45.618500",
-      "minutes_since_active": 3.6
-    },
+      "minutes_since_active": 4.8
+    }
+  ],
+  "recent": [
     {
       "id": "fac9e092",
       "full_id": "fac9e092-7dff-4b25-bbbe-379d7b0295e4",
-      "status": "active",
+      "status": "recent",
       "project": "/private/tmp",
       "git_branch": "HEAD",
       "permission_mode": null,
@@ -53,10 +55,8 @@
       "file_size_kb": 45,
       "modified_ts": 1786580128.307969,
       "modified_iso": "2026-08-12T20:15:28.307969",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "33f45461",
       "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
@@ -71,7 +71,7 @@
       "file_size_kb": 4942,
       "modified_ts": 1786580088.1239207,
       "modified_iso": "2026-08-12T20:14:48.123921",
-      "minutes_since_active": 5.5
+      "minutes_since_active": 6.7
     },
     {
       "id": "45709c45",
@@ -87,7 +87,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786580049.116,
       "modified_iso": "2026-08-12T20:14:09.116000",
-      "minutes_since_active": 6.2
+      "minutes_since_active": 7.4
     }
   ]
 }
