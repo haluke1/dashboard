@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T03:38:01Z",
+  "updated_at": "2026-08-14T03:39:10Z",
   "counts": {
-    "active": 4,
+    "active": 5,
     "recent": 19,
     "archived": 337,
-    "total": 360
+    "total": 361
   },
   "active": [
     {
@@ -15,13 +15,29 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "claude is doing this",
-      "last_assistant_snippet": "Both fixed \u2014 Opus 5 now pinned explicitly, and `--check` can't hang forever anymore. **So: `/exit` out of Claude Code, get to the `%` prompt, then run `twin --check`.** It'll eithe\u2026",
-      "message_count": 871,
-      "file_size_kb": 100948,
-      "modified_ts": 1786678486.970406,
-      "modified_iso": "2026-08-13T23:34:46.970406",
-      "minutes_since_active": 3.2
+      "last_user_msg": "it gave me this - Please run /login \u00b7 API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authent ication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\u2026",
+      "last_assistant_snippet": "The error is telling you the exact fix \u2014 you need to re-login inside Claude Code. **Do this:** 1. Start Claude Code: ```bash claude ``` 2. Once you're at the `\u203a` prompt, type: ``` \u2026",
+      "message_count": 874,
+      "file_size_kb": 100957,
+      "modified_ts": 1786678747.2680507,
+      "modified_iso": "2026-08-13T23:39:07.268051",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "54d02e2d",
+      "full_id": "54d02e2d-711e-4a32-8964-0282d8f8e780",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "[engine noise]",
+      "last_user_msg": "[engine noise]",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 47,
+      "modified_ts": 1786678684.073631,
+      "modified_iso": "2026-08-13T23:38:04.073631",
+      "minutes_since_active": 1.0
     },
     {
       "id": "eb50231b",
@@ -37,7 +53,7 @@
       "file_size_kb": 51,
       "modified_ts": 1786678474.9818444,
       "modified_iso": "2026-08-13T23:34:34.981844",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 4.6
     },
     {
       "id": "f56bcde7",
@@ -53,7 +69,7 @@
       "file_size_kb": 78,
       "modified_ts": 1786678464.2970843,
       "modified_iso": "2026-08-13T23:34:24.297084",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 4.8
     },
     {
       "id": "aa744bbb",
@@ -69,7 +85,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786678454.941593,
       "modified_iso": "2026-08-13T23:34:14.941593",
-      "minutes_since_active": 3.8
+      "minutes_since_active": 4.9
     }
   ],
   "recent": [
@@ -87,7 +103,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 12.0
+      "minutes_since_active": 13.1
     },
     {
       "id": "7846b034",
@@ -103,7 +119,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 12.7
+      "minutes_since_active": 13.8
     },
     {
       "id": "85343608",
@@ -119,7 +135,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 14.9
+      "minutes_since_active": 16.0
     },
     {
       "id": "b3eacc4a",
@@ -135,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 17.0
+      "minutes_since_active": 18.1
     },
     {
       "id": "9f0c9ff5",
@@ -151,7 +167,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 21.5
+      "minutes_since_active": 22.6
     },
     {
       "id": "103e8137",
@@ -167,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 23.6
+      "minutes_since_active": 24.7
     },
     {
       "id": "3fead57e",
@@ -183,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 25.7
+      "minutes_since_active": 26.9
     },
     {
       "id": "c79b73f9",
@@ -199,7 +215,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 29.1
+      "minutes_since_active": 30.3
     },
     {
       "id": "1bb83bcc",
@@ -215,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 32.5
+      "minutes_since_active": 33.6
     },
     {
       "id": "78b8d2d7",
@@ -231,7 +247,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 37.0
+      "minutes_since_active": 38.1
     },
     {
       "id": "7e3129c0",
@@ -247,7 +263,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 40.9
+      "minutes_since_active": 42.0
     },
     {
       "id": "95c4a931",
@@ -263,7 +279,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 43.2
+      "minutes_since_active": 44.4
     },
     {
       "id": "12308df8",
@@ -279,7 +295,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 47.5
+      "minutes_since_active": 48.6
     },
     {
       "id": "caaf22e2",
@@ -295,7 +311,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 85.0
+      "minutes_since_active": 86.2
     },
     {
       "id": "1cd376c2",
@@ -311,7 +327,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 85.0
+      "minutes_since_active": 86.2
     },
     {
       "id": "abc2ae7e",
@@ -327,7 +343,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 85.0
+      "minutes_since_active": 86.2
     },
     {
       "id": "fd6fdfc2",
@@ -343,7 +359,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 85.0
+      "minutes_since_active": 86.2
     },
     {
       "id": "882e5f1d",
@@ -359,7 +375,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 85.1
+      "minutes_since_active": 86.2
     },
     {
       "id": "20b948f3",
@@ -375,7 +391,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 133.9
+      "minutes_since_active": 135.0
     }
   ]
 }
