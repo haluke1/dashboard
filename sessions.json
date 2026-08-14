@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T03:58:38Z",
+  "updated_at": "2026-08-14T03:58:41Z",
   "counts": {
     "active": 4,
     "recent": 22,
@@ -7,6 +7,22 @@
     "total": 363
   },
   "active": [
+    {
+      "id": "83fb9a8b",
+      "full_id": "83fb9a8b-745b-4d2f-a2ab-66fc1ceba85e",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "Bavemi cate kute. Babam anan\u0131 siksin. [g\u00fcler] Behna kuzetei kwe\u015f. Bela catebe malame.",
+      "last_user_msg": "[outro jingle]",
+      "last_assistant_snippet": "Looks like the mic is picking up background audio \u2014 I'll stay quiet until you have a command.",
+      "message_count": 12,
+      "file_size_kb": 107,
+      "modified_ts": 1786679919.406524,
+      "modified_iso": "2026-08-13T23:58:39.406524",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
@@ -21,23 +37,7 @@
       "file_size_kb": 100965,
       "modified_ts": 1786679917.2179089,
       "modified_iso": "2026-08-13T23:58:37.217909",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "83fb9a8b",
-      "full_id": "83fb9a8b-745b-4d2f-a2ab-66fc1ceba85e",
-      "status": "active",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Bavemi cate kute. Babam anan\u0131 siksin. [g\u00fcler] Behna kuzetei kwe\u015f. Bela catebe malame.",
-      "last_user_msg": "[outro jingle]",
-      "last_assistant_snippet": "Still not clear \u2014 are you asking me to play an outro jingle, or is this background noise?",
-      "message_count": 10,
-      "file_size_kb": 104,
-      "modified_ts": 1786679915.1275043,
-      "modified_iso": "2026-08-13T23:58:35.127504",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "529c6063",
@@ -53,7 +53,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786679686.214253,
       "modified_iso": "2026-08-13T23:54:46.214253",
-      "minutes_since_active": 3.8
+      "minutes_since_active": 3.9
     },
     {
       "id": "f56bcde7",
@@ -69,7 +69,7 @@
       "file_size_kb": 115,
       "modified_ts": 1786679627.9682906,
       "modified_iso": "2026-08-13T23:53:47.968291",
-      "minutes_since_active": 4.8
+      "minutes_since_active": 4.9
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786678798.6290894,
       "modified_iso": "2026-08-13T23:39:58.629089",
-      "minutes_since_active": 18.6
+      "minutes_since_active": 18.7
     },
     {
       "id": "eb50231b",
@@ -151,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 33.3
+      "minutes_since_active": 33.4
     },
     {
       "id": "85343608",
@@ -183,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 37.6
+      "minutes_since_active": 37.7
     },
     {
       "id": "9f0c9ff5",
@@ -199,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 42.1
+      "minutes_since_active": 42.2
     },
     {
       "id": "103e8137",
@@ -215,7 +215,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 44.2
+      "minutes_since_active": 44.3
     },
     {
       "id": "3fead57e",
@@ -295,7 +295,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 61.5
+      "minutes_since_active": 61.6
     },
     {
       "id": "95c4a931",
@@ -327,7 +327,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 68.1
+      "minutes_since_active": 68.2
     },
     {
       "id": "caaf22e2",
@@ -343,7 +343,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 105.6
+      "minutes_since_active": 105.7
     },
     {
       "id": "1cd376c2",
@@ -359,7 +359,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 105.6
+      "minutes_since_active": 105.7
     },
     {
       "id": "abc2ae7e",
