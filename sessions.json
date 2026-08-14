@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T03:52:03Z",
+  "updated_at": "2026-08-14T03:52:22Z",
   "counts": {
     "active": 2,
     "recent": 23,
@@ -15,12 +15,12 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "[background noise]",
-      "last_user_msg": "I'm still hearing you from my laptop",
-      "last_assistant_snippet": "Sound settings are open \u2014 check if AirPods Pro is selected under Output and that Bluetooth shows them as connected.",
-      "message_count": 31,
-      "file_size_kb": 94,
-      "modified_ts": 1786679520.9605408,
-      "modified_iso": "2026-08-13T23:52:00.960541",
+      "last_user_msg": "[outro jingle]",
+      "last_assistant_snippet": "I'm here \u2014 go ahead.",
+      "message_count": 34,
+      "file_size_kb": 99,
+      "modified_ts": 1786679539.5484564,
+      "modified_iso": "2026-08-13T23:52:19.548456",
       "minutes_since_active": 0.0
     },
     {
@@ -37,7 +37,7 @@
       "file_size_kb": 115,
       "modified_ts": 1786679444.7893522,
       "modified_iso": "2026-08-13T23:50:44.789352",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 1.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786678798.6290894,
       "modified_iso": "2026-08-13T23:39:58.629089",
-      "minutes_since_active": 12.0
+      "minutes_since_active": 12.4
     },
     {
       "id": "2b825ea7",
@@ -71,7 +71,7 @@
       "file_size_kb": 100957,
       "modified_ts": 1786678747.2680507,
       "modified_iso": "2026-08-13T23:39:07.268051",
-      "minutes_since_active": 12.9
+      "minutes_since_active": 13.3
     },
     {
       "id": "eb50231b",
@@ -87,7 +87,7 @@
       "file_size_kb": 51,
       "modified_ts": 1786678474.9818444,
       "modified_iso": "2026-08-13T23:34:34.981844",
-      "minutes_since_active": 17.5
+      "minutes_since_active": 17.8
     },
     {
       "id": "aa744bbb",
@@ -103,7 +103,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786678454.941593,
       "modified_iso": "2026-08-13T23:34:14.941593",
-      "minutes_since_active": 17.8
+      "minutes_since_active": 18.1
     },
     {
       "id": "5faa4955",
@@ -119,7 +119,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 26.0
+      "minutes_since_active": 26.3
     },
     {
       "id": "7846b034",
@@ -135,7 +135,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 26.7
+      "minutes_since_active": 27.0
     },
     {
       "id": "85343608",
@@ -151,7 +151,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 28.9
+      "minutes_since_active": 29.2
     },
     {
       "id": "b3eacc4a",
@@ -167,7 +167,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 31.0
+      "minutes_since_active": 31.3
     },
     {
       "id": "9f0c9ff5",
@@ -183,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 35.5
+      "minutes_since_active": 35.8
     },
     {
       "id": "103e8137",
@@ -199,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 37.6
+      "minutes_since_active": 38.0
     },
     {
       "id": "3fead57e",
@@ -215,7 +215,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 39.8
+      "minutes_since_active": 40.1
     },
     {
       "id": "c79b73f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 43.2
+      "minutes_since_active": 43.5
     },
     {
       "id": "1bb83bcc",
@@ -247,7 +247,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 46.5
+      "minutes_since_active": 46.8
     },
     {
       "id": "78b8d2d7",
@@ -263,7 +263,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 51.1
+      "minutes_since_active": 51.4
     },
     {
       "id": "7e3129c0",
@@ -279,7 +279,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 54.9
+      "minutes_since_active": 55.2
     },
     {
       "id": "95c4a931",
@@ -295,7 +295,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 57.3
+      "minutes_since_active": 57.6
     },
     {
       "id": "12308df8",
@@ -311,7 +311,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 61.5
+      "minutes_since_active": 61.8
     },
     {
       "id": "caaf22e2",
@@ -327,7 +327,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 99.0
+      "minutes_since_active": 99.4
     },
     {
       "id": "1cd376c2",
@@ -343,7 +343,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 99.1
+      "minutes_since_active": 99.4
     },
     {
       "id": "abc2ae7e",
@@ -359,7 +359,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 99.1
+      "minutes_since_active": 99.4
     },
     {
       "id": "fd6fdfc2",
@@ -375,7 +375,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 99.1
+      "minutes_since_active": 99.4
     },
     {
       "id": "882e5f1d",
@@ -391,7 +391,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 99.1
+      "minutes_since_active": 99.4
     },
     {
       "id": "20b948f3",
@@ -407,7 +407,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 147.9
+      "minutes_since_active": 148.2
     }
   ]
 }
