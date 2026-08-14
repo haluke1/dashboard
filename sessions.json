@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T03:57:26Z",
+  "updated_at": "2026-08-14T03:58:17Z",
   "counts": {
-    "active": 3,
-    "recent": 23,
+    "active": 4,
+    "recent": 22,
     "archived": 337,
     "total": 363
   },
@@ -15,13 +15,29 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "Bavemi cate kute. Babam anan\u0131 siksin. [g\u00fcler] Behna kuzetei kwe\u015f. Bela catebe malame.",
-      "last_user_msg": "Bavemi cate kute. Babam anan\u0131 siksin. [g\u00fcler] Behna kuzetei kwe\u015f. Bela catebe malame.",
-      "last_assistant_snippet": "Duydum ama bana y\u00f6nelik bir komut gibi g\u00f6r\u00fcnm\u00fcyor \u2014 ne yapmam\u0131 istersin?",
-      "message_count": 3,
-      "file_size_kb": 91,
-      "modified_ts": 1786679842.6895523,
-      "modified_iso": "2026-08-13T23:57:22.689552",
+      "last_user_msg": "[outro jingle]",
+      "last_assistant_snippet": "Didn't catch a clear command \u2014 say it again?",
+      "message_count": 6,
+      "file_size_kb": 97,
+      "modified_ts": 1786679894.8015661,
+      "modified_iso": "2026-08-13T23:58:14.801566",
       "minutes_since_active": 0.0
+    },
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "okey its working but audio is from laptop not airpods can you fix it",
+      "last_assistant_snippet": "The error is telling you the exact fix \u2014 you need to re-login inside Claude Code. **Do this:** 1. Start Claude Code: ```bash claude ``` 2. Once you're at the `\u203a` prompt, type: ``` \u2026",
+      "message_count": 875,
+      "file_size_kb": 100961,
+      "modified_ts": 1786679869.0123782,
+      "modified_iso": "2026-08-13T23:57:49.012378",
+      "minutes_since_active": 0.5
     },
     {
       "id": "529c6063",
@@ -37,7 +53,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786679686.214253,
       "modified_iso": "2026-08-13T23:54:46.214253",
-      "minutes_since_active": 2.6
+      "minutes_since_active": 3.5
     },
     {
       "id": "f56bcde7",
@@ -53,7 +69,7 @@
       "file_size_kb": 115,
       "modified_ts": 1786679627.9682906,
       "modified_iso": "2026-08-13T23:53:47.968291",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 4.5
     }
   ],
   "recent": [
@@ -71,22 +87,6 @@
       "file_size_kb": 47,
       "modified_ts": 1786678798.6290894,
       "modified_iso": "2026-08-13T23:39:58.629089",
-      "minutes_since_active": 17.4
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "it gave me this - Please run /login \u00b7 API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authent ication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\u2026",
-      "last_assistant_snippet": "The error is telling you the exact fix \u2014 you need to re-login inside Claude Code. **Do this:** 1. Start Claude Code: ```bash claude ``` 2. Once you're at the `\u203a` prompt, type: ``` \u2026",
-      "message_count": 874,
-      "file_size_kb": 100957,
-      "modified_ts": 1786678747.2680507,
-      "modified_iso": "2026-08-13T23:39:07.268051",
       "minutes_since_active": 18.3
     },
     {
@@ -103,7 +103,7 @@
       "file_size_kb": 51,
       "modified_ts": 1786678474.9818444,
       "modified_iso": "2026-08-13T23:34:34.981844",
-      "minutes_since_active": 22.9
+      "minutes_since_active": 23.7
     },
     {
       "id": "aa744bbb",
@@ -119,7 +119,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786678454.941593,
       "modified_iso": "2026-08-13T23:34:14.941593",
-      "minutes_since_active": 23.2
+      "minutes_since_active": 24.0
     },
     {
       "id": "5faa4955",
@@ -135,7 +135,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 31.4
+      "minutes_since_active": 32.2
     },
     {
       "id": "7846b034",
@@ -151,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 32.1
+      "minutes_since_active": 32.9
     },
     {
       "id": "85343608",
@@ -167,7 +167,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 34.3
+      "minutes_since_active": 35.1
     },
     {
       "id": "b3eacc4a",
@@ -183,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 36.4
+      "minutes_since_active": 37.3
     },
     {
       "id": "9f0c9ff5",
@@ -199,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 40.9
+      "minutes_since_active": 41.7
     },
     {
       "id": "103e8137",
@@ -215,7 +215,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 43.0
+      "minutes_since_active": 43.9
     },
     {
       "id": "3fead57e",
@@ -231,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 45.2
+      "minutes_since_active": 46.0
     },
     {
       "id": "c79b73f9",
@@ -247,7 +247,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 48.6
+      "minutes_since_active": 49.4
     },
     {
       "id": "1bb83bcc",
@@ -263,7 +263,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 51.9
+      "minutes_since_active": 52.7
     },
     {
       "id": "78b8d2d7",
@@ -279,7 +279,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 56.5
+      "minutes_since_active": 57.3
     },
     {
       "id": "7e3129c0",
@@ -295,7 +295,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 60.3
+      "minutes_since_active": 61.2
     },
     {
       "id": "95c4a931",
@@ -311,7 +311,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 62.7
+      "minutes_since_active": 63.5
     },
     {
       "id": "12308df8",
@@ -327,7 +327,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 66.9
+      "minutes_since_active": 67.8
     },
     {
       "id": "caaf22e2",
@@ -343,7 +343,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 104.4
+      "minutes_since_active": 105.3
     },
     {
       "id": "1cd376c2",
@@ -359,7 +359,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 104.4
+      "minutes_since_active": 105.3
     },
     {
       "id": "abc2ae7e",
@@ -375,7 +375,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 104.5
+      "minutes_since_active": 105.3
     },
     {
       "id": "fd6fdfc2",
@@ -391,7 +391,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 104.5
+      "minutes_since_active": 105.3
     },
     {
       "id": "882e5f1d",
@@ -407,7 +407,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 104.5
+      "minutes_since_active": 105.3
     },
     {
       "id": "20b948f3",
@@ -423,7 +423,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 153.3
+      "minutes_since_active": 154.1
     }
   ]
 }
