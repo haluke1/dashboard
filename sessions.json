@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T02:13:42Z",
+  "updated_at": "2026-08-14T02:14:55Z",
   "counts": {
     "active": 6,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 344
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "would you be able to connect this whole brain thing to the voice thing we created so i can feel like i am talking to myself (elevenlabs has my voice clone fyi that project)",
+      "last_assistant_snippet": "Let me check what's actually built before proposing anything \u2014 POE-brain already sketched this exact plan.",
+      "message_count": 697,
+      "file_size_kb": 100253,
+      "modified_ts": 1786673688.3367498,
+      "modified_iso": "2026-08-13T22:14:48.336750",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
@@ -21,7 +37,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.9
     },
     {
       "id": "1cd376c2",
@@ -37,7 +53,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.9
     },
     {
       "id": "abc2ae7e",
@@ -53,7 +69,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.9
     },
     {
       "id": "fd6fdfc2",
@@ -69,7 +85,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.9
     },
     {
       "id": "882e5f1d",
@@ -85,22 +101,6 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 0.7
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "@\"/Users/halukgul/Desktop/Notes Aug 12 Mixed/\" so in this folder i aggregated the most recent notes. they are from different topics. could you extract the text from them and put th\u2026",
-      "last_assistant_snippet": "Done. `~/Desktop/Notes Aug 12 Mixed/EXTRACTED-NOTES.md` \u2014 292 lines, sitting right next to the photos it came from. ## First, an honest correction Partway through this I hit a real\u2026",
-      "message_count": 690,
-      "file_size_kb": 100225,
-      "modified_ts": 1786673509.592,
-      "modified_iso": "2026-08-13T22:11:49.592000",
       "minutes_since_active": 1.9
     }
   ],
@@ -119,7 +119,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 49.5
+      "minutes_since_active": 50.8
     }
   ]
 }
