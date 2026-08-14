@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T00:57:13Z",
+  "updated_at": "2026-08-14T00:58:27Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
       "last_user_msg": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_assistant_snippet": "I have the complete list now: growth.design has 106 named entries (only ~40 have real written content; the rest say \"Coming Soon\"), and The Decision Lab has 116. Before I commit to\u2026",
-      "message_count": 78,
-      "file_size_kb": 799,
-      "modified_ts": 1786669010.721919,
-      "modified_iso": "2026-08-13T20:56:50.721919",
-      "minutes_since_active": 0.4
+      "last_assistant_snippet": "This confirms growth.design's detail content (definition, examples, checklist, references) is plain text behind a click-to-expand accordion \u2014 no separate illustration images embedd\u2026",
+      "message_count": 94,
+      "file_size_kb": 875,
+      "modified_ts": 1786669098.868039,
+      "modified_iso": "2026-08-13T20:58:18.868039",
+      "minutes_since_active": 0.1
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 100225,
       "modified_ts": 1786666851.465,
       "modified_iso": "2026-08-13T20:20:51.465000",
-      "minutes_since_active": 36.4
+      "minutes_since_active": 37.6
     }
   ]
 }
