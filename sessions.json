@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-14T02:55:29Z",
+  "updated_at": "2026-08-14T02:56:42Z",
   "counts": {
-    "active": 4,
-    "recent": 6,
+    "active": 3,
+    "recent": 7,
     "archived": 337,
     "total": 347
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "okey start the voice agent connect it to the 9300 line doc and have it really understand my brain and thinking. have it run on opus 5, give it full context of what we are doing and\u2026",
+      "last_assistant_snippet": "Exact match: **+198, none lost, none duplicated.** `INDEX.md` and `STATE.md` rewritten to `9,314`. ## What actually happened, honestly You caught a real mistake. First pass, I took\u2026",
+      "message_count": 770,
+      "file_size_kb": 100519,
+      "modified_ts": 1786676178.7384167,
+      "modified_iso": "2026-08-13T22:56:18.738417",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "7e3129c0",
       "full_id": "7e3129c0-6fda-47f8-80f9-d4272110529b",
@@ -21,7 +37,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676110.34308,
       "modified_iso": "2026-08-13T22:55:10.343080",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 1.5
     },
     {
       "id": "95c4a931",
@@ -37,28 +53,14 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 0.7
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "is it working now?",
-      "last_assistant_snippet": "Exact match: **+198, none lost, none duplicated.** `INDEX.md` and `STATE.md` rewritten to `9,314`. ## What actually happened, honestly You caught a real mistake. First pass, I took\u2026",
-      "message_count": 769,
-      "file_size_kb": 100515,
-      "modified_ts": 1786675983.9306905,
-      "modified_iso": "2026-08-13T22:53:03.930691",
-      "minutes_since_active": 2.4
-    },
+      "minutes_since_active": 1.9
+    }
+  ],
+  "recent": [
     {
       "id": "12308df8",
       "full_id": "12308df8-ae98-4521-8c9b-bb7ffb252de0",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,10 +71,8 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.2
+    },
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
@@ -87,7 +87,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 42.5
+      "minutes_since_active": 43.7
     },
     {
       "id": "1cd376c2",
@@ -103,7 +103,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 42.5
+      "minutes_since_active": 43.7
     },
     {
       "id": "abc2ae7e",
@@ -119,7 +119,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 42.5
+      "minutes_since_active": 43.7
     },
     {
       "id": "fd6fdfc2",
@@ -135,7 +135,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 42.5
+      "minutes_since_active": 43.7
     },
     {
       "id": "882e5f1d",
@@ -151,7 +151,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 42.5
+      "minutes_since_active": 43.7
     },
     {
       "id": "20b948f3",
@@ -167,7 +167,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 91.3
+      "minutes_since_active": 92.5
     }
   ]
 }
