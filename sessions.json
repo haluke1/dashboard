@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-14T04:40:09Z",
+  "updated_at": "2026-08-14T04:41:22Z",
   "counts": {
-    "active": 1,
-    "recent": 27,
+    "active": 0,
+    "recent": 28,
     "archived": 337,
     "total": 365
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 101119,
       "modified_ts": 1786682115.702427,
       "modified_iso": "2026-08-14T00:35:15.702427",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.1
+    },
     {
       "id": "a72cc0b2",
       "full_id": "a72cc0b2-599b-4c0f-938e-986ef95e21c5",
@@ -39,7 +38,7 @@
       "file_size_kb": 146,
       "modified_ts": 1786680684.1509402,
       "modified_iso": "2026-08-14T00:11:24.150940",
-      "minutes_since_active": 28.7
+      "minutes_since_active": 29.9
     },
     {
       "id": "f88f3fe0",
@@ -55,7 +54,7 @@
       "file_size_kb": 259,
       "modified_ts": 1786680486.4147365,
       "modified_iso": "2026-08-14T00:08:06.414737",
-      "minutes_since_active": 32.0
+      "minutes_since_active": 33.2
     },
     {
       "id": "83fb9a8b",
@@ -71,7 +70,7 @@
       "file_size_kb": 190,
       "modified_ts": 1786680259.0690312,
       "modified_iso": "2026-08-14T00:04:19.069031",
-      "minutes_since_active": 35.8
+      "minutes_since_active": 37.0
     },
     {
       "id": "529c6063",
@@ -87,7 +86,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786679686.214253,
       "modified_iso": "2026-08-13T23:54:46.214253",
-      "minutes_since_active": 45.4
+      "minutes_since_active": 46.6
     },
     {
       "id": "f56bcde7",
@@ -103,7 +102,7 @@
       "file_size_kb": 115,
       "modified_ts": 1786679627.9682906,
       "modified_iso": "2026-08-13T23:53:47.968291",
-      "minutes_since_active": 46.4
+      "minutes_since_active": 47.6
     },
     {
       "id": "54d02e2d",
@@ -119,7 +118,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786678798.6290894,
       "modified_iso": "2026-08-13T23:39:58.629089",
-      "minutes_since_active": 60.1
+      "minutes_since_active": 61.4
     },
     {
       "id": "eb50231b",
@@ -135,7 +134,7 @@
       "file_size_kb": 51,
       "modified_ts": 1786678474.9818444,
       "modified_iso": "2026-08-13T23:34:34.981844",
-      "minutes_since_active": 65.6
+      "minutes_since_active": 66.8
     },
     {
       "id": "aa744bbb",
@@ -151,7 +150,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786678454.941593,
       "modified_iso": "2026-08-13T23:34:14.941593",
-      "minutes_since_active": 65.9
+      "minutes_since_active": 67.1
     },
     {
       "id": "5faa4955",
@@ -167,7 +166,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 74.1
+      "minutes_since_active": 75.3
     },
     {
       "id": "7846b034",
@@ -183,7 +182,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 74.8
+      "minutes_since_active": 76.0
     },
     {
       "id": "85343608",
@@ -199,7 +198,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 77.0
+      "minutes_since_active": 78.2
     },
     {
       "id": "b3eacc4a",
@@ -215,7 +214,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 79.1
+      "minutes_since_active": 80.4
     },
     {
       "id": "9f0c9ff5",
@@ -231,7 +230,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 83.6
+      "minutes_since_active": 84.8
     },
     {
       "id": "103e8137",
@@ -247,7 +246,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 85.7
+      "minutes_since_active": 87.0
     },
     {
       "id": "3fead57e",
@@ -263,7 +262,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 87.9
+      "minutes_since_active": 89.1
     },
     {
       "id": "c79b73f9",
@@ -279,7 +278,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 91.3
+      "minutes_since_active": 92.5
     },
     {
       "id": "1bb83bcc",
@@ -295,7 +294,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 94.6
+      "minutes_since_active": 95.8
     },
     {
       "id": "78b8d2d7",
@@ -311,7 +310,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 99.2
+      "minutes_since_active": 100.4
     },
     {
       "id": "7e3129c0",
@@ -327,7 +326,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 103.0
+      "minutes_since_active": 104.2
     },
     {
       "id": "95c4a931",
@@ -343,7 +342,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 105.4
+      "minutes_since_active": 106.6
     },
     {
       "id": "12308df8",
@@ -359,7 +358,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 109.6
+      "minutes_since_active": 110.9
     },
     {
       "id": "caaf22e2",
@@ -375,7 +374,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 147.1
+      "minutes_since_active": 148.4
     },
     {
       "id": "1cd376c2",
@@ -391,7 +390,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 147.2
+      "minutes_since_active": 148.4
     },
     {
       "id": "abc2ae7e",
@@ -407,23 +406,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 147.2
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "analyze this and tell me which parts we should include and what parts are redundant. this is our claude stack at the moment -> https://claude-system-mindmap.vercel.app/",
-      "last_assistant_snippet": "Read your real system on disk \u2014 the ground truth behind that mindmap. First, the mindmap is **stale**: it says 234 items generated April 14. Your actual system now has **50 skills \u2026",
-      "message_count": 144,
-      "file_size_kb": 1558,
-      "modified_ts": 1786673578.728,
-      "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 147.2
+      "minutes_since_active": 148.4
     }
   ]
 }
