@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T05:24:14Z",
+  "updated_at": "2026-08-14T05:24:36Z",
   "counts": {
     "active": 1,
     "recent": 28,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
       "last_user_msg": "okey kets try i will start speaking in airpods",
-      "last_assistant_snippet": "It's up and running. **Open it in your own browser** (not the preview pane \u2014 the mic needs real Chrome/Safari): ```bash open http://localhost:7777 ``` ## Verified working, end-to-e\u2026",
-      "message_count": 956,
-      "file_size_kb": 101330,
-      "modified_ts": 1786685017.8841593,
-      "modified_iso": "2026-08-14T01:23:37.884159",
-      "minutes_since_active": 0.6
+      "last_assistant_snippet": "Good to go \u2014 **AirPods charged to 54%** (up from 5%, which was the real culprit earlier). Server alive, both input and output on AirPods. Go ahead. Make sure you're in your **own b\u2026",
+      "message_count": 960,
+      "file_size_kb": 101338,
+      "modified_ts": 1786685074.7440727,
+      "modified_iso": "2026-08-14T01:24:34.744073",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786684127.59426,
       "modified_iso": "2026-08-14T01:08:47.594260",
-      "minutes_since_active": 15.4
+      "minutes_since_active": 15.8
     },
     {
       "id": "a72cc0b2",
@@ -55,7 +55,7 @@
       "file_size_kb": 146,
       "modified_ts": 1786680684.1509402,
       "modified_iso": "2026-08-14T00:11:24.150940",
-      "minutes_since_active": 72.8
+      "minutes_since_active": 73.2
     },
     {
       "id": "f88f3fe0",
@@ -71,7 +71,7 @@
       "file_size_kb": 259,
       "modified_ts": 1786680486.4147365,
       "modified_iso": "2026-08-14T00:08:06.414737",
-      "minutes_since_active": 76.1
+      "minutes_since_active": 76.5
     },
     {
       "id": "83fb9a8b",
@@ -87,7 +87,7 @@
       "file_size_kb": 190,
       "modified_ts": 1786680259.0690312,
       "modified_iso": "2026-08-14T00:04:19.069031",
-      "minutes_since_active": 79.9
+      "minutes_since_active": 80.3
     },
     {
       "id": "529c6063",
@@ -103,7 +103,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786679686.214253,
       "modified_iso": "2026-08-13T23:54:46.214253",
-      "minutes_since_active": 89.4
+      "minutes_since_active": 89.8
     },
     {
       "id": "f56bcde7",
@@ -119,7 +119,7 @@
       "file_size_kb": 115,
       "modified_ts": 1786679627.9682906,
       "modified_iso": "2026-08-13T23:53:47.968291",
-      "minutes_since_active": 90.4
+      "minutes_since_active": 90.8
     },
     {
       "id": "54d02e2d",
@@ -135,7 +135,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786678798.6290894,
       "modified_iso": "2026-08-13T23:39:58.629089",
-      "minutes_since_active": 104.2
+      "minutes_since_active": 104.6
     },
     {
       "id": "eb50231b",
@@ -151,7 +151,7 @@
       "file_size_kb": 51,
       "modified_ts": 1786678474.9818444,
       "modified_iso": "2026-08-13T23:34:34.981844",
-      "minutes_since_active": 109.6
+      "minutes_since_active": 110.0
     },
     {
       "id": "aa744bbb",
@@ -167,7 +167,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786678454.941593,
       "modified_iso": "2026-08-13T23:34:14.941593",
-      "minutes_since_active": 110.0
+      "minutes_since_active": 110.4
     },
     {
       "id": "5faa4955",
@@ -183,7 +183,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 118.2
+      "minutes_since_active": 118.6
     },
     {
       "id": "7846b034",
@@ -199,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 118.9
+      "minutes_since_active": 119.3
     },
     {
       "id": "85343608",
@@ -215,7 +215,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 121.1
+      "minutes_since_active": 121.5
     },
     {
       "id": "b3eacc4a",
@@ -231,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 123.2
+      "minutes_since_active": 123.6
     },
     {
       "id": "9f0c9ff5",
@@ -247,7 +247,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 127.7
+      "minutes_since_active": 128.1
     },
     {
       "id": "103e8137",
@@ -263,7 +263,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 129.8
+      "minutes_since_active": 130.2
     },
     {
       "id": "3fead57e",
@@ -279,7 +279,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 131.9
+      "minutes_since_active": 132.3
     },
     {
       "id": "c79b73f9",
@@ -295,7 +295,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 135.3
+      "minutes_since_active": 135.7
     },
     {
       "id": "1bb83bcc",
@@ -311,7 +311,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 138.7
+      "minutes_since_active": 139.0
     },
     {
       "id": "78b8d2d7",
@@ -327,7 +327,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 143.2
+      "minutes_since_active": 143.6
     },
     {
       "id": "7e3129c0",
@@ -343,7 +343,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 147.1
+      "minutes_since_active": 147.5
     },
     {
       "id": "95c4a931",
@@ -359,7 +359,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 149.4
+      "minutes_since_active": 149.8
     },
     {
       "id": "12308df8",
@@ -375,7 +375,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 153.7
+      "minutes_since_active": 154.1
     },
     {
       "id": "caaf22e2",
@@ -391,7 +391,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 191.2
+      "minutes_since_active": 191.6
     },
     {
       "id": "1cd376c2",
@@ -407,7 +407,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 191.3
+      "minutes_since_active": 191.6
     },
     {
       "id": "abc2ae7e",
@@ -423,7 +423,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 191.2
+      "minutes_since_active": 191.6
     }
   ]
 }
