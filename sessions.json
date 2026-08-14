@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-14T02:52:49Z",
+  "updated_at": "2026-08-14T02:53:07Z",
   "counts": {
-    "active": 2,
+    "active": 3,
     "recent": 6,
     "archived": 337,
-    "total": 345
+    "total": 346
   },
   "active": [
     {
@@ -16,12 +16,28 @@
       "permission_mode": null,
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
       "last_user_msg": "is it working now?",
-      "last_assistant_snippet": "Now recounting everything from scratch and updating INDEX/STATE \u2014 using the counting method already proven correct, not my own new arithmetic.",
-      "message_count": 768,
-      "file_size_kb": 100511,
-      "modified_ts": 1786675968.213346,
-      "modified_iso": "2026-08-13T22:52:48.213346",
-      "minutes_since_active": 0.0
+      "last_assistant_snippet": "Exact match: **+198, none lost, none duplicated.** `INDEX.md` and `STATE.md` rewritten to `9,314`. ## What actually happened, honestly You caught a real mistake. First pass, I took\u2026",
+      "message_count": 769,
+      "file_size_kb": 100515,
+      "modified_ts": 1786675983.9306905,
+      "modified_iso": "2026-08-13T22:53:03.930691",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "95c4a931",
+      "full_id": "95c4a931-5210-4cd1-95f3-203b9cc2a411",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "[background noise]",
+      "last_user_msg": "[background noise]",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 47,
+      "modified_ts": 1786675970.5103946,
+      "modified_iso": "2026-08-13T22:52:50.510395",
+      "minutes_since_active": 0.2
     },
     {
       "id": "12308df8",
@@ -37,7 +53,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.6
     }
   ],
   "recent": [
@@ -55,7 +71,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 39.8
+      "minutes_since_active": 40.1
     },
     {
       "id": "1cd376c2",
@@ -71,7 +87,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 39.8
+      "minutes_since_active": 40.1
     },
     {
       "id": "abc2ae7e",
@@ -87,7 +103,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 39.8
+      "minutes_since_active": 40.1
     },
     {
       "id": "fd6fdfc2",
@@ -103,7 +119,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 39.8
+      "minutes_since_active": 40.1
     },
     {
       "id": "882e5f1d",
@@ -119,7 +135,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 39.8
+      "minutes_since_active": 40.1
     },
     {
       "id": "20b948f3",
@@ -135,7 +151,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 88.7
+      "minutes_since_active": 89.0
     }
   ]
 }
