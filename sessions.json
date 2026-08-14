@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-14T02:55:09Z",
+  "updated_at": "2026-08-14T02:55:29Z",
   "counts": {
-    "active": 3,
+    "active": 4,
     "recent": 6,
     "archived": 337,
-    "total": 346
+    "total": 347
   },
   "active": [
+    {
+      "id": "7e3129c0",
+      "full_id": "7e3129c0-6fda-47f8-80f9-d4272110529b",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "[background noise]",
+      "last_user_msg": "[background noise]",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 47,
+      "modified_ts": 1786676110.34308,
+      "modified_iso": "2026-08-13T22:55:10.343080",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "95c4a931",
       "full_id": "95c4a931-5210-4cd1-95f3-203b9cc2a411",
@@ -21,7 +37,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.7
     },
     {
       "id": "2b825ea7",
@@ -37,7 +53,7 @@
       "file_size_kb": 100515,
       "modified_ts": 1786675983.9306905,
       "modified_iso": "2026-08-13T22:53:03.930691",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.4
     },
     {
       "id": "12308df8",
@@ -53,7 +69,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 4.6
+      "minutes_since_active": 5.0
     }
   ],
   "recent": [
@@ -71,7 +87,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 42.1
+      "minutes_since_active": 42.5
     },
     {
       "id": "1cd376c2",
@@ -87,7 +103,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 42.2
+      "minutes_since_active": 42.5
     },
     {
       "id": "abc2ae7e",
@@ -103,7 +119,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 42.2
+      "minutes_since_active": 42.5
     },
     {
       "id": "fd6fdfc2",
@@ -119,7 +135,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 42.2
+      "minutes_since_active": 42.5
     },
     {
       "id": "882e5f1d",
@@ -135,7 +151,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 42.2
+      "minutes_since_active": 42.5
     },
     {
       "id": "20b948f3",
@@ -151,7 +167,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 91.0
+      "minutes_since_active": 91.3
     }
   ]
 }
