@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T03:19:38Z",
+  "updated_at": "2026-08-14T03:20:51Z",
   "counts": {
     "active": 3,
     "recent": 14,
@@ -7,6 +7,22 @@
     "total": 354
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "also fuck you dumb cunt. we wont use the opus 5 in their platform we will use our system and use elevenlabs to run the voice dumb cunt. this is my voice id - bQz6PAqvpHDzx46F6kBZ a\u2026",
+      "last_assistant_snippet": "`timeout` doesn't exist on macOS \u2014 my error, not a mic problem. Retesting properly.",
+      "message_count": 839,
+      "file_size_kb": 100731,
+      "modified_ts": 1786677614.8626156,
+      "modified_iso": "2026-08-13T23:20:14.862616",
+      "minutes_since_active": 0.6
+    },
     {
       "id": "b3eacc4a",
       "full_id": "b3eacc4a-0cef-464c-be33-c4c965f630cc",
@@ -21,23 +37,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677545.4894671,
       "modified_iso": "2026-08-13T23:19:05.489467",
-      "minutes_since_active": 0.5
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "also fuck you dumb cunt. we wont use the opus 5 in their platform we will use our system and use elevenlabs to run the voice dumb cunt. this is my voice id - bQz6PAqvpHDzx46F6kBZ a\u2026",
-      "last_assistant_snippet": "TTS works \u2014 you should have just heard that in your AirPods. Now fixing a real bug I shipped in the script (same env-export issue) and verifying the brain file landed intact.",
-      "message_count": 832,
-      "file_size_kb": 100719,
-      "modified_ts": 1786677489.8573816,
-      "modified_iso": "2026-08-13T23:18:09.857382",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 1.7
     },
     {
       "id": "9f0c9ff5",
@@ -53,7 +53,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 3.1
+      "minutes_since_active": 4.3
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 5.2
+      "minutes_since_active": 6.4
     },
     {
       "id": "3fead57e",
@@ -87,7 +87,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 7.4
+      "minutes_since_active": 8.6
     },
     {
       "id": "c79b73f9",
@@ -103,7 +103,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 10.8
+      "minutes_since_active": 12.0
     },
     {
       "id": "1bb83bcc",
@@ -119,7 +119,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 14.1
+      "minutes_since_active": 15.3
     },
     {
       "id": "78b8d2d7",
@@ -135,7 +135,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 18.6
+      "minutes_since_active": 19.9
     },
     {
       "id": "7e3129c0",
@@ -151,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 22.5
+      "minutes_since_active": 23.7
     },
     {
       "id": "95c4a931",
@@ -167,7 +167,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 24.9
+      "minutes_since_active": 26.1
     },
     {
       "id": "12308df8",
@@ -183,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 29.1
+      "minutes_since_active": 30.3
     },
     {
       "id": "caaf22e2",
@@ -199,7 +199,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 66.6
+      "minutes_since_active": 67.8
     },
     {
       "id": "1cd376c2",
@@ -215,7 +215,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 66.6
+      "minutes_since_active": 67.9
     },
     {
       "id": "abc2ae7e",
@@ -231,7 +231,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 66.7
+      "minutes_since_active": 67.9
     },
     {
       "id": "fd6fdfc2",
@@ -247,7 +247,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 66.7
+      "minutes_since_active": 67.9
     },
     {
       "id": "882e5f1d",
@@ -263,7 +263,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 66.7
+      "minutes_since_active": 67.9
     },
     {
       "id": "20b948f3",
@@ -279,7 +279,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 115.5
+      "minutes_since_active": 116.7
     }
   ]
 }
