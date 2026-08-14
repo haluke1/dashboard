@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-14T00:15:05Z",
+  "updated_at": "2026-08-14T00:16:18Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 340,
+    "recent": 2,
+    "archived": 341,
     "total": 343
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 100225,
       "modified_ts": 1786584762.8546753,
       "modified_iso": "2026-08-12T21:32:42.854675",
-      "minutes_since_active": 1362.4
+      "minutes_since_active": 1363.6
     },
     {
       "id": "af3019d0",
@@ -38,23 +38,7 @@
       "file_size_kb": 443,
       "modified_ts": 1786581106.1544235,
       "modified_iso": "2026-08-12T20:31:46.154423",
-      "minutes_since_active": 1423.3
-    },
-    {
-      "id": "fac9e092",
-      "full_id": "fac9e092-7dff-4b25-bbbe-379d7b0295e4",
-      "status": "recent",
-      "project": "/private/tmp",
-      "git_branch": "HEAD",
-      "permission_mode": null,
-      "first_prompt": "Reply with exactly: SMOKE_OK",
-      "last_user_msg": "Reply with exactly: SMOKE_OK",
-      "last_assistant_snippet": "Failed to authenticate. API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\"},\"request_id\"\u2026",
-      "message_count": 2,
-      "file_size_kb": 45,
-      "modified_ts": 1786580128.307969,
-      "modified_iso": "2026-08-12T20:15:28.307969",
-      "minutes_since_active": 1439.6
+      "minutes_since_active": 1424.5
     }
   ]
 }
