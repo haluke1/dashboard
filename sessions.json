@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T01:20:22Z",
+  "updated_at": "2026-08-14T01:21:35Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -17,11 +17,11 @@
       "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/2d845444-86f2-41f3-9f39-3b15130c1605/a5a2aa95-99f3-4fa5-ab\u2026",
       "last_assistant_snippet": "181 entries total. Let me preview the HTML rendering before converting to PDF to catch any layout issues.",
-      "message_count": 280,
-      "file_size_kb": 2154,
-      "modified_ts": 1786670422.0535514,
-      "modified_iso": "2026-08-13T21:20:22.053551",
-      "minutes_since_active": 0.0
+      "message_count": 299,
+      "file_size_kb": 2348,
+      "modified_ts": 1786670467.266962,
+      "modified_iso": "2026-08-13T21:21:07.266962",
+      "minutes_since_active": 0.5
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 100225,
       "modified_ts": 1786666851.465,
       "modified_iso": "2026-08-13T20:20:51.465000",
-      "minutes_since_active": 59.5
+      "minutes_since_active": 60.7
     }
   ]
 }
