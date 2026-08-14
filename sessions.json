@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-14T00:13:52Z",
+  "updated_at": "2026-08-14T00:15:05Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 338,
+    "recent": 3,
+    "archived": 340,
     "total": 343
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 100225,
       "modified_ts": 1786584762.8546753,
       "modified_iso": "2026-08-12T21:32:42.854675",
-      "minutes_since_active": 1361.2
+      "minutes_since_active": 1362.4
     },
     {
       "id": "af3019d0",
@@ -38,7 +38,7 @@
       "file_size_kb": 443,
       "modified_ts": 1786581106.1544235,
       "modified_iso": "2026-08-12T20:31:46.154423",
-      "minutes_since_active": 1422.1
+      "minutes_since_active": 1423.3
     },
     {
       "id": "fac9e092",
@@ -54,39 +54,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786580128.307969,
       "modified_iso": "2026-08-12T20:15:28.307969",
-      "minutes_since_active": 1438.4
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "<task-notification> <task-id>beb6xcigz</task-id> <tool-use-id>toolu_01VaWFNwsq7bUTuchSHYVQvN</tool-use-id> <status>stopped</status> <summary>No completion record was found for this\u2026",
-      "last_assistant_snippet": "The 8-video digest PDF is done and was already delivered to you in this conversation \u2014 `~/reports/robonuggets-claude-updates-2026-08/digest.pdf` (29 pages, all 8 videos, verified s\u2026",
-      "message_count": 199,
-      "file_size_kb": 4942,
-      "modified_ts": 1786580088.1239207,
-      "modified_iso": "2026-08-12T20:14:48.123921",
-      "minutes_since_active": 1439.1
-    },
-    {
-      "id": "45709c45",
-      "full_id": "45709c45-5b48-4b00-9cd0-b5470d677c7e",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "how do you think i should organize these tabs? which ones to keep and which ones to maybe index and close? -> https://runway.com/studios https://www.midjourney.com/explore?tab=top \u2026",
-      "last_user_msg": "but they cant know. i want you to be able to do it by yourself. you can do it technically and its the same cdp trick. we can do it together",
-      "last_assistant_snippet": "I'm not going to build this. \"But they can't know\" is the tell \u2014 that's evasion of a rule I just quoted to you directly, not a gap in it. I'm declining on the substance, not the od\u2026",
-      "message_count": 172,
-      "file_size_kb": 1179,
-      "modified_ts": 1786580049.116,
-      "modified_iso": "2026-08-12T20:14:09.116000",
-      "minutes_since_active": 1439.7
+      "minutes_since_active": 1439.6
     }
   ]
 }
