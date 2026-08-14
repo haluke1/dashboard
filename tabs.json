@@ -1,8 +1,134 @@
 {
-  "updated_at": "2026-08-12T03:15:23Z",
-  "total_tabs": 0,
-  "total_windows": 0,
-  "duplicate_tabs": 0,
+  "updated_at": "2026-08-14T06:06:33Z",
+  "total_tabs": 111,
+  "total_windows": 1,
+  "duplicate_tabs": 7,
   "bridge_online": true,
-  "categories": []
+  "categories": [
+    {
+      "name": "other",
+      "count": 82,
+      "domain_count": 74,
+      "top_domains": [
+        {
+          "domain": "frameset.app",
+          "count": 3
+        },
+        {
+          "domain": "cosmos.so",
+          "count": 2
+        },
+        {
+          "domain": "promptsref.com",
+          "count": 2
+        },
+        {
+          "domain": "midlibrary.io",
+          "count": 2
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "name": "ai-dev",
+      "count": 12,
+      "domain_count": 4,
+      "top_domains": [
+        {
+          "domain": "github.com",
+          "count": 6
+        },
+        {
+          "domain": "claude.ai",
+          "count": 3
+        },
+        {
+          "domain": "vercel.com",
+          "count": 2
+        },
+        {
+          "domain": "huggingface.co",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 5,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "motionvfx.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
+          "count": 2
+        },
+        {
+          "domain": "manage.wix.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 5,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 3,
+      "domain_count": 3,
+      "top_domains": [
+        {
+          "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "aprildunford.substack.com",
+          "count": 1
+        },
+        {
+          "domain": "medium.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 1
+        },
+        {
+          "domain": "mail.google.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 2,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:7777",
+          "count": 2
+        }
+      ]
+    }
+  ]
 }
