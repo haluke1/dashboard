@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-14T02:40:59Z",
+  "updated_at": "2026-08-14T02:42:12Z",
   "counts": {
-    "active": 1,
-    "recent": 6,
+    "active": 0,
+    "recent": 7,
     "archived": 337,
     "total": 344
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 100419,
       "modified_ts": 1786674963.494717,
       "modified_iso": "2026-08-13T22:36:03.494717",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.1
+    },
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
@@ -39,7 +38,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 28.0
+      "minutes_since_active": 29.2
     },
     {
       "id": "1cd376c2",
@@ -55,7 +54,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 28.0
+      "minutes_since_active": 29.2
     },
     {
       "id": "abc2ae7e",
@@ -71,7 +70,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 28.0
+      "minutes_since_active": 29.2
     },
     {
       "id": "fd6fdfc2",
@@ -87,7 +86,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 28.0
+      "minutes_since_active": 29.2
     },
     {
       "id": "882e5f1d",
@@ -103,7 +102,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 28.0
+      "minutes_since_active": 29.2
     },
     {
       "id": "20b948f3",
@@ -119,7 +118,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 76.8
+      "minutes_since_active": 78.0
     }
   ]
 }
