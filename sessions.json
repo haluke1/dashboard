@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T00:59:40Z",
+  "updated_at": "2026-08-14T01:00:53Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -17,11 +17,11 @@
       "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
       "last_user_msg": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
       "last_assistant_snippet": "This confirms growth.design's detail content (definition, examples, checklist, references) is plain text behind a click-to-expand accordion \u2014 no separate illustration images embedd\u2026",
-      "message_count": 111,
-      "file_size_kb": 931,
-      "modified_ts": 1786669178.8001065,
-      "modified_iso": "2026-08-13T20:59:38.800107",
-      "minutes_since_active": 0.0
+      "message_count": 118,
+      "file_size_kb": 1053,
+      "modified_ts": 1786669195.2102396,
+      "modified_iso": "2026-08-13T20:59:55.210240",
+      "minutes_since_active": 1.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 100225,
       "modified_ts": 1786666851.465,
       "modified_iso": "2026-08-13T20:20:51.465000",
-      "minutes_since_active": 38.8
+      "minutes_since_active": 40.0
     }
   ]
 }
