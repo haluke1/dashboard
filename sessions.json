@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T03:29:22Z",
+  "updated_at": "2026-08-14T03:30:26Z",
   "counts": {
-    "active": 3,
-    "recent": 17,
+    "active": 2,
+    "recent": 18,
     "archived": 337,
     "total": 357
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 100789,
       "modified_ts": 1786678102.8941255,
       "modified_iso": "2026-08-13T23:28:22.894125",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 2.1
     },
     {
       "id": "5faa4955",
@@ -37,12 +37,14 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 3.3
-    },
+      "minutes_since_active": 4.4
+    }
+  ],
+  "recent": [
     {
       "id": "7846b034",
       "full_id": "7846b034-8edf-4922-abc1-d0deba5d26c3",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,10 +55,8 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 4.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "85343608",
       "full_id": "85343608-cfe4-4562-ab08-ffa10b45974b",
@@ -71,7 +71,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 6.2
+      "minutes_since_active": 7.2
     },
     {
       "id": "b3eacc4a",
@@ -87,7 +87,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 8.4
+      "minutes_since_active": 9.4
     },
     {
       "id": "9f0c9ff5",
@@ -103,7 +103,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 12.8
+      "minutes_since_active": 13.9
     },
     {
       "id": "103e8137",
@@ -119,7 +119,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 15.0
+      "minutes_since_active": 16.0
     },
     {
       "id": "3fead57e",
@@ -135,7 +135,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 17.1
+      "minutes_since_active": 18.1
     },
     {
       "id": "c79b73f9",
@@ -151,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 20.5
+      "minutes_since_active": 21.5
     },
     {
       "id": "1bb83bcc",
@@ -167,7 +167,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 23.8
+      "minutes_since_active": 24.8
     },
     {
       "id": "78b8d2d7",
@@ -183,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 28.4
+      "minutes_since_active": 29.4
     },
     {
       "id": "7e3129c0",
@@ -199,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 32.2
+      "minutes_since_active": 33.3
     },
     {
       "id": "95c4a931",
@@ -215,7 +215,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 34.6
+      "minutes_since_active": 35.6
     },
     {
       "id": "12308df8",
@@ -231,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 38.9
+      "minutes_since_active": 39.9
     },
     {
       "id": "caaf22e2",
@@ -247,7 +247,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 76.4
+      "minutes_since_active": 77.4
     },
     {
       "id": "1cd376c2",
@@ -263,7 +263,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 76.4
+      "minutes_since_active": 77.4
     },
     {
       "id": "abc2ae7e",
@@ -279,7 +279,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 76.4
+      "minutes_since_active": 77.4
     },
     {
       "id": "fd6fdfc2",
@@ -295,7 +295,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 76.4
+      "minutes_since_active": 77.4
     },
     {
       "id": "882e5f1d",
@@ -311,7 +311,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 76.4
+      "minutes_since_active": 77.5
     },
     {
       "id": "20b948f3",
@@ -327,7 +327,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 125.2
+      "minutes_since_active": 126.3
     }
   ]
 }
