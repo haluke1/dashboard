@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T00:54:47Z",
+  "updated_at": "2026-08-14T00:56:00Z",
   "counts": {
     "active": 1,
     "recent": 1,
@@ -17,11 +17,11 @@
       "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
       "last_user_msg": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
       "last_assistant_snippet": "I have the complete list now: growth.design has 106 named entries (only ~40 have real written content; the rest say \"Coming Soon\"), and The Decision Lab has 116. Before I commit to\u2026",
-      "message_count": 25,
-      "file_size_kb": 369,
-      "modified_ts": 1786668881.4626114,
-      "modified_iso": "2026-08-13T20:54:41.462611",
-      "minutes_since_active": 0.1
+      "message_count": 57,
+      "file_size_kb": 745,
+      "modified_ts": 1786668960.375887,
+      "modified_iso": "2026-08-13T20:56:00.375887",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 100225,
       "modified_ts": 1786666851.465,
       "modified_iso": "2026-08-13T20:20:51.465000",
-      "minutes_since_active": 33.9
+      "minutes_since_active": 35.2
     }
   ]
 }
