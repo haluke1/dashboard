@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-14T00:20:50Z",
+  "updated_at": "2026-08-14T00:21:16Z",
   "counts": {
-    "active": 0,
-    "recent": 2,
+    "active": 1,
+    "recent": 1,
     "archived": 341,
     "total": 343
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "Done. `~/Desktop/Notes Aug 12 Mixed/EXTRACTED-NOTES.md` \u2014 292 lines, sitting right next to the photos it came from. ## First, an honest correction Partway through this I hit a real\u2026",
       "message_count": 690,
       "file_size_kb": 100225,
-      "modified_ts": 1786584762.8546753,
-      "modified_iso": "2026-08-12T21:32:42.854675",
-      "minutes_since_active": 1368.1
-    },
+      "modified_ts": 1786666851.465,
+      "modified_iso": "2026-08-13T20:20:51.465000",
+      "minutes_since_active": 0.4
+    }
+  ],
+  "recent": [
     {
       "id": "af3019d0",
       "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
@@ -38,7 +39,7 @@
       "file_size_kb": 443,
       "modified_ts": 1786581106.1544235,
       "modified_iso": "2026-08-12T20:31:46.154423",
-      "minutes_since_active": 1429.0
+      "minutes_since_active": 1429.5
     }
   ]
 }
