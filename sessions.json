@@ -1,29 +1,46 @@
 {
-  "updated_at": "2026-08-14T02:48:34Z",
+  "updated_at": "2026-08-14T02:49:26Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 2,
+    "recent": 6,
     "archived": 337,
-    "total": 344
+    "total": 345
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "the 484k token thing and also for the last photos i want you to merge it to the correct locations in the updated docs",
+      "last_user_msg": "is it working now?",
       "last_assistant_snippet": "Done. ## What happened **30 items merged into the 484k-token file**, `~/Desktop/POE-brain/organized/by-topic/`. Total went **9,116 \u2192 9,146**. Every item carries `(src: Notes Aug 12\u2026",
-      "message_count": 737,
-      "file_size_kb": 100419,
-      "modified_ts": 1786674963.494717,
-      "modified_iso": "2026-08-13T22:36:03.494717",
-      "minutes_since_active": 12.5
+      "message_count": 738,
+      "file_size_kb": 100420,
+      "modified_ts": 1786675754.8193138,
+      "modified_iso": "2026-08-13T22:49:14.819314",
+      "minutes_since_active": 0.2
     },
+    {
+      "id": "12308df8",
+      "full_id": "12308df8-ae98-4521-8c9b-bb7ffb252de0",
+      "status": "active",
+      "project": "/Users/halukgul/claude-voice",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "[keyboard clacking]",
+      "last_user_msg": "[keyboard clacking]",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 47,
+      "modified_ts": 1786675714.8128803,
+      "modified_iso": "2026-08-13T22:48:34.812880",
+      "minutes_since_active": 0.8
+    }
+  ],
+  "recent": [
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
@@ -38,7 +55,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 35.6
+      "minutes_since_active": 36.4
     },
     {
       "id": "1cd376c2",
@@ -54,7 +71,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 35.6
+      "minutes_since_active": 36.4
     },
     {
       "id": "abc2ae7e",
@@ -70,7 +87,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 35.6
+      "minutes_since_active": 36.5
     },
     {
       "id": "fd6fdfc2",
@@ -86,7 +103,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 35.6
+      "minutes_since_active": 36.5
     },
     {
       "id": "882e5f1d",
@@ -102,7 +119,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 35.6
+      "minutes_since_active": 36.5
     },
     {
       "id": "20b948f3",
@@ -118,7 +135,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 84.4
+      "minutes_since_active": 85.3
     }
   ]
 }
