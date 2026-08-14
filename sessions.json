@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-14T03:25:42Z",
+  "updated_at": "2026-08-14T03:26:57Z",
   "counts": {
     "active": 4,
-    "recent": 15,
+    "recent": 16,
     "archived": 337,
-    "total": 356
+    "total": 357
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "also fuck you dumb cunt. we wont use the opus 5 in their platform we will use our system and use elevenlabs to run the voice dumb cunt. this is my voice id - bQz6PAqvpHDzx46F6kBZ a\u2026",
+      "last_assistant_snippet": "Brain core is intact (117 lines, ~1,682 tokens). Now testing the full think-and-speak pipeline in text mode \u2014 this proves everything except the mic.",
+      "message_count": 851,
+      "file_size_kb": 100753,
+      "modified_ts": 1786677991.0170574,
+      "modified_iso": "2026-08-13T23:26:31.017057",
+      "minutes_since_active": 0.4
+    },
+    {
+      "id": "5faa4955",
+      "full_id": "5faa4955-d816-438f-98a1-7d7b405b556d",
+      "status": "active",
+      "project": "/Users/halukgul",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "--- ## Relevant items retrieved from your brain for THIS question (nothing specific retrieved \u2014 reason from the axioms above) --- ## He just said, out loud: \"what should I be worki\u2026",
+      "last_user_msg": "--- ## Relevant items retrieved from your brain for THIS question (nothing specific retrieved \u2014 reason from the axioms above) --- ## He just said, out loud: \"what should I be worki\u2026",
+      "last_assistant_snippet": "Failed to authenticate. API Error: 401 {\"type\":\"error\",\"error\":{\"type\":\"authentication_error\",\"message\":\"OAuth access token has expired. Re-authenticate to continue.\"},\"request_id\"\u2026",
+      "message_count": 2,
+      "file_size_kb": 49,
+      "modified_ts": 1786677962.5421288,
+      "modified_iso": "2026-08-13T23:26:02.542129",
+      "minutes_since_active": 0.9
+    },
     {
       "id": "7846b034",
       "full_id": "7846b034-8edf-4922-abc1-d0deba5d26c3",
@@ -21,23 +53,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "also fuck you dumb cunt. we wont use the opus 5 in their platform we will use our system and use elevenlabs to run the voice dumb cunt. this is my voice id - bQz6PAqvpHDzx46F6kBZ a\u2026",
-      "last_assistant_snippet": "Brain core is intact (117 lines, ~1,682 tokens). Now testing the full think-and-speak pipeline in text mode \u2014 this proves everything except the mic.",
-      "message_count": 850,
-      "file_size_kb": 100751,
-      "modified_ts": 1786677885.5167215,
-      "modified_iso": "2026-08-13T23:24:45.516721",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.6
     },
     {
       "id": "85343608",
@@ -53,12 +69,14 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 2.5
-    },
+      "minutes_since_active": 3.8
+    }
+  ],
+  "recent": [
     {
       "id": "b3eacc4a",
       "full_id": "b3eacc4a-0cef-464c-be33-c4c965f630cc",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,10 +87,8 @@
       "file_size_kb": 47,
       "modified_ts": 1786677658.905089,
       "modified_iso": "2026-08-13T23:20:58.905089",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "9f0c9ff5",
       "full_id": "9f0c9ff5-a46f-4dab-9f00-8719bd7232ee",
@@ -87,7 +103,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 9.1
+      "minutes_since_active": 10.4
     },
     {
       "id": "103e8137",
@@ -103,7 +119,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677262.4361143,
       "modified_iso": "2026-08-13T23:14:22.436114",
-      "minutes_since_active": 11.3
+      "minutes_since_active": 12.5
     },
     {
       "id": "3fead57e",
@@ -119,7 +135,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 13.4
+      "minutes_since_active": 14.7
     },
     {
       "id": "c79b73f9",
@@ -135,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 16.8
+      "minutes_since_active": 18.1
     },
     {
       "id": "1bb83bcc",
@@ -151,7 +167,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 20.1
+      "minutes_since_active": 21.4
     },
     {
       "id": "78b8d2d7",
@@ -167,7 +183,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 24.7
+      "minutes_since_active": 26.0
     },
     {
       "id": "7e3129c0",
@@ -183,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 28.6
+      "minutes_since_active": 29.8
     },
     {
       "id": "95c4a931",
@@ -199,7 +215,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 30.9
+      "minutes_since_active": 32.2
     },
     {
       "id": "12308df8",
@@ -215,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786675829.0755327,
       "modified_iso": "2026-08-13T22:50:29.075533",
-      "minutes_since_active": 35.2
+      "minutes_since_active": 36.4
     },
     {
       "id": "caaf22e2",
@@ -231,7 +247,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786673580.815,
       "modified_iso": "2026-08-13T22:13:00.815000",
-      "minutes_since_active": 72.7
+      "minutes_since_active": 73.9
     },
     {
       "id": "1cd376c2",
@@ -247,7 +263,7 @@
       "file_size_kb": 1037,
       "modified_ts": 1786673579.881,
       "modified_iso": "2026-08-13T22:12:59.881000",
-      "minutes_since_active": 72.7
+      "minutes_since_active": 74.0
     },
     {
       "id": "abc2ae7e",
@@ -263,7 +279,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786673578.979,
       "modified_iso": "2026-08-13T22:12:58.979000",
-      "minutes_since_active": 72.7
+      "minutes_since_active": 74.0
     },
     {
       "id": "fd6fdfc2",
@@ -279,7 +295,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 72.7
+      "minutes_since_active": 74.0
     },
     {
       "id": "882e5f1d",
@@ -295,7 +311,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 72.7
+      "minutes_since_active": 74.0
     },
     {
       "id": "20b948f3",
@@ -311,7 +327,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 121.6
+      "minutes_since_active": 122.8
     }
   ]
 }
