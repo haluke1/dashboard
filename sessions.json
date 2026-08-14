@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T03:59:46Z",
+  "updated_at": "2026-08-14T03:59:50Z",
   "counts": {
-    "active": 3,
-    "recent": 23,
+    "active": 2,
+    "recent": 24,
     "archived": 337,
     "total": 363
   },
@@ -21,7 +21,7 @@
       "file_size_kb": 124,
       "modified_ts": 1786679984.5261762,
       "modified_iso": "2026-08-13T23:59:44.526176",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "2b825ea7",
@@ -38,11 +38,13 @@
       "modified_ts": 1786679976.495993,
       "modified_iso": "2026-08-13T23:59:36.495993",
       "minutes_since_active": 0.2
-    },
+    }
+  ],
+  "recent": [
     {
       "id": "529c6063",
       "full_id": "529c6063-386e-4375-a3c0-057316ca5b9c",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/claude-voice",
       "git_branch": "master",
       "permission_mode": null,
@@ -54,9 +56,7 @@
       "modified_ts": 1786679686.214253,
       "modified_iso": "2026-08-13T23:54:46.214253",
       "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+    },
     {
       "id": "f56bcde7",
       "full_id": "f56bcde7-97a8-42a3-91f4-e7f56974f2db",
@@ -119,7 +119,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786678454.941593,
       "modified_iso": "2026-08-13T23:34:14.941593",
-      "minutes_since_active": 25.5
+      "minutes_since_active": 25.6
     },
     {
       "id": "5faa4955",
@@ -135,7 +135,7 @@
       "file_size_kb": 49,
       "modified_ts": 1786677962.5421288,
       "modified_iso": "2026-08-13T23:26:02.542129",
-      "minutes_since_active": 33.7
+      "minutes_since_active": 33.8
     },
     {
       "id": "7846b034",
@@ -151,7 +151,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677918.3566754,
       "modified_iso": "2026-08-13T23:25:18.356675",
-      "minutes_since_active": 34.4
+      "minutes_since_active": 34.5
     },
     {
       "id": "85343608",
@@ -167,7 +167,7 @@
       "file_size_kb": 45,
       "modified_ts": 1786677787.134543,
       "modified_iso": "2026-08-13T23:23:07.134543",
-      "minutes_since_active": 36.6
+      "minutes_since_active": 36.7
     },
     {
       "id": "b3eacc4a",
@@ -199,7 +199,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677390.1542864,
       "modified_iso": "2026-08-13T23:16:30.154286",
-      "minutes_since_active": 43.2
+      "minutes_since_active": 43.3
     },
     {
       "id": "103e8137",
@@ -231,7 +231,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786677134.8597612,
       "modified_iso": "2026-08-13T23:12:14.859761",
-      "minutes_since_active": 47.5
+      "minutes_since_active": 47.6
     },
     {
       "id": "c79b73f9",
@@ -247,7 +247,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676930.773965,
       "modified_iso": "2026-08-13T23:08:50.773965",
-      "minutes_since_active": 50.9
+      "minutes_since_active": 51.0
     },
     {
       "id": "1bb83bcc",
@@ -263,7 +263,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676731.86155,
       "modified_iso": "2026-08-13T23:05:31.861550",
-      "minutes_since_active": 54.2
+      "minutes_since_active": 54.3
     },
     {
       "id": "78b8d2d7",
@@ -279,7 +279,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676457.3583176,
       "modified_iso": "2026-08-13T23:00:57.358318",
-      "minutes_since_active": 58.8
+      "minutes_since_active": 58.9
     },
     {
       "id": "7e3129c0",
@@ -295,7 +295,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676225.8670208,
       "modified_iso": "2026-08-13T22:57:05.867021",
-      "minutes_since_active": 62.6
+      "minutes_since_active": 62.7
     },
     {
       "id": "95c4a931",
@@ -311,7 +311,7 @@
       "file_size_kb": 47,
       "modified_ts": 1786676084.8716962,
       "modified_iso": "2026-08-13T22:54:44.871696",
-      "minutes_since_active": 65.0
+      "minutes_since_active": 65.1
     },
     {
       "id": "12308df8",
@@ -391,7 +391,7 @@
       "file_size_kb": 1558,
       "modified_ts": 1786673578.728,
       "modified_iso": "2026-08-13T22:12:58.728000",
-      "minutes_since_active": 106.8
+      "minutes_since_active": 106.9
     },
     {
       "id": "882e5f1d",
@@ -407,7 +407,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786673578.497,
       "modified_iso": "2026-08-13T22:12:58.497000",
-      "minutes_since_active": 106.8
+      "minutes_since_active": 106.9
     },
     {
       "id": "20b948f3",
@@ -423,7 +423,7 @@
       "file_size_kb": 3586,
       "modified_ts": 1786670649.447687,
       "modified_iso": "2026-08-13T21:24:09.447687",
-      "minutes_since_active": 155.6
+      "minutes_since_active": 155.7
     }
   ]
 }
