@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:07:07Z",
+  "updated_at": "2026-08-15T15:07:11Z",
   "counts": {
     "active": 5,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "acd139f9",
+      "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
+      "last_user_msg": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
+      "last_assistant_snippet": "Real numbers, not estimates \u2014 I pulled the actual video metadata via yt-dlp: **\"Hell Grind\" \u2014 Higgsfield Originals, 95.9 min (5,754s), released 2026-08-04.** [VENDOR, fetched this \u2026",
+      "message_count": 20,
+      "file_size_kb": 251,
+      "modified_ts": 1786806428.163,
+      "modified_iso": "2026-08-15T11:07:08.163000",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "a669c245",
       "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
@@ -21,22 +37,6 @@
       "file_size_kb": 3124,
       "modified_ts": 1786806426.029,
       "modified_iso": "2026-08-15T11:07:06.029000",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "acd139f9",
-      "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
-      "last_user_msg": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
-      "last_assistant_snippet": "Real numbers, not estimates \u2014 I pulled the actual video metadata via yt-dlp: **\"Hell Grind\" \u2014 Higgsfield Originals, 95.9 min (5,754s), released 2026-08-04.** [VENDOR, fetched this \u2026",
-      "message_count": 20,
-      "file_size_kb": 251,
-      "modified_ts": 1786806421.797,
-      "modified_iso": "2026-08-15T11:07:01.797000",
       "minutes_since_active": 0.1
     },
     {
@@ -53,7 +53,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "af3019d0",
@@ -69,7 +69,7 @@
       "file_size_kb": 443,
       "modified_ts": 1786806419.748,
       "modified_iso": "2026-08-15T11:06:59.748000",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "20b948f3",
