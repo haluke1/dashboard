@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-15T15:23:17Z",
+  "updated_at": "2026-08-15T15:23:36Z",
   "counts": {
-    "active": 8,
-    "recent": 8,
+    "active": 9,
+    "recent": 7,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
+      "last_assistant_snippet": "Saved. There was no existing markdown-recap convention (`~/.claude/sessions/` holds internal state JSONs), so I created a `session-recaps/` folder for it. **Title:** *Session Recap\u2026",
+      "message_count": 321,
+      "file_size_kb": 2443,
+      "modified_ts": 1786807411.685118,
+      "modified_iso": "2026-08-15T11:23:31.685118",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey so what is final result and where are we",
+      "last_assistant_snippet": "**MENTALITY.md exists** \u2014 built Aug 13. Your Fable session completed the pending task. Let me read what it produced and the current state:",
+      "message_count": 1458,
+      "file_size_kb": 8187,
+      "modified_ts": 1786807400.7395349,
+      "modified_iso": "2026-08-15T11:23:20.739535",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -21,23 +53,7 @@
       "file_size_kb": 7534,
       "modified_ts": 1786807395.7032092,
       "modified_iso": "2026-08-15T11:23:15.703209",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey so what is final result and where are we",
-      "last_assistant_snippet": "**MENTALITY.md exists** \u2014 built Aug 13. Your Fable session completed the pending task. Let me read what it produced and the current state:",
-      "message_count": 1457,
-      "file_size_kb": 8186,
-      "modified_ts": 1786807394.7967455,
-      "modified_iso": "2026-08-15T11:23:14.796746",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.3
     },
     {
       "id": "20b948f3",
@@ -53,7 +69,7 @@
       "file_size_kb": 3723,
       "modified_ts": 1786807393.1500168,
       "modified_iso": "2026-08-15T11:23:13.150017",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     },
     {
       "id": "2b825ea7",
@@ -69,7 +85,7 @@
       "file_size_kb": 101556,
       "modified_ts": 1786807377.922633,
       "modified_iso": "2026-08-15T11:22:57.922633",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.6
     },
     {
       "id": "33f45461",
@@ -85,7 +101,7 @@
       "file_size_kb": 5399,
       "modified_ts": 1786807359.3357546,
       "modified_iso": "2026-08-15T11:22:39.335755",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 0.9
     },
     {
       "id": "b3c81a35",
@@ -101,7 +117,7 @@
       "file_size_kb": 7552,
       "modified_ts": 1786807339.9197304,
       "modified_iso": "2026-08-15T11:22:19.919730",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.3
     },
     {
       "id": "fd6fdfc2",
@@ -117,7 +133,7 @@
       "file_size_kb": 1894,
       "modified_ts": 1786807332.5464015,
       "modified_iso": "2026-08-15T11:22:12.546402",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.4
     },
     {
       "id": "caaf22e2",
@@ -133,7 +149,7 @@
       "file_size_kb": 5634,
       "modified_ts": 1786807133.6772969,
       "modified_iso": "2026-08-15T11:18:53.677297",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 4.7
     }
   ],
   "recent": [
@@ -151,7 +167,7 @@
       "file_size_kb": 6632,
       "modified_ts": 1786807090.571052,
       "modified_iso": "2026-08-15T11:18:10.571052",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 5.4
     },
     {
       "id": "882e5f1d",
@@ -167,7 +183,7 @@
       "file_size_kb": 5279,
       "modified_ts": 1786807061.4030993,
       "modified_iso": "2026-08-15T11:17:41.403099",
-      "minutes_since_active": 5.6
+      "minutes_since_active": 5.9
     },
     {
       "id": "1cd376c2",
@@ -183,7 +199,7 @@
       "file_size_kb": 1135,
       "modified_ts": 1786807012.4594588,
       "modified_iso": "2026-08-15T11:16:52.459459",
-      "minutes_since_active": 6.4
+      "minutes_since_active": 6.7
     },
     {
       "id": "a669c245",
@@ -199,23 +215,7 @@
       "file_size_kb": 3225,
       "modified_ts": 1786807010.570238,
       "modified_iso": "2026-08-15T11:16:50.570238",
-      "minutes_since_active": 6.4
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Saved. There was no existing markdown-recap convention (`~/.claude/sessions/` holds internal state JSONs), so I created a `session-recaps/` folder for it. **Title:** *Session Recap\u2026",
-      "message_count": 320,
-      "file_size_kb": 2441,
-      "modified_ts": 1786807005.4062274,
-      "modified_iso": "2026-08-15T11:16:45.406227",
-      "minutes_since_active": 6.5
+      "minutes_since_active": 6.7
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 8.7
+      "minutes_since_active": 9.1
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 10.7
+      "minutes_since_active": 11.0
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 10.8
+      "minutes_since_active": 11.1
     }
   ]
 }
