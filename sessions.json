@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:54:29Z",
+  "updated_at": "2026-08-15T15:54:49Z",
   "counts": {
     "active": 5,
     "recent": 11,
@@ -7,6 +7,38 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "what did we do throughout this session",
+      "last_assistant_snippet": "Long session. Here's the honest accounting. ## Desktop and notes Your Desktop had **11 folders all trying to be \"my notes.\"** Now it has one. I moved 10 of them (1.4 GB) into `~/De\u2026",
+      "message_count": 1036,
+      "file_size_kb": 101560,
+      "modified_ts": 1786809287.201,
+      "modified_iso": "2026-08-15T11:54:47.201000",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Saved and indexed. **\ud83d\udcc4 Recap:** `~/Desktop/Claude Code Sessions Recap/2026-08-15_POE-brain-build-recap.md` It covers the full arc with real numbers \u2014 the 65,200 \u2192 48,589 cleanup, t\u2026",
+      "message_count": 1490,
+      "file_size_kb": 8278,
+      "modified_ts": 1786809269.198,
+      "modified_iso": "2026-08-15T11:54:29.198000",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -21,23 +53,7 @@
       "file_size_kb": 6660,
       "modified_ts": 1786809258.6302855,
       "modified_iso": "2026-08-15T11:54:18.630286",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "what did we do throughout this session",
-      "last_assistant_snippet": "Long session. Here's the honest accounting. ## Desktop and notes Your Desktop had **11 folders all trying to be \"my notes.\"** Now it has one. I moved 10 of them (1.4 GB) into `~/De\u2026",
-      "message_count": 1036,
-      "file_size_kb": 101560,
-      "modified_ts": 1786809012.4627223,
-      "modified_iso": "2026-08-15T11:50:12.462722",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 0.5
     },
     {
       "id": "20b948f3",
@@ -53,7 +69,7 @@
       "file_size_kb": 3830,
       "modified_ts": 1786809010.6910539,
       "modified_iso": "2026-08-15T11:50:10.691054",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 4.7
     },
     {
       "id": "b3c81a35",
@@ -69,12 +85,14 @@
       "file_size_kb": 7805,
       "modified_ts": 1786809010.6845298,
       "modified_iso": "2026-08-15T11:50:10.684530",
-      "minutes_since_active": 4.3
-    },
+      "minutes_since_active": 4.7
+    }
+  ],
+  "recent": [
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -85,10 +103,8 @@
       "file_size_kb": 7610,
       "modified_ts": 1786808982.9970155,
       "modified_iso": "2026-08-15T11:49:42.997015",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
@@ -103,7 +119,7 @@
       "file_size_kb": 5677,
       "modified_ts": 1786808896.4455502,
       "modified_iso": "2026-08-15T11:48:16.445550",
-      "minutes_since_active": 6.2
+      "minutes_since_active": 6.6
     },
     {
       "id": "33f45461",
@@ -119,23 +135,7 @@
       "file_size_kb": 5503,
       "modified_ts": 1786808778.3598301,
       "modified_iso": "2026-08-15T11:46:18.359830",
-      "minutes_since_active": 8.2
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Saved and indexed. **\ud83d\udcc4 Recap:** `~/Desktop/Claude Code Sessions Recap/2026-08-15_POE-brain-build-recap.md` It covers the full arc with real numbers \u2014 the 65,200 \u2192 48,589 cleanup, t\u2026",
-      "message_count": 1490,
-      "file_size_kb": 8278,
-      "modified_ts": 1786808696.7567966,
-      "modified_iso": "2026-08-15T11:44:56.756797",
-      "minutes_since_active": 9.5
+      "minutes_since_active": 8.5
     },
     {
       "id": "882e5f1d",
@@ -151,7 +151,7 @@
       "file_size_kb": 5323,
       "modified_ts": 1786808689.3195858,
       "modified_iso": "2026-08-15T11:44:49.319586",
-      "minutes_since_active": 9.7
+      "minutes_since_active": 10.0
     },
     {
       "id": "a669c245",
@@ -167,7 +167,7 @@
       "file_size_kb": 3340,
       "modified_ts": 1786808674.0031877,
       "modified_iso": "2026-08-15T11:44:34.003188",
-      "minutes_since_active": 9.9
+      "minutes_since_active": 10.3
     },
     {
       "id": "fd6fdfc2",
@@ -183,7 +183,7 @@
       "file_size_kb": 1923,
       "modified_ts": 1786808615.6503375,
       "modified_iso": "2026-08-15T11:43:35.650337",
-      "minutes_since_active": 10.9
+      "minutes_since_active": 11.2
     },
     {
       "id": "1cd376c2",
@@ -199,7 +199,7 @@
       "file_size_kb": 1169,
       "modified_ts": 1786808557.053274,
       "modified_iso": "2026-08-15T11:42:37.053274",
-      "minutes_since_active": 11.9
+      "minutes_since_active": 12.2
     },
     {
       "id": "232ff70f",
@@ -215,7 +215,7 @@
       "file_size_kb": 2485,
       "modified_ts": 1786807766.4457307,
       "modified_iso": "2026-08-15T11:29:26.445731",
-      "minutes_since_active": 25.0
+      "minutes_since_active": 25.4
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 39.9
+      "minutes_since_active": 40.3
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 41.9
+      "minutes_since_active": 42.3
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 42.0
+      "minutes_since_active": 42.3
     }
   ]
 }
