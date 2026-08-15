@@ -1,12 +1,76 @@
 {
-  "updated_at": "2026-08-15T15:14:26Z",
+  "updated_at": "2026-08-15T15:14:36Z",
   "counts": {
-    "active": 9,
-    "recent": 3,
-    "archived": 354,
+    "active": 11,
+    "recent": 2,
+    "archived": 353,
     "total": 366
   },
   "active": [
+    {
+      "id": "acd139f9",
+      "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
+      "last_user_msg": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
+      "last_assistant_snippet": "Real numbers, not estimates \u2014 I pulled the actual video metadata via yt-dlp: **\"Hell Grind\" \u2014 Higgsfield Originals, 95.9 min (5,754s), released 2026-08-04.** [VENDOR, fetched this \u2026",
+      "message_count": 20,
+      "file_size_kb": 251,
+      "modified_ts": 1786806872.5738544,
+      "modified_iso": "2026-08-15T11:14:32.573854",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "One correction before the how-to, because it changes what you should actually feed Claude: **The literal \"full extraction + system prompt, feed it all in\" doesn't produce a working\u2026",
+      "message_count": 307,
+      "file_size_kb": 1055,
+      "modified_ts": 1786806871.3947604,
+      "modified_iso": "2026-08-15T11:14:31.394760",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "caaf22e2",
+      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
+      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
+      "last_assistant_snippet": "# TLDR ## What actually shipped | | status | |---|---| | Playwright/CDP runner + watchdog + launchd + README | \u2705 built, syntax-checked, error paths tested | | Safety layer (pause s\u2026",
+      "message_count": 370,
+      "file_size_kb": 5523,
+      "modified_ts": 1786806868.5952125,
+      "modified_iso": "2026-08-15T11:14:28.595212",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "882e5f1d",
+      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
+      "last_user_msg": "<task-notification> <task-id>a0c982936eb423570</task-id> <tool-use-id>toolu_019Qu1W9az7fyRWs748LweP4</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/882e5f\u2026",
+      "last_assistant_snippet": "**Done.** `~/reports/taoprompts-ai-filmmaking-playbook/AI-Filmmaking-Playbook.pdf` \u2014 84 pages. What it covers, organized by **theme** instead of video (7 chapters): Prompting Frame\u2026",
+      "message_count": 217,
+      "file_size_kb": 5199,
+      "modified_ts": 1786806866.9641066,
+      "modified_iso": "2026-08-15T11:14:26.964107",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -21,7 +85,7 @@
       "file_size_kb": 6552,
       "modified_ts": 1786806863.4300876,
       "modified_iso": "2026-08-15T11:14:23.430088",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "232ff70f",
@@ -37,7 +101,7 @@
       "file_size_kb": 2364,
       "modified_ts": 1786806860.2843091,
       "modified_iso": "2026-08-15T11:14:20.284309",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.3
     },
     {
       "id": "fd6fdfc2",
@@ -53,7 +117,7 @@
       "file_size_kb": 1559,
       "modified_ts": 1786806854.9569085,
       "modified_iso": "2026-08-15T11:14:14.956908",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "a669c245",
@@ -69,7 +133,7 @@
       "file_size_kb": 3137,
       "modified_ts": 1786806850.9416564,
       "modified_iso": "2026-08-15T11:14:10.941656",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "abc2ae7e",
@@ -85,39 +149,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786806848.928,
       "modified_iso": "2026-08-15T11:14:08.928000",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "could you give me the full extraction and give a system prompt in claude in the beginning so i can feed this whole system to it and get a working system",
-      "last_assistant_snippet": "One correction before the how-to, because it changes what you should actually feed Claude: **The literal \"full extraction + system prompt, feed it all in\" doesn't produce a working\u2026",
-      "message_count": 306,
-      "file_size_kb": 1038,
-      "modified_ts": 1786806833.4571266,
-      "modified_iso": "2026-08-15T11:13:53.457127",
-      "minutes_since_active": 0.6
-    },
-    {
-      "id": "caaf22e2",
-      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "# TLDR ## What actually shipped | | status | |---|---| | Playwright/CDP runner + watchdog + launchd + README | \u2705 built, syntax-checked, error paths tested | | Safety layer (pause s\u2026",
-      "message_count": 370,
-      "file_size_kb": 5522,
-      "modified_ts": 1786806815.701,
-      "modified_iso": "2026-08-15T11:13:35.701000",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.4
     },
     {
       "id": "45709c45",
@@ -133,7 +165,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 1.9
+      "minutes_since_active": 2.0
     },
     {
       "id": "af3019d0",
@@ -149,26 +181,10 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.1
     }
   ],
   "recent": [
-    {
-      "id": "acd139f9",
-      "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
-      "last_user_msg": "so higgsfield released a full movie with ai and after i create the ai video skill can we analyze it and watch it all the way through? this is the movie btw i wanna analyze it to se\u2026",
-      "last_assistant_snippet": "Real numbers, not estimates \u2014 I pulled the actual video metadata via yt-dlp: **\"Hell Grind\" \u2014 Higgsfield Originals, 95.9 min (5,754s), released 2026-08-04.** [VENDOR, fetched this \u2026",
-      "message_count": 20,
-      "file_size_kb": 251,
-      "modified_ts": 1786806428.163,
-      "modified_iso": "2026-08-15T11:07:08.163000",
-      "minutes_since_active": 7.3
-    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -183,7 +199,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 7.4
+      "minutes_since_active": 7.6
     },
     {
       "id": "20b948f3",
@@ -199,7 +215,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786806411.791,
       "modified_iso": "2026-08-15T11:06:51.791000",
-      "minutes_since_active": 7.6
+      "minutes_since_active": 7.7
     }
   ]
 }
