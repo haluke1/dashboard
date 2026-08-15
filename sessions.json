@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:17:22Z",
+  "updated_at": "2026-08-15T16:17:42Z",
   "counts": {
     "active": 13,
     "recent": 3,
@@ -7,6 +7,38 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Recap is now comprehensive. Generating the PDF using your brand tokens (#0A0A0A bg, #FFFFFF text, #F97316 accent, Fraunces/Inter/JetBrains Mono):",
+      "message_count": 1503,
+      "file_size_kb": 8410,
+      "modified_ts": 1786810657.9253268,
+      "modified_iso": "2026-08-15T12:17:37.925327",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "20276b68",
+      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
+      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Let me remove a stray code-fence artifact at the end, then render to PDF with your brand styling:",
+      "message_count": 550,
+      "file_size_kb": 6717,
+      "modified_ts": 1786810642.2266712,
+      "modified_iso": "2026-08-15T12:17:22.226671",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -21,7 +53,7 @@
       "file_size_kb": 7697,
       "modified_ts": 1786810640.458417,
       "modified_iso": "2026-08-15T12:17:20.458417",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.4
     },
     {
       "id": "20b948f3",
@@ -37,23 +69,7 @@
       "file_size_kb": 3970,
       "modified_ts": 1786810639.7070625,
       "modified_iso": "2026-08-15T12:17:19.707062",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Let me remove a stray code-fence artifact at the end, then render to PDF with your brand styling:",
-      "message_count": 549,
-      "file_size_kb": 6717,
-      "modified_ts": 1786810638.2621007,
-      "modified_iso": "2026-08-15T12:17:18.262101",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     },
     {
       "id": "232ff70f",
@@ -69,23 +85,7 @@
       "file_size_kb": 2598,
       "modified_ts": 1786810621.2561896,
       "modified_iso": "2026-08-15T12:17:01.256190",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Found the issue \u2014 **my recap is the thinnest file in the folder** (7.6 KB vs. others at 13\u201318 KB), and its numbers are stale (the brain grew to 9,314 items on Aug 12). Let me write\u2026",
-      "message_count": 1499,
-      "file_size_kb": 8397,
-      "modified_ts": 1786810616.6007175,
-      "modified_iso": "2026-08-15T12:16:56.600718",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     },
     {
       "id": "2b825ea7",
@@ -101,7 +101,7 @@
       "file_size_kb": 101613,
       "modified_ts": 1786810609.3395452,
       "modified_iso": "2026-08-15T12:16:49.339545",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 0.9
     },
     {
       "id": "a669c245",
@@ -117,7 +117,7 @@
       "file_size_kb": 3397,
       "modified_ts": 1786810591.732015,
       "modified_iso": "2026-08-15T12:16:31.732015",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.2
     },
     {
       "id": "1cd376c2",
@@ -133,7 +133,7 @@
       "file_size_kb": 1264,
       "modified_ts": 1786810541.3728514,
       "modified_iso": "2026-08-15T12:15:41.372851",
-      "minutes_since_active": 1.7
+      "minutes_since_active": 2.0
     },
     {
       "id": "33f45461",
@@ -149,7 +149,7 @@
       "file_size_kb": 5521,
       "modified_ts": 1786810506.0178814,
       "modified_iso": "2026-08-15T12:15:06.017881",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 2.6
     },
     {
       "id": "882e5f1d",
@@ -165,7 +165,7 @@
       "file_size_kb": 5338,
       "modified_ts": 1786810470.9730346,
       "modified_iso": "2026-08-15T12:14:30.973035",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 3.2
     },
     {
       "id": "b3c81a35",
@@ -181,7 +181,7 @@
       "file_size_kb": 7856,
       "modified_ts": 1786810467.6151755,
       "modified_iso": "2026-08-15T12:14:27.615175",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 3.2
     },
     {
       "id": "caaf22e2",
@@ -197,7 +197,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 3.2
+      "minutes_since_active": 3.5
     },
     {
       "id": "fd6fdfc2",
@@ -213,7 +213,7 @@
       "file_size_kb": 1930,
       "modified_ts": 1786810431.5920928,
       "modified_iso": "2026-08-15T12:13:51.592093",
-      "minutes_since_active": 3.5
+      "minutes_since_active": 3.8
     }
   ],
   "recent": [
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 62.8
+      "minutes_since_active": 63.2
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 64.8
+      "minutes_since_active": 65.1
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 64.9
+      "minutes_since_active": 65.2
     }
   ]
 }
