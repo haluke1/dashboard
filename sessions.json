@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:22:48Z",
+  "updated_at": "2026-08-15T16:23:24Z",
   "counts": {
     "active": 12,
     "recent": 4,
@@ -7,6 +7,86 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Now saving the pass-2 extraction (the 22 docs \u2014 this exists only in my context since those agent outputs were wiped), the decision doc, and the main recap.",
+      "message_count": 304,
+      "file_size_kb": 3579,
+      "modified_ts": 1786811001.463988,
+      "modified_iso": "2026-08-15T12:23:21.463988",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "<task-notification> <task-id>bi9aqn3qg</task-id> <tool-use-id>toolu_01PB8cXtAGUnbSHvhHjSTCzJ</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/20b948f3-5a26-\u2026",
+      "last_assistant_snippet": "55 pages total. Checking the last page and a middle section (a category transition, around the Money & Value \u2192 Decisions & Choice boundary).",
+      "message_count": 468,
+      "file_size_kb": 4902,
+      "modified_ts": 1786810997.8620772,
+      "modified_iso": "2026-08-15T12:23:17.862077",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "b3c81a35",
+      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
+      "last_user_msg": "move the reports folder to the desktop",
+      "last_assistant_snippet": "`~/reports/` = `/Users/halukgul/reports/` \u2014 a folder directly in your home directory (same level as Desktop, Documents, Downloads), just not one you normally browse to. It's where \u2026",
+      "message_count": 1871,
+      "file_size_kb": 7865,
+      "modified_ts": 1786810996.2494807,
+      "modified_iso": "2026-08-15T12:23:16.249481",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "so i can close this chat right can you confirm everything and give me a tldr",
+      "last_assistant_snippet": "`No such file or directory` is a definitive answer, not the earlier interrupt error \u2014 and those same paths resolved fine minutes ago. Let me find out what happened before I say any\u2026",
+      "message_count": 1523,
+      "file_size_kb": 8464,
+      "modified_ts": 1786810985.413707,
+      "modified_iso": "2026-08-15T12:23:05.413707",
+      "minutes_since_active": 0.3
+    },
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "why the fuck was it named like this though? -> POE-brain i dont want it to be fucking named like that i want you to name it as Haluk's Brain. also i want you to double check it cau\u2026",
+      "last_assistant_snippet": "Found it \u2014 you moved it into `old mental organization/` between sessions. Which is exactly the sharp edge I flagged earlier: your live brain sitting in a folder labeled \"old.\" Pull\u2026",
+      "message_count": 1068,
+      "file_size_kb": 101660,
+      "modified_ts": 1786810977.5931644,
+      "modified_iso": "2026-08-15T12:22:57.593164",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "882e5f1d",
       "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
@@ -21,23 +101,7 @@
       "file_size_kb": 5374,
       "modified_ts": 1786810967.2062619,
       "modified_iso": "2026-08-15T12:22:47.206262",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "so i can close this chat right can you confirm everything and give me a tldr",
-      "last_assistant_snippet": "That's the intermittent Desktop access error again, not missing data (note my check had a piping bug that swallowed the real error). Let me re-verify properly before I tell you any\u2026",
-      "message_count": 1519,
-      "file_size_kb": 8453,
-      "modified_ts": 1786810966.300784,
-      "modified_iso": "2026-08-15T12:22:46.300784",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.6
     },
     {
       "id": "232ff70f",
@@ -53,7 +117,7 @@
       "file_size_kb": 2634,
       "modified_ts": 1786810966.2054818,
       "modified_iso": "2026-08-15T12:22:46.205482",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.6
     },
     {
       "id": "20276b68",
@@ -69,23 +133,7 @@
       "file_size_kb": 6736,
       "modified_ts": 1786810960.7800303,
       "modified_iso": "2026-08-15T12:22:40.780030",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "<task-notification> <task-id>bi9aqn3qg</task-id> <tool-use-id>toolu_01PB8cXtAGUnbSHvhHjSTCzJ</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/20b948f3-5a26-\u2026",
-      "last_assistant_snippet": "Identical byte size to the original render (3,233,042 bytes) \u2014 confirms the rebuild is accurate. Let me now actually verify the PDF pagination, which I never did the first time.",
-      "message_count": 460,
-      "file_size_kb": 4670,
-      "modified_ts": 1786810960.3755136,
-      "modified_iso": "2026-08-15T12:22:40.375514",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.7
     },
     {
       "id": "28fe40c8",
@@ -101,7 +149,7 @@
       "file_size_kb": 7706,
       "modified_ts": 1786810924.0991843,
       "modified_iso": "2026-08-15T12:22:04.099184",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 1.3
     },
     {
       "id": "33f45461",
@@ -117,7 +165,7 @@
       "file_size_kb": 5534,
       "modified_ts": 1786810898.0899787,
       "modified_iso": "2026-08-15T12:21:38.089979",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 1.8
     },
     {
       "id": "1cd376c2",
@@ -133,55 +181,7 @@
       "file_size_kb": 1277,
       "modified_ts": 1786810894.743832,
       "modified_iso": "2026-08-15T12:21:34.743832",
-      "minutes_since_active": 1.2
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Now saving the pass-2 extraction (the 22 docs \u2014 this exists only in my context since those agent outputs were wiped), the decision doc, and the main recap.",
-      "message_count": 302,
-      "file_size_kb": 3556,
-      "modified_ts": 1786810892.2127078,
-      "modified_iso": "2026-08-15T12:21:32.212708",
-      "minutes_since_active": 1.3
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "why the fuck was it named like this though? -> POE-brain i dont want it to be fucking named like that i want you to name it as Haluk's Brain. also i want you to double check it cau\u2026",
-      "last_assistant_snippet": "POE-brain isn't on the Desktop anymore \u2014 and your Desktop has changed since I last saw it. Locating the brain before doing anything else.",
-      "message_count": 1065,
-      "file_size_kb": 101651,
-      "modified_ts": 1786810864.6558635,
-      "modified_iso": "2026-08-15T12:21:04.655864",
-      "minutes_since_active": 1.7
-    },
-    {
-      "id": "b3c81a35",
-      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "where the fuck is this reports shit what the fuck is that",
-      "last_assistant_snippet": "`~/reports/` = `/Users/halukgul/reports/` \u2014 a folder directly in your home directory (same level as Desktop, Documents, Downloads), just not one you normally browse to. It's where \u2026",
-      "message_count": 1870,
-      "file_size_kb": 7863,
-      "modified_ts": 1786810847.020464,
-      "modified_iso": "2026-08-15T12:20:47.020464",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 1.8
     },
     {
       "id": "fd6fdfc2",
@@ -197,7 +197,7 @@
       "file_size_kb": 1931,
       "modified_ts": 1786810784.3400984,
       "modified_iso": "2026-08-15T12:19:44.340098",
-      "minutes_since_active": 3.1
+      "minutes_since_active": 3.6
     }
   ],
   "recent": [
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 8.6
+      "minutes_since_active": 9.2
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 68.3
+      "minutes_since_active": 68.9
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 70.2
+      "minutes_since_active": 70.8
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 70.3
+      "minutes_since_active": 70.9
     }
   ]
 }
