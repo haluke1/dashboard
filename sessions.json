@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:20:20Z",
+  "updated_at": "2026-08-15T15:20:38Z",
   "counts": {
     "active": 12,
     "recent": 3,
@@ -7,6 +7,38 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Found it: `~/claude-code-sessions-recap`. Let me see its existing format so this recap matches the convention.",
+      "message_count": 158,
+      "file_size_kb": 1605,
+      "modified_ts": 1786807235.5314379,
+      "modified_iso": "2026-08-15T11:20:35.531438",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
+      "last_assistant_snippet": "This is just the background Chrome render process's completion notification arriving late (the PDF it produced is the same one already delivered above) \u2014 no action needed.",
+      "message_count": 358,
+      "file_size_kb": 3630,
+      "modified_ts": 1786807235.5111299,
+      "modified_iso": "2026-08-15T11:20:35.511130",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -17,11 +49,27 @@
       "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
       "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
       "last_assistant_snippet": "The scratchpad was cleared on session resume (expected \u2014 it's ephemeral). I'll recreate the pipeline files from what I wrote earlier this session, directly in the persistent projec\u2026",
-      "message_count": 1827,
-      "file_size_kb": 7441,
-      "modified_ts": 1786807220.5395544,
-      "modified_iso": "2026-08-15T11:20:20.539554",
-      "minutes_since_active": 0.0
+      "message_count": 1830,
+      "file_size_kb": 7446,
+      "modified_ts": 1786807230.360872,
+      "modified_iso": "2026-08-15T11:20:30.360872",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
+      "last_assistant_snippet": "Found it \u2014 there are two `session-recaps` directories. Let me check their existing structure and naming conventions before writing anything.",
+      "message_count": 222,
+      "file_size_kb": 5087,
+      "modified_ts": 1786807229.2174177,
+      "modified_iso": "2026-08-15T11:20:29.217418",
+      "minutes_since_active": 0.2
     },
     {
       "id": "28fe40c8",
@@ -37,7 +85,7 @@
       "file_size_kb": 7462,
       "modified_ts": 1786807212.8412983,
       "modified_iso": "2026-08-15T11:20:12.841298",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     },
     {
       "id": "abc2ae7e",
@@ -53,55 +101,7 @@
       "file_size_kb": 8163,
       "modified_ts": 1786807196.1780627,
       "modified_iso": "2026-08-15T11:19:56.178063",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
-      "last_assistant_snippet": "This is just the background Chrome render process's completion notification arriving late (the PDF it produced is the same one already delivered above) \u2014 no action needed.",
-      "message_count": 354,
-      "file_size_kb": 3618,
-      "modified_ts": 1786807180.1004522,
-      "modified_iso": "2026-08-15T11:19:40.100452",
       "minutes_since_active": 0.7
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
-      "last_assistant_snippet": "Found it \u2014 there are two `session-recaps` directories. Let me check their existing structure and naming conventions before writing anything.",
-      "message_count": 219,
-      "file_size_kb": 5062,
-      "modified_ts": 1786807173.2857018,
-      "modified_iso": "2026-08-15T11:19:33.285702",
-      "minutes_since_active": 0.8
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Found it: `~/claude-code-sessions-recap`. Let me see its existing format so this recap matches the convention.",
-      "message_count": 158,
-      "file_size_kb": 1604,
-      "modified_ts": 1786807164.018056,
-      "modified_iso": "2026-08-15T11:19:24.018056",
-      "minutes_since_active": 0.9
     },
     {
       "id": "caaf22e2",
@@ -117,7 +117,7 @@
       "file_size_kb": 5634,
       "modified_ts": 1786807133.6772969,
       "modified_iso": "2026-08-15T11:18:53.677297",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 1.7
     },
     {
       "id": "20276b68",
@@ -133,7 +133,7 @@
       "file_size_kb": 6632,
       "modified_ts": 1786807090.571052,
       "modified_iso": "2026-08-15T11:18:10.571052",
-      "minutes_since_active": 2.2
+      "minutes_since_active": 2.5
     },
     {
       "id": "882e5f1d",
@@ -149,7 +149,7 @@
       "file_size_kb": 5279,
       "modified_ts": 1786807061.4030993,
       "modified_iso": "2026-08-15T11:17:41.403099",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 2.9
     },
     {
       "id": "1cd376c2",
@@ -165,7 +165,7 @@
       "file_size_kb": 1135,
       "modified_ts": 1786807012.4594588,
       "modified_iso": "2026-08-15T11:16:52.459459",
-      "minutes_since_active": 3.5
+      "minutes_since_active": 3.8
     },
     {
       "id": "a669c245",
@@ -181,7 +181,7 @@
       "file_size_kb": 3225,
       "modified_ts": 1786807010.570238,
       "modified_iso": "2026-08-15T11:16:50.570238",
-      "minutes_since_active": 3.5
+      "minutes_since_active": 3.8
     },
     {
       "id": "232ff70f",
@@ -197,7 +197,7 @@
       "file_size_kb": 2441,
       "modified_ts": 1786807005.4062274,
       "modified_iso": "2026-08-15T11:16:45.406227",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 3.9
     }
   ],
   "recent": [
@@ -215,7 +215,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 5.8
+      "minutes_since_active": 6.1
     },
     {
       "id": "45709c45",
@@ -231,7 +231,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 7.8
+      "minutes_since_active": 8.1
     },
     {
       "id": "af3019d0",
@@ -247,7 +247,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 7.9
+      "minutes_since_active": 8.2
     }
   ]
 }
