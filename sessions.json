@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-08-15T15:25:11Z",
+  "updated_at": "2026-08-15T15:25:43Z",
   "counts": {
-    "active": 11,
-    "recent": 5,
+    "active": 12,
+    "recent": 4,
     "archived": 350,
     "total": 366
   },
   "active": [
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey so what is final result and where are we",
-      "last_assistant_snippet": "Everything is intact and **the twin got built.** One access note: macOS is blocking this session from *reading* Desktop file contents (metadata works, `open` returns EINTR) \u2014 so I \u2026",
-      "message_count": 1464,
-      "file_size_kb": 8203,
-      "modified_ts": 1786807509.6559923,
-      "modified_iso": "2026-08-15T11:25:09.655992",
-      "minutes_since_active": 0.0
-    },
     {
       "id": "882e5f1d",
       "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
@@ -33,10 +17,26 @@
       "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
       "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
       "last_assistant_snippet": "Saved two memory entries and linked both in `MEMORY.md`: - **[project_taoprompts_ai_filmmaking_playbook.md](file:///Users/halukgul/.claude/projects/-Users-halukgul/memory/project_t\u2026",
-      "message_count": 236,
-      "file_size_kb": 5291,
-      "modified_ts": 1786807505.0710044,
-      "modified_iso": "2026-08-15T11:25:05.071004",
+      "message_count": 238,
+      "file_size_kb": 5296,
+      "modified_ts": 1786807540.9791317,
+      "modified_iso": "2026-08-15T11:25:40.979132",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
+      "last_assistant_snippet": "You're right \u2014 I should have checked the Desktop. Let me find it and move the recap there.",
+      "message_count": 328,
+      "file_size_kb": 2454,
+      "modified_ts": 1786807538.9411266,
+      "modified_iso": "2026-08-15T11:25:38.941127",
       "minutes_since_active": 0.1
     },
     {
@@ -49,10 +49,10 @@
       "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
       "last_user_msg": "what the fuck happened here i have no idea whats going on theres 10 claude code sessions and all of you are doing randomass things.",
       "last_assistant_snippet": "Fair \u2014 let me actually answer that instead of adding to it. First, what *this* session is: it's the Aug 4 session you resumed \u2014 the POE worldview audit \u2192 Drive sync \u2192 CKB-exit conv\u2026",
-      "message_count": 235,
-      "file_size_kb": 3255,
-      "modified_ts": 1786807504.7230282,
-      "modified_iso": "2026-08-15T11:25:04.723028",
+      "message_count": 263,
+      "file_size_kb": 3289,
+      "modified_ts": 1786807536.0164456,
+      "modified_iso": "2026-08-15T11:25:36.016446",
       "minutes_since_active": 0.1
     },
     {
@@ -65,11 +65,59 @@
       "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
       "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
       "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
-      "message_count": 242,
-      "file_size_kb": 5419,
-      "modified_ts": 1786807500.3956003,
-      "modified_iso": "2026-08-15T11:25:00.395600",
+      "message_count": 244,
+      "file_size_kb": 5422,
+      "modified_ts": 1786807535.8223996,
+      "modified_iso": "2026-08-15T11:25:35.822400",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "20276b68",
+      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Saved. **Title:** Magnific Unlimited \u2014 CDP Image-Gen + Parameter-Sweep Engine **Location:** [`~/claude-code-sessions-recap/2026-08-15-magnific-unlimited-sweep-engine.md`](claude-co\u2026",
+      "message_count": 520,
+      "file_size_kb": 6634,
+      "modified_ts": 1786807531.9364169,
+      "modified_iso": "2026-08-15T11:25:31.936417",
       "minutes_since_active": 0.2
+    },
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "no its in this fucking file its literally in desktop put it here",
+      "last_assistant_snippet": "My mistake \u2014 you mean the Desktop folder, not the home directory. Let me find it and move the file there.",
+      "message_count": 172,
+      "file_size_kb": 1904,
+      "modified_ts": 1786807521.7325337,
+      "modified_iso": "2026-08-15T11:25:21.732534",
+      "minutes_since_active": 0.4
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Everything is intact and **the twin got built.** One access note: macOS is blocking this session from *reading* Desktop file contents (metadata works, `open` returns EINTR) \u2014 so I \u2026",
+      "message_count": 1465,
+      "file_size_kb": 8205,
+      "modified_ts": 1786807517.8429294,
+      "modified_iso": "2026-08-15T11:25:17.842929",
+      "minutes_since_active": 0.4
     },
     {
       "id": "1cd376c2",
@@ -85,23 +133,7 @@
       "file_size_kb": 1169,
       "modified_ts": 1786807491.2470584,
       "modified_iso": "2026-08-15T11:24:51.247058",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "no its in this fucking file its literally in desktop put it here",
-      "last_assistant_snippet": "My mistake \u2014 you mean the Desktop folder, not the home directory. Let me find it and move the file there.",
-      "message_count": 171,
-      "file_size_kb": 1903,
-      "modified_ts": 1786807489.9214277,
-      "modified_iso": "2026-08-15T11:24:49.921428",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.9
     },
     {
       "id": "2b825ea7",
@@ -117,23 +149,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786807458.6469045,
       "modified_iso": "2026-08-15T11:24:18.646904",
-      "minutes_since_active": 0.9
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
-      "last_assistant_snippet": "You're right \u2014 I should have checked the Desktop. Let me find it and move the recap there.",
-      "message_count": 325,
-      "file_size_kb": 2449,
-      "modified_ts": 1786807456.826748,
-      "modified_iso": "2026-08-15T11:24:16.826748",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.4
     },
     {
       "id": "28fe40c8",
@@ -149,7 +165,7 @@
       "file_size_kb": 7534,
       "modified_ts": 1786807395.7032092,
       "modified_iso": "2026-08-15T11:23:15.703209",
-      "minutes_since_active": 1.9
+      "minutes_since_active": 2.5
     },
     {
       "id": "20b948f3",
@@ -165,7 +181,7 @@
       "file_size_kb": 3723,
       "modified_ts": 1786807393.1500168,
       "modified_iso": "2026-08-15T11:23:13.150017",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.5
     },
     {
       "id": "b3c81a35",
@@ -181,7 +197,7 @@
       "file_size_kb": 7552,
       "modified_ts": 1786807339.9197304,
       "modified_iso": "2026-08-15T11:22:19.919730",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 3.4
     }
   ],
   "recent": [
@@ -199,23 +215,7 @@
       "file_size_kb": 5634,
       "modified_ts": 1786807133.6772969,
       "modified_iso": "2026-08-15T11:18:53.677297",
-      "minutes_since_active": 6.3
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Saved. **Title:** Magnific Unlimited \u2014 CDP Image-Gen + Parameter-Sweep Engine **Location:** [`~/claude-code-sessions-recap/2026-08-15-magnific-unlimited-sweep-engine.md`](claude-co\u2026",
-      "message_count": 519,
-      "file_size_kb": 6632,
-      "modified_ts": 1786807090.571052,
-      "modified_iso": "2026-08-15T11:18:10.571052",
-      "minutes_since_active": 7.0
+      "minutes_since_active": 6.8
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 10.6
+      "minutes_since_active": 11.2
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 12.6
+      "minutes_since_active": 13.1
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 12.7
+      "minutes_since_active": 13.2
     }
   ]
 }
