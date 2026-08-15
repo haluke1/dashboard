@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:37:33Z",
+  "updated_at": "2026-08-15T15:37:35Z",
   "counts": {
     "active": 4,
     "recent": 12,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Fixed \u2014 the recap now lives at [Desktop/Claude Code Sessions Recap/2026-08-14-cognitive-bias-field-guide-pipeline.md](../../../Users/halukgul/Desktop/Claude%20Code%20Sessions%20Rec\u2026",
+      "message_count": 412,
+      "file_size_kb": 3830,
+      "modified_ts": 1786808253.755808,
+      "modified_iso": "2026-08-15T11:37:33.755808",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -21,22 +37,6 @@
       "file_size_kb": 7805,
       "modified_ts": 1786808251.5810058,
       "modified_iso": "2026-08-15T11:37:31.581006",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Now removing the file I mistakenly created in the wrong location.",
-      "message_count": 411,
-      "file_size_kb": 3828,
-      "modified_ts": 1786808246.8940284,
-      "modified_iso": "2026-08-15T11:37:26.894028",
       "minutes_since_active": 0.1
     },
     {
@@ -53,7 +53,7 @@
       "file_size_kb": 7610,
       "modified_ts": 1786808082.8460574,
       "modified_iso": "2026-08-15T11:34:42.846057",
-      "minutes_since_active": 2.8
+      "minutes_since_active": 2.9
     },
     {
       "id": "caaf22e2",
@@ -119,7 +119,7 @@
       "file_size_kb": 5323,
       "modified_ts": 1786807788.9637718,
       "modified_iso": "2026-08-15T11:29:48.963772",
-      "minutes_since_active": 7.7
+      "minutes_since_active": 7.8
     },
     {
       "id": "a669c245",
@@ -215,7 +215,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786807458.6469045,
       "modified_iso": "2026-08-15T11:24:18.646904",
-      "minutes_since_active": 13.2
+      "minutes_since_active": 13.3
     },
     {
       "id": "acd139f9",
