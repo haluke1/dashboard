@@ -1,22 +1,18 @@
 {
-  "updated_at": "2026-08-15T18:08:54Z",
-  "total_tabs": 108,
+  "updated_at": "2026-08-15T18:10:03Z",
+  "total_tabs": 111,
   "total_windows": 2,
-  "duplicate_tabs": 7,
+  "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 80,
+      "count": 79,
       "domain_count": 71,
       "top_domains": [
         {
           "domain": "frameset.app",
           "count": 3
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 2
         },
         {
           "domain": "cosmos.so",
@@ -29,17 +25,21 @@
         {
           "domain": "midlibrary.io",
           "count": 2
+        },
+        {
+          "domain": "open.spotify.com",
+          "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 18,
+      "count": 22,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "claude.ai",
-          "count": 9
+          "count": 13
         },
         {
           "domain": "github.com",
