@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:07:00Z",
+  "updated_at": "2026-08-15T17:08:05Z",
   "total_tabs": 102,
   "total_windows": 1,
   "duplicate_tabs": 5,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 78,
-      "domain_count": 70,
+      "count": 79,
+      "domain_count": 71,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -56,17 +56,6 @@
       ]
     },
     {
-      "name": "video",
-      "count": 4,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 4
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 3,
       "domain_count": 2,
@@ -78,6 +67,17 @@
         {
           "domain": "instagram.com",
           "count": 1
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 3,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 3
         }
       ]
     },
