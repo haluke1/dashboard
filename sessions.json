@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-15T04:03:34Z",
+  "updated_at": "2026-08-15T04:04:39Z",
   "counts": {
     "active": 0,
-    "recent": 8,
-    "archived": 358,
+    "recent": 7,
+    "archived": 359,
     "total": 366
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786688443.0463786,
       "modified_iso": "2026-08-14T02:20:43.046379",
-      "minutes_since_active": 1302.9
+      "minutes_since_active": 1303.9
     },
     {
       "id": "20b948f3",
@@ -38,7 +38,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786688440.4625626,
       "modified_iso": "2026-08-14T02:20:40.462563",
-      "minutes_since_active": 1302.9
+      "minutes_since_active": 1304.0
     },
     {
       "id": "2b825ea7",
@@ -54,7 +54,7 @@
       "file_size_kb": 101553,
       "modified_ts": 1786687695.2666116,
       "modified_iso": "2026-08-14T02:08:15.266612",
-      "minutes_since_active": 1315.3
+      "minutes_since_active": 1316.4
     },
     {
       "id": "20276b68",
@@ -70,7 +70,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1786685408.004,
       "modified_iso": "2026-08-14T01:30:08.004000",
-      "minutes_since_active": 1353.4
+      "minutes_since_active": 1354.5
     },
     {
       "id": "10b672f8",
@@ -86,7 +86,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786684127.59426,
       "modified_iso": "2026-08-14T01:08:47.594260",
-      "minutes_since_active": 1374.8
+      "minutes_since_active": 1375.9
     },
     {
       "id": "a72cc0b2",
@@ -102,7 +102,7 @@
       "file_size_kb": 146,
       "modified_ts": 1786680684.1509402,
       "modified_iso": "2026-08-14T00:11:24.150940",
-      "minutes_since_active": 1432.1
+      "minutes_since_active": 1433.2
     },
     {
       "id": "f88f3fe0",
@@ -118,23 +118,7 @@
       "file_size_kb": 259,
       "modified_ts": 1786680486.4147365,
       "modified_iso": "2026-08-14T00:08:06.414737",
-      "minutes_since_active": 1435.4
-    },
-    {
-      "id": "83fb9a8b",
-      "full_id": "83fb9a8b-745b-4d2f-a2ab-66fc1ceba85e",
-      "status": "recent",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "Bavemi cate kute. Babam anan\u0131 siksin. [g\u00fcler] Behna kuzetei kwe\u015f. Bela catebe malame.",
-      "last_user_msg": "voice. It's not the ElevenLabs voice",
-      "last_assistant_snippet": "ElevenLabs MCP key is misconfigured \u2014 but the real issue is the voice controller plays audio through its own pipeline. Let me check how it outputs audio.",
-      "message_count": 67,
-      "file_size_kb": 190,
-      "modified_ts": 1786680259.0690312,
-      "modified_iso": "2026-08-14T00:04:19.069031",
-      "minutes_since_active": 1439.2
+      "minutes_since_active": 1436.5
     }
   ]
 }
