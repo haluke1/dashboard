@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T01:00:28Z",
-  "total_tabs": 111,
+  "updated_at": "2026-08-15T01:01:32Z",
+  "total_tabs": 108,
   "total_windows": 1,
-  "duplicate_tabs": 7,
+  "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": "social",
-      "count": 6,
+      "count": 5,
       "domain_count": 4,
       "top_domains": [
         {
@@ -66,7 +66,7 @@
         },
         {
           "domain": "instagram.com",
-          "count": 2
+          "count": 1
         },
         {
           "domain": "manage.wix.com",
@@ -120,17 +120,6 @@
         {
           "domain": "mail.google.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "local",
-      "count": 2,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "localhost:7777",
-          "count": 2
         }
       ]
     }
