@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:22:06Z",
+  "updated_at": "2026-08-15T16:22:08Z",
   "counts": {
     "active": 12,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "I'll wait for that render to finish before doing the final page-by-page QA and copying everything into the Desktop folder.",
+      "message_count": 451,
+      "file_size_kb": 4161,
+      "modified_ts": 1786810926.714001,
+      "modified_iso": "2026-08-15T12:22:06.714001",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -21,7 +37,7 @@
       "file_size_kb": 7706,
       "modified_ts": 1786810924.0991843,
       "modified_iso": "2026-08-15T12:22:04.099184",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "20276b68",
@@ -37,22 +53,6 @@
       "file_size_kb": 6733,
       "modified_ts": 1786810921.2743871,
       "modified_iso": "2026-08-15T12:22:01.274387",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "181 entries confirmed matching the original build. Now rendering to PDF via Chrome headless (backgrounding it since this took ~30-40s last time).",
-      "message_count": 450,
-      "file_size_kb": 4160,
-      "modified_ts": 1786810920.8163195,
-      "modified_iso": "2026-08-15T12:22:00.816319",
       "minutes_since_active": 0.1
     },
     {
@@ -117,7 +117,7 @@
       "file_size_kb": 1277,
       "modified_ts": 1786810894.743832,
       "modified_iso": "2026-08-15T12:21:34.743832",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.6
     },
     {
       "id": "a669c245",
@@ -149,7 +149,7 @@
       "file_size_kb": 101651,
       "modified_ts": 1786810864.6558635,
       "modified_iso": "2026-08-15T12:21:04.655864",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.1
     },
     {
       "id": "b3c81a35",
@@ -165,7 +165,7 @@
       "file_size_kb": 7863,
       "modified_ts": 1786810847.020464,
       "modified_iso": "2026-08-15T12:20:47.020464",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 1.4
     },
     {
       "id": "fd6fdfc2",
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 7.9
+      "minutes_since_active": 8.0
     },
     {
       "id": "acd139f9",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 69.5
+      "minutes_since_active": 69.6
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 69.6
+      "minutes_since_active": 69.7
     }
   ]
 }
