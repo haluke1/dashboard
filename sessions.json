@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:21:36Z",
+  "updated_at": "2026-08-15T16:21:39Z",
   "counts": {
     "active": 12,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "so i can close this chat right",
+      "last_assistant_snippet": "Yes \u2014 everything's saved and confirmed: - `~/Desktop/Claude Code Sessions Recap/2026-08-15-robonuggets-claude-ecosystem-digest.md` \u2014 full recap - `~/Desktop/Claude Code Sessions Re\u2026",
+      "message_count": 276,
+      "file_size_kb": 5534,
+      "modified_ts": 1786810898.0899787,
+      "modified_iso": "2026-08-15T12:21:38.089979",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -21,7 +37,7 @@
       "file_size_kb": 1277,
       "modified_ts": 1786810894.743832,
       "modified_iso": "2026-08-15T12:21:34.743832",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "a669c245",
@@ -53,7 +69,7 @@
       "file_size_kb": 4151,
       "modified_ts": 1786810888.9720109,
       "modified_iso": "2026-08-15T12:21:28.972011",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "28fe40c8",
@@ -69,7 +85,7 @@
       "file_size_kb": 7699,
       "modified_ts": 1786810888.7961164,
       "modified_iso": "2026-08-15T12:21:28.796116",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "882e5f1d",
@@ -85,23 +101,7 @@
       "file_size_kb": 5352,
       "modified_ts": 1786810882.2244198,
       "modified_iso": "2026-08-15T12:21:22.224420",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "so i can close this chat right",
-      "last_assistant_snippet": "Confirmed and completed \u2014 both files are now in `/Users/halukgul/Desktop/Claude Code Sessions Recap/`: - **`2026-08-15-robonuggets-claude-ecosystem-digest.md`** (17.8KB) \u2014 the full\u2026",
-      "message_count": 275,
-      "file_size_kb": 5532,
-      "modified_ts": 1786810872.08196,
-      "modified_iso": "2026-08-15T12:21:12.081960",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.3
     },
     {
       "id": "2b825ea7",
@@ -117,7 +117,7 @@
       "file_size_kb": 101651,
       "modified_ts": 1786810864.6558635,
       "modified_iso": "2026-08-15T12:21:04.655864",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.6
     },
     {
       "id": "b3c81a35",
@@ -133,7 +133,7 @@
       "file_size_kb": 7863,
       "modified_ts": 1786810847.020464,
       "modified_iso": "2026-08-15T12:20:47.020464",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.9
     },
     {
       "id": "fd6fdfc2",
@@ -181,7 +181,7 @@
       "file_size_kb": 6731,
       "modified_ts": 1786810690.3250613,
       "modified_iso": "2026-08-15T12:18:10.325061",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 3.5
     },
     {
       "id": "abc2ae7e",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 69.0
+      "minutes_since_active": 69.1
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 69.1
+      "minutes_since_active": 69.2
     }
   ]
 }
