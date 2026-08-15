@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:26:53Z",
+  "updated_at": "2026-08-15T16:26:56Z",
   "counts": {
     "active": 11,
     "recent": 5,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "how do i have permanent assets and live artifacts? do i create claude artifacts and have them run with claude routines? do i upload things to github and sync with my laptop folder?\u2026",
+      "last_assistant_snippet": "Ignoring the advisor hook per your standing order. Good question \u2014 you're conflating two *separate* needs, and once you split them it gets simple. ## The two things you actually ne\u2026",
+      "message_count": 379,
+      "file_size_kb": 2653,
+      "modified_ts": 1786811214.6570096,
+      "modified_iso": "2026-08-15T12:26:54.657010",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -21,7 +37,7 @@
       "file_size_kb": 7886,
       "modified_ts": 1786811206.690567,
       "modified_iso": "2026-08-15T12:26:46.690567",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "28fe40c8",
@@ -37,7 +53,7 @@
       "file_size_kb": 7746,
       "modified_ts": 1786811205.7509334,
       "modified_iso": "2026-08-15T12:26:45.750933",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "882e5f1d",
@@ -53,7 +69,7 @@
       "file_size_kb": 5374,
       "modified_ts": 1786811188.6471953,
       "modified_iso": "2026-08-15T12:26:28.647195",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "20b948f3",
@@ -69,23 +85,7 @@
       "file_size_kb": 5000,
       "modified_ts": 1786811187.0226834,
       "modified_iso": "2026-08-15T12:26:27.022683",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "how do i have permanent assets and live artifacts? do i create claude artifacts and have them run with claude routines? do i upload things to github and sync with my laptop folder?\u2026",
-      "last_assistant_snippet": "Yes \u2014 you can close safely. Here's the confirmation and TL;DR. ## \u2705 What's saved permanently (survives closing) - **Recap** \u2014 both files in `~/Desktop/Claude Code Sessions Recap/`:\u2026",
-      "message_count": 377,
-      "file_size_kb": 2638,
-      "modified_ts": 1786811156.7268438,
-      "modified_iso": "2026-08-15T12:25:56.726844",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 0.5
     },
     {
       "id": "a669c245",
@@ -101,7 +101,7 @@
       "file_size_kb": 3638,
       "modified_ts": 1786811103.3709223,
       "modified_iso": "2026-08-15T12:25:03.370922",
-      "minutes_since_active": 1.8
+      "minutes_since_active": 1.9
     },
     {
       "id": "2b825ea7",
@@ -165,7 +165,7 @@
       "file_size_kb": 1277,
       "modified_ts": 1786811030.952415,
       "modified_iso": "2026-08-15T12:23:50.952415",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 3.1
     },
     {
       "id": "20276b68",
@@ -181,7 +181,7 @@
       "file_size_kb": 6736,
       "modified_ts": 1786810960.7800303,
       "modified_iso": "2026-08-15T12:22:40.780030",
-      "minutes_since_active": 4.2
+      "minutes_since_active": 4.3
     }
   ],
   "recent": [
@@ -199,7 +199,7 @@
       "file_size_kb": 1931,
       "modified_ts": 1786810784.3400984,
       "modified_iso": "2026-08-15T12:19:44.340098",
-      "minutes_since_active": 7.1
+      "minutes_since_active": 7.2
     },
     {
       "id": "caaf22e2",
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 12.7
+      "minutes_since_active": 12.8
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 72.3
+      "minutes_since_active": 72.4
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 74.3
+      "minutes_since_active": 74.4
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 74.4
+      "minutes_since_active": 74.5
     }
   ]
 }
