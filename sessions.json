@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-15T04:07:54Z",
+  "updated_at": "2026-08-15T04:08:59Z",
   "counts": {
     "active": 0,
-    "recent": 7,
-    "archived": 359,
+    "recent": 6,
+    "archived": 360,
     "total": 366
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786688443.0463786,
       "modified_iso": "2026-08-14T02:20:43.046379",
-      "minutes_since_active": 1307.2
+      "minutes_since_active": 1308.3
     },
     {
       "id": "20b948f3",
@@ -38,7 +38,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786688440.4625626,
       "modified_iso": "2026-08-14T02:20:40.462563",
-      "minutes_since_active": 1307.2
+      "minutes_since_active": 1308.3
     },
     {
       "id": "2b825ea7",
@@ -54,7 +54,7 @@
       "file_size_kb": 101553,
       "modified_ts": 1786687695.2666116,
       "modified_iso": "2026-08-14T02:08:15.266612",
-      "minutes_since_active": 1319.7
+      "minutes_since_active": 1320.7
     },
     {
       "id": "20276b68",
@@ -70,7 +70,7 @@
       "file_size_kb": 6518,
       "modified_ts": 1786685408.004,
       "modified_iso": "2026-08-14T01:30:08.004000",
-      "minutes_since_active": 1357.8
+      "minutes_since_active": 1358.9
     },
     {
       "id": "10b672f8",
@@ -86,7 +86,7 @@
       "file_size_kb": 111,
       "modified_ts": 1786684127.59426,
       "modified_iso": "2026-08-14T01:08:47.594260",
-      "minutes_since_active": 1379.1
+      "minutes_since_active": 1380.2
     },
     {
       "id": "a72cc0b2",
@@ -102,23 +102,7 @@
       "file_size_kb": 146,
       "modified_ts": 1786680684.1509402,
       "modified_iso": "2026-08-14T00:11:24.150940",
-      "minutes_since_active": 1436.5
-    },
-    {
-      "id": "f88f3fe0",
-      "full_id": "f88f3fe0-6952-4eb9-b770-c2f6f91fd89a",
-      "status": "recent",
-      "project": "/Users/halukgul/claude-voice",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "[outro jingle]",
-      "last_user_msg": "It's already connected, but you are not running the audio through my AirPods. There's no problem with the Bluetooth",
-      "last_assistant_snippet": "Found the issue \u2014 the voice controller's output device is locked from when it started. It only re-detects on stream restart. Let me restart the voice controller to pick up AirPods.",
-      "message_count": 82,
-      "file_size_kb": 259,
-      "modified_ts": 1786680486.4147365,
-      "modified_iso": "2026-08-14T00:08:06.414737",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1437.6
     }
   ]
 }
