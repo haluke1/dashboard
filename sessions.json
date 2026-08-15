@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:29:58Z",
+  "updated_at": "2026-08-15T15:30:06Z",
   "counts": {
     "active": 11,
     "recent": 5,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
+      "last_assistant_snippet": "That's on me \u2014 I created a duplicate in the wrong place (`~/.claude/projects/.../memory/session-recaps/`) before you corrected me. Cleaning that up now so it's not left duplicated.",
+      "message_count": 255,
+      "file_size_kb": 5481,
+      "modified_ts": 1786807799.8900342,
+      "modified_iso": "2026-08-15T11:29:59.890034",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +37,7 @@
       "file_size_kb": 8278,
       "modified_ts": 1786807796.5986311,
       "modified_iso": "2026-08-15T11:29:56.598631",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "b3c81a35",
@@ -37,7 +53,7 @@
       "file_size_kb": 7575,
       "modified_ts": 1786807796.4061651,
       "modified_iso": "2026-08-15T11:29:56.406165",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "caaf22e2",
@@ -53,7 +69,7 @@
       "file_size_kb": 5656,
       "modified_ts": 1786807793.3271863,
       "modified_iso": "2026-08-15T11:29:53.327186",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "882e5f1d",
@@ -69,7 +85,7 @@
       "file_size_kb": 5323,
       "modified_ts": 1786807788.9637718,
       "modified_iso": "2026-08-15T11:29:48.963772",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "28fe40c8",
@@ -85,7 +101,7 @@
       "file_size_kb": 7561,
       "modified_ts": 1786807781.6370642,
       "modified_iso": "2026-08-15T11:29:41.637064",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "20b948f3",
@@ -101,7 +117,7 @@
       "file_size_kb": 3741,
       "modified_ts": 1786807777.318562,
       "modified_iso": "2026-08-15T11:29:37.318562",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "a669c245",
@@ -117,23 +133,7 @@
       "file_size_kb": 3340,
       "modified_ts": 1786807773.838587,
       "modified_iso": "2026-08-15T11:29:33.838587",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
-      "last_assistant_snippet": "The Bash sandbox seems restricted on `~/Desktop` access (macOS permission quirk \u2014 `mkdir` worked but `ls` failed). Let me try the Write tool instead, which may have different acces\u2026",
-      "message_count": 252,
-      "file_size_kb": 5472,
-      "modified_ts": 1786807771.4577374,
-      "modified_iso": "2026-08-15T11:29:31.457737",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "232ff70f",
@@ -149,7 +149,7 @@
       "file_size_kb": 2485,
       "modified_ts": 1786807766.4457307,
       "modified_iso": "2026-08-15T11:29:26.445731",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.7
     },
     {
       "id": "fd6fdfc2",
@@ -165,7 +165,7 @@
       "file_size_kb": 1923,
       "modified_ts": 1786807715.2703617,
       "modified_iso": "2026-08-15T11:28:35.270362",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 1.5
     },
     {
       "id": "20276b68",
@@ -181,7 +181,7 @@
       "file_size_kb": 6659,
       "modified_ts": 1786807677.5830803,
       "modified_iso": "2026-08-15T11:27:57.583080",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.1
     }
   ],
   "recent": [
@@ -199,7 +199,7 @@
       "file_size_kb": 1169,
       "modified_ts": 1786807491.2470584,
       "modified_iso": "2026-08-15T11:24:51.247058",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 5.2
     },
     {
       "id": "2b825ea7",
@@ -215,7 +215,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786807458.6469045,
       "modified_iso": "2026-08-15T11:24:18.646904",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 5.8
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 15.4
+      "minutes_since_active": 15.6
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 17.4
+      "minutes_since_active": 17.5
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 17.5
+      "minutes_since_active": 17.6
     }
   ]
 }
