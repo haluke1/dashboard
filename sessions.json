@@ -1,12 +1,92 @@
 {
-  "updated_at": "2026-08-15T15:24:11Z",
+  "updated_at": "2026-08-15T15:24:20Z",
   "counts": {
-    "active": 9,
-    "recent": 7,
+    "active": 10,
+    "recent": 6,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "what did we do throughout this session",
+      "last_assistant_snippet": "Long session. Here's the honest accounting. ## Desktop and notes Your Desktop had **11 folders all trying to be \"my notes.\"** Now it has one. I moved 10 of them (1.4 GB) into `~/De\u2026",
+      "message_count": 1036,
+      "file_size_kb": 101560,
+      "modified_ts": 1786807458.6469045,
+      "modified_iso": "2026-08-15T11:24:18.646904",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
+      "last_assistant_snippet": "You're right \u2014 I should have checked the Desktop. Let me find it and move the recap there.",
+      "message_count": 325,
+      "file_size_kb": 2449,
+      "modified_ts": 1786807456.826748,
+      "modified_iso": "2026-08-15T11:24:16.826748",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Saved. **Title:** *Skool Classroom Extraction (CDP) + ICM System Bootstrap* \u2014 dated 2026-08-15. **Where:** - Recap \u2192 [session-recaps/2026-08-15-skool-cdp-extraction-and-icm-bootstr\u2026",
+      "message_count": 333,
+      "file_size_kb": 1145,
+      "modified_ts": 1786807456.1368499,
+      "modified_iso": "2026-08-15T11:24:16.136850",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
+      "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
+      "message_count": 239,
+      "file_size_kb": 5413,
+      "modified_ts": 1786807454.8197784,
+      "modified_iso": "2026-08-15T11:24:14.819778",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "no its in this fucking file its literally in desktop put it here",
+      "last_assistant_snippet": "My mistake \u2014 you mean the Desktop folder, not the home directory. Let me find it and move the file there.",
+      "message_count": 168,
+      "file_size_kb": 1898,
+      "modified_ts": 1786807451.7304251,
+      "modified_iso": "2026-08-15T11:24:11.730425",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +101,7 @@
       "file_size_kb": 8188,
       "modified_ts": 1786807449.8269289,
       "modified_iso": "2026-08-15T11:24:09.826929",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "a669c245",
@@ -37,39 +117,7 @@
       "file_size_kb": 3228,
       "modified_ts": 1786807446.4620798,
       "modified_iso": "2026-08-15T11:24:06.462080",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
-      "last_assistant_snippet": "You're right \u2014 I should have checked the Desktop. Let me find it and move the recap there.",
-      "message_count": 324,
-      "file_size_kb": 2449,
-      "modified_ts": 1786807445.794869,
-      "modified_iso": "2026-08-15T11:24:05.794869",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
-      "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
-      "message_count": 238,
-      "file_size_kb": 5404,
-      "modified_ts": 1786807422.678217,
-      "modified_iso": "2026-08-15T11:23:42.678217",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.2
     },
     {
       "id": "28fe40c8",
@@ -85,7 +133,7 @@
       "file_size_kb": 7534,
       "modified_ts": 1786807395.7032092,
       "modified_iso": "2026-08-15T11:23:15.703209",
-      "minutes_since_active": 0.9
+      "minutes_since_active": 1.1
     },
     {
       "id": "20b948f3",
@@ -101,23 +149,7 @@
       "file_size_kb": 3723,
       "modified_ts": 1786807393.1500168,
       "modified_iso": "2026-08-15T11:23:13.150017",
-      "minutes_since_active": 1.0
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "what did we do throughout this session",
-      "last_assistant_snippet": "Understood. To finish the G Hub removal when you want: ```bash sudo rm -rf /Applications/lghub.app /Library/LaunchAgents/com.logi.ghub.plist ``` Then toggle Logitech off in System \u2026",
-      "message_count": 1035,
-      "file_size_kb": 101556,
-      "modified_ts": 1786807377.922633,
-      "modified_iso": "2026-08-15T11:22:57.922633",
-      "minutes_since_active": 1.2
+      "minutes_since_active": 1.1
     },
     {
       "id": "b3c81a35",
@@ -133,22 +165,6 @@
       "file_size_kb": 7552,
       "modified_ts": 1786807339.9197304,
       "modified_iso": "2026-08-15T11:22:19.919730",
-      "minutes_since_active": 1.9
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "no its in this fucking file its literally in desktop put it here",
-      "last_assistant_snippet": "Saved. **File:** [2026-08-15-web-motion-3d-tooling-eval-hyperframes-test-claude-stack-audit.md](../claude-code-sessions-recap/2026-08-15-web-motion-3d-tooling-eval-hyperframes-test\u2026",
-      "message_count": 165,
-      "file_size_kb": 1894,
-      "modified_ts": 1786807332.5464015,
-      "modified_iso": "2026-08-15T11:22:12.546402",
       "minutes_since_active": 2.0
     }
   ],
@@ -167,7 +183,7 @@
       "file_size_kb": 5634,
       "modified_ts": 1786807133.6772969,
       "modified_iso": "2026-08-15T11:18:53.677297",
-      "minutes_since_active": 5.3
+      "minutes_since_active": 5.4
     },
     {
       "id": "20276b68",
@@ -183,7 +199,7 @@
       "file_size_kb": 6632,
       "modified_ts": 1786807090.571052,
       "modified_iso": "2026-08-15T11:18:10.571052",
-      "minutes_since_active": 6.0
+      "minutes_since_active": 6.2
     },
     {
       "id": "882e5f1d",
@@ -199,23 +215,7 @@
       "file_size_kb": 5279,
       "modified_ts": 1786807061.4030993,
       "modified_iso": "2026-08-15T11:17:41.403099",
-      "minutes_since_active": 6.5
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Saved. **Title:** *Skool Classroom Extraction (CDP) + ICM System Bootstrap* \u2014 dated 2026-08-15. **Where:** - Recap \u2192 [session-recaps/2026-08-15-skool-cdp-extraction-and-icm-bootstr\u2026",
-      "message_count": 332,
-      "file_size_kb": 1135,
-      "modified_ts": 1786807012.4594588,
-      "modified_iso": "2026-08-15T11:16:52.459459",
-      "minutes_since_active": 7.3
+      "minutes_since_active": 6.6
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 9.7
+      "minutes_since_active": 9.8
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 11.6
+      "minutes_since_active": 11.8
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 11.7
+      "minutes_since_active": 11.9
     }
   ]
 }
