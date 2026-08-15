@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:27:55Z",
+  "updated_at": "2026-08-15T15:27:59Z",
   "counts": {
     "active": 13,
     "recent": 3,
@@ -7,6 +7,86 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
+      "last_assistant_snippet": "The folder exists but that output got interrupted \u2014 let me verify the move actually landed.",
+      "message_count": 338,
+      "file_size_kb": 2470,
+      "modified_ts": 1786807679.167224,
+      "modified_iso": "2026-08-15T11:27:59.167224",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
+      "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
+      "message_count": 248,
+      "file_size_kb": 5429,
+      "modified_ts": 1786807678.2249885,
+      "modified_iso": "2026-08-15T11:27:58.224988",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20276b68",
+      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Done \u2014 your recap is now at the correct location: **[`/Users/halukgul/Desktop/Claude Code Sessions Recap/2026-08-15-magnific-unlimited-sweep-engine.md`](/Users/halukgul/Desktop/Cla\u2026",
+      "message_count": 533,
+      "file_size_kb": 6659,
+      "modified_ts": 1786807677.5830803,
+      "modified_iso": "2026-08-15T11:27:57.583080",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "caaf22e2",
+      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Doesn't exist yet \u2014 let me check for a near-match before creating a duplicate.",
+      "message_count": 395,
+      "file_size_kb": 5651,
+      "modified_ts": 1786807677.1933508,
+      "modified_iso": "2026-08-15T11:27:57.193351",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Saved. Writing works fine \u2014 that EINTR was read-specific and transient. **\ud83d\udcc4 `~/Desktop/Claude Code Sessions Recap/2026-08-15_POE-brain-build-recap.md`** Let me also make sure futur\u2026",
+      "message_count": 1476,
+      "file_size_kb": 8241,
+      "modified_ts": 1786807676.1051953,
+      "modified_iso": "2026-08-15T11:27:56.105195",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "fd6fdfc2",
       "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
@@ -21,7 +101,7 @@
       "file_size_kb": 1914,
       "modified_ts": 1786807670.151973,
       "modified_iso": "2026-08-15T11:27:50.151973",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "20b948f3",
@@ -37,7 +117,7 @@
       "file_size_kb": 3733,
       "modified_ts": 1786807667.1910052,
       "modified_iso": "2026-08-15T11:27:47.191005",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "882e5f1d",
@@ -56,54 +136,6 @@
       "minutes_since_active": 0.2
     },
     {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
-      "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
-      "message_count": 247,
-      "file_size_kb": 5428,
-      "modified_ts": 1786807656.990239,
-      "modified_iso": "2026-08-15T11:27:36.990239",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Folder exists. Writing the recap:",
-      "message_count": 1473,
-      "file_size_kb": 8232,
-      "modified_ts": 1786807652.9709277,
-      "modified_iso": "2026-08-15T11:27:32.970928",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "The move succeeded (\"MOVED\"); the `ls` error is just a transient interrupted syscall (likely a cloud-synced Desktop). Let me verify robustly:",
-      "message_count": 531,
-      "file_size_kb": 6651,
-      "modified_ts": 1786807647.9621475,
-      "modified_iso": "2026-08-15T11:27:27.962147",
-      "minutes_since_active": 0.5
-    },
-    {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
       "status": "active",
@@ -120,22 +152,6 @@
       "minutes_since_active": 0.5
     },
     {
-      "id": "232ff70f",
-      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
-      "last_user_msg": "you fucking cunt the folder is in the desktop fucking hell",
-      "last_assistant_snippet": "Got it \u2014 `/Users/halukgul/Desktop/Claude Code Sessions Recap`. Let me move it there and remove the one I created.",
-      "message_count": 335,
-      "file_size_kb": 2465,
-      "modified_ts": 1786807634.0816472,
-      "modified_iso": "2026-08-15T11:27:14.081647",
-      "minutes_since_active": 0.7
-    },
-    {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
       "status": "active",
@@ -149,7 +165,7 @@
       "file_size_kb": 7568,
       "modified_ts": 1786807628.0711703,
       "modified_iso": "2026-08-15T11:27:08.071170",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.9
     },
     {
       "id": "a669c245",
@@ -165,23 +181,7 @@
       "file_size_kb": 3303,
       "modified_ts": 1786807624.5576944,
       "modified_iso": "2026-08-15T11:27:04.557694",
-      "minutes_since_active": 0.8
-    },
-    {
-      "id": "caaf22e2",
-      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Saved. ## `2026-07-24-magnific-automation-to-gemini-api-pivot.md` [session-recaps/2026-07-24-magnific-automation-to-gemini-api-pivot.md](../.claude/projects/-Users-halukgul/session\u2026",
-      "message_count": 392,
-      "file_size_kb": 5646,
-      "modified_ts": 1786807616.0405264,
-      "modified_iso": "2026-08-15T11:26:56.040526",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 0.9
     },
     {
       "id": "1cd376c2",
@@ -213,7 +213,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786807458.6469045,
       "modified_iso": "2026-08-15T11:24:18.646904",
-      "minutes_since_active": 3.6
+      "minutes_since_active": 3.7
     }
   ],
   "recent": [
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 15.4
+      "minutes_since_active": 15.5
     }
   ]
 }
