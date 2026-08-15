@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:23:45Z",
+  "updated_at": "2026-08-15T16:23:53Z",
   "counts": {
     "active": 12,
     "recent": 4,
@@ -7,6 +7,70 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "why the fuck was it named like this though? -> POE-brain i dont want it to be fucking named like that i want you to name it as Haluk's Brain. also i want you to double check it cau\u2026",
+      "last_assistant_snippet": "Found it \u2014 you moved it into `old mental organization/` between sessions. Which is exactly the sharp edge I flagged earlier: your live brain sitting in a folder labeled \"old.\" Pull\u2026",
+      "message_count": 1070,
+      "file_size_kb": 101664,
+      "modified_ts": 1786811031.1371896,
+      "modified_iso": "2026-08-15T12:23:51.137190",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "so i can close this chat right",
+      "last_assistant_snippet": "Yes \u2014 you're safe to close. Everything is saved to disk (not just in this chat): - **Recap** \u2192 `~/Desktop/Claude Code Sessions Recap/2026-08-15-skool-classroom-cdp-extraction-and-i\u2026",
+      "message_count": 370,
+      "file_size_kb": 1277,
+      "modified_ts": 1786811030.952415,
+      "modified_iso": "2026-08-15T12:23:50.952415",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "so i can close this chat right can you confirm everything and give me a tldr",
+      "last_assistant_snippet": "**Everything is intact** \u2014 you moved the whole thing into `Desktop/old mental organization/` (along with Personal-Ontology and the SECRETS folder). Verified at the new location: 13\u2026",
+      "message_count": 1530,
+      "file_size_kb": 8485,
+      "modified_ts": 1786811030.1466694,
+      "modified_iso": "2026-08-15T12:23:50.146669",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "<task-notification> <task-id>bi9aqn3qg</task-id> <tool-use-id>toolu_01PB8cXtAGUnbSHvhHjSTCzJ</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/20b948f3-5a26-\u2026",
+      "last_assistant_snippet": "Confirmed: 181 entries, clean ending, no orphaned pages. Copying the PDF (and source HTML) into the Recap folder now.",
+      "message_count": 472,
+      "file_size_kb": 4909,
+      "modified_ts": 1786811026.6180522,
+      "modified_iso": "2026-08-15T12:23:46.618052",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "b3c81a35",
       "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
@@ -21,7 +85,7 @@
       "file_size_kb": 7884,
       "modified_ts": 1786811023.704299,
       "modified_iso": "2026-08-15T12:23:43.704299",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "a669c245",
@@ -37,55 +101,7 @@
       "file_size_kb": 3601,
       "modified_ts": 1786811011.9009054,
       "modified_iso": "2026-08-15T12:23:31.900905",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "so i can close this chat right can you confirm everything and give me a tldr",
-      "last_assistant_snippet": "Mystery solved \u2014 **nothing is lost.** You moved it: POE-brain now lives in `Desktop/old mental organization/`. Let me verify it's intact there:",
-      "message_count": 1527,
-      "file_size_kb": 8477,
-      "modified_ts": 1786811004.5073104,
-      "modified_iso": "2026-08-15T12:23:24.507310",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "<task-notification> <task-id>bi9aqn3qg</task-id> <tool-use-id>toolu_01PB8cXtAGUnbSHvhHjSTCzJ</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/20b948f3-5a26-\u2026",
-      "last_assistant_snippet": "55 pages total. Checking the last page and a middle section (a category transition, around the Money & Value \u2192 Decisions & Choice boundary).",
-      "message_count": 468,
-      "file_size_kb": 4902,
-      "modified_ts": 1786810997.8620772,
-      "modified_iso": "2026-08-15T12:23:17.862077",
-      "minutes_since_active": 0.5
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "why the fuck was it named like this though? -> POE-brain i dont want it to be fucking named like that i want you to name it as Haluk's Brain. also i want you to double check it cau\u2026",
-      "last_assistant_snippet": "Found it \u2014 you moved it into `old mental organization/` between sessions. Which is exactly the sharp edge I flagged earlier: your live brain sitting in a folder labeled \"old.\" Pull\u2026",
-      "message_count": 1068,
-      "file_size_kb": 101660,
-      "modified_ts": 1786810977.5931644,
-      "modified_iso": "2026-08-15T12:22:57.593164",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.4
     },
     {
       "id": "882e5f1d",
@@ -101,7 +117,7 @@
       "file_size_kb": 5374,
       "modified_ts": 1786810967.2062619,
       "modified_iso": "2026-08-15T12:22:47.206262",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.1
     },
     {
       "id": "232ff70f",
@@ -117,7 +133,7 @@
       "file_size_kb": 2634,
       "modified_ts": 1786810966.2054818,
       "modified_iso": "2026-08-15T12:22:46.205482",
-      "minutes_since_active": 1.0
+      "minutes_since_active": 1.1
     },
     {
       "id": "20276b68",
@@ -133,7 +149,7 @@
       "file_size_kb": 6736,
       "modified_ts": 1786810960.7800303,
       "modified_iso": "2026-08-15T12:22:40.780030",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.2
     },
     {
       "id": "28fe40c8",
@@ -149,7 +165,7 @@
       "file_size_kb": 7706,
       "modified_ts": 1786810924.0991843,
       "modified_iso": "2026-08-15T12:22:04.099184",
-      "minutes_since_active": 1.7
+      "minutes_since_active": 1.8
     },
     {
       "id": "33f45461",
@@ -165,23 +181,7 @@
       "file_size_kb": 5534,
       "modified_ts": 1786810898.0899787,
       "modified_iso": "2026-08-15T12:21:38.089979",
-      "minutes_since_active": 2.1
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "so i can close this chat right",
-      "last_assistant_snippet": "Yes \u2014 you're safe to close. Everything is saved to disk (not just in this chat): - **Recap** \u2192 `~/Desktop/Claude Code Sessions Recap/2026-08-15-skool-classroom-cdp-extraction-and-i\u2026",
-      "message_count": 370,
-      "file_size_kb": 1277,
-      "modified_ts": 1786810894.743832,
-      "modified_iso": "2026-08-15T12:21:34.743832",
-      "minutes_since_active": 2.2
+      "minutes_since_active": 2.3
     },
     {
       "id": "fd6fdfc2",
@@ -197,7 +197,7 @@
       "file_size_kb": 1931,
       "modified_ts": 1786810784.3400984,
       "modified_iso": "2026-08-15T12:19:44.340098",
-      "minutes_since_active": 4.0
+      "minutes_since_active": 4.2
     }
   ],
   "recent": [
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 9.6
+      "minutes_since_active": 9.7
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 69.2
+      "minutes_since_active": 69.4
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 71.2
+      "minutes_since_active": 71.3
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 71.3
+      "minutes_since_active": 71.4
     }
   ]
 }
