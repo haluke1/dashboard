@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:16:47Z",
+  "updated_at": "2026-08-15T15:16:52Z",
   "counts": {
     "active": 15,
     "recent": 0,
@@ -7,6 +7,38 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Saved and verified \u2014 the full content landed. **[session_recap_2026-08-04_poe-worldview-audit_drive-sync_ckb-exit.md](https://docs.google.com/document/d/1GycdCP5ltmtGtOsZ18ONyoltsC\u2026",
+      "message_count": 222,
+      "file_size_kb": 3225,
+      "modified_ts": 1786807010.570238,
+      "modified_iso": "2026-08-15T11:16:50.570238",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey so what is final result and where are we",
+      "last_assistant_snippet": "Done. Everything the new session needs is now in one authoritative file. ## \ud83d\udccd Location ``` ~/Desktop/POE-brain/ ``` **Start the session from inside that folder** \u2014 `CLAUDE.md` auto\u2026",
+      "message_count": 1437,
+      "file_size_kb": 8152,
+      "modified_ts": 1786807007.932818,
+      "modified_iso": "2026-08-15T11:16:47.932818",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -21,7 +53,7 @@
       "file_size_kb": 7429,
       "modified_ts": 1786807006.945136,
       "modified_iso": "2026-08-15T11:16:46.945136",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "232ff70f",
@@ -37,7 +69,7 @@
       "file_size_kb": 2441,
       "modified_ts": 1786807005.4062274,
       "modified_iso": "2026-08-15T11:16:45.406227",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "882e5f1d",
@@ -53,7 +85,7 @@
       "file_size_kb": 5252,
       "modified_ts": 1786807004.7890909,
       "modified_iso": "2026-08-15T11:16:44.789091",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "1cd376c2",
@@ -72,22 +104,6 @@
       "minutes_since_active": 0.2
     },
     {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Created \u2014 but the reported file size looks suspicious (\"1\"). Per the verify-before-claiming rule this session keeps preaching, let me read it back before telling you it's done.",
-      "message_count": 220,
-      "file_size_kb": 3220,
-      "modified_ts": 1786806987.4832795,
-      "modified_iso": "2026-08-15T11:16:27.483279",
-      "minutes_since_active": 0.3
-    },
-    {
       "id": "33f45461",
       "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
       "status": "active",
@@ -101,7 +117,7 @@
       "file_size_kb": 5019,
       "modified_ts": 1786806986.5390232,
       "modified_iso": "2026-08-15T11:16:26.539023",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "20276b68",
@@ -117,7 +133,7 @@
       "file_size_kb": 6597,
       "modified_ts": 1786806986.2772279,
       "modified_iso": "2026-08-15T11:16:26.277228",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "caaf22e2",
@@ -133,7 +149,7 @@
       "file_size_kb": 5584,
       "modified_ts": 1786806977.845452,
       "modified_iso": "2026-08-15T11:16:17.845452",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.6
     },
     {
       "id": "b3c81a35",
@@ -149,22 +165,6 @@
       "file_size_kb": 7303,
       "modified_ts": 1786806967.675457,
       "modified_iso": "2026-08-15T11:16:07.675457",
-      "minutes_since_active": 0.7
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey give me location of this i will start a new chat with fable 5",
-      "last_assistant_snippet": "Done. Everything the new session needs is now in one authoritative file. ## \ud83d\udccd Location ``` ~/Desktop/POE-brain/ ``` **Start the session from inside that folder** \u2014 `CLAUDE.md` auto\u2026",
-      "message_count": 1436,
-      "file_size_kb": 8134,
-      "modified_ts": 1786806964.021905,
-      "modified_iso": "2026-08-15T11:16:04.021905",
       "minutes_since_active": 0.7
     },
     {
@@ -197,7 +197,7 @@
       "file_size_kb": 1585,
       "modified_ts": 1786806960.0283186,
       "modified_iso": "2026-08-15T11:16:00.028319",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.9
     },
     {
       "id": "acd139f9",
@@ -213,7 +213,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 2.2
+      "minutes_since_active": 2.3
     },
     {
       "id": "45709c45",
@@ -229,7 +229,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 4.2
+      "minutes_since_active": 4.3
     },
     {
       "id": "af3019d0",
@@ -245,7 +245,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 4.4
     }
   ],
   "recent": []
