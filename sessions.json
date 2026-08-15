@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-15T15:54:49Z",
+  "updated_at": "2026-08-15T15:54:56Z",
   "counts": {
-    "active": 5,
-    "recent": 11,
+    "active": 6,
+    "recent": 10,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Done. Everything from this session is saved. **Session recap** \u2014 [2026-08-15 \u2014 Skool CDP extraction + ICM bootstrap](.claude/projects/-Users-halukgul/memory/session-recaps/2026-08-\u2026",
+      "message_count": 340,
+      "file_size_kb": 1169,
+      "modified_ts": 1786809293.797,
+      "modified_iso": "2026-08-15T11:54:53.797000",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
@@ -21,7 +37,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786809287.201,
       "modified_iso": "2026-08-15T11:54:47.201000",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.1
     },
     {
       "id": "abc2ae7e",
@@ -37,7 +53,7 @@
       "file_size_kb": 8278,
       "modified_ts": 1786809269.198,
       "modified_iso": "2026-08-15T11:54:29.198000",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "20276b68",
@@ -53,7 +69,7 @@
       "file_size_kb": 6660,
       "modified_ts": 1786809258.6302855,
       "modified_iso": "2026-08-15T11:54:18.630286",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.6
     },
     {
       "id": "20b948f3",
@@ -69,7 +85,7 @@
       "file_size_kb": 3830,
       "modified_ts": 1786809010.6910539,
       "modified_iso": "2026-08-15T11:50:10.691054",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 4.8
     },
     {
       "id": "b3c81a35",
@@ -85,7 +101,7 @@
       "file_size_kb": 7805,
       "modified_ts": 1786809010.6845298,
       "modified_iso": "2026-08-15T11:50:10.684530",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 4.8
     }
   ],
   "recent": [
@@ -103,7 +119,7 @@
       "file_size_kb": 7610,
       "modified_ts": 1786808982.9970155,
       "modified_iso": "2026-08-15T11:49:42.997015",
-      "minutes_since_active": 5.1
+      "minutes_since_active": 5.2
     },
     {
       "id": "caaf22e2",
@@ -119,7 +135,7 @@
       "file_size_kb": 5677,
       "modified_ts": 1786808896.4455502,
       "modified_iso": "2026-08-15T11:48:16.445550",
-      "minutes_since_active": 6.6
+      "minutes_since_active": 6.7
     },
     {
       "id": "33f45461",
@@ -135,7 +151,7 @@
       "file_size_kb": 5503,
       "modified_ts": 1786808778.3598301,
       "modified_iso": "2026-08-15T11:46:18.359830",
-      "minutes_since_active": 8.5
+      "minutes_since_active": 8.6
     },
     {
       "id": "882e5f1d",
@@ -151,7 +167,7 @@
       "file_size_kb": 5323,
       "modified_ts": 1786808689.3195858,
       "modified_iso": "2026-08-15T11:44:49.319586",
-      "minutes_since_active": 10.0
+      "minutes_since_active": 10.1
     },
     {
       "id": "a669c245",
@@ -167,7 +183,7 @@
       "file_size_kb": 3340,
       "modified_ts": 1786808674.0031877,
       "modified_iso": "2026-08-15T11:44:34.003188",
-      "minutes_since_active": 10.3
+      "minutes_since_active": 10.4
     },
     {
       "id": "fd6fdfc2",
@@ -183,23 +199,7 @@
       "file_size_kb": 1923,
       "modified_ts": 1786808615.6503375,
       "modified_iso": "2026-08-15T11:43:35.650337",
-      "minutes_since_active": 11.2
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Done. Everything from this session is saved. **Session recap** \u2014 [2026-08-15 \u2014 Skool CDP extraction + ICM bootstrap](.claude/projects/-Users-halukgul/memory/session-recaps/2026-08-\u2026",
-      "message_count": 340,
-      "file_size_kb": 1169,
-      "modified_ts": 1786808557.053274,
-      "modified_iso": "2026-08-15T11:42:37.053274",
-      "minutes_since_active": 12.2
+      "minutes_since_active": 11.3
     },
     {
       "id": "232ff70f",
@@ -215,7 +215,7 @@
       "file_size_kb": 2485,
       "modified_ts": 1786807766.4457307,
       "modified_iso": "2026-08-15T11:29:26.445731",
-      "minutes_since_active": 25.4
+      "minutes_since_active": 25.5
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 40.3
+      "minutes_since_active": 40.4
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 42.3
+      "minutes_since_active": 42.4
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 42.3
+      "minutes_since_active": 42.5
     }
   ]
 }
