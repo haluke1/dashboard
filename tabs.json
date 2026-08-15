@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-08-15T16:09:55Z",
-  "total_tabs": 103,
+  "updated_at": "2026-08-15T16:11:01Z",
+  "total_tabs": 104,
   "total_windows": 1,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 79,
+      "count": 80,
       "domain_count": 70,
       "top_domains": [
         {
           "domain": "frameset.app",
+          "count": 3
+        },
+        {
+          "domain": "(no domain)",
           "count": 3
         },
         {
@@ -24,10 +28,6 @@
         },
         {
           "domain": "midlibrary.io",
-          "count": 2
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 2
         }
       ]
