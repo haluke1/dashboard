@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:14:36Z",
+  "updated_at": "2026-08-15T15:14:54Z",
   "counts": {
     "active": 11,
     "recent": 2,
@@ -7,6 +7,54 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Let me find where your session recaps live so I save this in the right place with a matching format.",
+      "message_count": 313,
+      "file_size_kb": 1067,
+      "modified_ts": 1786806889.4156828,
+      "modified_iso": "2026-08-15T11:14:49.415683",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "This session's learnings belong exactly where your other session extracts live \u2014 the Drive folder we synced. I'll write it in your established extract format (corrections first, st\u2026",
+      "message_count": 213,
+      "file_size_kb": 3151,
+      "modified_ts": 1786806889.298076,
+      "modified_iso": "2026-08-15T11:14:49.298076",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20276b68",
+      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Ignoring the advisor hook per your standing order. Let me find where your session recaps live so I match the existing format and location.",
+      "message_count": 502,
+      "file_size_kb": 6557,
+      "modified_ts": 1786806881.8553047,
+      "modified_iso": "2026-08-15T11:14:41.855305",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "acd139f9",
       "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
@@ -21,23 +69,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "One correction before the how-to, because it changes what you should actually feed Claude: **The literal \"full extraction + system prompt, feed it all in\" doesn't produce a working\u2026",
-      "message_count": 307,
-      "file_size_kb": 1055,
-      "modified_ts": 1786806871.3947604,
-      "modified_iso": "2026-08-15T11:14:31.394760",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.3
     },
     {
       "id": "caaf22e2",
@@ -53,7 +85,7 @@
       "file_size_kb": 5523,
       "modified_ts": 1786806868.5952125,
       "modified_iso": "2026-08-15T11:14:28.595212",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     },
     {
       "id": "882e5f1d",
@@ -69,23 +101,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786806866.9641066,
       "modified_iso": "2026-08-15T11:14:26.964107",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "## TL;DR of this session **What got built (all working, verified):** - **`magnific-unlimited` skill** \u2014 drives Magnific's web app via Arc/CDP to generate images on **Unlimited mode\u2026",
-      "message_count": 498,
-      "file_size_kb": 6552,
-      "modified_ts": 1786806863.4300876,
-      "modified_iso": "2026-08-15T11:14:23.430088",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.4
     },
     {
       "id": "232ff70f",
@@ -101,7 +117,7 @@
       "file_size_kb": 2364,
       "modified_ts": 1786806860.2843091,
       "modified_iso": "2026-08-15T11:14:20.284309",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.5
     },
     {
       "id": "fd6fdfc2",
@@ -117,23 +133,7 @@
       "file_size_kb": 1559,
       "modified_ts": 1786806854.9569085,
       "modified_iso": "2026-08-15T11:14:14.956908",
-      "minutes_since_active": 0.3
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Okay \u2014 that's a material world-state change, and it answers my \u00a71 question: the July-28 map is already stale too. Before strategy, three things in order of urgency, then my honest \u2026",
-      "message_count": 209,
-      "file_size_kb": 3137,
-      "modified_ts": 1786806850.9416564,
-      "modified_iso": "2026-08-15T11:14:10.941656",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.6
     },
     {
       "id": "abc2ae7e",
@@ -149,7 +149,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786806848.928,
       "modified_iso": "2026-08-15T11:14:08.928000",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.7
     },
     {
       "id": "45709c45",
@@ -165,7 +165,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.3
     },
     {
       "id": "af3019d0",
@@ -181,7 +181,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 2.1
+      "minutes_since_active": 2.4
     }
   ],
   "recent": [
@@ -199,7 +199,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 7.6
+      "minutes_since_active": 7.8
     },
     {
       "id": "20b948f3",
@@ -215,7 +215,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786806411.791,
       "modified_iso": "2026-08-15T11:06:51.791000",
-      "minutes_since_active": 7.7
+      "minutes_since_active": 8.0
     }
   ]
 }
