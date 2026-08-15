@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-15T06:08:01Z",
+  "updated_at": "2026-08-15T06:09:05Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 363,
+    "recent": 2,
+    "archived": 364,
     "total": 366
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786688443.0463786,
       "modified_iso": "2026-08-14T02:20:43.046379",
-      "minutes_since_active": 1427.3
+      "minutes_since_active": 1428.4
     },
     {
       "id": "20b948f3",
@@ -38,23 +38,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786688440.4625626,
       "modified_iso": "2026-08-14T02:20:40.462563",
-      "minutes_since_active": 1427.3
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "ok",
-      "last_assistant_snippet": "Understood. To finish the G Hub removal when you want: ```bash sudo rm -rf /Applications/lghub.app /Library/LaunchAgents/com.logi.ghub.plist ``` Then toggle Logitech off in System \u2026",
-      "message_count": 1034,
-      "file_size_kb": 101553,
-      "modified_ts": 1786687695.2666116,
-      "modified_iso": "2026-08-14T02:08:15.266612",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1428.4
     }
   ]
 }
