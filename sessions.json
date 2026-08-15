@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:24:20Z",
+  "updated_at": "2026-08-15T15:24:39Z",
   "counts": {
     "active": 10,
     "recent": 6,
@@ -7,6 +7,70 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "1cd376c2",
+      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Promoting both. Let me match the ratchet's format and append.",
+      "message_count": 339,
+      "file_size_kb": 1166,
+      "modified_ts": 1786807478.0450628,
+      "modified_iso": "2026-08-15T11:24:38.045063",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "what the fuck happened here i have no idea whats going on theres 10 claude code sessions and all of you are doing randomass things.",
+      "last_assistant_snippet": "Fair \u2014 let me actually answer that instead of adding to it. First, what *this* session is: it's the Aug 4 session you resumed \u2014 the POE worldview audit \u2192 Drive sync \u2192 CKB-exit conv\u2026",
+      "message_count": 231,
+      "file_size_kb": 3244,
+      "modified_ts": 1786807477.0155833,
+      "modified_iso": "2026-08-15T11:24:37.015583",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey so what is final result and where are we",
+      "last_assistant_snippet": "**MENTALITY.md exists** \u2014 built Aug 13. Your Fable session completed the pending task. Let me read what it produced and the current state:",
+      "message_count": 1462,
+      "file_size_kb": 8193,
+      "modified_ts": 1786807476.7315376,
+      "modified_iso": "2026-08-15T11:24:36.731538",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
+      "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
+      "message_count": 241,
+      "file_size_kb": 5418,
+      "modified_ts": 1786807470.2823665,
+      "modified_iso": "2026-08-15T11:24:30.282367",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
@@ -21,7 +85,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786807458.6469045,
       "modified_iso": "2026-08-15T11:24:18.646904",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.3
     },
     {
       "id": "232ff70f",
@@ -37,39 +101,7 @@
       "file_size_kb": 2449,
       "modified_ts": 1786807456.826748,
       "modified_iso": "2026-08-15T11:24:16.826748",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "1cd376c2",
-      "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "would you be able to extract the content from https://www.skool.com/cliefnotes/classroom this skool community? would you be able to directly pull from here or would you need to do \u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Saved. **Title:** *Skool Classroom Extraction (CDP) + ICM System Bootstrap* \u2014 dated 2026-08-15. **Where:** - Recap \u2192 [session-recaps/2026-08-15-skool-cdp-extraction-and-icm-bootstr\u2026",
-      "message_count": 333,
-      "file_size_kb": 1145,
-      "modified_ts": 1786807456.1368499,
-      "modified_iso": "2026-08-15T11:24:16.136850",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades / information / pdf from this chat and save it in claude code sessions recap with a correct title? make sure to inclu\u2026",
-      "last_assistant_snippet": "You're right, I went down the wrong path searching `.claude/` conventions \u2014 that's a literal folder on your Desktop. Let me find it.",
-      "message_count": 239,
-      "file_size_kb": 5413,
-      "modified_ts": 1786807454.8197784,
-      "modified_iso": "2026-08-15T11:24:14.819778",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.4
     },
     {
       "id": "fd6fdfc2",
@@ -85,39 +117,7 @@
       "file_size_kb": 1898,
       "modified_ts": 1786807451.7304251,
       "modified_iso": "2026-08-15T11:24:11.730425",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "okey so what is final result and where are we",
-      "last_assistant_snippet": "**MENTALITY.md exists** \u2014 built Aug 13. Your Fable session completed the pending task. Let me read what it produced and the current state:",
-      "message_count": 1459,
-      "file_size_kb": 8188,
-      "modified_ts": 1786807449.8269289,
-      "modified_iso": "2026-08-15T11:24:09.826929",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "what the fuck happened here i have no idea whats going on theres 10 claude code sessions and all of you are doing randomass things.",
-      "last_assistant_snippet": "Saved and verified \u2014 the full content landed. **[session_recap_2026-08-04_poe-worldview-audit_drive-sync_ckb-exit.md](https://docs.google.com/document/d/1GycdCP5ltmtGtOsZ18ONyoltsC\u2026",
-      "message_count": 223,
-      "file_size_kb": 3228,
-      "modified_ts": 1786807446.4620798,
-      "modified_iso": "2026-08-15T11:24:06.462080",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.5
     },
     {
       "id": "28fe40c8",
@@ -133,7 +133,7 @@
       "file_size_kb": 7534,
       "modified_ts": 1786807395.7032092,
       "modified_iso": "2026-08-15T11:23:15.703209",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.4
     },
     {
       "id": "20b948f3",
@@ -149,7 +149,7 @@
       "file_size_kb": 3723,
       "modified_ts": 1786807393.1500168,
       "modified_iso": "2026-08-15T11:23:13.150017",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.4
     },
     {
       "id": "b3c81a35",
@@ -165,7 +165,7 @@
       "file_size_kb": 7552,
       "modified_ts": 1786807339.9197304,
       "modified_iso": "2026-08-15T11:22:19.919730",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.3
     }
   ],
   "recent": [
@@ -183,7 +183,7 @@
       "file_size_kb": 5634,
       "modified_ts": 1786807133.6772969,
       "modified_iso": "2026-08-15T11:18:53.677297",
-      "minutes_since_active": 5.4
+      "minutes_since_active": 5.8
     },
     {
       "id": "20276b68",
@@ -199,7 +199,7 @@
       "file_size_kb": 6632,
       "modified_ts": 1786807090.571052,
       "modified_iso": "2026-08-15T11:18:10.571052",
-      "minutes_since_active": 6.2
+      "minutes_since_active": 6.5
     },
     {
       "id": "882e5f1d",
@@ -215,7 +215,7 @@
       "file_size_kb": 5279,
       "modified_ts": 1786807061.4030993,
       "modified_iso": "2026-08-15T11:17:41.403099",
-      "minutes_since_active": 6.6
+      "minutes_since_active": 7.0
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 9.8
+      "minutes_since_active": 10.1
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 11.8
+      "minutes_since_active": 12.1
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 11.9
+      "minutes_since_active": 12.2
     }
   ]
 }
