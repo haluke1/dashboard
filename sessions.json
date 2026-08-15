@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-15T15:29:50Z",
+  "updated_at": "2026-08-15T15:29:58Z",
   "counts": {
-    "active": 12,
-    "recent": 4,
+    "active": 11,
+    "recent": 5,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Saved and indexed. **\ud83d\udcc4 Recap:** `~/Desktop/Claude Code Sessions Recap/2026-08-15_POE-brain-build-recap.md` It covers the full arc with real numbers \u2014 the 65,200 \u2192 48,589 cleanup, t\u2026",
+      "message_count": 1490,
+      "file_size_kb": 8278,
+      "modified_ts": 1786807796.5986311,
+      "modified_iso": "2026-08-15T11:29:56.598631",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "b3c81a35",
+      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Saved and indexed. Summary of what I did: **Session recap saved:** [`session-recaps/2026-08-05-festival-filmmaking-digest-3-pdf-pipeline.md`](~/.claude/projects/-Users-halukgul/mem\u2026",
+      "message_count": 1852,
+      "file_size_kb": 7575,
+      "modified_ts": 1786807796.4061651,
+      "modified_iso": "2026-08-15T11:29:56.406165",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "caaf22e2",
+      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
+      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Doesn't exist yet \u2014 let me check for a near-match before creating a duplicate.",
+      "message_count": 399,
+      "file_size_kb": 5656,
+      "modified_ts": 1786807793.3271863,
+      "modified_iso": "2026-08-15T11:29:53.327186",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "882e5f1d",
       "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
@@ -21,23 +69,7 @@
       "file_size_kb": 5323,
       "modified_ts": 1786807788.9637718,
       "modified_iso": "2026-08-15T11:29:48.963772",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Existing convention found \u2014 full recaps get indexed in MEMORY.md. Filing mine consistently, pointing at the Desktop location you specified:",
-      "message_count": 1489,
-      "file_size_kb": 8276,
-      "modified_ts": 1786807788.3417473,
-      "modified_iso": "2026-08-15T11:29:48.341747",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.2
     },
     {
       "id": "28fe40c8",
@@ -53,7 +85,7 @@
       "file_size_kb": 7561,
       "modified_ts": 1786807781.6370642,
       "modified_iso": "2026-08-15T11:29:41.637064",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.3
     },
     {
       "id": "20b948f3",
@@ -69,23 +101,7 @@
       "file_size_kb": 3741,
       "modified_ts": 1786807777.318562,
       "modified_iso": "2026-08-15T11:29:37.318562",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "b3c81a35",
-      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Saved and indexed. Summary of what I did: **Session recap saved:** [`session-recaps/2026-08-05-festival-filmmaking-digest-3-pdf-pipeline.md`](~/.claude/projects/-Users-halukgul/mem\u2026",
-      "message_count": 1851,
-      "file_size_kb": 7575,
-      "modified_ts": 1786807775.4304538,
-      "modified_iso": "2026-08-15T11:29:35.430454",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "a669c245",
@@ -101,7 +117,7 @@
       "file_size_kb": 3340,
       "modified_ts": 1786807773.838587,
       "modified_iso": "2026-08-15T11:29:33.838587",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "33f45461",
@@ -117,7 +133,7 @@
       "file_size_kb": 5472,
       "modified_ts": 1786807771.4577374,
       "modified_iso": "2026-08-15T11:29:31.457737",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "232ff70f",
@@ -133,23 +149,7 @@
       "file_size_kb": 2485,
       "modified_ts": 1786807766.4457307,
       "modified_iso": "2026-08-15T11:29:26.445731",
-      "minutes_since_active": 0.4
-    },
-    {
-      "id": "caaf22e2",
-      "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "# Project: Autonomous, resilient batch image generation in Magnific / Freepik Spaces (unlimited web mode) You are Claude Code running on my Mac. Build, smoke-test, and run a resuma\u2026",
-      "last_user_msg": "btw this is the file location i wanted you to save it in -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Doesn't exist yet \u2014 let me check for a near-match before creating a duplicate.",
-      "message_count": 398,
-      "file_size_kb": 5655,
-      "modified_ts": 1786807745.219305,
-      "modified_iso": "2026-08-15T11:29:05.219305",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.5
     },
     {
       "id": "fd6fdfc2",
@@ -165,7 +165,7 @@
       "file_size_kb": 1923,
       "modified_ts": 1786807715.2703617,
       "modified_iso": "2026-08-15T11:28:35.270362",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 1.4
     },
     {
       "id": "20276b68",
@@ -181,12 +181,14 @@
       "file_size_kb": 6659,
       "modified_ts": 1786807677.5830803,
       "modified_iso": "2026-08-15T11:27:57.583080",
-      "minutes_since_active": 1.9
-    },
+      "minutes_since_active": 2.0
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -197,10 +199,8 @@
       "file_size_kb": 1169,
       "modified_ts": 1786807491.2470584,
       "modified_iso": "2026-08-15T11:24:51.247058",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.1
+    },
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
@@ -215,7 +215,7 @@
       "file_size_kb": 101560,
       "modified_ts": 1786807458.6469045,
       "modified_iso": "2026-08-15T11:24:18.646904",
-      "minutes_since_active": 5.5
+      "minutes_since_active": 5.7
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 15.3
+      "minutes_since_active": 15.4
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 17.3
+      "minutes_since_active": 17.4
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 17.4
+      "minutes_since_active": 17.5
     }
   ]
 }
