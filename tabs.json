@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-15T15:09:21Z",
-  "total_tabs": 108,
+  "updated_at": "2026-08-15T15:10:26Z",
+  "total_tabs": 107,
   "total_windows": 1,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 83,
+      "count": 82,
       "domain_count": 73,
       "top_domains": [
         {
           "domain": "frameset.app",
-          "count": 3
-        },
-        {
-          "domain": "eksisozluk.com",
           "count": 3
         },
         {
@@ -28,6 +24,10 @@
         },
         {
           "domain": "midlibrary.io",
+          "count": 2
+        },
+        {
+          "domain": "open.spotify.com",
           "count": 2
         }
       ]
