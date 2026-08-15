@@ -1,12 +1,44 @@
 {
-  "updated_at": "2026-08-15T15:14:08Z",
+  "updated_at": "2026-08-15T15:14:14Z",
   "counts": {
-    "active": 6,
-    "recent": 4,
-    "archived": 356,
+    "active": 8,
+    "recent": 3,
+    "archived": 355,
     "total": 366
   },
   "active": [
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Okay \u2014 that's a material world-state change, and it answers my \u00a71 question: the July-28 map is already stale too. Before strategy, three things in order of urgency, then my honest \u2026",
+      "message_count": 209,
+      "file_size_kb": 3137,
+      "modified_ts": 1786806850.9416564,
+      "modified_iso": "2026-08-15T11:14:10.941656",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "abc2ae7e",
+      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
+      "last_user_msg": "okey give me location of this i will start a new chat with fable 5",
+      "last_assistant_snippet": "Done. Everything the new session needs is now in one authoritative file. ## \ud83d\udccd Location ``` ~/Desktop/POE-brain/ ``` **Start the session from inside that folder** \u2014 `CLAUDE.md` auto\u2026",
+      "message_count": 1436,
+      "file_size_kb": 8133,
+      "modified_ts": 1786806848.928,
+      "modified_iso": "2026-08-15T11:14:08.928000",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -37,7 +69,7 @@
       "file_size_kb": 2340,
       "modified_ts": 1786806823.7082849,
       "modified_iso": "2026-08-15T11:13:43.708285",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "20276b68",
@@ -53,7 +85,7 @@
       "file_size_kb": 6519,
       "modified_ts": 1786806823.308746,
       "modified_iso": "2026-08-15T11:13:43.308746",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "caaf22e2",
@@ -69,7 +101,7 @@
       "file_size_kb": 5522,
       "modified_ts": 1786806815.701,
       "modified_iso": "2026-08-15T11:13:35.701000",
-      "minutes_since_active": 0.5
+      "minutes_since_active": 0.6
     },
     {
       "id": "45709c45",
@@ -85,7 +117,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 1.7
     },
     {
       "id": "af3019d0",
@@ -106,22 +138,6 @@
   ],
   "recent": [
     {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "i quit ckb today and the renovation consultancy angle is out of the door i will not be going forward with that - i might be doing general business consulting",
-      "last_assistant_snippet": "Okay \u2014 that's a material world-state change, and it answers my \u00a71 question: the July-28 map is already stale too. Before strategy, three things in order of urgency, then my honest \u2026",
-      "message_count": 208,
-      "file_size_kb": 3124,
-      "modified_ts": 1786806431.982,
-      "modified_iso": "2026-08-15T11:07:11.982000",
-      "minutes_since_active": 6.9
-    },
-    {
       "id": "acd139f9",
       "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
       "status": "recent",
@@ -135,7 +151,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806428.163,
       "modified_iso": "2026-08-15T11:07:08.163000",
-      "minutes_since_active": 7.0
+      "minutes_since_active": 7.1
     },
     {
       "id": "28fe40c8",
@@ -151,7 +167,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 7.1
+      "minutes_since_active": 7.2
     },
     {
       "id": "20b948f3",
@@ -167,7 +183,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786806411.791,
       "modified_iso": "2026-08-15T11:06:51.791000",
-      "minutes_since_active": 7.3
+      "minutes_since_active": 7.4
     }
   ]
 }
