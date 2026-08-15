@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-08-15T03:16:49Z",
-  "total_tabs": 107,
+  "updated_at": "2026-08-15T03:17:54Z",
+  "total_tabs": 148,
   "total_windows": 2,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 81,
-      "domain_count": 73,
+      "count": 122,
+      "domain_count": 75,
       "top_domains": [
+        {
+          "domain": "rule34video.com",
+          "count": 40
+        },
         {
           "domain": "frameset.app",
           "count": 3
@@ -24,10 +28,6 @@
         },
         {
           "domain": "midlibrary.io",
-          "count": 2
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 2
         }
       ]
