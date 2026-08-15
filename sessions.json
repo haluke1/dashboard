@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:07:14Z",
+  "updated_at": "2026-08-15T15:07:48Z",
   "counts": {
     "active": 5,
     "recent": 0,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "af3019d0",
+      "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you create a note software that auto syncs with some form of claude updates daily? so i could use wisprflow or visual uploads or text to upload context there and it synthesiz\u2026",
+      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
+      "last_assistant_snippet": "## What I found first \u2014 it changes the design **Your \"massive context_everything doc\" isn't one file.** It's `~/Desktop/POE-brain/`: - `_source.md` \u2014 48,589 lines, marked **immutab\u2026",
+      "message_count": 90,
+      "file_size_kb": 443,
+      "modified_ts": 1786806447.8482997,
+      "modified_iso": "2026-08-15T11:07:27.848300",
+      "minutes_since_active": 0.3
+    },
     {
       "id": "a669c245",
       "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
@@ -21,7 +37,7 @@
       "file_size_kb": 3124,
       "modified_ts": 1786806431.982,
       "modified_iso": "2026-08-15T11:07:11.982000",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.6
     },
     {
       "id": "acd139f9",
@@ -37,7 +53,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806428.163,
       "modified_iso": "2026-08-15T11:07:08.163000",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.7
     },
     {
       "id": "28fe40c8",
@@ -53,23 +69,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "af3019d0",
-      "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you create a note software that auto syncs with some form of claude updates daily? so i could use wisprflow or visual uploads or text to upload context there and it synthesiz\u2026",
-      "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.7/skills/brainstorming # Brainstorming Ideas Into Designs Help turn ide\u2026",
-      "last_assistant_snippet": "## What I found first \u2014 it changes the design **Your \"massive context_everything doc\" isn't one file.** It's `~/Desktop/POE-brain/`: - `_source.md` \u2014 48,589 lines, marked **immutab\u2026",
-      "message_count": 90,
-      "file_size_kb": 443,
-      "modified_ts": 1786806419.748,
-      "modified_iso": "2026-08-15T11:06:59.748000",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.8
     },
     {
       "id": "20b948f3",
@@ -85,7 +85,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786806411.791,
       "modified_iso": "2026-08-15T11:06:51.791000",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.9
     }
   ],
   "recent": []
