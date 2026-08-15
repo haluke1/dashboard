@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:14:54Z",
+  "updated_at": "2026-08-15T15:14:55Z",
   "counts": {
     "active": 11,
     "recent": 2,
@@ -7,6 +7,38 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "fd6fdfc2",
+      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades / information from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Read your real system on disk \u2014 the ground truth behind that mindmap. First, the mindmap is **stale**: it says 234 items generated April 14. Your actual system now has **50 skills \u2026",
+      "message_count": 145,
+      "file_size_kb": 1576,
+      "modified_ts": 1786806894.5958061,
+      "modified_iso": "2026-08-15T11:14:54.595806",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20276b68",
+      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
+      "last_user_msg": "could you take the learnings / information / skills / upgrades from this chat and save it in claude code sessions recap with a correct title",
+      "last_assistant_snippet": "Ignoring the advisor hook per your standing order. Let me find where your session recaps live so I match the existing format and location.",
+      "message_count": 505,
+      "file_size_kb": 6586,
+      "modified_ts": 1786806893.372066,
+      "modified_iso": "2026-08-15T11:14:53.372066",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
@@ -37,23 +69,7 @@
       "file_size_kb": 3151,
       "modified_ts": 1786806889.298076,
       "modified_iso": "2026-08-15T11:14:49.298076",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "could you take the learnings / information / skills / upgrades from this chat and save it in claude code sessions recap with a correct title",
-      "last_assistant_snippet": "Ignoring the advisor hook per your standing order. Let me find where your session recaps live so I match the existing format and location.",
-      "message_count": 502,
-      "file_size_kb": 6557,
-      "modified_ts": 1786806881.8553047,
-      "modified_iso": "2026-08-15T11:14:41.855305",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.1
     },
     {
       "id": "acd139f9",
@@ -69,7 +85,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "caaf22e2",
@@ -101,7 +117,7 @@
       "file_size_kb": 5199,
       "modified_ts": 1786806866.9641066,
       "modified_iso": "2026-08-15T11:14:26.964107",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "232ff70f",
@@ -117,22 +133,6 @@
       "file_size_kb": 2364,
       "modified_ts": 1786806860.2843091,
       "modified_iso": "2026-08-15T11:14:20.284309",
-      "minutes_since_active": 0.5
-    },
-    {
-      "id": "fd6fdfc2",
-      "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze these websites and platforms and tell me if they have utility and if we can benefit from them at all? -> https://felix.so/ https://spline.design/ https://github.c\u2026",
-      "last_user_msg": "analyze this and tell me which parts we should include and what parts are redundant. this is our claude stack at the moment -> https://claude-system-mindmap.vercel.app/",
-      "last_assistant_snippet": "Read your real system on disk \u2014 the ground truth behind that mindmap. First, the mindmap is **stale**: it says 234 items generated April 14. Your actual system now has **50 skills \u2026",
-      "message_count": 144,
-      "file_size_kb": 1559,
-      "modified_ts": 1786806854.9569085,
-      "modified_iso": "2026-08-15T11:14:14.956908",
       "minutes_since_active": 0.6
     },
     {
@@ -149,7 +149,7 @@
       "file_size_kb": 8133,
       "modified_ts": 1786806848.928,
       "modified_iso": "2026-08-15T11:14:08.928000",
-      "minutes_since_active": 0.7
+      "minutes_since_active": 0.8
     },
     {
       "id": "45709c45",
@@ -199,7 +199,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 7.8
+      "minutes_since_active": 7.9
     },
     {
       "id": "20b948f3",
@@ -215,7 +215,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786806411.791,
       "modified_iso": "2026-08-15T11:06:51.791000",
-      "minutes_since_active": 8.0
+      "minutes_since_active": 8.1
     }
   ]
 }
