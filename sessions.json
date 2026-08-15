@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-15T16:28:29Z",
+  "updated_at": "2026-08-15T16:28:51Z",
   "counts": {
-    "active": 10,
-    "recent": 6,
+    "active": 9,
+    "recent": 7,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "so i will run a fable 5 session to go through everything in the desktop and organize everything does this make senes",
+      "last_assistant_snippet": "Done \u2014 everything from this session is now in `/Users/halukgul/Desktop/Claude Code Sessions Recap/`, verified on disk: **Top level (start here):** - `2026-08-15_POE-worldview-audit\u2026",
+      "message_count": 314,
+      "file_size_kb": 3640,
+      "modified_ts": 1786811328.0970352,
+      "modified_iso": "2026-08-15T12:28:48.097035",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "abc2ae7e",
       "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
@@ -21,7 +37,7 @@
       "file_size_kb": 8529,
       "modified_ts": 1786811307.9033158,
       "modified_iso": "2026-08-15T12:28:27.903316",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.4
     },
     {
       "id": "28fe40c8",
@@ -37,7 +53,7 @@
       "file_size_kb": 7781,
       "modified_ts": 1786811298.1042993,
       "modified_iso": "2026-08-15T12:28:18.104299",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.6
     },
     {
       "id": "2b825ea7",
@@ -53,7 +69,7 @@
       "file_size_kb": 101669,
       "modified_ts": 1786811291.3124628,
       "modified_iso": "2026-08-15T12:28:11.312463",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.7
     },
     {
       "id": "b3c81a35",
@@ -69,7 +85,7 @@
       "file_size_kb": 7948,
       "modified_ts": 1786811221.773596,
       "modified_iso": "2026-08-15T12:27:01.773596",
-      "minutes_since_active": 1.5
+      "minutes_since_active": 1.8
     },
     {
       "id": "232ff70f",
@@ -85,7 +101,7 @@
       "file_size_kb": 2653,
       "modified_ts": 1786811214.6570096,
       "modified_iso": "2026-08-15T12:26:54.657010",
-      "minutes_since_active": 1.6
+      "minutes_since_active": 1.9
     },
     {
       "id": "882e5f1d",
@@ -101,7 +117,7 @@
       "file_size_kb": 5374,
       "modified_ts": 1786811188.6471953,
       "modified_iso": "2026-08-15T12:26:28.647195",
-      "minutes_since_active": 2.0
+      "minutes_since_active": 2.4
     },
     {
       "id": "20b948f3",
@@ -117,23 +133,7 @@
       "file_size_kb": 5000,
       "modified_ts": 1786811187.0226834,
       "modified_iso": "2026-08-15T12:26:27.022683",
-      "minutes_since_active": 2.0
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Done \u2014 everything from this session is now in `/Users/halukgul/Desktop/Claude Code Sessions Recap/`, verified on disk: **Top level (start here):** - `2026-08-15_POE-worldview-audit\u2026",
-      "message_count": 313,
-      "file_size_kb": 3638,
-      "modified_ts": 1786811103.3709223,
-      "modified_iso": "2026-08-15T12:25:03.370922",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 2.4
     },
     {
       "id": "33f45461",
@@ -149,12 +149,14 @@
       "file_size_kb": 5534,
       "modified_ts": 1786811039.8353128,
       "modified_iso": "2026-08-15T12:23:59.835313",
-      "minutes_since_active": 4.5
-    },
+      "minutes_since_active": 4.9
+    }
+  ],
+  "recent": [
     {
       "id": "1cd376c2",
       "full_id": "1cd376c2-c699-4494-8b37-507512cb2281",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -165,10 +167,8 @@
       "file_size_kb": 1277,
       "modified_ts": 1786811030.952415,
       "modified_iso": "2026-08-15T12:23:50.952415",
-      "minutes_since_active": 4.6
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.0
+    },
     {
       "id": "20276b68",
       "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
@@ -183,7 +183,7 @@
       "file_size_kb": 6736,
       "modified_ts": 1786810960.7800303,
       "modified_iso": "2026-08-15T12:22:40.780030",
-      "minutes_since_active": 5.8
+      "minutes_since_active": 6.2
     },
     {
       "id": "fd6fdfc2",
@@ -199,7 +199,7 @@
       "file_size_kb": 1931,
       "modified_ts": 1786810784.3400984,
       "modified_iso": "2026-08-15T12:19:44.340098",
-      "minutes_since_active": 8.7
+      "minutes_since_active": 9.1
     },
     {
       "id": "caaf22e2",
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 14.3
+      "minutes_since_active": 14.7
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 73.9
+      "minutes_since_active": 74.3
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 75.9
+      "minutes_since_active": 76.3
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 76.0
+      "minutes_since_active": 76.4
     }
   ]
 }
