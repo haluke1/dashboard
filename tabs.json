@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-08-15T04:06:47Z",
-  "total_tabs": 117,
-  "total_windows": 2,
+  "updated_at": "2026-08-15T04:07:52Z",
+  "total_tabs": 106,
+  "total_windows": 1,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 92,
-      "domain_count": 77,
+      "count": 80,
+      "domain_count": 72,
       "top_domains": [
-        {
-          "domain": "spankbang.com",
-          "count": 5
-        },
-        {
-          "domain": "eporner.com",
-          "count": 4
-        },
         {
           "domain": "frameset.app",
           "count": 3
@@ -28,6 +20,14 @@
         },
         {
           "domain": "promptsref.com",
+          "count": 2
+        },
+        {
+          "domain": "midlibrary.io",
+          "count": 2
+        },
+        {
+          "domain": "open.spotify.com",
           "count": 2
         }
       ]
@@ -56,6 +56,17 @@
       ]
     },
     {
+      "name": "video",
+      "count": 5,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 5
+        }
+      ]
+    },
+    {
       "name": "social",
       "count": 4,
       "domain_count": 3,
@@ -71,17 +82,6 @@
         {
           "domain": "manage.wix.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 4,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 4
         }
       ]
     },
