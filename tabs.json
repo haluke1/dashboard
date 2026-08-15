@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T15:44:04Z",
-  "total_tabs": 104,
+  "updated_at": "2026-08-15T15:45:09Z",
+  "total_tabs": 105,
   "total_windows": 1,
-  "duplicate_tabs": 5,
+  "duplicate_tabs": 6,
   "bridge_online": true,
   "categories": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 13,
+      "count": 14,
       "domain_count": 4,
       "top_domains": [
         {
@@ -47,7 +47,7 @@
         },
         {
           "domain": "vercel.com",
-          "count": 2
+          "count": 3
         },
         {
           "domain": "huggingface.co",
