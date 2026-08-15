@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-15T16:21:09Z",
+  "updated_at": "2026-08-15T16:21:16Z",
   "counts": {
-    "active": 10,
-    "recent": 6,
+    "active": 11,
+    "recent": 5,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "33f45461",
+      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
+      "last_user_msg": "so i can close this chat right",
+      "last_assistant_snippet": "Confirmed and completed \u2014 both files are now in `/Users/halukgul/Desktop/Claude Code Sessions Recap/`: - **`2026-08-15-robonuggets-claude-ecosystem-digest.md`** (17.8KB) \u2014 the full\u2026",
+      "message_count": 275,
+      "file_size_kb": 5532,
+      "modified_ts": 1786810872.08196,
+      "modified_iso": "2026-08-15T12:21:12.081960",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "2b825ea7",
       "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
@@ -21,7 +37,7 @@
       "file_size_kb": 101651,
       "modified_ts": 1786810864.6558635,
       "modified_iso": "2026-08-15T12:21:04.655864",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 0.2
     },
     {
       "id": "882e5f1d",
@@ -37,7 +53,7 @@
       "file_size_kb": 5340,
       "modified_ts": 1786810856.0930617,
       "modified_iso": "2026-08-15T12:20:56.093062",
-      "minutes_since_active": 0.2
+      "minutes_since_active": 0.3
     },
     {
       "id": "20b948f3",
@@ -53,7 +69,7 @@
       "file_size_kb": 4124,
       "modified_ts": 1786810851.445973,
       "modified_iso": "2026-08-15T12:20:51.445973",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "b3c81a35",
@@ -69,7 +85,7 @@
       "file_size_kb": 7863,
       "modified_ts": 1786810847.020464,
       "modified_iso": "2026-08-15T12:20:47.020464",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 0.5
     },
     {
       "id": "fd6fdfc2",
@@ -85,7 +101,7 @@
       "file_size_kb": 1931,
       "modified_ts": 1786810784.3400984,
       "modified_iso": "2026-08-15T12:19:44.340098",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 1.5
     },
     {
       "id": "a669c245",
@@ -101,7 +117,7 @@
       "file_size_kb": 3481,
       "modified_ts": 1786810753.341305,
       "modified_iso": "2026-08-15T12:19:13.341305",
-      "minutes_since_active": 1.9
+      "minutes_since_active": 2.0
     },
     {
       "id": "232ff70f",
@@ -117,7 +133,7 @@
       "file_size_kb": 2626,
       "modified_ts": 1786810723.2757409,
       "modified_iso": "2026-08-15T12:18:43.275741",
-      "minutes_since_active": 2.4
+      "minutes_since_active": 2.5
     },
     {
       "id": "20276b68",
@@ -133,7 +149,7 @@
       "file_size_kb": 6731,
       "modified_ts": 1786810690.3250613,
       "modified_iso": "2026-08-15T12:18:10.325061",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 3.1
     },
     {
       "id": "abc2ae7e",
@@ -149,7 +165,7 @@
       "file_size_kb": 8424,
       "modified_ts": 1786810689.2874737,
       "modified_iso": "2026-08-15T12:18:09.287474",
-      "minutes_since_active": 3.0
+      "minutes_since_active": 3.1
     },
     {
       "id": "28fe40c8",
@@ -165,7 +181,7 @@
       "file_size_kb": 7697,
       "modified_ts": 1786810640.458417,
       "modified_iso": "2026-08-15T12:17:20.458417",
-      "minutes_since_active": 3.8
+      "minutes_since_active": 3.9
     }
   ],
   "recent": [
@@ -183,23 +199,7 @@
       "file_size_kb": 1264,
       "modified_ts": 1786810541.3728514,
       "modified_iso": "2026-08-15T12:15:41.372851",
-      "minutes_since_active": 5.5
-    },
-    {
-      "id": "33f45461",
-      "full_id": "33f45461-fcf6-4abd-8762-3066adea2366",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos and create a detailed pdf of it with some useful screenshots so i can digest it better? think it through, use reasoning and give me a pdf output of the\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Confirmed and completed \u2014 both files are now in `/Users/halukgul/Desktop/Claude Code Sessions Recap/`: - **`2026-08-15-robonuggets-claude-ecosystem-digest.md`** (17.8KB) \u2014 the full\u2026",
-      "message_count": 274,
-      "file_size_kb": 5521,
-      "modified_ts": 1786810506.0178814,
-      "modified_iso": "2026-08-15T12:15:06.017881",
-      "minutes_since_active": 6.1
+      "minutes_since_active": 5.6
     },
     {
       "id": "caaf22e2",
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 7.0
+      "minutes_since_active": 7.1
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 66.6
+      "minutes_since_active": 66.7
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 68.6
+      "minutes_since_active": 68.7
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 68.7
+      "minutes_since_active": 68.8
     }
   ]
 }
