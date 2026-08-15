@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-15T15:11:32Z",
+  "updated_at": "2026-08-15T15:12:33Z",
   "counts": {
-    "active": 5,
-    "recent": 0,
-    "archived": 361,
+    "active": 2,
+    "recent": 4,
+    "archived": 360,
     "total": 366
   },
   "active": [
+    {
+      "id": "232ff70f",
+      "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "can you run this skill and generate 5 case studies combining multiple gsap skills from this for an advanced website for my ai portfolio? -> https://github.com/greensock/gsap-skills",
+      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
+      "last_assistant_snippet": "**TL;DR of this session** **What got built (3 things, all working code):** | # | Artifact | Location | State | |---|---|---|---| | 1 | Basic GSAP portfolio \u2014 5 animated \"case-study\u2026",
+      "message_count": 303,
+      "file_size_kb": 2340,
+      "modified_ts": 1786806750.727,
+      "modified_iso": "2026-08-15T11:12:30.727000",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "af3019d0",
       "full_id": "af3019d0-2dc4-486d-ade6-ab8e81d1ec77",
@@ -19,14 +35,16 @@
       "last_assistant_snippet": "Session picked back up. Here's where it stands \u2014 **nothing has been built yet.** We're paused at the design-approval gate. ## What you asked for A local \"super app\" with switchable\u2026",
       "message_count": 93,
       "file_size_kb": 461,
-      "modified_ts": 1786806505.3958027,
-      "modified_iso": "2026-08-15T11:08:25.395803",
-      "minutes_since_active": 3.1
-    },
+      "modified_ts": 1786806748.7683077,
+      "modified_iso": "2026-08-15T11:12:28.768308",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "a669c245",
       "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,12 +55,12 @@
       "file_size_kb": 3124,
       "modified_ts": 1786806431.982,
       "modified_iso": "2026-08-15T11:07:11.982000",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 5.3
     },
     {
       "id": "acd139f9",
       "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,12 +71,12 @@
       "file_size_kb": 251,
       "modified_ts": 1786806428.163,
       "modified_iso": "2026-08-15T11:07:08.163000",
-      "minutes_since_active": 4.4
+      "minutes_since_active": 5.4
     },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,12 +87,12 @@
       "file_size_kb": 7396,
       "modified_ts": 1786806421.262,
       "modified_iso": "2026-08-15T11:07:01.262000",
-      "minutes_since_active": 4.5
+      "minutes_since_active": 5.5
     },
     {
       "id": "20b948f3",
       "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -85,8 +103,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786806411.791,
       "modified_iso": "2026-08-15T11:06:51.791000",
-      "minutes_since_active": 4.7
+      "minutes_since_active": 5.7
     }
-  ],
-  "recent": []
+  ]
 }
