@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:29:35Z",
+  "updated_at": "2026-08-15T16:29:51Z",
   "counts": {
     "active": 8,
     "recent": 8,
@@ -7,6 +7,22 @@
     "total": 366
   },
   "active": [
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "so we got everything without loss and can close this session right?",
+      "last_assistant_snippet": "Let me spot-check one more section boundary in the middle of the document before confirming \u2014 I only sampled the start and end pages, not the middle, and this is exactly the kind o\u2026",
+      "message_count": 505,
+      "file_size_kb": 5401,
+      "modified_ts": 1786811390.8156483,
+      "modified_iso": "2026-08-15T12:29:50.815648",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "a669c245",
       "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
@@ -21,7 +37,7 @@
       "file_size_kb": 3651,
       "modified_ts": 1786811374.0395243,
       "modified_iso": "2026-08-15T12:29:34.039524",
-      "minutes_since_active": 0.0
+      "minutes_since_active": 0.3
     },
     {
       "id": "2b825ea7",
@@ -37,23 +53,7 @@
       "file_size_kb": 101682,
       "modified_ts": 1786811365.6977844,
       "modified_iso": "2026-08-15T12:29:25.697784",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "so we got everything without loss and can close this session right?",
-      "last_assistant_snippet": "Confirmed \u2014 everything is now in `/Users/halukgul/Desktop/Claude Code Sessions Recap/`: - **`2026-08-14-cognitive-bias-field-guide-pipeline.md`** \u2014 the full recap (updated with wha\u2026",
-      "message_count": 500,
-      "file_size_kb": 5002,
-      "modified_ts": 1786811360.5551307,
-      "modified_iso": "2026-08-15T12:29:20.555131",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.4
     },
     {
       "id": "abc2ae7e",
@@ -69,7 +69,7 @@
       "file_size_kb": 8529,
       "modified_ts": 1786811307.9033158,
       "modified_iso": "2026-08-15T12:28:27.903316",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 1.4
     },
     {
       "id": "28fe40c8",
@@ -85,7 +85,7 @@
       "file_size_kb": 7781,
       "modified_ts": 1786811298.1042993,
       "modified_iso": "2026-08-15T12:28:18.104299",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 1.5
     },
     {
       "id": "b3c81a35",
@@ -101,7 +101,7 @@
       "file_size_kb": 7948,
       "modified_ts": 1786811221.773596,
       "modified_iso": "2026-08-15T12:27:01.773596",
-      "minutes_since_active": 2.6
+      "minutes_since_active": 2.8
     },
     {
       "id": "232ff70f",
@@ -117,7 +117,7 @@
       "file_size_kb": 2653,
       "modified_ts": 1786811214.6570096,
       "modified_iso": "2026-08-15T12:26:54.657010",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 2.9
     },
     {
       "id": "882e5f1d",
@@ -133,7 +133,7 @@
       "file_size_kb": 5374,
       "modified_ts": 1786811188.6471953,
       "modified_iso": "2026-08-15T12:26:28.647195",
-      "minutes_since_active": 3.1
+      "minutes_since_active": 3.4
     }
   ],
   "recent": [
@@ -151,7 +151,7 @@
       "file_size_kb": 5534,
       "modified_ts": 1786811039.8353128,
       "modified_iso": "2026-08-15T12:23:59.835313",
-      "minutes_since_active": 5.6
+      "minutes_since_active": 5.9
     },
     {
       "id": "1cd376c2",
@@ -167,7 +167,7 @@
       "file_size_kb": 1277,
       "modified_ts": 1786811030.952415,
       "modified_iso": "2026-08-15T12:23:50.952415",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.0
     },
     {
       "id": "20276b68",
@@ -183,7 +183,7 @@
       "file_size_kb": 6736,
       "modified_ts": 1786810960.7800303,
       "modified_iso": "2026-08-15T12:22:40.780030",
-      "minutes_since_active": 6.9
+      "minutes_since_active": 7.2
     },
     {
       "id": "fd6fdfc2",
@@ -199,7 +199,7 @@
       "file_size_kb": 1931,
       "modified_ts": 1786810784.3400984,
       "modified_iso": "2026-08-15T12:19:44.340098",
-      "minutes_since_active": 9.9
+      "minutes_since_active": 10.1
     },
     {
       "id": "caaf22e2",
@@ -215,7 +215,7 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 15.4
+      "minutes_since_active": 15.7
     },
     {
       "id": "acd139f9",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 75.0
+      "minutes_since_active": 75.3
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 77.0
+      "minutes_since_active": 77.3
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 77.1
+      "minutes_since_active": 77.4
     }
   ]
 }
