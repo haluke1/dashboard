@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-15T05:29:04Z",
+  "updated_at": "2026-08-15T05:30:09Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 362,
+    "recent": 3,
+    "archived": 363,
     "total": 366
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 7396,
       "modified_ts": 1786688443.0463786,
       "modified_iso": "2026-08-14T02:20:43.046379",
-      "minutes_since_active": 1388.4
+      "minutes_since_active": 1389.4
     },
     {
       "id": "20b948f3",
@@ -38,7 +38,7 @@
       "file_size_kb": 3594,
       "modified_ts": 1786688440.4625626,
       "modified_iso": "2026-08-14T02:20:40.462563",
-      "minutes_since_active": 1388.4
+      "minutes_since_active": 1389.5
     },
     {
       "id": "2b825ea7",
@@ -54,23 +54,7 @@
       "file_size_kb": 101553,
       "modified_ts": 1786687695.2666116,
       "modified_iso": "2026-08-14T02:08:15.266612",
-      "minutes_since_active": 1400.8
-    },
-    {
-      "id": "20276b68",
-      "full_id": "20276b68-c06e-44d0-af95-315c4f74bb5c",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so we used magnific to generate images but it doesnt have the unlimited image generation option. can we use this skill https://github.com/mcp-use/mcp-use to create our custom mcp b\u2026",
-      "last_user_msg": "give me tldr of this session to see if its worthwhile to continue or not",
-      "last_assistant_snippet": "## TL;DR of this session **What got built (all working, verified):** - **`magnific-unlimited` skill** \u2014 drives Magnific's web app via Arc/CDP to generate images on **Unlimited mode\u2026",
-      "message_count": 497,
-      "file_size_kb": 6518,
-      "modified_ts": 1786685408.004,
-      "modified_iso": "2026-08-14T01:30:08.004000",
-      "minutes_since_active": 1438.9
+      "minutes_since_active": 1401.9
     }
   ]
 }
