@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-08-15T16:18:47Z",
+  "updated_at": "2026-08-15T16:19:14Z",
   "counts": {
-    "active": 13,
-    "recent": 3,
+    "active": 11,
+    "recent": 5,
     "archived": 350,
     "total": 366
   },
   "active": [
+    {
+      "id": "a669c245",
+      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
+      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Now saving the pass-2 extraction (the 22 docs \u2014 this exists only in my context since those agent outputs were wiped), the decision doc, and the main recap.",
+      "message_count": 300,
+      "file_size_kb": 3481,
+      "modified_ts": 1786810753.341305,
+      "modified_iso": "2026-08-15T12:19:13.341305",
+      "minutes_since_active": 0.0
+    },
+    {
+      "id": "20b948f3",
+      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
+      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
+      "last_assistant_snippet": "Checking now \u2014 the markdown recap is confirmed there (14,888 bytes, full content). But the actual PDF is a problem: the session's temp scratchpad from the previous session was wipe\u2026",
+      "message_count": 435,
+      "file_size_kb": 4045,
+      "modified_ts": 1786810747.9837487,
+      "modified_iso": "2026-08-15T12:19:07.983749",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "2b825ea7",
+      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
+      "last_user_msg": "why the fuck was it named like this though? -> POE-brain i dont want it to be fucking named like that i want you to name it as Haluk's Brain. also i want you to double check it cau\u2026",
+      "last_assistant_snippet": "Reconciles exactly: **9,116 + 198 = 9,314**. The atomic merge is intact, nothing lost. Now the rename.",
+      "message_count": 1056,
+      "file_size_kb": 101631,
+      "modified_ts": 1786810739.925656,
+      "modified_iso": "2026-08-15T12:18:59.925656",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "232ff70f",
       "full_id": "232ff70f-3ccc-4071-96bf-e92c77023e50",
@@ -21,23 +69,7 @@
       "file_size_kb": 2626,
       "modified_ts": 1786810723.2757409,
       "modified_iso": "2026-08-15T12:18:43.275741",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "20b948f3",
-      "full_id": "20b948f3-5a26-4546-b7c3-963a6efbd5e2",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you scrape all the cognitive biases from these two links and create a pdf with these cognitive biases with visuals and details of it and number it? if there are same principl\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Checking now \u2014 the markdown recap is confirmed there (14,888 bytes, full content). But the actual PDF is a problem: the session's temp scratchpad from the previous session was wipe\u2026",
-      "message_count": 433,
-      "file_size_kb": 4021,
-      "modified_ts": 1786810710.6526258,
-      "modified_iso": "2026-08-15T12:18:30.652626",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.5
     },
     {
       "id": "20276b68",
@@ -53,7 +85,7 @@
       "file_size_kb": 6731,
       "modified_ts": 1786810690.3250613,
       "modified_iso": "2026-08-15T12:18:10.325061",
-      "minutes_since_active": 0.6
+      "minutes_since_active": 1.1
     },
     {
       "id": "abc2ae7e",
@@ -69,23 +101,7 @@
       "file_size_kb": 8424,
       "modified_ts": 1786810689.2874737,
       "modified_iso": "2026-08-15T12:18:09.287474",
-      "minutes_since_active": 0.6
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "why the fuck was it named like this though? -> POE-brain i dont want it to be fucking named like that i want you to name it as Haluk's Brain. also i want you to double check it cau\u2026",
-      "last_assistant_snippet": "False alarm \u2014 I was comparing against a stale number. The header says **\"atomic 1:1 \u2014 no summarization\"**, which is the corrected re-merge done after you caught the 30-item compres\u2026",
-      "message_count": 1053,
-      "file_size_kb": 101622,
-      "modified_ts": 1786810677.8792238,
-      "modified_iso": "2026-08-15T12:17:57.879224",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 1.1
     },
     {
       "id": "28fe40c8",
@@ -101,23 +117,7 @@
       "file_size_kb": 7697,
       "modified_ts": 1786810640.458417,
       "modified_iso": "2026-08-15T12:17:20.458417",
-      "minutes_since_active": 1.4
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "were you able to put it in this folder with all the details? make sure you put every detail and information or pdf -> /Users/halukgul/Desktop/Claude Code Sessions Recap",
-      "last_assistant_snippet": "Both workflow journals survived \u2014 the 13 worldview reports and the 19-doc extraction are fully recoverable. Building the local folder now.",
-      "message_count": 296,
-      "file_size_kb": 3397,
-      "modified_ts": 1786810591.732015,
-      "modified_iso": "2026-08-15T12:16:31.732015",
-      "minutes_since_active": 2.3
+      "minutes_since_active": 1.9
     },
     {
       "id": "1cd376c2",
@@ -133,7 +133,7 @@
       "file_size_kb": 1264,
       "modified_ts": 1786810541.3728514,
       "modified_iso": "2026-08-15T12:15:41.372851",
-      "minutes_since_active": 3.1
+      "minutes_since_active": 3.6
     },
     {
       "id": "33f45461",
@@ -149,7 +149,7 @@
       "file_size_kb": 5521,
       "modified_ts": 1786810506.0178814,
       "modified_iso": "2026-08-15T12:15:06.017881",
-      "minutes_since_active": 3.7
+      "minutes_since_active": 4.1
     },
     {
       "id": "882e5f1d",
@@ -165,7 +165,7 @@
       "file_size_kb": 5338,
       "modified_ts": 1786810470.9730346,
       "modified_iso": "2026-08-15T12:14:30.973035",
-      "minutes_since_active": 4.3
+      "minutes_since_active": 4.7
     },
     {
       "id": "b3c81a35",
@@ -181,12 +181,14 @@
       "file_size_kb": 7856,
       "modified_ts": 1786810467.6151755,
       "modified_iso": "2026-08-15T12:14:27.615175",
-      "minutes_since_active": 4.3
-    },
+      "minutes_since_active": 4.8
+    }
+  ],
+  "recent": [
     {
       "id": "caaf22e2",
       "full_id": "caaf22e2-ef12-4c84-9581-d78a4a411f2f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -197,12 +199,12 @@
       "file_size_kb": 5712,
       "modified_ts": 1786810449.2920005,
       "modified_iso": "2026-08-15T12:14:09.292001",
-      "minutes_since_active": 4.6
+      "minutes_since_active": 5.1
     },
     {
       "id": "fd6fdfc2",
       "full_id": "fd6fdfc2-7024-4088-8e8c-584f30cbdca5",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -213,10 +215,8 @@
       "file_size_kb": 1930,
       "modified_ts": 1786810431.5920928,
       "modified_iso": "2026-08-15T12:13:51.592093",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.4
+    },
     {
       "id": "acd139f9",
       "full_id": "acd139f9-5b4a-4fdc-9466-dcea35727a3b",
@@ -231,7 +231,7 @@
       "file_size_kb": 251,
       "modified_ts": 1786806872.5738544,
       "modified_iso": "2026-08-15T11:14:32.573854",
-      "minutes_since_active": 64.2
+      "minutes_since_active": 64.7
     },
     {
       "id": "45709c45",
@@ -247,7 +247,7 @@
       "file_size_kb": 1179,
       "modified_ts": 1786806754.234,
       "modified_iso": "2026-08-15T11:12:34.234000",
-      "minutes_since_active": 66.2
+      "minutes_since_active": 66.7
     },
     {
       "id": "af3019d0",
@@ -263,7 +263,7 @@
       "file_size_kb": 461,
       "modified_ts": 1786806748.7683077,
       "modified_iso": "2026-08-15T11:12:28.768308",
-      "minutes_since_active": 66.3
+      "minutes_since_active": 66.8
     }
   ]
 }
