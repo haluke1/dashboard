@@ -1,15 +1,19 @@
 {
-  "updated_at": "2026-08-16T19:49:52Z",
-  "total_tabs": 97,
+  "updated_at": "2026-08-16T19:50:57Z",
+  "total_tabs": 101,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 73,
-      "domain_count": 62,
+      "count": 76,
+      "domain_count": 63,
       "top_domains": [
+        {
+          "domain": "youmind.com",
+          "count": 4
+        },
         {
           "domain": "frameset.app",
           "count": 3
@@ -25,21 +29,17 @@
         {
           "domain": "promptsref.com",
           "count": 2
-        },
-        {
-          "domain": "keep.google.com",
-          "count": 2
         }
       ]
     },
     {
       "name": "ai-dev",
-      "count": 16,
+      "count": 17,
       "domain_count": 4,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 9
+          "count": 10
         },
         {
           "domain": "claude.ai",
