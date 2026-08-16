@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-08-16T23:20:39Z",
-  "total_tabs": 102,
+  "updated_at": "2026-08-16T23:21:44Z",
+  "total_tabs": 103,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 78,
+      "count": 79,
       "domain_count": 65,
       "top_domains": [
         {
           "domain": "frameset.app",
+          "count": 3
+        },
+        {
+          "domain": "google.com",
           "count": 3
         },
         {
@@ -20,10 +24,6 @@
         },
         {
           "domain": "cosmos.so",
-          "count": 2
-        },
-        {
-          "domain": "google.com",
           "count": 2
         },
         {
