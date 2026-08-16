@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-16T17:05:41Z",
+  "updated_at": "2026-08-16T17:06:51Z",
   "counts": {
     "active": 0,
-    "recent": 3,
-    "archived": 364,
+    "recent": 2,
+    "archived": 365,
     "total": 367
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 247,
       "modified_ts": 1786899188.0717175,
       "modified_iso": "2026-08-16T12:53:08.071718",
-      "minutes_since_active": 12.5
+      "minutes_since_active": 13.7
     },
     {
       "id": "28fe40c8",
@@ -38,23 +38,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 42.3
-    },
-    {
-      "id": "2b825ea7",
-      "full_id": "2b825ea7-7a61-4184-bb82-c6c7a5c6eae1",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you analyze the whole desktop and our whole mac os system as well as claude outputs to tell me how we should optimally organize it? do a deep dive and deep analysis and tell \u2026",
-      "last_user_msg": "so is best way to have claude apply these git changes updated to folder + github and then vercel ? what is the best path to move towards?",
-      "last_assistant_snippet": "Scan changes the answer. **No API keys or private keys** \u2014 good. But `12-personal-data.md` has **136 email addresses and a password field**, and `_source.md` has **147 emails**. Mo\u2026",
-      "message_count": 1095,
-      "file_size_kb": 101741,
-      "modified_ts": 1786813587.137353,
-      "modified_iso": "2026-08-15T13:06:27.137353",
-      "minutes_since_active": 1439.2
+      "minutes_since_active": 43.5
     }
   ]
 }
