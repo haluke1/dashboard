@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-08-16T04:17:30Z",
-  "total_tabs": 114,
+  "updated_at": "2026-08-16T04:18:34Z",
+  "total_tabs": 115,
   "total_windows": 2,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 80,
+      "count": 81,
       "domain_count": 72,
       "top_domains": [
         {
           "domain": "frameset.app",
           "count": 3
+        },
+        {
+          "domain": "google.com",
+          "count": 2
         },
         {
           "domain": "cosmos.so",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "midlibrary.io",
-          "count": 2
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 2
         }
       ]
