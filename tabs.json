@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T04:45:12Z",
-  "total_tabs": 114,
+  "updated_at": "2026-08-16T04:46:17Z",
+  "total_tabs": 116,
   "total_windows": 2,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -57,31 +57,12 @@
     },
     {
       "name": "video",
-      "count": 7,
+      "count": 10,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 7
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 4,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "motionvfx.com",
-          "count": 2
-        },
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
-          "count": 1
+          "count": 10
         }
       ]
     },
@@ -100,6 +81,21 @@
         },
         {
           "domain": "aprildunford.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 3,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "motionvfx.com",
+          "count": 2
+        },
+        {
+          "domain": "instagram.com",
           "count": 1
         }
       ]
