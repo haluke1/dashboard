@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-16T16:47:21Z",
+  "updated_at": "2026-08-16T16:48:14Z",
   "counts": {
     "active": 0,
-    "recent": 5,
-    "archived": 361,
+    "recent": 4,
+    "archived": 362,
     "total": 366
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 24.0
+      "minutes_since_active": 24.9
     },
     {
       "id": "2b825ea7",
@@ -38,7 +38,7 @@
       "file_size_kb": 101741,
       "modified_ts": 1786813587.137353,
       "modified_iso": "2026-08-15T13:06:27.137353",
-      "minutes_since_active": 1420.9
+      "minutes_since_active": 1421.8
     },
     {
       "id": "abc2ae7e",
@@ -54,7 +54,7 @@
       "file_size_kb": 8601,
       "modified_ts": 1786813114.7251713,
       "modified_iso": "2026-08-15T12:58:34.725171",
-      "minutes_since_active": 1428.8
+      "minutes_since_active": 1429.7
     },
     {
       "id": "a669c245",
@@ -70,23 +70,7 @@
       "file_size_kb": 3662,
       "modified_ts": 1786812506.4340274,
       "modified_iso": "2026-08-15T12:48:26.434027",
-      "minutes_since_active": 1438.9
-    },
-    {
-      "id": "b3c81a35",
-      "full_id": "b3c81a35-7aff-476b-a5ea-03c673b78b75",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you use the watch skill and watch all these videos and give me tldr and screenshots of important areas as well to get the point across? they are about filmmaking and cinemato\u2026",
-      "last_user_msg": "so i can close this one right",
-      "last_assistant_snippet": "Yes \u2014 nothing's pending, everything's saved and indexed. Safe to close.",
-      "message_count": 1889,
-      "file_size_kb": 7957,
-      "modified_ts": 1786812443.2735968,
-      "modified_iso": "2026-08-15T12:47:23.273597",
-      "minutes_since_active": 1440.0
+      "minutes_since_active": 1439.8
     }
   ]
 }
