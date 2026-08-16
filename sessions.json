@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-16T16:25:33Z",
+  "updated_at": "2026-08-16T16:26:36Z",
   "counts": {
     "active": 1,
-    "recent": 7,
-    "archived": 358,
+    "recent": 6,
+    "archived": 359,
     "total": 366
   },
   "active": [
@@ -21,7 +21,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 2.2
+      "minutes_since_active": 3.3
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 101741,
       "modified_ts": 1786813587.137353,
       "modified_iso": "2026-08-15T13:06:27.137353",
-      "minutes_since_active": 1399.1
+      "minutes_since_active": 1400.2
     },
     {
       "id": "abc2ae7e",
@@ -55,7 +55,7 @@
       "file_size_kb": 8601,
       "modified_ts": 1786813114.7251713,
       "modified_iso": "2026-08-15T12:58:34.725171",
-      "minutes_since_active": 1407.0
+      "minutes_since_active": 1408.0
     },
     {
       "id": "a669c245",
@@ -71,7 +71,7 @@
       "file_size_kb": 3662,
       "modified_ts": 1786812506.4340274,
       "modified_iso": "2026-08-15T12:48:26.434027",
-      "minutes_since_active": 1417.1
+      "minutes_since_active": 1418.2
     },
     {
       "id": "b3c81a35",
@@ -87,7 +87,7 @@
       "file_size_kb": 7957,
       "modified_ts": 1786812443.2735968,
       "modified_iso": "2026-08-15T12:47:23.273597",
-      "minutes_since_active": 1418.2
+      "minutes_since_active": 1419.2
     },
     {
       "id": "20b948f3",
@@ -103,7 +103,7 @@
       "file_size_kb": 5407,
       "modified_ts": 1786812376.319,
       "modified_iso": "2026-08-15T12:46:16.319000",
-      "minutes_since_active": 1419.3
+      "minutes_since_active": 1420.3
     },
     {
       "id": "232ff70f",
@@ -119,23 +119,7 @@
       "file_size_kb": 2710,
       "modified_ts": 1786812136.040818,
       "modified_iso": "2026-08-15T12:42:16.040818",
-      "minutes_since_active": 1423.3
-    },
-    {
-      "id": "882e5f1d",
-      "full_id": "882e5f1d-3ab1-4bf9-9f2c-a46db3b13124",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "could you watch these videos from https://www.youtube.com/@taoprompts/videos and give me a pdf of the content there (dont include the how to create an ai clone video) - i want scre\u2026",
-      "last_user_msg": "so i can close this session right",
-      "last_assistant_snippet": "Cleaned up \u2014 orphan memory files trashed, index entry added to MEMORY.md pointing at the Desktop recap. Everything from this session is now in one place with no dangling duplicates\u2026",
-      "message_count": 271,
-      "file_size_kb": 5374,
-      "modified_ts": 1786811188.6471953,
-      "modified_iso": "2026-08-15T12:26:28.647195",
-      "minutes_since_active": 1439.1
+      "minutes_since_active": 1424.3
     }
   ]
 }
