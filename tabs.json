@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T19:37:55Z",
+  "updated_at": "2026-08-16T19:39:00Z",
   "total_tabs": 92,
   "total_windows": 1,
   "duplicate_tabs": 9,
@@ -8,7 +8,7 @@
     {
       "name": "other",
       "count": 71,
-      "domain_count": 62,
+      "domain_count": 61,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -19,15 +19,15 @@
           "count": 2
         },
         {
+          "domain": "google.com",
+          "count": 2
+        },
+        {
           "domain": "promptsref.com",
           "count": 2
         },
         {
           "domain": "keep.google.com",
-          "count": 2
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 2
         }
       ]
