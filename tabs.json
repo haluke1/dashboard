@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:25:17Z",
+  "updated_at": "2026-08-16T21:26:50Z",
   "total_tabs": 103,
   "total_windows": 1,
   "duplicate_tabs": 7,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 79,
-      "domain_count": 66,
+      "count": 78,
+      "domain_count": 65,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -53,8 +53,8 @@
     },
     {
       "name": "social",
-      "count": 3,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "reddit.com",
@@ -66,6 +66,10 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "tiktok.com",
           "count": 1
         }
       ]
