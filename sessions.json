@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-16T23:46:47Z",
+  "updated_at": "2026-08-16T23:47:52Z",
   "counts": {
-    "active": 1,
-    "recent": 1,
+    "active": 0,
+    "recent": 2,
     "archived": 365,
     "total": 367
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/reports/leverage-laws-2026-08",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 3278,
       "modified_ts": 1786923755.6729228,
       "modified_iso": "2026-08-16T19:42:35.672923",
-      "minutes_since_active": 4.2
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.3
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -39,7 +38,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 443.5
+      "minutes_since_active": 444.5
     }
   ]
 }
