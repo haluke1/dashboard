@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T19:35:44Z",
-  "total_tabs": 94,
+  "updated_at": "2026-08-16T19:36:49Z",
+  "total_tabs": 92,
   "total_windows": 1,
   "duplicate_tabs": 9,
   "bridge_online": true,
@@ -34,8 +34,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 16,
-      "domain_count": 5,
+      "count": 15,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "github.com",
@@ -50,26 +50,7 @@
           "count": 2
         },
         {
-          "domain": "huggingface.co",
-          "count": 1
-        },
-        {
           "domain": "chatgpt.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "aprildunford.substack.com",
           "count": 1
         }
       ]
@@ -107,6 +88,17 @@
       "top_domains": [
         {
           "domain": "instagram.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "aprildunford.substack.com",
           "count": 1
         }
       ]
