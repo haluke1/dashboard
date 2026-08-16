@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T18:30:24Z",
-  "total_tabs": 99,
+  "updated_at": "2026-08-16T18:31:29Z",
+  "total_tabs": 97,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -56,29 +56,6 @@
       ]
     },
     {
-      "name": "productivity",
-      "count": 4,
-      "domain_count": 4,
-      "top_domains": [
-        {
-          "domain": "docs.google.com",
-          "count": 1
-        },
-        {
-          "domain": "mail.google.com",
-          "count": 1
-        },
-        {
-          "domain": "miro.com",
-          "count": 1
-        },
-        {
-          "domain": "developers.miro.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "video",
       "count": 3,
       "domain_count": 1,
@@ -100,6 +77,21 @@
         },
         {
           "domain": "aprildunford.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "productivity",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "docs.google.com",
+          "count": 1
+        },
+        {
+          "domain": "mail.google.com",
           "count": 1
         }
       ]
