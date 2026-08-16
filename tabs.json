@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-16T19:55:23Z",
-  "total_tabs": 103,
+  "updated_at": "2026-08-16T19:56:28Z",
+  "total_tabs": 101,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 79,
-      "domain_count": 65,
+      "count": 78,
+      "domain_count": 64,
       "top_domains": [
         {
           "domain": "youmind.com",
@@ -34,8 +34,8 @@
     },
     {
       "name": "ai-dev",
-      "count": 16,
-      "domain_count": 4,
+      "count": 15,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "github.com",
@@ -47,10 +47,6 @@
         },
         {
           "domain": "vercel.com",
-          "count": 1
-        },
-        {
-          "domain": "perplexity.ai",
           "count": 1
         }
       ]
