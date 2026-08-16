@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-16T16:58:08Z",
+  "updated_at": "2026-08-16T16:59:13Z",
   "counts": {
-    "active": 1,
+    "active": 0,
     "recent": 3,
-    "archived": 363,
+    "archived": 364,
     "total": 367
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 247,
       "modified_ts": 1786899188.0717175,
       "modified_iso": "2026-08-16T12:53:08.071718",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.1
+    },
     {
       "id": "28fe40c8",
       "full_id": "28fe40c8-6bd9-4500-b51d-5f900ebc72b5",
@@ -39,7 +38,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 34.8
+      "minutes_since_active": 35.9
     },
     {
       "id": "2b825ea7",
@@ -55,23 +54,7 @@
       "file_size_kb": 101741,
       "modified_ts": 1786813587.137353,
       "modified_iso": "2026-08-15T13:06:27.137353",
-      "minutes_since_active": 1431.7
-    },
-    {
-      "id": "abc2ae7e",
-      "full_id": "abc2ae7e-3b3c-4329-82f1-378d334457a9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "analyze this doc and deeply embed the logic and philosophy, thinking, reasoning of it because its my detailed cleaned mentality and brain and tell me what you think -> /Users/haluk\u2026",
-      "last_user_msg": "so can i close this chat",
-      "last_assistant_snippet": "**Yes \u2014 close it.** Everything is on disk and nothing depends on this chat staying open: - **Recap** (md + PDF, now in sync) \u2192 `~/Desktop/Claude Code Sessions Recap/2026-08-15_POE-\u2026",
-      "message_count": 1565,
-      "file_size_kb": 8601,
-      "modified_ts": 1786813114.7251713,
-      "modified_iso": "2026-08-15T12:58:34.725171",
-      "minutes_since_active": 1439.6
+      "minutes_since_active": 1432.8
     }
   ]
 }
