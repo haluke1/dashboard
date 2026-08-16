@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T20:07:17Z",
-  "total_tabs": 104,
+  "updated_at": "2026-08-16T20:08:33Z",
+  "total_tabs": 103,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 81,
+      "count": 80,
       "domain_count": 65,
       "top_domains": [
-        {
-          "domain": "prompts.chat",
-          "count": 4
-        },
         {
           "domain": "frameset.app",
           "count": 3
         },
         {
           "domain": "youmind.com",
+          "count": 3
+        },
+        {
+          "domain": "prompts.chat",
           "count": 3
         },
         {
