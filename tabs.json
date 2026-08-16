@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T20:09:37Z",
-  "total_tabs": 105,
+  "updated_at": "2026-08-16T20:10:42Z",
+  "total_tabs": 103,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -34,16 +34,16 @@
     },
     {
       "name": "ai-dev",
-      "count": 17,
+      "count": 15,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "claude.ai",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "vercel.com",
