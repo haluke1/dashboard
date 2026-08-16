@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T15:55:17Z",
-  "total_tabs": 113,
+  "updated_at": "2026-08-16T15:56:23Z",
+  "total_tabs": 112,
   "total_windows": 2,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -67,25 +67,6 @@
       ]
     },
     {
-      "name": "research",
-      "count": 3,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "en.wikipedia.org",
-          "count": 1
-        },
-        {
-          "domain": "james-palm.medium.com",
-          "count": 1
-        },
-        {
-          "domain": "aprildunford.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "social",
       "count": 3,
       "domain_count": 2,
@@ -96,6 +77,21 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 2,
+      "domain_count": 2,
+      "top_domains": [
+        {
+          "domain": "james-palm.medium.com",
+          "count": 1
+        },
+        {
+          "domain": "aprildunford.substack.com",
           "count": 1
         }
       ]
