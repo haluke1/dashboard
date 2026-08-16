@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-16T16:48:14Z",
+  "updated_at": "2026-08-16T16:48:56Z",
   "counts": {
     "active": 0,
-    "recent": 4,
-    "archived": 362,
+    "recent": 3,
+    "archived": 363,
     "total": 366
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 24.9
+      "minutes_since_active": 25.6
     },
     {
       "id": "2b825ea7",
@@ -38,7 +38,7 @@
       "file_size_kb": 101741,
       "modified_ts": 1786813587.137353,
       "modified_iso": "2026-08-15T13:06:27.137353",
-      "minutes_since_active": 1421.8
+      "minutes_since_active": 1422.5
     },
     {
       "id": "abc2ae7e",
@@ -54,23 +54,7 @@
       "file_size_kb": 8601,
       "modified_ts": 1786813114.7251713,
       "modified_iso": "2026-08-15T12:58:34.725171",
-      "minutes_since_active": 1429.7
-    },
-    {
-      "id": "a669c245",
-      "full_id": "a669c245-7feb-4fb1-b015-b28c066953bb",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "~/Desktop/POE-brain/ I want you to really analyze this whole thing I created incredibly in depth, and I want you to act as a smarter clone of me. I created this to give you more co\u2026",
-      "last_user_msg": "okey so closing this session",
-      "last_assistant_snippet": "Closed. The CLOSE ritual, in under two minutes: **Handoff artifact:** everything durable from this session lives in `~/Desktop/Claude Code Sessions Recap/` \u2014 the recap plus the mat\u2026",
-      "message_count": 321,
-      "file_size_kb": 3662,
-      "modified_ts": 1786812506.4340274,
-      "modified_iso": "2026-08-15T12:48:26.434027",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1430.3
     }
   ]
 }
