@@ -1,18 +1,22 @@
 {
-  "updated_at": "2026-08-16T17:54:35Z",
-  "total_tabs": 96,
+  "updated_at": "2026-08-16T17:55:39Z",
+  "total_tabs": 97,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 74,
+      "count": 75,
       "domain_count": 66,
       "top_domains": [
         {
           "domain": "frameset.app",
           "count": 3
+        },
+        {
+          "domain": "samolevsky.com",
+          "count": 2
         },
         {
           "domain": "cosmos.so",
@@ -24,10 +28,6 @@
         },
         {
           "domain": "midlibrary.io",
-          "count": 2
-        },
-        {
-          "domain": "open.spotify.com",
           "count": 2
         }
       ]
