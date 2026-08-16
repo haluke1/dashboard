@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T03:55:52Z",
-  "total_tabs": 120,
+  "updated_at": "2026-08-16T03:56:58Z",
+  "total_tabs": 115,
   "total_windows": 2,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -56,13 +56,24 @@
       ]
     },
     {
+      "name": "video",
+      "count": 7,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 7
+        }
+      ]
+    },
+    {
       "name": "social",
-      "count": 11,
+      "count": 6,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
-          "count": 8
+          "count": 3
         },
         {
           "domain": "motionvfx.com",
@@ -71,17 +82,6 @@
         {
           "domain": "instagram.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 7,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 7
         }
       ]
     },
