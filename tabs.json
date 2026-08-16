@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T19:40:04Z",
-  "total_tabs": 96,
+  "updated_at": "2026-08-16T19:41:10Z",
+  "total_tabs": 95,
   "total_windows": 1,
-  "duplicate_tabs": 9,
+  "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "ai-dev",
       "count": 16,
-      "domain_count": 4,
+      "domain_count": 5,
       "top_domains": [
         {
           "domain": "github.com",
@@ -47,7 +47,11 @@
         },
         {
           "domain": "vercel.com",
-          "count": 2
+          "count": 1
+        },
+        {
+          "domain": "perplexity.ai",
+          "count": 1
         },
         {
           "domain": "chatgpt.com",
@@ -75,21 +79,6 @@
       ]
     },
     {
-      "name": "research",
-      "count": 2,
-      "domain_count": 2,
-      "top_domains": [
-        {
-          "domain": "medium.com",
-          "count": 1
-        },
-        {
-          "domain": "aprildunford.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
       "name": "productivity",
       "count": 2,
       "domain_count": 2,
@@ -112,6 +101,17 @@
         {
           "domain": "youtube.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "aprildunford.substack.com",
+          "count": 1
         }
       ]
     }
