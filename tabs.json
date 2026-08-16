@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-16T20:54:22Z",
-  "total_tabs": 106,
+  "updated_at": "2026-08-16T20:55:27Z",
+  "total_tabs": 103,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -53,12 +53,12 @@
     },
     {
       "name": "social",
-      "count": 5,
+      "count": 3,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
-          "count": 3
+          "count": 1
         },
         {
           "domain": "facebook.com",
@@ -72,12 +72,12 @@
     },
     {
       "name": "video",
-      "count": 4,
+      "count": 3,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 4
+          "count": 3
         }
       ]
     },
