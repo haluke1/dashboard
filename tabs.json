@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-16T20:10:42Z",
-  "total_tabs": 103,
+  "updated_at": "2026-08-16T20:11:47Z",
+  "total_tabs": 102,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 80,
+      "count": 79,
       "domain_count": 65,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
-          "domain": "prompts.chat",
-          "count": 3
-        },
-        {
           "domain": "cosmos.so",
           "count": 2
         },
         {
           "domain": "google.com",
+          "count": 2
+        },
+        {
+          "domain": "promptsref.com",
           "count": 2
         }
       ]
