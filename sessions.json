@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-17T09:49:41Z",
+  "updated_at": "2026-08-17T09:50:46Z",
   "counts": {
-    "active": 1,
-    "recent": 5,
+    "active": 0,
+    "recent": 6,
     "archived": 365,
     "total": 371
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "3b1653bd",
       "full_id": "3b1653bd-931a-49d1-a55e-a00a702b033f",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 533,
       "modified_ts": 1786959883.3837059,
       "modified_iso": "2026-08-17T05:44:43.383706",
-      "minutes_since_active": 5.0
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -39,7 +38,7 @@
       "file_size_kb": 6632,
       "modified_ts": 1786947531.2185884,
       "modified_iso": "2026-08-17T02:18:51.218588",
-      "minutes_since_active": 210.8
+      "minutes_since_active": 211.9
     },
     {
       "id": "be5075ca",
@@ -55,7 +54,7 @@
       "file_size_kb": 842,
       "modified_ts": 1786945820.415727,
       "modified_iso": "2026-08-17T01:50:20.415727",
-      "minutes_since_active": 239.3
+      "minutes_since_active": 240.4
     },
     {
       "id": "7a22140b",
@@ -71,7 +70,7 @@
       "file_size_kb": 538,
       "modified_ts": 1786944605.703232,
       "modified_iso": "2026-08-17T01:30:05.703232",
-      "minutes_since_active": 259.6
+      "minutes_since_active": 260.7
     },
     {
       "id": "3e44b128",
@@ -87,7 +86,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 264.5
+      "minutes_since_active": 265.6
     },
     {
       "id": "28fe40c8",
@@ -103,7 +102,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 1046.4
+      "minutes_since_active": 1047.4
     }
   ]
 }
