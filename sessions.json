@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T17:52:13Z",
+  "updated_at": "2026-08-17T17:53:00Z",
   "counts": {
-    "active": 3,
-    "recent": 3,
+    "active": 2,
+    "recent": 4,
     "archived": 366,
     "total": 372
   },
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "continue \u2014 ALMA",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "All sources found. Writing the containment tester now.",
-      "message_count": 147,
-      "file_size_kb": 997,
-      "modified_ts": 1786989101.7218788,
-      "modified_iso": "2026-08-17T13:51:41.721879",
-      "minutes_since_active": 0.5
+      "last_assistant_snippet": "**The zero-loss verification is done and the ALMA module passes.** All 16 pulled regions containment-tested against their sources: every one PASSES, the Ottoman firewall held with \u2026",
+      "message_count": 158,
+      "file_size_kb": 1035,
+      "modified_ts": 1786989178.7430515,
+      "modified_iso": "2026-08-17T13:52:58.743052",
+      "minutes_since_active": 0.0
     },
     {
       "id": "be5075ca",
@@ -32,17 +32,19 @@
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "Now the harness contradictions. Reading both files so I can edit them:",
-      "message_count": 161,
-      "file_size_kb": 1105,
-      "modified_ts": 1786989061.377179,
-      "modified_iso": "2026-08-17T13:51:01.377179",
-      "minutes_since_active": 1.2
-    },
+      "last_assistant_snippet": "The `rm`/`cd` combo triggered a denial \u2014 retrying without those:",
+      "message_count": 177,
+      "file_size_kb": 1162,
+      "modified_ts": 1786989165.5888886,
+      "modified_iso": "2026-08-17T13:52:45.588889",
+      "minutes_since_active": 0.3
+    }
+  ],
+  "recent": [
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Desktop/reports/master-brain-reorg-2026-08",
       "git_branch": "master",
       "permission_mode": null,
@@ -53,10 +55,8 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.7
+    },
     {
       "id": "05bfbe81",
       "full_id": "05bfbe81-b6cb-4721-a732-56ea54f25003",
@@ -71,7 +71,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 5.9
+      "minutes_since_active": 6.7
     },
     {
       "id": "3b1653bd",
@@ -87,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 413.4
+      "minutes_since_active": 414.2
     },
     {
       "id": "3e44b128",
@@ -103,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 747.0
+      "minutes_since_active": 747.8
     }
   ]
 }
