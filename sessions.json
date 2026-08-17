@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-17T18:08:31Z",
+  "updated_at": "2026-08-17T18:09:36Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 366,
     "total": 372
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "All delegable fixes from the review are executed and verified. Here's the wrap-up. ## What just got fixed (11 items) **Truth restored to your files:** - The **fabricated MOTHER rul\u2026",
       "message_count": 187,
       "file_size_kb": 1194,
-      "modified_ts": 1786989233.4427707,
-      "modified_iso": "2026-08-17T13:53:53.442771",
-      "minutes_since_active": 14.6
-    },
+      "modified_ts": 1786990133.7417018,
+      "modified_iso": "2026-08-17T14:08:53.741702",
+      "minutes_since_active": 0.7
+    }
+  ],
+  "recent": [
     {
       "id": "7a22140b",
       "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
@@ -38,7 +39,7 @@
       "file_size_kb": 1035,
       "modified_ts": 1786989178.7430515,
       "modified_iso": "2026-08-17T13:52:58.743052",
-      "minutes_since_active": 15.5
+      "minutes_since_active": 16.6
     },
     {
       "id": "c2fdeca1",
@@ -54,7 +55,7 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 21.2
+      "minutes_since_active": 22.3
     },
     {
       "id": "05bfbe81",
@@ -70,7 +71,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 22.2
+      "minutes_since_active": 23.3
     },
     {
       "id": "3b1653bd",
@@ -86,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 429.7
+      "minutes_since_active": 430.8
     },
     {
       "id": "3e44b128",
@@ -102,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 763.4
+      "minutes_since_active": 764.4
     }
   ]
 }
