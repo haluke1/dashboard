@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-17T04:14:29Z",
-  "total_tabs": 111,
+  "updated_at": "2026-08-17T04:15:34Z",
+  "total_tabs": 109,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 79,
+      "count": 78,
       "domain_count": 65,
       "top_domains": [
         {
           "domain": "frameset.app",
-          "count": 3
-        },
-        {
-          "domain": "google.com",
           "count": 3
         },
         {
@@ -24,6 +20,10 @@
         },
         {
           "domain": "cosmos.so",
+          "count": 2
+        },
+        {
+          "domain": "google.com",
           "count": 2
         },
         {
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 11,
+      "count": 10,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 11
+          "count": 10
         }
       ]
     },
