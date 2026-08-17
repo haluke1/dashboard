@@ -1,17 +1,16 @@
 {
-  "updated_at": "2026-08-17T19:48:53Z",
+  "updated_at": "2026-08-17T19:49:58Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 1,
+    "recent": 6,
     "archived": 366,
     "total": 373
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "1301b34d",
       "full_id": "1301b34d-40a0-4108-9e44-8569ada5e126",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -20,10 +19,12 @@
       "last_assistant_snippet": "census paused \u2014 STOP file present. **Details:** `census/STOP` exists with content `COMPLETE`, written 2026-08-17 06:43. That's the terminal state the brief defines, not a pause: th\u2026",
       "message_count": 10,
       "file_size_kb": 183,
-      "modified_ts": 1786995245.091771,
-      "modified_iso": "2026-08-17T15:34:05.091771",
-      "minutes_since_active": 14.8
-    },
+      "modified_ts": 1786996145.3361382,
+      "modified_iso": "2026-08-17T15:49:05.336138",
+      "minutes_since_active": 0.9
+    }
+  ],
+  "recent": [
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
@@ -38,7 +39,7 @@
       "file_size_kb": 1194,
       "modified_ts": 1786990133.7417018,
       "modified_iso": "2026-08-17T14:08:53.741702",
-      "minutes_since_active": 100.0
+      "minutes_since_active": 101.1
     },
     {
       "id": "7a22140b",
@@ -54,7 +55,7 @@
       "file_size_kb": 1035,
       "modified_ts": 1786989178.7430515,
       "modified_iso": "2026-08-17T13:52:58.743052",
-      "minutes_since_active": 115.9
+      "minutes_since_active": 117.0
     },
     {
       "id": "c2fdeca1",
@@ -70,7 +71,7 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 121.5
+      "minutes_since_active": 122.6
     },
     {
       "id": "05bfbe81",
@@ -86,7 +87,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 122.6
+      "minutes_since_active": 123.7
     },
     {
       "id": "3b1653bd",
@@ -102,7 +103,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 530.1
+      "minutes_since_active": 531.2
     },
     {
       "id": "3e44b128",
@@ -118,7 +119,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 863.7
+      "minutes_since_active": 864.8
     }
   ]
 }
