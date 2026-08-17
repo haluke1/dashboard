@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-17T17:51:07Z",
+  "updated_at": "2026-08-17T17:52:13Z",
   "counts": {
-    "active": 4,
-    "recent": 2,
+    "active": 3,
+    "recent": 3,
     "archived": 366,
     "total": 372
   },
   "active": [
+    {
+      "id": "7a22140b",
+      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "continue \u2014 ALMA",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "All sources found. Writing the containment tester now.",
+      "message_count": 147,
+      "file_size_kb": 997,
+      "modified_ts": 1786989101.7218788,
+      "modified_iso": "2026-08-17T13:51:41.721879",
+      "minutes_since_active": 0.5
+    },
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
@@ -21,23 +37,7 @@
       "file_size_kb": 1105,
       "modified_ts": 1786989061.377179,
       "modified_iso": "2026-08-17T13:51:01.377179",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "7a22140b",
-      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "continue \u2014 ALMA",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "All sources found. Writing the containment tester now.",
-      "message_count": 133,
-      "file_size_kb": 968,
-      "modified_ts": 1786989060.8706193,
-      "modified_iso": "2026-08-17T13:51:00.870619",
-      "minutes_since_active": 0.1
+      "minutes_since_active": 1.2
     },
     {
       "id": "c2fdeca1",
@@ -53,12 +53,14 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 3.8
-    },
+      "minutes_since_active": 4.9
+    }
+  ],
+  "recent": [
     {
       "id": "05bfbe81",
       "full_id": "05bfbe81-b6cb-4721-a732-56ea54f25003",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -69,10 +71,8 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 4.8
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.9
+    },
     {
       "id": "3b1653bd",
       "full_id": "3b1653bd-931a-49d1-a55e-a00a702b033f",
@@ -87,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 412.3
+      "minutes_since_active": 413.4
     },
     {
       "id": "3e44b128",
@@ -103,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 745.9
+      "minutes_since_active": 747.0
     }
   ]
 }
