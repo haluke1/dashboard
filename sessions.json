@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:46:28Z",
+  "updated_at": "2026-08-17T17:47:34Z",
   "counts": {
     "active": 4,
     "recent": 2,
@@ -8,20 +8,52 @@
   },
   "active": [
     {
-      "id": "c2fdeca1",
-      "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
+      "id": "7a22140b",
+      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
       "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
+      "first_prompt": "continue \u2014 ALMA",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "ALMA is resumed and every Claude-side task for today's runbook slot is done. **The picker just opened in your browser (localhost:8877)** \u2014 the ball is now entirely in your court. *\u2026",
+      "message_count": 101,
+      "file_size_kb": 715,
+      "modified_ts": 1786988846.9710124,
+      "modified_iso": "2026-08-17T13:47:26.971012",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "c2fdeca1",
+      "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
+      "status": "active",
+      "project": "/Users/halukgul/Desktop/reports/master-brain-reorg-2026-08",
+      "git_branch": "master",
+      "permission_mode": null,
       "first_prompt": "so i want you to launch sub agents that uses sonnet 5 to analyze these and give suggestions to organize these folders in such a way that we will run tons of sub agents to later org\u2026",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "The last workflow landed, and it landed on zero. **Your unbreakable order, discharged with proof:** the register swept every census inventory, every judge file, every verdict docum\u2026",
-      "message_count": 861,
-      "file_size_kb": 6641,
-      "modified_ts": 1786988779.451291,
-      "modified_iso": "2026-08-17T13:46:19.451291",
-      "minutes_since_active": 0.1
+      "last_assistant_snippet": "The 6:45am shift delivered everything. Before the summary \u2014 the two compounding pieces (the ritual and the brain's front page) go live now, then the deliverables to your hands:",
+      "message_count": 867,
+      "file_size_kb": 6669,
+      "modified_ts": 1786988841.266697,
+      "modified_iso": "2026-08-17T13:47:21.266697",
+      "minutes_since_active": 0.2
+    },
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Continuing with the delegable fixes. Order: correctness fixes first (fabricated ruling, stale artifacts, harness contradictions), then the new safety artifacts (execution protocol,\u2026",
+      "message_count": 97,
+      "file_size_kb": 886,
+      "modified_ts": 1786988838.180831,
+      "modified_iso": "2026-08-17T13:47:18.180831",
+      "minutes_since_active": 0.3
     },
     {
       "id": "05bfbe81",
@@ -37,39 +69,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "7a22140b",
-      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "continue \u2014 ALMA",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "ALMA is resumed and every Claude-side task for today's runbook slot is done. **The picker just opened in your browser (localhost:8877)** \u2014 the ball is now entirely in your court. *\u2026",
-      "message_count": 88,
-      "file_size_kb": 549,
-      "modified_ts": 1786988774.0918057,
-      "modified_iso": "2026-08-17T13:46:14.091806",
-      "minutes_since_active": 0.2
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "All three workflows are done, everything is verified, and the full report is in your reports folder. Here's the whole picture. ## The verdict on \"are we good to go?\" **Your archite\u2026",
-      "message_count": 89,
-      "file_size_kb": 845,
-      "modified_ts": 1786988764.3806036,
-      "modified_iso": "2026-08-17T13:46:04.380604",
-      "minutes_since_active": 0.4
+      "minutes_since_active": 1.3
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 407.7
+      "minutes_since_active": 408.8
     },
     {
       "id": "3e44b128",
@@ -103,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 741.3
+      "minutes_since_active": 742.4
     }
   ]
 }
