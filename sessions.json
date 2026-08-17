@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:12:33Z",
+  "updated_at": "2026-08-17T05:12:37Z",
   "counts": {
     "active": 2,
     "recent": 1,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "so i want you to launch sub agents that uses sonnet 5 to analyze these and give suggestions to organize these folders in such a way that we will run tons of sub agents to later org\u2026",
       "last_user_msg": "what was the 4 ways you could launch a session again? also for these recurring things does it continue to open new chats or continue within the existing session that it had opened \u2026",
-      "last_assistant_snippet": "One small piece of housekeeping law first \u2014 telling factory sessions to label themselves so your sidebar stays legible:",
-      "message_count": 800,
-      "file_size_kb": 6219,
-      "modified_ts": 1786943534.3249273,
-      "modified_iso": "2026-08-17T01:12:14.324927",
-      "minutes_since_active": 0.3
+      "last_assistant_snippet": "The four doors, again: 1. **Scheduled tasks** (\"routines\" \u2014 same thing): sessions that open themselves on a timer. The census runner, the future morning brief. 2. **Headless CLI se\u2026",
+      "message_count": 802,
+      "file_size_kb": 6225,
+      "modified_ts": 1786943555.42235,
+      "modified_iso": "2026-08-17T01:12:35.422350",
+      "minutes_since_active": 0.0
     },
     {
       "id": "3e44b128",
@@ -37,7 +37,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786943281.0340278,
       "modified_iso": "2026-08-17T01:08:01.034028",
-      "minutes_since_active": 4.5
+      "minutes_since_active": 4.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 769.2
+      "minutes_since_active": 769.3
     }
   ]
 }
