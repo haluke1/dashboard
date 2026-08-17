@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:49:47Z",
+  "updated_at": "2026-08-17T17:51:07Z",
   "counts": {
     "active": 4,
     "recent": 2,
@@ -7,6 +7,22 @@
     "total": 372
   },
   "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Now the harness contradictions. Reading both files so I can edit them:",
+      "message_count": 161,
+      "file_size_kb": 1105,
+      "modified_ts": 1786989061.377179,
+      "modified_iso": "2026-08-17T13:51:01.377179",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "7a22140b",
       "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
@@ -17,26 +33,10 @@
       "first_prompt": "continue \u2014 ALMA",
       "last_user_msg": "continue",
       "last_assistant_snippet": "All sources found. Writing the containment tester now.",
-      "message_count": 125,
-      "file_size_kb": 922,
-      "modified_ts": 1786988982.4833083,
-      "modified_iso": "2026-08-17T13:49:42.483308",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "Dashboard is patched. Now the blueprint \u2014 reading the decisions section to annotate it:",
-      "message_count": 135,
-      "file_size_kb": 1016,
-      "modified_ts": 1786988981.7989845,
-      "modified_iso": "2026-08-17T13:49:41.798985",
+      "message_count": 133,
+      "file_size_kb": 968,
+      "modified_ts": 1786989060.8706193,
+      "modified_iso": "2026-08-17T13:51:00.870619",
       "minutes_since_active": 0.1
     },
     {
@@ -53,7 +53,7 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 2.4
+      "minutes_since_active": 3.8
     },
     {
       "id": "05bfbe81",
@@ -69,7 +69,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 3.5
+      "minutes_since_active": 4.8
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 411.0
+      "minutes_since_active": 412.3
     },
     {
       "id": "3e44b128",
@@ -103,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 744.6
+      "minutes_since_active": 745.9
     }
   ]
 }
