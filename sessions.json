@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-17T05:20:21Z",
+  "updated_at": "2026-08-17T05:20:56Z",
   "counts": {
-    "active": 1,
+    "active": 2,
     "recent": 2,
     "archived": 365,
-    "total": 368
+    "total": 369
   },
   "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_assistant_snippet": "Yes \u2014 your SessionStart hook fired. Let me show you exactly what loaded and verify the hook config so you can trust it.",
+      "message_count": 7,
+      "file_size_kb": 181,
+      "modified_ts": 1786944043.560402,
+      "modified_iso": "2026-08-17T01:20:43.560402",
+      "minutes_since_active": 0.2
+    },
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -15,13 +31,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "so i want you to launch sub agents that uses sonnet 5 to analyze these and give suggestions to organize these folders in such a way that we will run tons of sub agents to later org\u2026",
-      "last_user_msg": "what were we gonna do with alma related stuff cause i wanna condense all the context around it including cameras, story, how we're gonna do it etc and its a little scattered and al\u2026",
-      "last_assistant_snippet": "Understood, and here's why the order is actually keepable \u2014 three locks, not promises: 1. **Nothing is ever moved or deleted \u2014 the originals all stay exactly where they are.** The \u2026",
-      "message_count": 825,
-      "file_size_kb": 6403,
-      "modified_ts": 1786943998.7256665,
-      "modified_iso": "2026-08-17T01:19:58.725667",
-      "minutes_since_active": 0.3
+      "last_user_msg": "if you compact when multiple swarms are running what happens btw",
+      "last_assistant_snippet": "Short answer: **the swarms don't even notice.** They're separate processes running outside my head \u2014 compaction is something that happens to *my conversation memory*, not to them. \u2026",
+      "message_count": 828,
+      "file_size_kb": 6415,
+      "modified_ts": 1786944042.4360507,
+      "modified_iso": "2026-08-17T01:20:42.436051",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +55,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786943281.0340278,
       "modified_iso": "2026-08-17T01:08:01.034028",
-      "minutes_since_active": 12.3
+      "minutes_since_active": 12.9
     },
     {
       "id": "28fe40c8",
@@ -55,7 +71,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 777.0
+      "minutes_since_active": 777.6
     }
   ]
 }
