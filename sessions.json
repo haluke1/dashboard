@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-08-17T09:50:46Z",
+  "updated_at": "2026-08-17T09:51:51Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 365,
     "total": 371
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "3b1653bd",
       "full_id": "3b1653bd-931a-49d1-a55e-a00a702b033f",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
       "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "Extraction format is exactly as specified \u2014 real paths, judge reasons, flags preserved, and glob specificity ordering will resolve correctly. Continuing to wait.",
-      "message_count": 93,
-      "file_size_kb": 533,
-      "modified_ts": 1786959883.3837059,
-      "modified_iso": "2026-08-17T05:44:43.383706",
-      "minutes_since_active": 6.0
-    },
+      "last_assistant_snippet": "Five extractors done (413 rules). The two deep-verdict extractors (largest inputs) are still running. Waiting.",
+      "message_count": 97,
+      "file_size_kb": 539,
+      "modified_ts": 1786960310.1694808,
+      "modified_iso": "2026-08-17T05:51:50.169481",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -38,7 +39,7 @@
       "file_size_kb": 6632,
       "modified_ts": 1786947531.2185884,
       "modified_iso": "2026-08-17T02:18:51.218588",
-      "minutes_since_active": 211.9
+      "minutes_since_active": 213.0
     },
     {
       "id": "be5075ca",
@@ -54,7 +55,7 @@
       "file_size_kb": 842,
       "modified_ts": 1786945820.415727,
       "modified_iso": "2026-08-17T01:50:20.415727",
-      "minutes_since_active": 240.4
+      "minutes_since_active": 241.5
     },
     {
       "id": "7a22140b",
@@ -70,7 +71,7 @@
       "file_size_kb": 538,
       "modified_ts": 1786944605.703232,
       "modified_iso": "2026-08-17T01:30:05.703232",
-      "minutes_since_active": 260.7
+      "minutes_since_active": 261.8
     },
     {
       "id": "3e44b128",
@@ -86,7 +87,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 265.6
+      "minutes_since_active": 266.7
     },
     {
       "id": "28fe40c8",
@@ -102,7 +103,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 1047.4
+      "minutes_since_active": 1048.5
     }
   ]
 }
