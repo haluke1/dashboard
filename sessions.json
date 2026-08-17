@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:53:00Z",
+  "updated_at": "2026-08-17T17:53:18Z",
   "counts": {
     "active": 2,
     "recent": 4,
@@ -7,6 +7,22 @@
     "total": 372
   },
   "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "The `rm`/`cd` combo triggered a denial \u2014 retrying without those:",
+      "message_count": 181,
+      "file_size_kb": 1173,
+      "modified_ts": 1786989191.5886595,
+      "modified_iso": "2026-08-17T13:53:11.588660",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "7a22140b",
       "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
@@ -21,22 +37,6 @@
       "file_size_kb": 1035,
       "modified_ts": 1786989178.7430515,
       "modified_iso": "2026-08-17T13:52:58.743052",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "The `rm`/`cd` combo triggered a denial \u2014 retrying without those:",
-      "message_count": 177,
-      "file_size_kb": 1162,
-      "modified_ts": 1786989165.5888886,
-      "modified_iso": "2026-08-17T13:52:45.588889",
       "minutes_since_active": 0.3
     }
   ],
@@ -55,7 +55,7 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.0
     },
     {
       "id": "05bfbe81",
@@ -71,7 +71,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 6.7
+      "minutes_since_active": 7.0
     },
     {
       "id": "3b1653bd",
@@ -87,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 414.2
+      "minutes_since_active": 414.5
     },
     {
       "id": "3e44b128",
@@ -103,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 747.8
+      "minutes_since_active": 748.1
     }
   ]
 }
