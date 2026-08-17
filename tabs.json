@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-17T05:28:23Z",
-  "total_tabs": 109,
+  "updated_at": "2026-08-17T05:29:52Z",
+  "total_tabs": 110,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
@@ -103,6 +103,17 @@
       "top_domains": [
         {
           "domain": "aprildunford.substack.com",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "local",
+      "count": 1,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "localhost:8877",
           "count": 1
         }
       ]

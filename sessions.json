@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:29:18Z",
+  "updated_at": "2026-08-17T05:29:55Z",
   "counts": {
     "active": 4,
     "recent": 1,
@@ -7,6 +7,22 @@
     "total": 370
   },
   "active": [
+    {
+      "id": "7a22140b",
+      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "continue \u2014 ALMA",
+      "last_user_msg": "continue \u2014 ALMA",
+      "last_assistant_snippet": "The `rm` in my test command got blocked (correctly \u2014 trash-never-rm rule). Re-running the test with `mv` to the scratchpad instead, so the test pick doesn't leave a fake approval b\u2026",
+      "message_count": 85,
+      "file_size_kb": 533,
+      "modified_ts": 1786944589.5537567,
+      "modified_iso": "2026-08-17T01:29:49.553757",
+      "minutes_since_active": 0.1
+    },
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -21,23 +37,7 @@
       "file_size_kb": 6613,
       "modified_ts": 1786944555.9717815,
       "modified_iso": "2026-08-17T01:29:15.971781",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "7a22140b",
-      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "continue \u2014 ALMA",
-      "last_user_msg": "continue \u2014 ALMA",
-      "last_assistant_snippet": "The `rm` in my test command got blocked (correctly \u2014 trash-never-rm rule). Re-running the test with `mv` to the scratchpad instead, so the test pick doesn't leave a fake approval b\u2026",
-      "message_count": 74,
-      "file_size_kb": 503,
-      "modified_ts": 1786944537.0983038,
-      "modified_iso": "2026-08-17T01:28:57.098304",
-      "minutes_since_active": 0.3
+      "minutes_since_active": 0.6
     },
     {
       "id": "be5075ca",
@@ -53,7 +53,7 @@
       "file_size_kb": 490,
       "modified_ts": 1786944471.0041559,
       "modified_iso": "2026-08-17T01:27:51.004156",
-      "minutes_since_active": 1.4
+      "minutes_since_active": 2.1
     },
     {
       "id": "3e44b128",
@@ -69,7 +69,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 4.1
+      "minutes_since_active": 4.7
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 8240,
       "modified_ts": 1786897399.7779853,
       "modified_iso": "2026-08-16T12:23:19.777985",
-      "minutes_since_active": 786.0
+      "minutes_since_active": 786.6
     }
   ]
 }
