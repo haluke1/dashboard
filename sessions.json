@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:48:42Z",
+  "updated_at": "2026-08-17T17:49:47Z",
   "counts": {
     "active": 4,
     "recent": 2,
@@ -7,22 +7,6 @@
     "total": 372
   },
   "active": [
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "The bundles exist \u2014 5 tarballs, matching the audit. Checking whether the report file got written, and rerunning verification in the foreground:",
-      "message_count": 116,
-      "file_size_kb": 962,
-      "modified_ts": 1786988916.9139874,
-      "modified_iso": "2026-08-17T13:48:36.913987",
-      "minutes_since_active": 0.1
-    },
     {
       "id": "7a22140b",
       "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
@@ -32,12 +16,28 @@
       "permission_mode": null,
       "first_prompt": "continue \u2014 ALMA",
       "last_user_msg": "continue",
-      "last_assistant_snippet": "All sources located. Checking the appended-section header formats so the script can slice the right regions, then writing the containment tester.",
-      "message_count": 111,
-      "file_size_kb": 758,
-      "modified_ts": 1786988908.9919658,
-      "modified_iso": "2026-08-17T13:48:28.991966",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "All sources found. Writing the containment tester now.",
+      "message_count": 125,
+      "file_size_kb": 922,
+      "modified_ts": 1786988982.4833083,
+      "modified_iso": "2026-08-17T13:49:42.483308",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Dashboard is patched. Now the blueprint \u2014 reading the decisions section to annotate it:",
+      "message_count": 135,
+      "file_size_kb": 1016,
+      "modified_ts": 1786988981.7989845,
+      "modified_iso": "2026-08-17T13:49:41.798985",
+      "minutes_since_active": 0.1
     },
     {
       "id": "c2fdeca1",
@@ -53,7 +53,7 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 1.3
+      "minutes_since_active": 2.4
     },
     {
       "id": "05bfbe81",
@@ -69,7 +69,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 2.4
+      "minutes_since_active": 3.5
     }
   ],
   "recent": [
@@ -87,7 +87,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 409.9
+      "minutes_since_active": 411.0
     },
     {
       "id": "3e44b128",
@@ -103,7 +103,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 743.5
+      "minutes_since_active": 744.6
     }
   ]
 }
