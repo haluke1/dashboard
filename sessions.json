@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-08-18T12:06:47Z",
+  "updated_at": "2026-08-18T12:07:05Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 8,
     "archived": 368,
-    "total": 376
+    "total": 377
   },
-  "active": [],
+  "active": [
+    {
+      "id": "c99e05af",
+      "full_id": "c99e05af-4001-4722-b45a-1651d04bbd61",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
+      "last_user_msg": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
+      "last_assistant_snippet": "I'll start by reading the source files in order, then write the brief.",
+      "message_count": 11,
+      "file_size_kb": 205,
+      "modified_ts": 1787054819.9234924,
+      "modified_iso": "2026-08-18T08:06:59.923492",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "bd04d8df",
@@ -22,7 +39,7 @@
       "file_size_kb": 193,
       "modified_ts": 1787045625.729013,
       "modified_iso": "2026-08-18T05:33:45.729013",
-      "minutes_since_active": 153.0
+      "minutes_since_active": 153.3
     },
     {
       "id": "d8dee0f6",
@@ -38,7 +55,7 @@
       "file_size_kb": 177,
       "modified_ts": 1787028509.4968324,
       "modified_iso": "2026-08-18T00:48:29.496832",
-      "minutes_since_active": 438.3
+      "minutes_since_active": 438.6
     },
     {
       "id": "6736be3e",
@@ -54,7 +71,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787016560.8861914,
       "modified_iso": "2026-08-17T21:29:20.886191",
-      "minutes_since_active": 637.4
+      "minutes_since_active": 637.7
     },
     {
       "id": "be5075ca",
@@ -70,7 +87,7 @@
       "file_size_kb": 1194,
       "modified_ts": 1787016547.284337,
       "modified_iso": "2026-08-17T21:29:07.284337",
-      "minutes_since_active": 637.7
+      "minutes_since_active": 638.0
     },
     {
       "id": "c2fdeca1",
@@ -86,7 +103,7 @@
       "file_size_kb": 6768,
       "modified_ts": 1787015683.5627005,
       "modified_iso": "2026-08-17T21:14:43.562701",
-      "minutes_since_active": 652.1
+      "minutes_since_active": 652.4
     },
     {
       "id": "1301b34d",
@@ -102,7 +119,7 @@
       "file_size_kb": 183,
       "modified_ts": 1786996145.3361382,
       "modified_iso": "2026-08-17T15:49:05.336138",
-      "minutes_since_active": 977.7
+      "minutes_since_active": 978.0
     },
     {
       "id": "7a22140b",
@@ -118,7 +135,7 @@
       "file_size_kb": 1035,
       "modified_ts": 1786989178.7430515,
       "modified_iso": "2026-08-17T13:52:58.743052",
-      "minutes_since_active": 1093.8
+      "minutes_since_active": 1094.1
     },
     {
       "id": "05bfbe81",
@@ -134,7 +151,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 1100.5
+      "minutes_since_active": 1100.8
     }
   ]
 }
