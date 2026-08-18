@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-08-18T01:12:13Z",
+  "updated_at": "2026-08-18T01:12:27Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 366,
     "total": 374
   },
-  "active": [],
+  "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "All delegable fixes from the review are executed and verified. Here's the wrap-up. ## What just got fixed (11 items) **Truth restored to your files:** - The **fabricated MOTHER rul\u2026",
+      "message_count": 187,
+      "file_size_kb": 1194,
+      "modified_ts": 1787015542.603,
+      "modified_iso": "2026-08-17T21:12:22.603000",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "6736be3e",
@@ -22,7 +39,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787014120.2035027,
       "modified_iso": "2026-08-17T20:48:40.203503",
-      "minutes_since_active": 23.5
+      "minutes_since_active": 23.8
     },
     {
       "id": "1301b34d",
@@ -38,23 +55,7 @@
       "file_size_kb": 183,
       "modified_ts": 1786996145.3361382,
       "modified_iso": "2026-08-17T15:49:05.336138",
-      "minutes_since_active": 323.1
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "All delegable fixes from the review are executed and verified. Here's the wrap-up. ## What just got fixed (11 items) **Truth restored to your files:** - The **fabricated MOTHER rul\u2026",
-      "message_count": 187,
-      "file_size_kb": 1194,
-      "modified_ts": 1786990133.7417018,
-      "modified_iso": "2026-08-17T14:08:53.741702",
-      "minutes_since_active": 423.3
+      "minutes_since_active": 323.3
     },
     {
       "id": "7a22140b",
@@ -70,7 +71,7 @@
       "file_size_kb": 1035,
       "modified_ts": 1786989178.7430515,
       "modified_iso": "2026-08-17T13:52:58.743052",
-      "minutes_since_active": 439.2
+      "minutes_since_active": 439.5
     },
     {
       "id": "c2fdeca1",
@@ -86,7 +87,7 @@
       "file_size_kb": 6669,
       "modified_ts": 1786988841.266697,
       "modified_iso": "2026-08-17T13:47:21.266697",
-      "minutes_since_active": 444.9
+      "minutes_since_active": 445.1
     },
     {
       "id": "05bfbe81",
@@ -102,7 +103,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 445.9
+      "minutes_since_active": 446.1
     },
     {
       "id": "3b1653bd",
@@ -118,7 +119,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 853.4
+      "minutes_since_active": 853.6
     },
     {
       "id": "3e44b128",
@@ -134,7 +135,7 @@
       "file_size_kb": 563,
       "modified_ts": 1786944310.616673,
       "modified_iso": "2026-08-17T01:25:10.616673",
-      "minutes_since_active": 1187.0
+      "minutes_since_active": 1187.3
     }
   ]
 }
