@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-08-18T09:33:04Z",
+  "updated_at": "2026-08-18T09:33:47Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 8,
     "archived": 367,
-    "total": 375
+    "total": 376
   },
-  "active": [],
+  "active": [
+    {
+      "id": "bd04d8df",
+      "full_id": "bd04d8df-933b-42df-886f-f67207ed37f9",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_assistant_snippet": "**census paused** STOP file present at [census/STOP](../Desktop/reports/master-brain-reorg-2026-08/census/STOP) with content `COMPLETE`. No wave executed \u2014 exited at step 1 as the \u2026",
+      "message_count": 17,
+      "file_size_kb": 193,
+      "modified_ts": 1787045625.729013,
+      "modified_iso": "2026-08-18T05:33:45.729013",
+      "minutes_since_active": 0.0
+    }
+  ],
   "recent": [
     {
       "id": "d8dee0f6",
@@ -22,7 +39,7 @@
       "file_size_kb": 177,
       "modified_ts": 1787028509.4968324,
       "modified_iso": "2026-08-18T00:48:29.496832",
-      "minutes_since_active": 284.6
+      "minutes_since_active": 285.3
     },
     {
       "id": "6736be3e",
@@ -38,7 +55,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787016560.8861914,
       "modified_iso": "2026-08-17T21:29:20.886191",
-      "minutes_since_active": 483.7
+      "minutes_since_active": 484.4
     },
     {
       "id": "be5075ca",
@@ -54,7 +71,7 @@
       "file_size_kb": 1194,
       "modified_ts": 1787016547.284337,
       "modified_iso": "2026-08-17T21:29:07.284337",
-      "minutes_since_active": 483.9
+      "minutes_since_active": 484.7
     },
     {
       "id": "c2fdeca1",
@@ -70,7 +87,7 @@
       "file_size_kb": 6768,
       "modified_ts": 1787015683.5627005,
       "modified_iso": "2026-08-17T21:14:43.562701",
-      "minutes_since_active": 498.3
+      "minutes_since_active": 499.1
     },
     {
       "id": "1301b34d",
@@ -86,7 +103,7 @@
       "file_size_kb": 183,
       "modified_ts": 1786996145.3361382,
       "modified_iso": "2026-08-17T15:49:05.336138",
-      "minutes_since_active": 824.0
+      "minutes_since_active": 824.7
     },
     {
       "id": "7a22140b",
@@ -102,7 +119,7 @@
       "file_size_kb": 1035,
       "modified_ts": 1786989178.7430515,
       "modified_iso": "2026-08-17T13:52:58.743052",
-      "minutes_since_active": 940.1
+      "minutes_since_active": 940.8
     },
     {
       "id": "05bfbe81",
@@ -118,7 +135,7 @@
       "file_size_kb": 193,
       "modified_ts": 1786988777.5141754,
       "modified_iso": "2026-08-17T13:46:17.514175",
-      "minutes_since_active": 946.8
+      "minutes_since_active": 947.5
     },
     {
       "id": "3b1653bd",
@@ -134,7 +151,7 @@
       "file_size_kb": 933,
       "modified_ts": 1786964327.5350542,
       "modified_iso": "2026-08-17T06:58:47.535054",
-      "minutes_since_active": 1354.3
+      "minutes_since_active": 1355.0
     }
   ]
 }
