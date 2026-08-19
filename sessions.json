@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-19T01:28:05Z",
+  "updated_at": "2026-08-19T01:29:09Z",
   "counts": {
     "active": 0,
-    "recent": 8,
-    "archived": 372,
+    "recent": 7,
+    "archived": 373,
     "total": 380
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 39.1
+      "minutes_since_active": 40.1
     },
     {
       "id": "8039499b",
@@ -38,7 +38,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787091724.0377204,
       "modified_iso": "2026-08-18T18:22:04.037720",
-      "minutes_since_active": 186.0
+      "minutes_since_active": 187.1
     },
     {
       "id": "04d510c8",
@@ -54,7 +54,7 @@
       "file_size_kb": 161,
       "modified_ts": 1787066048.237746,
       "modified_iso": "2026-08-18T11:14:08.237746",
-      "minutes_since_active": 614.0
+      "minutes_since_active": 615.0
     },
     {
       "id": "c99e05af",
@@ -70,7 +70,7 @@
       "file_size_kb": 410,
       "modified_ts": 1787056423.7387605,
       "modified_iso": "2026-08-18T08:33:43.738760",
-      "minutes_since_active": 774.4
+      "minutes_since_active": 775.4
     },
     {
       "id": "bd04d8df",
@@ -86,7 +86,7 @@
       "file_size_kb": 193,
       "modified_ts": 1787045625.729013,
       "modified_iso": "2026-08-18T05:33:45.729013",
-      "minutes_since_active": 954.3
+      "minutes_since_active": 955.4
     },
     {
       "id": "d8dee0f6",
@@ -102,7 +102,7 @@
       "file_size_kb": 177,
       "modified_ts": 1787028509.4968324,
       "modified_iso": "2026-08-18T00:48:29.496832",
-      "minutes_since_active": 1239.6
+      "minutes_since_active": 1240.7
     },
     {
       "id": "6736be3e",
@@ -118,23 +118,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787016560.8861914,
       "modified_iso": "2026-08-17T21:29:20.886191",
-      "minutes_since_active": 1438.7
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "continue",
-      "last_assistant_snippet": "All delegable fixes from the review are executed and verified. Here's the wrap-up. ## What just got fixed (11 items) **Truth restored to your files:** - The **fabricated MOTHER rul\u2026",
-      "message_count": 187,
-      "file_size_kb": 1194,
-      "modified_ts": 1787016547.284337,
-      "modified_iso": "2026-08-17T21:29:07.284337",
-      "minutes_since_active": 1439.0
+      "minutes_since_active": 1439.8
     }
   ]
 }
