@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-19T12:07:04Z",
+  "updated_at": "2026-08-19T12:21:19Z",
   "counts": {
     "active": 0,
-    "recent": 6,
+    "recent": 7,
     "archived": 376,
-    "total": 382
+    "total": 383
   },
   "active": [],
   "recent": [
+    {
+      "id": "c9a92440",
+      "full_id": "c9a92440-bc72-474e-812c-5dc3f4f20f6a",
+      "status": "recent",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
+      "last_user_msg": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 155,
+      "modified_ts": 1787141226.1959121,
+      "modified_iso": "2026-08-19T08:07:06.195912",
+      "minutes_since_active": 14.2
+    },
     {
       "id": "ca6c29b1",
       "full_id": "ca6c29b1-21e3-40a2-8fc1-91cb3378124b",
@@ -22,7 +38,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 95.9
+      "minutes_since_active": 96.0
     },
     {
       "id": "79a885a3",
@@ -38,7 +54,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 394.2
+      "minutes_since_active": 394.3
     },
     {
       "id": "2fb27934",
@@ -70,7 +86,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787091724.0377204,
       "modified_iso": "2026-08-18T18:22:04.037720",
-      "minutes_since_active": 825.0
+      "minutes_since_active": 825.1
     },
     {
       "id": "04d510c8",
@@ -86,7 +102,7 @@
       "file_size_kb": 161,
       "modified_ts": 1787066048.237746,
       "modified_iso": "2026-08-18T11:14:08.237746",
-      "minutes_since_active": 1252.9
+      "minutes_since_active": 1267.2
     },
     {
       "id": "c99e05af",
@@ -102,7 +118,7 @@
       "file_size_kb": 410,
       "modified_ts": 1787056423.7387605,
       "modified_iso": "2026-08-18T08:33:43.738760",
-      "minutes_since_active": 1413.4
+      "minutes_since_active": 1427.6
     }
   ]
 }
