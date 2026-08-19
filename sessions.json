@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:13:25Z",
+  "updated_at": "2026-08-19T23:14:30Z",
   "counts": {
     "active": 2,
     "recent": 7,
@@ -17,11 +17,11 @@
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "okey i dont trust this evaluation. look at the screenshot and tell me how we can organize these. i dont want random files like these. i want to have different md files that have fu\u2026",
       "last_assistant_snippet": "Fair distrust \u2014 and let me name what it's really about: the evaluation you saw solved *location* (which folder each file belongs in). It never solved *synthesis* \u2014 turning 28 proje\u2026",
-      "message_count": 219,
-      "file_size_kb": 1914,
-      "modified_ts": 1787181200.6950068,
-      "modified_iso": "2026-08-19T19:13:20.695007",
-      "minutes_since_active": 0.1
+      "message_count": 224,
+      "file_size_kb": 1928,
+      "modified_ts": 1787181238.8845167,
+      "modified_iso": "2026-08-19T19:13:58.884517",
+      "minutes_since_active": 0.5
     },
     {
       "id": "7a22140b",
@@ -37,7 +37,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181060.9230983,
       "modified_iso": "2026-08-19T19:11:00.923098",
-      "minutes_since_active": 2.4
+      "minutes_since_active": 3.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 5.7
+      "minutes_since_active": 6.7
     },
     {
       "id": "c9a92440",
@@ -71,7 +71,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 5.9
+      "minutes_since_active": 7.0
     },
     {
       "id": "c2fdeca1",
@@ -87,7 +87,7 @@
       "file_size_kb": 6801,
       "modified_ts": 1787180012.2325613,
       "modified_iso": "2026-08-19T18:53:32.232561",
-      "minutes_since_active": 19.9
+      "minutes_since_active": 21.0
     },
     {
       "id": "1cecb490",
@@ -103,7 +103,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 348.8
+      "minutes_since_active": 349.9
     },
     {
       "id": "ca6c29b1",
@@ -119,7 +119,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 762.3
+      "minutes_since_active": 763.3
     },
     {
       "id": "79a885a3",
@@ -135,7 +135,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1060.6
+      "minutes_since_active": 1061.7
     },
     {
       "id": "2fb27934",
@@ -151,7 +151,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1344.4
+      "minutes_since_active": 1345.5
     }
   ]
 }
