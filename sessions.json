@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-19T12:21:19Z",
+  "updated_at": "2026-08-19T13:08:00Z",
   "counts": {
     "active": 0,
-    "recent": 7,
-    "archived": 376,
+    "recent": 6,
+    "archived": 377,
     "total": 383
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 155,
       "modified_ts": 1787141226.1959121,
       "modified_iso": "2026-08-19T08:07:06.195912",
-      "minutes_since_active": 14.2
+      "minutes_since_active": 60.9
     },
     {
       "id": "ca6c29b1",
@@ -38,7 +38,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 96.0
+      "minutes_since_active": 156.8
     },
     {
       "id": "79a885a3",
@@ -54,7 +54,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 394.3
+      "minutes_since_active": 455.2
     },
     {
       "id": "2fb27934",
@@ -70,7 +70,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 678.1
+      "minutes_since_active": 739.0
     },
     {
       "id": "8039499b",
@@ -86,7 +86,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787091724.0377204,
       "modified_iso": "2026-08-18T18:22:04.037720",
-      "minutes_since_active": 825.1
+      "minutes_since_active": 885.9
     },
     {
       "id": "04d510c8",
@@ -102,23 +102,7 @@
       "file_size_kb": 161,
       "modified_ts": 1787066048.237746,
       "modified_iso": "2026-08-18T11:14:08.237746",
-      "minutes_since_active": 1267.2
-    },
-    {
-      "id": "c99e05af",
-      "full_id": "c99e05af-4001-4722-b45a-1651d04bbd61",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
-      "last_user_msg": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
-      "last_assistant_snippet": "# \ud83c\udfed DAILY BRIEF \u00b7 Monday 2026-08-18 Filed at [daily/2026-08-18-brief.md](../Desktop/reports/master-brain-reorg-2026-08/daily/2026-08-18-brief.md). Streak: 1. --- ## 1 \u00b7 FILM \u2014 **13\u2026",
-      "message_count": 44,
-      "file_size_kb": 410,
-      "modified_ts": 1787056423.7387605,
-      "modified_iso": "2026-08-18T08:33:43.738760",
-      "minutes_since_active": 1427.6
+      "minutes_since_active": 1313.9
     }
   ]
 }
