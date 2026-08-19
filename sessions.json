@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T17:09:07Z",
+  "updated_at": "2026-08-19T17:25:08Z",
   "counts": {
     "active": 1,
     "recent": 5,
@@ -19,8 +19,8 @@
       "last_assistant_snippet": "**census paused** STOP file exists at `census/STOP` with content `COMPLETE` (created Aug 17 06:43). Per the standing brief's first check, I halted before reading CENSUS-RUNNER.md o\u2026",
       "message_count": 8,
       "file_size_kb": 169,
-      "modified_ts": 1787159345.83352,
-      "modified_iso": "2026-08-19T13:09:05.833520",
+      "modified_ts": 1787160274.6976514,
+      "modified_iso": "2026-08-19T13:24:34.697651",
       "minutes_since_active": 0.0
     }
   ],
@@ -39,7 +39,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787154263.3926766,
       "modified_iso": "2026-08-19T11:44:23.392677",
-      "minutes_since_active": 84.7
+      "minutes_since_active": 100.2
     },
     {
       "id": "ca6c29b1",
@@ -55,7 +55,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 398.0
+      "minutes_since_active": 413.5
     },
     {
       "id": "79a885a3",
@@ -71,7 +71,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 696.3
+      "minutes_since_active": 711.8
     },
     {
       "id": "2fb27934",
@@ -87,7 +87,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 980.1
+      "minutes_since_active": 995.6
     },
     {
       "id": "8039499b",
@@ -103,7 +103,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787091724.0377204,
       "modified_iso": "2026-08-18T18:22:04.037720",
-      "minutes_since_active": 1127.1
+      "minutes_since_active": 1142.6
     }
   ]
 }
