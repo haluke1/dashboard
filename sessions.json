@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-08-19T23:49:00Z",
+  "updated_at": "2026-08-19T23:50:09Z",
   "counts": {
-    "active": 0,
-    "recent": 9,
+    "active": 1,
+    "recent": 8,
     "archived": 376,
     "total": 385
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "<task-notification> <task-id>af7e1c99b1b85afc8</task-id> <tool-use-id>toolu_01HNuwYhiABVbiGpHnGakdF7</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075\u2026",
+      "last_user_msg": "<task-notification> <task-id>w3r9iobqu</task-id> <tool-use-id>toolu_017eRTYQHUVBhG9TriaJXYpq</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
       "last_assistant_snippet": "Status for when you check in: **all four taxonomies are now verified** \u2014 reports (10 masters, conflicts resolved by design), recaps (5), chat exports (4), and ALMA (correctly refus\u2026",
-      "message_count": 317,
-      "file_size_kb": 3686,
-      "modified_ts": 1787182978.6917758,
-      "modified_iso": "2026-08-19T19:42:58.691776",
-      "minutes_since_active": 6.0
-    },
+      "message_count": 318,
+      "file_size_kb": 3709,
+      "modified_ts": 1787183403.9052346,
+      "modified_iso": "2026-08-19T19:50:03.905235",
+      "minutes_since_active": 0.1
+    }
+  ],
+  "recent": [
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -38,7 +39,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 10.8
+      "minutes_since_active": 11.9
     },
     {
       "id": "7a22140b",
@@ -54,7 +55,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 29.5
+      "minutes_since_active": 30.7
     },
     {
       "id": "98069d8a",
@@ -70,7 +71,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 41.2
+      "minutes_since_active": 42.4
     },
     {
       "id": "c9a92440",
@@ -86,7 +87,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 41.5
+      "minutes_since_active": 42.6
     },
     {
       "id": "1cecb490",
@@ -102,7 +103,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 384.4
+      "minutes_since_active": 385.5
     },
     {
       "id": "ca6c29b1",
@@ -118,7 +119,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 797.8
+      "minutes_since_active": 798.9
     },
     {
       "id": "79a885a3",
@@ -134,7 +135,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1096.2
+      "minutes_since_active": 1097.2
     },
     {
       "id": "2fb27934",
@@ -150,7 +151,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1380.0
+      "minutes_since_active": 1381.1
     }
   ]
 }
