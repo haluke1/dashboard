@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-19T22:44:08Z",
-  "total_tabs": 113,
+  "updated_at": "2026-08-19T22:45:42Z",
+  "total_tabs": 112,
   "total_windows": 1,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 79,
-      "domain_count": 66,
+      "count": 78,
+      "domain_count": 65,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -53,12 +53,12 @@
     },
     {
       "name": "video",
-      "count": 12,
+      "count": 13,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 12
+          "count": 13
         }
       ]
     },
@@ -103,17 +103,6 @@
       "top_domains": [
         {
           "domain": "aprildunford.substack.com",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "shopping",
-      "count": 1,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "amazon.com",
           "count": 1
         }
       ]
