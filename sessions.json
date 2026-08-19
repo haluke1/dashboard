@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:21:24Z",
+  "updated_at": "2026-08-19T23:22:12Z",
   "counts": {
     "active": 3,
     "recent": 6,
@@ -7,6 +7,22 @@
     "total": 385
   },
   "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "okey i dont trust this evaluation. look at the screenshot and tell me how we can organize these. i dont want random files like these. i want to have different md files that have fu\u2026",
+      "last_assistant_snippet": "The two new swarms are running in the background \u2014 their proposals will land the same way. Meanwhile, here's everything you need to ratify the **reports** taxonomy. ## Your hunch w\u2026",
+      "message_count": 231,
+      "file_size_kb": 2828,
+      "modified_ts": 1787181729.896031,
+      "modified_iso": "2026-08-19T19:22:09.896031",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -21,23 +37,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787181682.3245206,
       "modified_iso": "2026-08-19T19:21:22.324521",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "okey i dont trust this evaluation. look at the screenshot and tell me how we can organize these. i dont want random files like these. i want to have different md files that have fu\u2026",
-      "last_assistant_snippet": "Fair distrust \u2014 and let me name what it's really about: the evaluation you saw solved *location* (which folder each file belongs in). It never solved *synthesis* \u2014 turning 28 proje\u2026",
-      "message_count": 225,
-      "file_size_kb": 2795,
-      "modified_ts": 1787181615.5417256,
-      "modified_iso": "2026-08-19T19:20:15.541726",
-      "minutes_since_active": 1.1
+      "minutes_since_active": 0.8
     },
     {
       "id": "7a22140b",
@@ -53,7 +53,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 1.9
+      "minutes_since_active": 2.7
     }
   ],
   "recent": [
@@ -71,7 +71,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 13.6
+      "minutes_since_active": 14.4
     },
     {
       "id": "c9a92440",
@@ -87,7 +87,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 13.9
+      "minutes_since_active": 14.7
     },
     {
       "id": "1cecb490",
@@ -103,7 +103,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 356.8
+      "minutes_since_active": 357.6
     },
     {
       "id": "ca6c29b1",
@@ -119,7 +119,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 770.2
+      "minutes_since_active": 771.0
     },
     {
       "id": "79a885a3",
@@ -135,7 +135,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1068.6
+      "minutes_since_active": 1069.4
     },
     {
       "id": "2fb27934",
@@ -151,7 +151,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1352.4
+      "minutes_since_active": 1353.2
     }
   ]
 }
