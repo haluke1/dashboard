@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-19T23:45:41Z",
-  "total_tabs": 116,
+  "updated_at": "2026-08-19T23:46:47Z",
+  "total_tabs": 118,
   "total_windows": 1,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 77,
+      "count": 76,
       "domain_count": 65,
       "top_domains": [
         {
@@ -15,11 +15,11 @@
           "count": 3
         },
         {
-          "domain": "google.com",
-          "count": 3
+          "domain": "cosmos.so",
+          "count": 2
         },
         {
-          "domain": "cosmos.so",
+          "domain": "google.com",
           "count": 2
         },
         {
@@ -29,6 +29,17 @@
         {
           "domain": "keep.google.com",
           "count": 2
+        }
+      ]
+    },
+    {
+      "name": "video",
+      "count": 17,
+      "domain_count": 1,
+      "top_domains": [
+        {
+          "domain": "youtube.com",
+          "count": 17
         }
       ]
     },
@@ -48,17 +59,6 @@
         {
           "domain": "vercel.com",
           "count": 1
-        }
-      ]
-    },
-    {
-      "name": "video",
-      "count": 14,
-      "domain_count": 1,
-      "top_domains": [
-        {
-          "domain": "youtube.com",
-          "count": 14
         }
       ]
     },
