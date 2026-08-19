@@ -1,34 +1,61 @@
 {
-  "updated_at": "2026-08-19T00:50:00Z",
-  "total_tabs": 113,
-  "total_windows": 1,
+  "updated_at": "2026-08-19T00:52:27Z",
+  "total_tabs": 209,
+  "total_windows": 2,
   "duplicate_tabs": 7,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 78,
-      "domain_count": 65,
+      "count": 161,
+      "domain_count": 94,
       "top_domains": [
         {
-          "domain": "frameset.app",
-          "count": 3
+          "domain": "eporner.com",
+          "count": 19
         },
         {
-          "domain": "youmind.com",
-          "count": 3
+          "domain": "xhamster.com",
+          "count": 12
         },
         {
-          "domain": "cosmos.so",
-          "count": 2
+          "domain": "faphouse.com",
+          "count": 8
         },
         {
-          "domain": "google.com",
-          "count": 2
+          "domain": "xtits.xxx",
+          "count": 6
         },
         {
-          "domain": "promptsref.com",
-          "count": 2
+          "domain": "spankbang.com",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "social",
+      "count": 16,
+      "domain_count": 9,
+      "top_domains": [
+        {
+          "domain": "abxxx.com",
+          "count": 8
+        },
+        {
+          "domain": "ixxx.com",
+          "count": 1
+        },
+        {
+          "domain": "inxxx.com",
+          "count": 1
+        },
+        {
+          "domain": "sexplex.com",
+          "count": 1
+        },
+        {
+          "domain": "anysex.com",
+          "count": 1
         }
       ]
     },
@@ -59,25 +86,6 @@
         {
           "domain": "youtube.com",
           "count": 14
-        }
-      ]
-    },
-    {
-      "name": "social",
-      "count": 3,
-      "domain_count": 3,
-      "top_domains": [
-        {
-          "domain": "reddit.com",
-          "count": 1
-        },
-        {
-          "domain": "facebook.com",
-          "count": 1
-        },
-        {
-          "domain": "instagram.com",
-          "count": 1
         }
       ]
     },
