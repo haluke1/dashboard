@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-08-19T13:24:37Z",
+  "updated_at": "2026-08-19T13:25:45Z",
   "counts": {
-    "active": 0,
-    "recent": 6,
+    "active": 1,
+    "recent": 5,
     "archived": 377,
     "total": 383
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "c9a92440",
       "full_id": "c9a92440-bc72-474e-812c-5dc3f4f20f6a",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
       "last_user_msg": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
       "last_assistant_snippet": "I'll start by reading the required files in order.",
-      "message_count": 17,
-      "file_size_kb": 235,
-      "modified_ts": 1787145236.8829134,
-      "modified_iso": "2026-08-19T09:13:56.882913",
-      "minutes_since_active": 10.7
-    },
+      "message_count": 18,
+      "file_size_kb": 293,
+      "modified_ts": 1787145932.7613683,
+      "modified_iso": "2026-08-19T09:25:32.761368",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
     {
       "id": "ca6c29b1",
       "full_id": "ca6c29b1-21e3-40a2-8fc1-91cb3378124b",
@@ -38,7 +39,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 173.5
+      "minutes_since_active": 174.6
     },
     {
       "id": "79a885a3",
@@ -54,7 +55,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 471.8
+      "minutes_since_active": 472.9
     },
     {
       "id": "2fb27934",
@@ -70,7 +71,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 755.6
+      "minutes_since_active": 756.7
     },
     {
       "id": "8039499b",
@@ -86,7 +87,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787091724.0377204,
       "modified_iso": "2026-08-18T18:22:04.037720",
-      "minutes_since_active": 902.5
+      "minutes_since_active": 903.7
     },
     {
       "id": "04d510c8",
@@ -102,7 +103,7 @@
       "file_size_kb": 161,
       "modified_ts": 1787066048.237746,
       "modified_iso": "2026-08-18T11:14:08.237746",
-      "minutes_since_active": 1330.5
+      "minutes_since_active": 1331.6
     }
   ]
 }
