@@ -1,12 +1,45 @@
 {
-  "updated_at": "2026-08-19T22:51:02Z",
+  "updated_at": "2026-08-19T22:51:10Z",
   "counts": {
-    "active": 0,
+    "active": 2,
     "recent": 6,
-    "archived": 379,
+    "archived": 377,
     "total": 385
   },
-  "active": [],
+  "active": [
+    {
+      "id": "7a22140b",
+      "full_id": "7a22140b-86da-4a01-b2ea-a980a1dbbe4e",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "continue \u2014 ALMA",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "**The zero-loss verification is done and the ALMA module passes.** All 16 pulled regions containment-tested against their sources: every one PASSES, the Ottoman firewall held with \u2026",
+      "message_count": 158,
+      "file_size_kb": 1036,
+      "modified_ts": 1787179865.4012496,
+      "modified_iso": "2026-08-19T18:51:05.401250",
+      "minutes_since_active": 0.1
+    },
+    {
+      "id": "c2fdeca1",
+      "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so i want you to launch sub agents that uses sonnet 5 to analyze these and give suggestions to organize these folders in such a way that we will run tons of sub agents to later org\u2026",
+      "last_user_msg": "continue",
+      "last_assistant_snippet": "Here's the full state of the republic, morning after: **The factory finished its mission and turned itself off.** At 6:45am the scheduled runner ran the architect wave: all four fi\u2026",
+      "message_count": 895,
+      "file_size_kb": 6768,
+      "modified_ts": 1787179864.4163337,
+      "modified_iso": "2026-08-19T18:51:04.416334",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "98069d8a",
@@ -22,7 +55,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787169870.5804293,
       "modified_iso": "2026-08-19T16:04:30.580429",
-      "minutes_since_active": 166.5
+      "minutes_since_active": 166.7
     },
     {
       "id": "1cecb490",
@@ -38,7 +71,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 326.5
+      "minutes_since_active": 326.6
     },
     {
       "id": "c9a92440",
@@ -54,7 +87,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787154263.3926766,
       "modified_iso": "2026-08-19T11:44:23.392677",
-      "minutes_since_active": 426.7
+      "minutes_since_active": 426.8
     },
     {
       "id": "ca6c29b1",
@@ -70,7 +103,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 739.9
+      "minutes_since_active": 740.0
     },
     {
       "id": "79a885a3",
@@ -86,7 +119,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1038.2
+      "minutes_since_active": 1038.3
     },
     {
       "id": "2fb27934",
@@ -102,7 +135,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1322.0
+      "minutes_since_active": 1322.2
     }
   ]
 }
