@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-19T08:52:20Z",
+  "updated_at": "2026-08-19T09:44:09Z",
   "counts": {
     "active": 0,
-    "recent": 6,
-    "archived": 375,
+    "recent": 5,
+    "archived": 376,
     "total": 381
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 183.6
+      "minutes_since_active": 251.3
     },
     {
       "id": "2fb27934",
@@ -38,7 +38,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 467.4
+      "minutes_since_active": 535.1
     },
     {
       "id": "8039499b",
@@ -54,7 +54,7 @@
       "file_size_kb": 186,
       "modified_ts": 1787091724.0377204,
       "modified_iso": "2026-08-18T18:22:04.037720",
-      "minutes_since_active": 614.4
+      "minutes_since_active": 682.1
     },
     {
       "id": "04d510c8",
@@ -70,7 +70,7 @@
       "file_size_kb": 161,
       "modified_ts": 1787066048.237746,
       "modified_iso": "2026-08-18T11:14:08.237746",
-      "minutes_since_active": 1042.3
+      "minutes_since_active": 1110.0
     },
     {
       "id": "c99e05af",
@@ -86,23 +86,7 @@
       "file_size_kb": 410,
       "modified_ts": 1787056423.7387605,
       "modified_iso": "2026-08-18T08:33:43.738760",
-      "minutes_since_active": 1218.6
-    },
-    {
-      "id": "bd04d8df",
-      "full_id": "bd04d8df-933b-42df-886f-f67207ed37f9",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "**census paused** STOP file present at [census/STOP](../Desktop/reports/master-brain-reorg-2026-08/census/STOP) with content `COMPLETE`. No wave executed \u2014 exited at step 1 as the \u2026",
-      "message_count": 17,
-      "file_size_kb": 193,
-      "modified_ts": 1787045625.729013,
-      "modified_iso": "2026-08-18T05:33:45.729013",
-      "minutes_since_active": 1382.7
+      "minutes_since_active": 1270.4
     }
   ]
 }
