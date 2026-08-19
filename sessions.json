@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-08-19T23:47:55Z",
+  "updated_at": "2026-08-19T23:49:00Z",
   "counts": {
-    "active": 1,
-    "recent": 8,
+    "active": 0,
+    "recent": 9,
     "archived": 376,
     "total": 385
   },
-  "active": [
+  "active": [],
+  "recent": [
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -21,10 +22,8 @@
       "file_size_kb": 3686,
       "modified_ts": 1787182978.6917758,
       "modified_iso": "2026-08-19T19:42:58.691776",
-      "minutes_since_active": 4.9
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 6.0
+    },
     {
       "id": "c2fdeca1",
       "full_id": "c2fdeca1-db46-439a-a132-6e0cbc880c6a",
@@ -39,7 +38,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 9.7
+      "minutes_since_active": 10.8
     },
     {
       "id": "7a22140b",
@@ -55,7 +54,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 28.5
+      "minutes_since_active": 29.5
     },
     {
       "id": "98069d8a",
@@ -71,7 +70,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 40.2
+      "minutes_since_active": 41.2
     },
     {
       "id": "c9a92440",
@@ -87,7 +86,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 40.4
+      "minutes_since_active": 41.5
     },
     {
       "id": "1cecb490",
@@ -103,7 +102,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 383.3
+      "minutes_since_active": 384.4
     },
     {
       "id": "ca6c29b1",
@@ -119,7 +118,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 796.8
+      "minutes_since_active": 797.8
     },
     {
       "id": "79a885a3",
@@ -135,7 +134,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1095.1
+      "minutes_since_active": 1096.2
     },
     {
       "id": "2fb27934",
@@ -151,7 +150,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1378.9
+      "minutes_since_active": 1380.0
     }
   ]
 }
