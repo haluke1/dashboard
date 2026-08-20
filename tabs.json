@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T23:47:36Z",
-  "total_tabs": 143,
+  "updated_at": "2026-08-20T23:48:44Z",
+  "total_tabs": 145,
   "total_windows": 1,
   "duplicate_tabs": 11,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 86,
-      "domain_count": 69,
+      "count": 87,
+      "domain_count": 70,
       "top_domains": [
         {
           "domain": "login.tailscale.com",
@@ -64,8 +64,8 @@
     },
     {
       "name": "social",
-      "count": 3,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 4,
       "top_domains": [
         {
           "domain": "reddit.com",
@@ -77,6 +77,10 @@
         },
         {
           "domain": "instagram.com",
+          "count": 1
+        },
+        {
+          "domain": "linkedin.com",
           "count": 1
         }
       ]
