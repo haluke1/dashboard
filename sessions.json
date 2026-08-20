@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T23:24:18Z",
+  "updated_at": "2026-08-20T23:25:15Z",
   "counts": {
-    "active": 2,
-    "recent": 6,
+    "active": 1,
+    "recent": 7,
     "archived": 383,
     "total": 391
   },
@@ -16,17 +16,19 @@
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "<task-notification> <task-id>a1fb2609d822b7509</task-id> <tool-use-id>toolu_01GM6p97fVkrLEhwei5A1D5H</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075\u2026",
-      "last_assistant_snippet": "Regions 45\u201355 in. The concentration formula lands verbatim \u2014 *\"When you try it all, everything moves at 10%, when you focus on one it moves by 10000%\"* (L33191) \u2014 plus the moat-thr\u2026",
-      "message_count": 1106,
-      "file_size_kb": 8810,
-      "modified_ts": 1787268192.2054732,
-      "modified_iso": "2026-08-20T19:23:12.205473",
-      "minutes_since_active": 1.1
-    },
+      "last_assistant_snippet": "Regions 56\u201365 confirm the archival pattern (four more dead all-in identities: At\u00f6lye, RenovateAI, Prag Labs, the IB pivot) but also hand me *\"rather do 1 big deal instead of doing \u2026",
+      "message_count": 1108,
+      "file_size_kb": 8862,
+      "modified_ts": 1787268313.265406,
+      "modified_iso": "2026-08-20T19:25:13.265406",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "eb9c822d",
       "full_id": "eb9c822d-c372-48a2-8eff-a10dcd43246e",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -37,10 +39,8 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 4.7
-    }
-  ],
-  "recent": [
+      "minutes_since_active": 5.6
+    },
     {
       "id": "bc2bb606",
       "full_id": "bc2bb606-494a-4623-829f-6f5b350a2964",
@@ -55,7 +55,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 464.3
+      "minutes_since_active": 465.2
     },
     {
       "id": "48279a6f",
@@ -71,7 +71,7 @@
       "file_size_kb": 572,
       "modified_ts": 1787234954.665526,
       "modified_iso": "2026-08-20T10:09:14.665526",
-      "minutes_since_active": 555.1
+      "minutes_since_active": 556.0
     },
     {
       "id": "6a08cc15",
@@ -87,7 +87,7 @@
       "file_size_kb": 214,
       "modified_ts": 1787219343.3092413,
       "modified_iso": "2026-08-20T05:49:03.309241",
-      "minutes_since_active": 815.2
+      "minutes_since_active": 816.2
     },
     {
       "id": "9ee430ea",
@@ -103,7 +103,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 1115.7
+      "minutes_since_active": 1116.6
     },
     {
       "id": "b14d31a5",
@@ -119,7 +119,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 1355.5
+      "minutes_since_active": 1356.4
     },
     {
       "id": "c2fdeca1",
@@ -135,7 +135,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 1426.1
+      "minutes_since_active": 1427.1
     }
   ]
 }
