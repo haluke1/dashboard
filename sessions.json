@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-08-20T04:33:07Z",
+  "updated_at": "2026-08-20T04:33:31Z",
   "counts": {
-    "active": 0,
+    "active": 1,
     "recent": 9,
     "archived": 377,
-    "total": 386
+    "total": 387
   },
-  "active": [],
+  "active": [
+    {
+      "id": "9ee430ea",
+      "full_id": "9ee430ea-2e25-487f-8257-e874b1a807dc",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_assistant_snippet": "I'll start by checking the STOP file and reading the standing brief.",
+      "message_count": 9,
+      "file_size_kb": 220,
+      "modified_ts": 1787200397.8866436,
+      "modified_iso": "2026-08-20T00:33:17.886644",
+      "minutes_since_active": 0.2
+    }
+  ],
   "recent": [
     {
       "id": "be5075ca",
@@ -22,7 +39,7 @@
       "file_size_kb": 7453,
       "modified_ts": 1787199988.2966492,
       "modified_iso": "2026-08-20T00:26:28.296649",
-      "minutes_since_active": 6.7
+      "minutes_since_active": 7.0
     },
     {
       "id": "b14d31a5",
@@ -38,7 +55,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 224.3
+      "minutes_since_active": 224.7
     },
     {
       "id": "c2fdeca1",
@@ -54,7 +71,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 294.9
+      "minutes_since_active": 295.3
     },
     {
       "id": "7a22140b",
@@ -70,7 +87,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 313.7
+      "minutes_since_active": 314.1
     },
     {
       "id": "98069d8a",
@@ -86,7 +103,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 325.4
+      "minutes_since_active": 325.8
     },
     {
       "id": "c9a92440",
@@ -102,7 +119,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 325.6
+      "minutes_since_active": 326.0
     },
     {
       "id": "1cecb490",
@@ -118,7 +135,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 668.5
+      "minutes_since_active": 668.9
     },
     {
       "id": "ca6c29b1",
@@ -134,7 +151,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 1082.0
+      "minutes_since_active": 1082.4
     },
     {
       "id": "79a885a3",
@@ -150,7 +167,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1380.3
+      "minutes_since_active": 1380.7
     }
   ]
 }
