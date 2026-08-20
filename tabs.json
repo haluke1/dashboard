@@ -1,21 +1,17 @@
 {
-  "updated_at": "2026-08-20T00:36:07Z",
-  "total_tabs": 119,
+  "updated_at": "2026-08-20T00:37:12Z",
+  "total_tabs": 117,
   "total_windows": 1,
   "duplicate_tabs": 3,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 78,
+      "count": 76,
       "domain_count": 66,
       "top_domains": [
         {
           "domain": "frameset.app",
-          "count": 3
-        },
-        {
-          "domain": "eksisozluk.com",
           "count": 3
         },
         {
@@ -28,6 +24,10 @@
         },
         {
           "domain": "promptsref.com",
+          "count": 2
+        },
+        {
+          "domain": "youmind.com",
           "count": 2
         }
       ]
