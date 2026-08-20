@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:23:07Z",
+  "updated_at": "2026-08-20T23:23:11Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "<task-notification> <task-id>a100bba18569f2588</task-id> <tool-use-id>toolu_011KZJGFbH4bH5PUVJK6ztLD</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075\u2026",
-      "last_assistant_snippet": "Regions 12\u201322 just delivered the founder-market-fit answer in your own handwriting: *\"this artistic pursuit and the ability to do it will give you life energy and make you more pro\u2026",
-      "message_count": 1103,
-      "file_size_kb": 8789,
-      "modified_ts": 1787268174.9061098,
-      "modified_iso": "2026-08-20T19:22:54.906110",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Regions 45\u201355 in. The concentration formula lands verbatim \u2014 *\"When you try it all, everything moves at 10%, when you focus on one it moves by 10000%\"* (L33191) \u2014 plus the moat-thr\u2026",
+      "message_count": 1105,
+      "file_size_kb": 8796,
+      "modified_ts": 1787268189.8892596,
+      "modified_iso": "2026-08-20T19:23:09.889260",
+      "minutes_since_active": 0.0
     },
     {
       "id": "eb9c822d",
@@ -103,7 +103,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 1114.5
+      "minutes_since_active": 1114.6
     },
     {
       "id": "b14d31a5",
@@ -119,7 +119,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 1354.3
+      "minutes_since_active": 1354.4
     },
     {
       "id": "c2fdeca1",
@@ -135,7 +135,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 1424.9
+      "minutes_since_active": 1425.0
     }
   ]
 }
