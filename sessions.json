@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T00:52:13Z",
+  "updated_at": "2026-08-20T00:53:19Z",
   "counts": {
     "active": 2,
     "recent": 7,
@@ -17,11 +17,11 @@
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "so can you confirm we got everything right with all the merges and contents and whatnot? i moved the folders as such and want you to do a final run of however many agents or tokens\u2026",
       "last_assistant_snippet": "Ground-truth first \u2014 you moved folders again, so before any verification means anything, I need to see where everything landed and confirm nothing safety-critical got trashed:",
-      "message_count": 551,
-      "file_size_kb": 5972,
-      "modified_ts": 1787187100.0054197,
-      "modified_iso": "2026-08-19T20:51:40.005420",
-      "minutes_since_active": 0.6
+      "message_count": 559,
+      "file_size_kb": 6012,
+      "modified_ts": 1787187194.9263983,
+      "modified_iso": "2026-08-19T20:53:14.926398",
+      "minutes_since_active": 0.1
     },
     {
       "id": "b14d31a5",
@@ -37,7 +37,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 3.4
+      "minutes_since_active": 4.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 74.0
+      "minutes_since_active": 75.1
     },
     {
       "id": "7a22140b",
@@ -71,7 +71,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 92.8
+      "minutes_since_active": 93.9
     },
     {
       "id": "98069d8a",
@@ -87,7 +87,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 104.5
+      "minutes_since_active": 105.6
     },
     {
       "id": "c9a92440",
@@ -103,7 +103,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 104.7
+      "minutes_since_active": 105.8
     },
     {
       "id": "1cecb490",
@@ -119,7 +119,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 447.6
+      "minutes_since_active": 448.7
     },
     {
       "id": "ca6c29b1",
@@ -135,7 +135,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 861.1
+      "minutes_since_active": 862.2
     },
     {
       "id": "79a885a3",
@@ -151,7 +151,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1159.4
+      "minutes_since_active": 1160.5
     }
   ]
 }
