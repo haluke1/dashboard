@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:03:57Z",
+  "updated_at": "2026-08-20T03:05:02Z",
   "total_tabs": 126,
   "total_windows": 1,
   "duplicate_tabs": 5,
@@ -7,19 +7,19 @@
   "categories": [
     {
       "name": "other",
-      "count": 78,
-      "domain_count": 65,
+      "count": 79,
+      "domain_count": 66,
       "top_domains": [
         {
           "domain": "frameset.app",
           "count": 3
         },
         {
-          "domain": "google.com",
-          "count": 3
+          "domain": "cosmos.so",
+          "count": 2
         },
         {
-          "domain": "cosmos.so",
+          "domain": "google.com",
           "count": 2
         },
         {
@@ -45,12 +45,12 @@
     },
     {
       "name": "ai-dev",
-      "count": 15,
+      "count": 14,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 11
+          "count": 10
         },
         {
           "domain": "claude.ai",
