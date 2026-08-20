@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:15:22Z",
+  "updated_at": "2026-08-20T23:16:28Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "Base directory for this skill: /Users/halukgul/.claude/skills/score # /score \u2014 Compound Action Scoring System (CASS) v2 ## Purpose Score any action on 10 **weighted** dimensions (0\u2026",
-      "last_assistant_snippet": "This is the call the whole reorg was building toward, so I'm going to do it properly: locate the 9,600-line brain, put **6-7 Sonnet miners** on it with a strict extraction contract\u2026",
-      "message_count": 1057,
-      "file_size_kb": 8448,
-      "modified_ts": 1787267653.229152,
-      "modified_iso": "2026-08-20T19:14:13.229152",
-      "minutes_since_active": 1.2
+      "last_assistant_snippet": "All 7 miners are running. While they work, I'm reading the remaining doctrine files myself \u2014 CONSTITUTION, STATE, and the August 10 decisions record.",
+      "message_count": 1081,
+      "file_size_kb": 8558,
+      "modified_ts": 1787267739.2491658,
+      "modified_iso": "2026-08-20T19:15:39.249166",
+      "minutes_since_active": 0.8
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267077.9602973,
       "modified_iso": "2026-08-20T19:04:37.960297",
-      "minutes_since_active": 10.7
+      "minutes_since_active": 11.8
     },
     {
       "id": "bc2bb606",
@@ -55,7 +55,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 455.3
+      "minutes_since_active": 456.4
     },
     {
       "id": "48279a6f",
@@ -71,7 +71,7 @@
       "file_size_kb": 572,
       "modified_ts": 1787234954.665526,
       "modified_iso": "2026-08-20T10:09:14.665526",
-      "minutes_since_active": 546.1
+      "minutes_since_active": 547.2
     },
     {
       "id": "6a08cc15",
@@ -87,7 +87,7 @@
       "file_size_kb": 214,
       "modified_ts": 1787219343.3092413,
       "modified_iso": "2026-08-20T05:49:03.309241",
-      "minutes_since_active": 806.3
+      "minutes_since_active": 807.4
     },
     {
       "id": "9ee430ea",
@@ -103,7 +103,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 1106.8
+      "minutes_since_active": 1107.8
     },
     {
       "id": "b14d31a5",
@@ -119,7 +119,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 1346.5
+      "minutes_since_active": 1347.6
     },
     {
       "id": "c2fdeca1",
@@ -135,7 +135,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 1417.2
+      "minutes_since_active": 1418.3
     },
     {
       "id": "7a22140b",
@@ -151,7 +151,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 1435.9
+      "minutes_since_active": 1437.0
     }
   ]
 }
