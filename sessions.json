@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T00:18:22Z",
+  "updated_at": "2026-08-20T00:19:26Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -17,11 +17,11 @@
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "@\"/Users/halukgul/Desktop/authority-research-archive/\" @\"/Users/halukgul/Desktop/elite-reports-database/\" @\"/Users/halukgul/Desktop/master-brain-reorg-2026-08/\" so there are lots o\u2026",
       "last_assistant_snippet": "Everything is fixed and verified. Now your two questions answered straight, then the 3 questions you asked me to ask. ## \"Did you mess up the files?\" **Yes \u2014 the sweep made one rea\u2026",
-      "message_count": 442,
-      "file_size_kb": 4678,
-      "modified_ts": 1787185093.0926216,
-      "modified_iso": "2026-08-19T20:18:13.092622",
-      "minutes_since_active": 0.1
+      "message_count": 446,
+      "file_size_kb": 4697,
+      "modified_ts": 1787185143.9439278,
+      "modified_iso": "2026-08-19T20:19:03.943928",
+      "minutes_since_active": 0.4
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 40.2
+      "minutes_since_active": 41.3
     },
     {
       "id": "7a22140b",
@@ -55,7 +55,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 58.9
+      "minutes_since_active": 60.0
     },
     {
       "id": "98069d8a",
@@ -71,7 +71,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 70.6
+      "minutes_since_active": 71.7
     },
     {
       "id": "c9a92440",
@@ -87,7 +87,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 70.8
+      "minutes_since_active": 71.9
     },
     {
       "id": "1cecb490",
@@ -103,7 +103,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 413.8
+      "minutes_since_active": 414.9
     },
     {
       "id": "ca6c29b1",
@@ -119,7 +119,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 827.2
+      "minutes_since_active": 828.3
     },
     {
       "id": "79a885a3",
@@ -135,7 +135,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1125.5
+      "minutes_since_active": 1126.6
     },
     {
       "id": "2fb27934",
@@ -151,7 +151,7 @@
       "file_size_kb": 172,
       "modified_ts": 1787100540.8079367,
       "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1409.3
+      "minutes_since_active": 1410.4
     }
   ]
 }
