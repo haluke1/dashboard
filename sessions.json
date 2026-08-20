@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T04:25:35Z",
+  "updated_at": "2026-08-20T04:26:30Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -16,12 +16,12 @@
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
       "last_user_msg": "@\"/Users/halukgul/Downloads/ALMA-CULTURAL-BRIEF.md\" you have the overall scripts right? can we combine them and generate a script with the goosebumps emotions heros arc and whateve\u2026",
-      "last_assistant_snippet": "Read the brief \u2014 it's strong, and it slots straight into the war-room (I'll copy it into `ALMA/` when we start, announced). And yes, I have the full script substrate: the canonical\u2026",
-      "message_count": 837,
-      "file_size_kb": 7417,
-      "modified_ts": 1787199922.1526878,
-      "modified_iso": "2026-08-20T00:25:22.152688",
-      "minutes_since_active": 0.2
+      "last_assistant_snippet": "Pre-flight results \u2014 everything needed is in place, with two things you should know before any credits burn: 1. **Credits: 2.96M available** (of 3.6M plan). But heads-up per the pl\u2026",
+      "message_count": 849,
+      "file_size_kb": 7453,
+      "modified_ts": 1787199988.2966492,
+      "modified_iso": "2026-08-20T00:26:28.296649",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 216.7
+      "minutes_since_active": 217.7
     },
     {
       "id": "c2fdeca1",
@@ -55,7 +55,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 287.4
+      "minutes_since_active": 288.3
     },
     {
       "id": "7a22140b",
@@ -71,7 +71,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 306.1
+      "minutes_since_active": 307.0
     },
     {
       "id": "98069d8a",
@@ -87,7 +87,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 317.8
+      "minutes_since_active": 318.7
     },
     {
       "id": "c9a92440",
@@ -103,7 +103,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 318.0
+      "minutes_since_active": 319.0
     },
     {
       "id": "1cecb490",
@@ -119,7 +119,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 661.0
+      "minutes_since_active": 661.9
     },
     {
       "id": "ca6c29b1",
@@ -135,7 +135,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 1074.4
+      "minutes_since_active": 1075.3
     },
     {
       "id": "79a885a3",
@@ -151,7 +151,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1372.7
+      "minutes_since_active": 1373.7
     }
   ]
 }
