@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T17:56:06Z",
-  "total_tabs": 138,
+  "updated_at": "2026-08-20T19:28:54Z",
+  "total_tabs": 139,
   "total_windows": 1,
-  "duplicate_tabs": 9,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 83,
+      "count": 84,
       "domain_count": 69,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
+          "domain": "login.tailscale.com",
+          "count": 3
+        },
+        {
           "domain": "cosmos.so",
           "count": 2
         },
         {
           "domain": "google.com",
-          "count": 2
-        },
-        {
-          "domain": "promptsref.com",
           "count": 2
         }
       ]
