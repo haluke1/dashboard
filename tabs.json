@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T22:02:37Z",
-  "total_tabs": 139,
+  "updated_at": "2026-08-20T23:03:25Z",
+  "total_tabs": 140,
   "total_windows": 1,
   "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 84,
+      "count": 85,
       "domain_count": 69,
       "top_domains": [
+        {
+          "domain": "login.tailscale.com",
+          "count": 4
+        },
         {
           "domain": "frameset.app",
           "count": 3
         },
         {
           "domain": "magnific.com",
-          "count": 3
-        },
-        {
-          "domain": "login.tailscale.com",
           "count": 3
         },
         {
