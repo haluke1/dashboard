@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T23:22:02Z",
+  "updated_at": "2026-08-20T23:22:15Z",
   "counts": {
     "active": 2,
     "recent": 6,
@@ -7,6 +7,22 @@
     "total": 391
   },
   "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "<task-notification> <task-id>a8f617ce92fc1047b</task-id> <tool-use-id>toolu_01Rfqm2PtYvSB8pZ3dN9dtvA</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075\u2026",
+      "last_assistant_snippet": "Regions 34\u201344 are in \u2014 that span is your business-era corpus and it hands the memo three of its pillars in your own words: **\"Monopoly of depth\"** (L25174), **\"completely double do\u2026",
+      "message_count": 1096,
+      "file_size_kb": 8710,
+      "modified_ts": 1787268134.011352,
+      "modified_iso": "2026-08-20T19:22:14.011352",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "eb9c822d",
       "full_id": "eb9c822d-c372-48a2-8eff-a10dcd43246e",
@@ -21,23 +37,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 2.4
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "<task-notification> <task-id>ae8fb89d5bc4188f6</task-id> <tool-use-id>toolu_01J6CBbTR6FjWEP3CfdEas6f</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075\u2026",
-      "last_assistant_snippet": "Venture-context miner is back with two load-bearing facts: **AmerikaOS's own document already subordinates itself to film** (\"Business is the revenue engine; film work is the crede\u2026",
-      "message_count": 1093,
-      "file_size_kb": 8658,
-      "modified_ts": 1787267960.2426999,
-      "modified_iso": "2026-08-20T19:19:20.242700",
-      "minutes_since_active": 2.7
+      "minutes_since_active": 2.6
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 462.0
+      "minutes_since_active": 462.2
     },
     {
       "id": "48279a6f",
@@ -71,7 +71,7 @@
       "file_size_kb": 572,
       "modified_ts": 1787234954.665526,
       "modified_iso": "2026-08-20T10:09:14.665526",
-      "minutes_since_active": 552.8
+      "minutes_since_active": 553.0
     },
     {
       "id": "6a08cc15",
@@ -87,7 +87,7 @@
       "file_size_kb": 214,
       "modified_ts": 1787219343.3092413,
       "modified_iso": "2026-08-20T05:49:03.309241",
-      "minutes_since_active": 813.0
+      "minutes_since_active": 813.2
     },
     {
       "id": "9ee430ea",
@@ -103,7 +103,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 1113.4
+      "minutes_since_active": 1113.6
     },
     {
       "id": "b14d31a5",
@@ -119,7 +119,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 1353.2
+      "minutes_since_active": 1353.4
     },
     {
       "id": "c2fdeca1",
@@ -135,7 +135,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 1423.8
+      "minutes_since_active": 1424.1
     }
   ]
 }
