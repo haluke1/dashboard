@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-20T15:59:16Z",
+  "updated_at": "2026-08-20T17:56:08Z",
   "counts": {
     "active": 0,
-    "recent": 11,
-    "archived": 379,
+    "recent": 10,
+    "archived": 380,
     "total": 390
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 19.2
+      "minutes_since_active": 136.1
     },
     {
       "id": "48279a6f",
@@ -38,7 +38,7 @@
       "file_size_kb": 572,
       "modified_ts": 1787234954.665526,
       "modified_iso": "2026-08-20T10:09:14.665526",
-      "minutes_since_active": 110.0
+      "minutes_since_active": 226.9
     },
     {
       "id": "6a08cc15",
@@ -54,7 +54,7 @@
       "file_size_kb": 214,
       "modified_ts": 1787219343.3092413,
       "modified_iso": "2026-08-20T05:49:03.309241",
-      "minutes_since_active": 370.2
+      "minutes_since_active": 487.1
     },
     {
       "id": "be5075ca",
@@ -70,7 +70,7 @@
       "file_size_kb": 8275,
       "modified_ts": 1787204232.6266906,
       "modified_iso": "2026-08-20T01:37:12.626691",
-      "minutes_since_active": 622.1
+      "minutes_since_active": 738.9
     },
     {
       "id": "9ee430ea",
@@ -86,7 +86,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 670.7
+      "minutes_since_active": 787.5
     },
     {
       "id": "b14d31a5",
@@ -102,7 +102,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 910.4
+      "minutes_since_active": 1027.3
     },
     {
       "id": "c2fdeca1",
@@ -118,7 +118,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 981.1
+      "minutes_since_active": 1097.9
     },
     {
       "id": "7a22140b",
@@ -134,7 +134,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 999.8
+      "minutes_since_active": 1116.7
     },
     {
       "id": "98069d8a",
@@ -150,7 +150,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 1011.5
+      "minutes_since_active": 1128.4
     },
     {
       "id": "c9a92440",
@@ -166,23 +166,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 1011.7
-    },
-    {
-      "id": "1cecb490",
-      "full_id": "1cecb490-ca74-4e8f-88a7-0c2142b4e00d",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "**census paused** STOP file exists at `census/STOP` with content `COMPLETE` (created Aug 17 06:43). Per the standing brief's first check, I halted before reading CENSUS-RUNNER.md o\u2026",
-      "message_count": 8,
-      "file_size_kb": 169,
-      "modified_ts": 1787160274.6976514,
-      "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 1354.7
+      "minutes_since_active": 1128.6
     }
   ]
 }
