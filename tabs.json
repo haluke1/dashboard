@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T03:23:44Z",
-  "total_tabs": 127,
+  "updated_at": "2026-08-20T03:24:50Z",
+  "total_tabs": 129,
   "total_windows": 1,
   "duplicate_tabs": 5,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 79,
-      "domain_count": 66,
+      "count": 82,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -64,8 +64,8 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 4,
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
@@ -77,10 +77,6 @@
         },
         {
           "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "discord.com",
           "count": 1
         }
       ]
