@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T01:48:34Z",
+  "updated_at": "2026-08-20T01:49:39Z",
   "counts": {
     "active": 1,
     "recent": 8,
@@ -15,13 +15,13 @@
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "yeah but there is way way way more than these in the folders that we have, were you only able to find these ones? i dont get it > The finding that shapes everything: you already ow\u2026",
-      "last_assistant_snippet": "Measured, you're right \u2014 here's what you actually own, counted: | Asset | Real scale | |---|---| | MASTER-ai-filmmaking-craft.md | **20,646 lines, 1,567 headed sections** \u2014 30 cine\u2026",
-      "message_count": 702,
-      "file_size_kb": 6793,
-      "modified_ts": 1787190473.3330293,
-      "modified_iso": "2026-08-19T21:47:53.333029",
-      "minutes_since_active": 0.7
+      "last_user_msg": "arent these part of master ai filmmaking craft .md ? are they in different spots? havent we aggregated all film related things in alma? can you check -> Prompt libraries the war-ro\u2026",
+      "last_assistant_snippet": "Quick check to ground it, then the answer:",
+      "message_count": 707,
+      "file_size_kb": 6808,
+      "modified_ts": 1787190567.9628592,
+      "modified_iso": "2026-08-19T21:49:27.962859",
+      "minutes_since_active": 0.2
     }
   ],
   "recent": [
@@ -39,7 +39,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 59.7
+      "minutes_since_active": 60.8
     },
     {
       "id": "c2fdeca1",
@@ -55,7 +55,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 130.4
+      "minutes_since_active": 131.5
     },
     {
       "id": "7a22140b",
@@ -71,7 +71,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 149.1
+      "minutes_since_active": 150.2
     },
     {
       "id": "98069d8a",
@@ -87,7 +87,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 160.8
+      "minutes_since_active": 161.9
     },
     {
       "id": "c9a92440",
@@ -103,7 +103,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 161.0
+      "minutes_since_active": 162.1
     },
     {
       "id": "1cecb490",
@@ -119,7 +119,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 504.0
+      "minutes_since_active": 505.1
     },
     {
       "id": "ca6c29b1",
@@ -135,7 +135,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 917.4
+      "minutes_since_active": 918.5
     },
     {
       "id": "79a885a3",
@@ -151,7 +151,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1215.7
+      "minutes_since_active": 1216.8
     }
   ]
 }
