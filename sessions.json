@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-20T00:48:52Z",
+  "updated_at": "2026-08-20T00:49:30Z",
   "counts": {
     "active": 2,
-    "recent": 8,
-    "archived": 376,
+    "recent": 7,
+    "archived": 377,
     "total": 386
   },
   "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "but i dont need the unload copy and whatever",
+      "last_assistant_snippet": "Fair \u2014 let me be blunt about what \"needing\" it means: You don't need it **today**. You need it on exactly one future day: the day you empty the `delete these` folder and something \u2026",
+      "message_count": 542,
+      "file_size_kb": 5857,
+      "modified_ts": 1787186968.2522047,
+      "modified_iso": "2026-08-19T20:49:28.252205",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b14d31a5",
       "full_id": "b14d31a5-71a9-4e6f-b691-edcb389bfcf0",
@@ -21,23 +37,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 0.0
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "also we were able to extract everything from taoprompts and whatever to the MASTER folder things right? also could we put all the film related stuff inside alma",
-      "last_assistant_snippet": "**1) The folder, simplest version:** The robots that cleaned your files **forget everything the moment they stop working**. Paper is their only memory. That folder is the paper. It\u2026",
-      "message_count": 539,
-      "file_size_kb": 5845,
-      "modified_ts": 1787186881.8295138,
-      "modified_iso": "2026-08-19T20:48:01.829514",
-      "minutes_since_active": 0.8
+      "minutes_since_active": 0.7
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 70.7
+      "minutes_since_active": 71.3
     },
     {
       "id": "7a22140b",
@@ -71,7 +71,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 89.4
+      "minutes_since_active": 90.0
     },
     {
       "id": "98069d8a",
@@ -87,7 +87,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 101.1
+      "minutes_since_active": 101.7
     },
     {
       "id": "c9a92440",
@@ -103,7 +103,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 101.3
+      "minutes_since_active": 102.0
     },
     {
       "id": "1cecb490",
@@ -119,7 +119,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 444.3
+      "minutes_since_active": 444.9
     },
     {
       "id": "ca6c29b1",
@@ -135,7 +135,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 857.7
+      "minutes_since_active": 858.3
     },
     {
       "id": "79a885a3",
@@ -151,23 +151,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1156.0
-    },
-    {
-      "id": "2fb27934",
-      "full_id": "2fb27934-e058-4b34-801d-99a7e2ce288a",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "**census paused** The STOP sentinel exists at `Desktop/reports/master-brain-reorg-2026-08/census/STOP` with content `COMPLETE` (written Aug 17, 06:43). Per the standing brief, that\u2026",
-      "message_count": 9,
-      "file_size_kb": 172,
-      "modified_ts": 1787100540.8079367,
-      "modified_iso": "2026-08-18T20:49:00.807937",
-      "minutes_since_active": 1439.8
+      "minutes_since_active": 1156.7
     }
   ]
 }
