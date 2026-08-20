@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20T01:36:22Z",
-  "total_tabs": 116,
+  "updated_at": "2026-08-20T01:37:31Z",
+  "total_tabs": 119,
   "total_windows": 1,
   "duplicate_tabs": 3,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 75,
+      "count": 76,
       "domain_count": 65,
       "top_domains": [
         {
@@ -27,19 +27,19 @@
           "count": 2
         },
         {
-          "domain": "youmind.com",
+          "domain": "tr.pinterest.com",
           "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 21,
+      "count": 23,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 21
+          "count": 23
         }
       ]
     },
