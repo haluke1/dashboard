@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-08-20T04:03:05Z",
+  "updated_at": "2026-08-20T04:04:59Z",
   "counts": {
-    "active": 0,
-    "recent": 9,
+    "active": 1,
+    "recent": 8,
     "archived": 377,
     "total": 386
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "<task-notification> <task-id>wjsejykpt</task-id> <tool-use-id>toolu_01Ub3tztZ1HARqjKJJryyeFc</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
-      "last_assistant_snippet": "Index v2 is live \u2014 the map got meaningfully richer: - **1,250 entries** (was 1,090) \u00b7 **678 are logic** \u2014 the when/why thinking layer is now the majority of the map - The essay re-\u2026",
-      "message_count": 823,
-      "file_size_kb": 7331,
-      "modified_ts": 1787198262.7718332,
-      "modified_iso": "2026-08-19T23:57:42.771833",
-      "minutes_since_active": 5.4
-    },
+      "last_user_msg": "what is the next steps",
+      "last_assistant_snippet": "Here's the board, in priority order: ## Yours (nothing moves without these) 1. **The film \u2014 11 days left.** The ~90-minute unlock session: script pages, pick your 8 hub images, MOT\u2026",
+      "message_count": 826,
+      "file_size_kb": 7340,
+      "modified_ts": 1787198697.161612,
+      "modified_iso": "2026-08-20T00:04:57.161612",
+      "minutes_since_active": 0.0
+    }
+  ],
+  "recent": [
     {
       "id": "b14d31a5",
       "full_id": "b14d31a5-71a9-4e6f-b691-edcb389bfcf0",
@@ -38,7 +39,7 @@
       "file_size_kb": 195,
       "modified_ts": 1787186930.104957,
       "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 194.2
+      "minutes_since_active": 196.1
     },
     {
       "id": "c2fdeca1",
@@ -54,7 +55,7 @@
       "file_size_kb": 6844,
       "modified_ts": 1787182691.0135162,
       "modified_iso": "2026-08-19T19:38:11.013516",
-      "minutes_since_active": 264.9
+      "minutes_since_active": 266.8
     },
     {
       "id": "7a22140b",
@@ -70,7 +71,7 @@
       "file_size_kb": 1232,
       "modified_ts": 1787181567.49,
       "modified_iso": "2026-08-19T19:19:27.490000",
-      "minutes_since_active": 283.6
+      "minutes_since_active": 285.5
     },
     {
       "id": "98069d8a",
@@ -86,7 +87,7 @@
       "file_size_kb": 168,
       "modified_ts": 1787180865.655181,
       "modified_iso": "2026-08-19T19:07:45.655181",
-      "minutes_since_active": 295.3
+      "minutes_since_active": 297.2
     },
     {
       "id": "c9a92440",
@@ -102,7 +103,7 @@
       "file_size_kb": 433,
       "modified_ts": 1787180852.3583164,
       "modified_iso": "2026-08-19T19:07:32.358316",
-      "minutes_since_active": 295.5
+      "minutes_since_active": 297.4
     },
     {
       "id": "1cecb490",
@@ -118,7 +119,7 @@
       "file_size_kb": 169,
       "modified_ts": 1787160274.6976514,
       "modified_iso": "2026-08-19T13:24:34.697651",
-      "minutes_since_active": 638.5
+      "minutes_since_active": 640.4
     },
     {
       "id": "ca6c29b1",
@@ -134,7 +135,7 @@
       "file_size_kb": 151,
       "modified_ts": 1787135469.2450836,
       "modified_iso": "2026-08-19T06:31:09.245084",
-      "minutes_since_active": 1051.9
+      "minutes_since_active": 1053.8
     },
     {
       "id": "79a885a3",
@@ -150,7 +151,7 @@
       "file_size_kb": 156,
       "modified_ts": 1787117570.0303397,
       "modified_iso": "2026-08-19T01:32:50.030340",
-      "minutes_since_active": 1350.3
+      "minutes_since_active": 1352.1
     }
   ]
 }
