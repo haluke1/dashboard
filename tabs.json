@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:33:31Z",
+  "updated_at": "2026-08-20T03:34:37Z",
   "total_tabs": 129,
   "total_windows": 1,
   "duplicate_tabs": 5,
@@ -7,8 +7,8 @@
   "categories": [
     {
       "name": "other",
-      "count": 82,
-      "domain_count": 69,
+      "count": 81,
+      "domain_count": 68,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 14,
+      "count": 15,
       "domain_count": 3,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 3
+          "count": 4
         },
         {
           "domain": "vercel.com",
