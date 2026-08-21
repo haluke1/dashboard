@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-21T00:11:34Z",
-  "total_tabs": 152,
+  "updated_at": "2026-08-21T00:12:40Z",
+  "total_tabs": 147,
   "total_windows": 1,
   "duplicate_tabs": 11,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 87,
-      "domain_count": 70,
+      "count": 85,
+      "domain_count": 69,
       "top_domains": [
         {
           "domain": "login.tailscale.com",
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 43,
+      "count": 41,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 43
+          "count": 41
         }
       ]
     },
@@ -64,8 +64,8 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 4,
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
@@ -77,10 +77,6 @@
         },
         {
           "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "linkedin.com",
           "count": 1
         }
       ]
