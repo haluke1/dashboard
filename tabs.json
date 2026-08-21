@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T01:03:30Z",
+  "updated_at": "2026-08-21T01:04:41Z",
   "total_tabs": 147,
   "total_windows": 1,
   "duplicate_tabs": 8,
@@ -7,15 +7,11 @@
   "categories": [
     {
       "name": "other",
-      "count": 84,
+      "count": 83,
       "domain_count": 70,
       "top_domains": [
         {
           "domain": "frameset.app",
-          "count": 3
-        },
-        {
-          "domain": "tr.pinterest.com",
           "count": 3
         },
         {
@@ -29,17 +25,21 @@
         {
           "domain": "google.com",
           "count": 2
+        },
+        {
+          "domain": "promptsref.com",
+          "count": 2
         }
       ]
     },
     {
       "name": "video",
-      "count": 39,
+      "count": 40,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 39
+          "count": 40
         }
       ]
     },
