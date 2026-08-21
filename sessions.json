@@ -1,12 +1,28 @@
 {
-  "updated_at": "2026-08-21T00:48:17Z",
+  "updated_at": "2026-08-21T00:49:23Z",
   "counts": {
-    "active": 1,
-    "recent": 7,
-    "archived": 384,
+    "active": 2,
+    "recent": 5,
+    "archived": 385,
     "total": 392
   },
   "active": [
+    {
+      "id": "fbcc2a5c",
+      "full_id": "fbcc2a5c-e39d-4627-adb0-594318d60bd2",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_assistant_snippet": "**census paused** The census factory is done \u2014 `census/STOP` exists with content `COMPLETE`, which is the terminal marker the brief specifies after W FINAL. No wave was run this se\u2026",
+      "message_count": 9,
+      "file_size_kb": 179,
+      "modified_ts": 1787273307.397737,
+      "modified_iso": "2026-08-20T20:48:27.397737",
+      "minutes_since_active": 0.9
+    },
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
@@ -21,26 +37,10 @@
       "file_size_kb": 10718,
       "modified_ts": 1787273070.0132837,
       "modified_iso": "2026-08-20T20:44:30.013284",
-      "minutes_since_active": 3.8
+      "minutes_since_active": 4.9
     }
   ],
   "recent": [
-    {
-      "id": "fbcc2a5c",
-      "full_id": "fbcc2a5c-e39d-4627-adb0-594318d60bd2",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "**census paused** The census factory is done \u2014 `census/STOP` exists with content `COMPLETE`, which is the terminal marker the brief specifies after W FINAL. No wave was run this se\u2026",
-      "message_count": 9,
-      "file_size_kb": 179,
-      "modified_ts": 1787272407.179349,
-      "modified_iso": "2026-08-20T20:33:27.179349",
-      "minutes_since_active": 14.8
-    },
     {
       "id": "eb9c822d",
       "full_id": "eb9c822d-c372-48a2-8eff-a10dcd43246e",
@@ -55,7 +55,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 88.6
+      "minutes_since_active": 89.7
     },
     {
       "id": "bc2bb606",
@@ -71,7 +71,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 548.2
+      "minutes_since_active": 549.3
     },
     {
       "id": "48279a6f",
@@ -87,7 +87,7 @@
       "file_size_kb": 572,
       "modified_ts": 1787234954.665526,
       "modified_iso": "2026-08-20T10:09:14.665526",
-      "minutes_since_active": 639.0
+      "minutes_since_active": 640.1
     },
     {
       "id": "6a08cc15",
@@ -103,7 +103,7 @@
       "file_size_kb": 214,
       "modified_ts": 1787219343.3092413,
       "modified_iso": "2026-08-20T05:49:03.309241",
-      "minutes_since_active": 899.2
+      "minutes_since_active": 900.3
     },
     {
       "id": "9ee430ea",
@@ -119,23 +119,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 1199.7
-    },
-    {
-      "id": "b14d31a5",
-      "full_id": "b14d31a5-71a9-4e6f-b691-edcb389bfcf0",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "**census paused** STOP exists at `census/STOP` with content `COMPLETE` (written 2026-08-17 06:45). No wave executed, no files written, no source folders read beyond the census fold\u2026",
-      "message_count": 10,
-      "file_size_kb": 195,
-      "modified_ts": 1787186930.104957,
-      "modified_iso": "2026-08-19T20:48:50.104957",
-      "minutes_since_active": 1439.4
+      "minutes_since_active": 1200.8
     }
   ]
 }
