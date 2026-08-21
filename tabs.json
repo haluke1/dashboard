@@ -1,17 +1,21 @@
 {
-  "updated_at": "2026-08-21T00:44:58Z",
-  "total_tabs": 148,
+  "updated_at": "2026-08-21T00:46:03Z",
+  "total_tabs": 147,
   "total_windows": 1,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 85,
-      "domain_count": 72,
+      "count": 84,
+      "domain_count": 70,
       "top_domains": [
         {
           "domain": "frameset.app",
+          "count": 3
+        },
+        {
+          "domain": "tr.pinterest.com",
           "count": 3
         },
         {
@@ -24,10 +28,6 @@
         },
         {
           "domain": "google.com",
-          "count": 2
-        },
-        {
-          "domain": "promptsref.com",
           "count": 2
         }
       ]
