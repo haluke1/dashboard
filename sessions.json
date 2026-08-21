@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-21T19:50:28Z",
+  "updated_at": "2026-08-21T20:58:45Z",
   "counts": {
     "active": 0,
-    "recent": 7,
+    "recent": 8,
     "archived": 389,
-    "total": 396
+    "total": 397
   },
   "active": [],
   "recent": [
+    {
+      "id": "f83ac24a",
+      "full_id": "f83ac24a-826b-411a-a36b-4b98a12b17e4",
+      "status": "recent",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_assistant_snippet": "I'll start by checking the STOP file and reading the standing brief.",
+      "message_count": 7,
+      "file_size_kb": 168,
+      "modified_ts": 1787342127.912793,
+      "modified_iso": "2026-08-21T15:55:27.912793",
+      "minutes_since_active": 63.3
+    },
     {
       "id": "5b0bdc7c",
       "full_id": "5b0bdc7c-2be6-48f3-8964-11f8b3df322c",
@@ -22,7 +38,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 260.0
+      "minutes_since_active": 328.3
     },
     {
       "id": "51a2114e",
@@ -38,7 +54,7 @@
       "file_size_kb": 265,
       "modified_ts": 1787319659.8415287,
       "modified_iso": "2026-08-21T09:40:59.841529",
-      "minutes_since_active": 369.5
+      "minutes_since_active": 437.7
     },
     {
       "id": "e25b49d7",
@@ -54,7 +70,7 @@
       "file_size_kb": 165,
       "modified_ts": 1787311329.6293461,
       "modified_iso": "2026-08-21T07:22:09.629346",
-      "minutes_since_active": 508.3
+      "minutes_since_active": 576.6
     },
     {
       "id": "3d6f3906",
@@ -70,7 +86,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787288156.7149363,
       "modified_iso": "2026-08-21T00:55:56.714936",
-      "minutes_since_active": 887.3
+      "minutes_since_active": 962.8
     },
     {
       "id": "be5075ca",
@@ -86,7 +102,7 @@
       "file_size_kb": 11591,
       "modified_ts": 1787279618.62,
       "modified_iso": "2026-08-20T22:33:38.620000",
-      "minutes_since_active": 1036.8
+      "minutes_since_active": 1105.1
     },
     {
       "id": "fbcc2a5c",
@@ -102,7 +118,7 @@
       "file_size_kb": 179,
       "modified_ts": 1787273307.397737,
       "modified_iso": "2026-08-20T20:48:27.397737",
-      "minutes_since_active": 1134.8
+      "minutes_since_active": 1210.3
     },
     {
       "id": "eb9c822d",
@@ -118,7 +134,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 1230.8
+      "minutes_since_active": 1299.1
     }
   ]
 }
