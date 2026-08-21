@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-21T00:41:42Z",
-  "total_tabs": 143,
+  "updated_at": "2026-08-21T00:42:47Z",
+  "total_tabs": 147,
   "total_windows": 1,
-  "duplicate_tabs": 8,
+  "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 82,
-      "domain_count": 69,
+      "count": 84,
+      "domain_count": 71,
       "top_domains": [
         {
           "domain": "frameset.app",
@@ -45,16 +45,16 @@
     },
     {
       "name": "ai-dev",
-      "count": 16,
+      "count": 18,
       "domain_count": 3,
       "top_domains": [
         {
           "domain": "github.com",
-          "count": 11
+          "count": 12
         },
         {
           "domain": "claude.ai",
-          "count": 4
+          "count": 5
         },
         {
           "domain": "vercel.com",
