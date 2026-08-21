@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-08-21T01:17:03Z",
+  "updated_at": "2026-08-21T01:18:09Z",
   "counts": {
-    "active": 0,
-    "recent": 7,
+    "active": 1,
+    "recent": 6,
     "archived": 385,
     "total": 392
   },
-  "active": [],
-  "recent": [
+  "active": [
     {
       "id": "be5075ca",
       "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
+      "status": "active",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
       "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "re run the last one it didnt finish <widget_context_hint>Interactive widgets in this conversation: mcp__d047e6cc-5637-4bd1-a601-7fed65f1fa78__creations_show. To read a widget's cur\u2026",
+      "last_user_msg": "<task-notification> <task-id>wzq129665</task-id> <tool-use-id>toolu_01J5FvC5emjgpg3nWnvs7hp8</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
       "last_assistant_snippet": "Re-run launched \u2014 `structure-formulas` is back in flight with the same 28-source quota and file contract. Current state of the whole operation: **15/16 main lanes complete** (the n\u2026",
-      "message_count": 1269,
-      "file_size_kb": 10950,
-      "modified_ts": 1787274649.3694246,
-      "modified_iso": "2026-08-20T21:10:49.369425",
-      "minutes_since_active": 6.2
-    },
+      "message_count": 1270,
+      "file_size_kb": 10973,
+      "modified_ts": 1787275063.9977713,
+      "modified_iso": "2026-08-20T21:17:43.997771",
+      "minutes_since_active": 0.4
+    }
+  ],
+  "recent": [
     {
       "id": "fbcc2a5c",
       "full_id": "fbcc2a5c-e39d-4627-adb0-594318d60bd2",
@@ -38,7 +39,7 @@
       "file_size_kb": 179,
       "modified_ts": 1787273307.397737,
       "modified_iso": "2026-08-20T20:48:27.397737",
-      "minutes_since_active": 28.6
+      "minutes_since_active": 29.7
     },
     {
       "id": "eb9c822d",
@@ -54,7 +55,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 117.4
+      "minutes_since_active": 118.5
     },
     {
       "id": "bc2bb606",
@@ -70,7 +71,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 577.0
+      "minutes_since_active": 578.1
     },
     {
       "id": "48279a6f",
@@ -86,7 +87,7 @@
       "file_size_kb": 572,
       "modified_ts": 1787234954.665526,
       "modified_iso": "2026-08-20T10:09:14.665526",
-      "minutes_since_active": 667.8
+      "minutes_since_active": 668.9
     },
     {
       "id": "6a08cc15",
@@ -102,7 +103,7 @@
       "file_size_kb": 214,
       "modified_ts": 1787219343.3092413,
       "modified_iso": "2026-08-20T05:49:03.309241",
-      "minutes_since_active": 928.0
+      "minutes_since_active": 929.1
     },
     {
       "id": "9ee430ea",
@@ -118,7 +119,7 @@
       "file_size_kb": 227,
       "modified_ts": 1787201317.5822716,
       "modified_iso": "2026-08-20T00:48:37.582272",
-      "minutes_since_active": 1228.4
+      "minutes_since_active": 1229.5
     }
   ]
 }
