@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:44:06Z",
+  "updated_at": "2026-08-21T23:45:11Z",
   "total_tabs": 153,
   "total_windows": 1,
   "duplicate_tabs": 8,
@@ -7,7 +7,7 @@
   "categories": [
     {
       "name": "other",
-      "count": 86,
+      "count": 87,
       "domain_count": 70,
       "top_domains": [
         {
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
+          "domain": "google.com",
+          "count": 3
+        },
+        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "cosmos.so",
-          "count": 2
-        },
-        {
-          "domain": "google.com",
           "count": 2
         }
       ]
@@ -45,7 +45,7 @@
     },
     {
       "name": "ai-dev",
-      "count": 18,
+      "count": 17,
       "domain_count": 3,
       "top_domains": [
         {
@@ -54,7 +54,7 @@
         },
         {
           "domain": "claude.ai",
-          "count": 5
+          "count": 4
         },
         {
           "domain": "vercel.com",
