@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T00:15:56Z",
-  "total_tabs": 148,
+  "updated_at": "2026-08-21T00:17:01Z",
+  "total_tabs": 149,
   "total_windows": 1,
-  "duplicate_tabs": 11,
+  "duplicate_tabs": 13,
   "bridge_online": true,
   "categories": [
     {
@@ -34,12 +34,12 @@
     },
     {
       "name": "video",
-      "count": 42,
+      "count": 43,
       "domain_count": 1,
       "top_domains": [
         {
           "domain": "youtube.com",
-          "count": 42
+          "count": 43
         }
       ]
     },
