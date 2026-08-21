@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-21T14:38:13Z",
+  "updated_at": "2026-08-21T14:59:06Z",
   "counts": {
     "active": 0,
-    "recent": 7,
+    "recent": 8,
     "archived": 388,
-    "total": 395
+    "total": 396
   },
   "active": [],
   "recent": [
+    {
+      "id": "5b0bdc7c",
+      "full_id": "5b0bdc7c-2be6-48f3-8964-11f8b3df322c",
+      "status": "recent",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
+      "last_assistant_snippet": null,
+      "message_count": 1,
+      "file_size_kb": 157,
+      "modified_ts": 1787323095.0265353,
+      "modified_iso": "2026-08-21T10:38:15.026535",
+      "minutes_since_active": 20.8
+    },
     {
       "id": "51a2114e",
       "full_id": "51a2114e-5920-40a5-afc1-7fce0514435b",
@@ -22,7 +38,7 @@
       "file_size_kb": 265,
       "modified_ts": 1787319659.8415287,
       "modified_iso": "2026-08-21T09:40:59.841529",
-      "minutes_since_active": 57.2
+      "minutes_since_active": 78.1
     },
     {
       "id": "e25b49d7",
@@ -38,7 +54,7 @@
       "file_size_kb": 165,
       "modified_ts": 1787311329.6293461,
       "modified_iso": "2026-08-21T07:22:09.629346",
-      "minutes_since_active": 196.1
+      "minutes_since_active": 216.9
     },
     {
       "id": "3d6f3906",
@@ -54,7 +70,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787288156.7149363,
       "modified_iso": "2026-08-21T00:55:56.714936",
-      "minutes_since_active": 582.3
+      "minutes_since_active": 603.1
     },
     {
       "id": "be5075ca",
@@ -70,7 +86,7 @@
       "file_size_kb": 11591,
       "modified_ts": 1787279618.62,
       "modified_iso": "2026-08-20T22:33:38.620000",
-      "minutes_since_active": 724.6
+      "minutes_since_active": 745.5
     },
     {
       "id": "fbcc2a5c",
@@ -86,7 +102,7 @@
       "file_size_kb": 179,
       "modified_ts": 1787273307.397737,
       "modified_iso": "2026-08-20T20:48:27.397737",
-      "minutes_since_active": 829.8
+      "minutes_since_active": 850.6
     },
     {
       "id": "eb9c822d",
@@ -102,7 +118,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 918.6
+      "minutes_since_active": 939.5
     },
     {
       "id": "bc2bb606",
@@ -118,7 +134,7 @@
       "file_size_kb": 157,
       "modified_ts": 1787240402.7307913,
       "modified_iso": "2026-08-20T11:40:02.730791",
-      "minutes_since_active": 1378.2
+      "minutes_since_active": 1399.1
     }
   ]
 }
