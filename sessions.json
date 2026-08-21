@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:59:47Z",
+  "updated_at": "2026-08-21T22:37:41Z",
   "counts": {
     "active": 1,
     "recent": 7,
@@ -8,9 +8,27 @@
   },
   "active": [
     {
+      "id": "51a2114e",
+      "full_id": "51a2114e-5920-40a5-afc1-7fce0514435b",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
+      "last_user_msg": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
+      "last_assistant_snippet": "Request timed out",
+      "message_count": 18,
+      "file_size_kb": 266,
+      "modified_ts": 1787351846.6068707,
+      "modified_iso": "2026-08-21T18:37:26.606871",
+      "minutes_since_active": 0.2
+    }
+  ],
+  "recent": [
+    {
       "id": "f83ac24a",
       "full_id": "f83ac24a-826b-411a-a36b-4b98a12b17e4",
-      "status": "active",
+      "status": "recent",
       "project": "/Users/halukgul/Haluk",
       "git_branch": "master",
       "permission_mode": null,
@@ -19,12 +37,10 @@
       "last_assistant_snippet": "**census paused** The STOP file exists at `/Users/halukgul/Desktop/Everything/master-brain-reorg-2026-08/census/STOP` with content `COMPLETE` (created Aug 17, 06:43). Per the stand\u2026",
       "message_count": 8,
       "file_size_kb": 170,
-      "modified_ts": 1787349585.3866506,
-      "modified_iso": "2026-08-21T17:59:45.386651",
-      "minutes_since_active": 0.0
-    }
-  ],
-  "recent": [
+      "modified_ts": 1787350918.8636677,
+      "modified_iso": "2026-08-21T18:21:58.863668",
+      "minutes_since_active": 15.7
+    },
     {
       "id": "5b0bdc7c",
       "full_id": "5b0bdc7c-2be6-48f3-8964-11f8b3df322c",
@@ -39,23 +55,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 389.4
-    },
-    {
-      "id": "51a2114e",
-      "full_id": "51a2114e-5920-40a5-afc1-7fce0514435b",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
-      "last_user_msg": "<scheduled-task name=\"daily-brief\" file=\"/Users/halukgul/.claude/scheduled-tasks/daily-brief/SKILL.md\"> This is an automated run of a scheduled task. The user is not present to ans\u2026",
-      "last_assistant_snippet": "The paths moved since the task was written \u2014 the reorg folder is now under `~/Desktop/Everything/`. Let me locate everything.",
-      "message_count": 17,
-      "file_size_kb": 265,
-      "modified_ts": 1787319659.8415287,
-      "modified_iso": "2026-08-21T09:40:59.841529",
-      "minutes_since_active": 498.8
+      "minutes_since_active": 427.2
     },
     {
       "id": "e25b49d7",
@@ -71,7 +71,7 @@
       "file_size_kb": 165,
       "modified_ts": 1787311329.6293461,
       "modified_iso": "2026-08-21T07:22:09.629346",
-      "minutes_since_active": 637.6
+      "minutes_since_active": 675.5
     },
     {
       "id": "3d6f3906",
@@ -87,7 +87,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787288156.7149363,
       "modified_iso": "2026-08-21T00:55:56.714936",
-      "minutes_since_active": 1023.8
+      "minutes_since_active": 1061.7
     },
     {
       "id": "be5075ca",
@@ -103,7 +103,7 @@
       "file_size_kb": 11591,
       "modified_ts": 1787279618.62,
       "modified_iso": "2026-08-20T22:33:38.620000",
-      "minutes_since_active": 1166.1
+      "minutes_since_active": 1204.0
     },
     {
       "id": "fbcc2a5c",
@@ -119,7 +119,7 @@
       "file_size_kb": 179,
       "modified_ts": 1787273307.397737,
       "modified_iso": "2026-08-20T20:48:27.397737",
-      "minutes_since_active": 1271.3
+      "minutes_since_active": 1309.2
     },
     {
       "id": "eb9c822d",
@@ -135,7 +135,7 @@
       "file_size_kb": 164,
       "modified_ts": 1787267978.3489366,
       "modified_iso": "2026-08-20T19:19:38.348937",
-      "minutes_since_active": 1360.1
+      "minutes_since_active": 1398.0
     }
   ]
 }
