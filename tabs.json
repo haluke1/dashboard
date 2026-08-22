@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T18:23:12Z",
-  "total_tabs": 138,
+  "updated_at": "2026-08-22T18:24:17Z",
+  "total_tabs": 139,
   "total_windows": 1,
   "duplicate_tabs": 8,
   "bridge_online": true,
@@ -8,7 +8,7 @@
     {
       "name": "other",
       "count": 76,
-      "domain_count": 61,
+      "domain_count": 62,
       "top_domains": [
         {
           "domain": "tr.pinterest.com",
@@ -64,8 +64,8 @@
     },
     {
       "name": "productivity",
-      "count": 2,
-      "domain_count": 2,
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "mail.google.com",
@@ -73,6 +73,10 @@
         },
         {
           "domain": "docs.google.com",
+          "count": 1
+        },
+        {
+          "domain": "luma.com",
           "count": 1
         }
       ]
