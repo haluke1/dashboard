@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:28:34Z",
+  "updated_at": "2026-08-22T15:29:40Z",
   "counts": {
     "active": 2,
     "recent": 9,
@@ -7,6 +7,22 @@
     "total": 404
   },
   "active": [
+    {
+      "id": "b21bb992",
+      "full_id": "b21bb992-47c1-4b26-8aab-778585fc91af",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so based on haluks brain and the 9600 line context, could you analyze it throughly and give me a way that we can optimize it to have claude get better context and think better like\u2026",
+      "last_user_msg": "also lets say we have skills like /haluk /aifilm /wayfinder (like mat pococks) /grill-me /auto-loop and similar things. do we have a list of skills that loads for me to select base\u2026",
+      "last_assistant_snippet": "`~/bundles/MANIFEST.md` exists \u2014 that's your bundling question. Reading it and the skills README.",
+      "message_count": 157,
+      "file_size_kb": 971,
+      "modified_ts": 1787412556.2526994,
+      "modified_iso": "2026-08-22T11:29:16.252699",
+      "minutes_since_active": 0.4
+    },
     {
       "id": "b8969d36",
       "full_id": "b8969d36-d622-4fcf-be1c-923267b22479",
@@ -21,23 +37,7 @@
       "file_size_kb": 893,
       "modified_ts": 1787412367.05463,
       "modified_iso": "2026-08-22T11:26:07.054630",
-      "minutes_since_active": 2.4
-    },
-    {
-      "id": "b21bb992",
-      "full_id": "b21bb992-47c1-4b26-8aab-778585fc91af",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so based on haluks brain and the 9600 line context, could you analyze it throughly and give me a way that we can optimize it to have claude get better context and think better like\u2026",
-      "last_user_msg": "okey so i am going to create /haluk, though how do we use the masters files and the things inside it? is it \"haluk's extended brain.md\" or something else? look at jake van clief's \u2026",
-      "last_assistant_snippet": "Grounded in your own archive, not my training data. Three findings first. ## 1 \u00b7 There is no \"Haluk's extended brain.md\" I searched. It doesn't exist. The closest artifacts are `MA\u2026",
-      "message_count": 144,
-      "file_size_kb": 917,
-      "modified_ts": 1787412340.9136748,
-      "modified_iso": "2026-08-22T11:25:40.913675",
-      "minutes_since_active": 2.9
+      "minutes_since_active": 3.5
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 193,
       "modified_ts": 1787409204.134782,
       "modified_iso": "2026-08-22T10:33:24.134782",
-      "minutes_since_active": 55.2
+      "minutes_since_active": 56.3
     },
     {
       "id": "be5075ca",
@@ -71,7 +71,7 @@
       "file_size_kb": 11591,
       "modified_ts": 1787408952.216,
       "modified_iso": "2026-08-22T10:29:12.216000",
-      "minutes_since_active": 59.4
+      "minutes_since_active": 60.4
     },
     {
       "id": "b1ee38e5",
@@ -87,7 +87,7 @@
       "file_size_kb": 531,
       "modified_ts": 1787401559.999148,
       "modified_iso": "2026-08-22T08:25:59.999148",
-      "minutes_since_active": 182.6
+      "minutes_since_active": 183.6
     },
     {
       "id": "6f2aa090",
@@ -103,7 +103,7 @@
       "file_size_kb": 171,
       "modified_ts": 1787392103.4238956,
       "modified_iso": "2026-08-22T05:48:23.423896",
-      "minutes_since_active": 340.2
+      "minutes_since_active": 341.3
     },
     {
       "id": "1bd37ea4",
@@ -119,7 +119,7 @@
       "file_size_kb": 192,
       "modified_ts": 1787373230.7637062,
       "modified_iso": "2026-08-22T00:33:50.763706",
-      "minutes_since_active": 654.7
+      "minutes_since_active": 655.8
     },
     {
       "id": "d4e11f50",
@@ -135,7 +135,7 @@
       "file_size_kb": 197,
       "modified_ts": 1787359753.1339457,
       "modified_iso": "2026-08-21T20:49:13.133946",
-      "minutes_since_active": 879.3
+      "minutes_since_active": 880.4
     },
     {
       "id": "51a2114e",
@@ -151,7 +151,7 @@
       "file_size_kb": 266,
       "modified_ts": 1787351846.6068707,
       "modified_iso": "2026-08-21T18:37:26.606871",
-      "minutes_since_active": 1011.1
+      "minutes_since_active": 1012.2
     },
     {
       "id": "f83ac24a",
@@ -167,7 +167,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787350918.8636677,
       "modified_iso": "2026-08-21T18:21:58.863668",
-      "minutes_since_active": 1026.6
+      "minutes_since_active": 1027.7
     },
     {
       "id": "5b0bdc7c",
@@ -183,7 +183,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 1438.1
+      "minutes_since_active": 1439.2
     }
   ]
 }
