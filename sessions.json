@@ -1,12 +1,29 @@
 {
-  "updated_at": "2026-08-22T14:29:11Z",
+  "updated_at": "2026-08-22T14:29:18Z",
   "counts": {
-    "active": 0,
-    "recent": 8,
+    "active": 1,
+    "recent": 7,
     "archived": 393,
     "total": 401
   },
-  "active": [],
+  "active": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "<task-notification> <task-id>wzq129665</task-id> <tool-use-id>toolu_01J5FvC5emjgpg3nWnvs7hp8</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
+      "last_assistant_snippet": "# The report is delivered \u2014 2,082 unique sources (5\u00d7 your 400 quota), 20 lanes, every AAIFF fact live-verified against aaiff.ai today. **The five findings that change how ALMA gets\u2026",
+      "message_count": 1323,
+      "file_size_kb": 11591,
+      "modified_ts": 1787408952.216,
+      "modified_iso": "2026-08-22T10:29:12.216000",
+      "minutes_since_active": 0.1
+    }
+  ],
   "recent": [
     {
       "id": "b1ee38e5",
@@ -22,7 +39,7 @@
       "file_size_kb": 531,
       "modified_ts": 1787401559.999148,
       "modified_iso": "2026-08-22T08:25:59.999148",
-      "minutes_since_active": 123.2
+      "minutes_since_active": 123.3
     },
     {
       "id": "6f2aa090",
@@ -38,7 +55,7 @@
       "file_size_kb": 171,
       "modified_ts": 1787392103.4238956,
       "modified_iso": "2026-08-22T05:48:23.423896",
-      "minutes_since_active": 280.8
+      "minutes_since_active": 280.9
     },
     {
       "id": "1bd37ea4",
@@ -54,23 +71,7 @@
       "file_size_kb": 192,
       "modified_ts": 1787373230.7637062,
       "modified_iso": "2026-08-22T00:33:50.763706",
-      "minutes_since_active": 595.3
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "<task-notification> <task-id>wzq129665</task-id> <tool-use-id>toolu_01J5FvC5emjgpg3nWnvs7hp8</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
-      "last_assistant_snippet": "# The report is delivered \u2014 2,082 unique sources (5\u00d7 your 400 quota), 20 lanes, every AAIFF fact live-verified against aaiff.ai today. **The five findings that change how ALMA gets\u2026",
-      "message_count": 1323,
-      "file_size_kb": 11591,
-      "modified_ts": 1787369215.085,
-      "modified_iso": "2026-08-21T23:26:55.085000",
-      "minutes_since_active": 662.3
+      "minutes_since_active": 595.5
     },
     {
       "id": "d4e11f50",
@@ -86,7 +87,7 @@
       "file_size_kb": 197,
       "modified_ts": 1787359753.1339457,
       "modified_iso": "2026-08-21T20:49:13.133946",
-      "minutes_since_active": 820.0
+      "minutes_since_active": 820.1
     },
     {
       "id": "51a2114e",
@@ -102,7 +103,7 @@
       "file_size_kb": 266,
       "modified_ts": 1787351846.6068707,
       "modified_iso": "2026-08-21T18:37:26.606871",
-      "minutes_since_active": 951.7
+      "minutes_since_active": 951.9
     },
     {
       "id": "f83ac24a",
@@ -118,7 +119,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787350918.8636677,
       "modified_iso": "2026-08-21T18:21:58.863668",
-      "minutes_since_active": 967.2
+      "minutes_since_active": 967.3
     },
     {
       "id": "5b0bdc7c",
@@ -134,7 +135,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 1378.8
+      "minutes_since_active": 1378.9
     }
   ]
 }
