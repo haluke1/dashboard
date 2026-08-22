@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-22T03:26:54Z",
+  "updated_at": "2026-08-22T03:32:28Z",
   "counts": {
     "active": 0,
-    "recent": 6,
-    "archived": 392,
+    "recent": 7,
+    "archived": 391,
     "total": 398
   },
   "active": [],
   "recent": [
+    {
+      "id": "be5075ca",
+      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
+      "status": "recent",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
+      "last_user_msg": "<task-notification> <task-id>wzq129665</task-id> <tool-use-id>toolu_01J5FvC5emjgpg3nWnvs7hp8</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
+      "last_assistant_snippet": "# The report is delivered \u2014 2,082 unique sources (5\u00d7 your 400 quota), 20 lanes, every AAIFF fact live-verified against aaiff.ai today. **The five findings that change how ALMA gets\u2026",
+      "message_count": 1323,
+      "file_size_kb": 11591,
+      "modified_ts": 1787369215.085,
+      "modified_iso": "2026-08-21T23:26:55.085000",
+      "minutes_since_active": 5.6
+    },
     {
       "id": "d4e11f50",
       "full_id": "d4e11f50-11f1-4292-9357-cd73f854b720",
@@ -22,7 +38,7 @@
       "file_size_kb": 197,
       "modified_ts": 1787359753.1339457,
       "modified_iso": "2026-08-21T20:49:13.133946",
-      "minutes_since_active": 157.7
+      "minutes_since_active": 163.3
     },
     {
       "id": "51a2114e",
@@ -38,7 +54,7 @@
       "file_size_kb": 266,
       "modified_ts": 1787351846.6068707,
       "modified_iso": "2026-08-21T18:37:26.606871",
-      "minutes_since_active": 289.5
+      "minutes_since_active": 295.0
     },
     {
       "id": "f83ac24a",
@@ -54,7 +70,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787350918.8636677,
       "modified_iso": "2026-08-21T18:21:58.863668",
-      "minutes_since_active": 304.9
+      "minutes_since_active": 310.5
     },
     {
       "id": "5b0bdc7c",
@@ -70,7 +86,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 716.5
+      "minutes_since_active": 722.0
     },
     {
       "id": "e25b49d7",
@@ -86,7 +102,7 @@
       "file_size_kb": 165,
       "modified_ts": 1787311329.6293461,
       "modified_iso": "2026-08-21T07:22:09.629346",
-      "minutes_since_active": 964.7
+      "minutes_since_active": 970.3
     },
     {
       "id": "3d6f3906",
@@ -102,7 +118,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787288156.7149363,
       "modified_iso": "2026-08-21T00:55:56.714936",
-      "minutes_since_active": 1350.9
+      "minutes_since_active": 1356.5
     }
   ]
 }
