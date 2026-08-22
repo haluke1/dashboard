@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-22T00:24:24Z",
-  "total_tabs": 156,
+  "updated_at": "2026-08-22T00:25:30Z",
+  "total_tabs": 159,
   "total_windows": 1,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 88,
-      "domain_count": 70,
+      "count": 89,
+      "domain_count": 72,
       "top_domains": [
         {
           "domain": "tr.pinterest.com",
           "count": 5
         },
         {
-          "domain": "google.com",
-          "count": 4
+          "domain": "frameset.app",
+          "count": 3
         },
         {
-          "domain": "frameset.app",
+          "domain": "google.com",
           "count": 3
         },
         {
@@ -64,9 +64,13 @@
     },
     {
       "name": "social",
-      "count": 3,
-      "domain_count": 3,
+      "count": 5,
+      "domain_count": 4,
       "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 2
+        },
         {
           "domain": "reddit.com",
           "count": 1
