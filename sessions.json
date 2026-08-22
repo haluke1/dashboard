@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-22T04:55:06Z",
+  "updated_at": "2026-08-22T04:56:11Z",
   "counts": {
     "active": 0,
-    "recent": 8,
-    "archived": 391,
+    "recent": 7,
+    "archived": 392,
     "total": 399
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 192,
       "modified_ts": 1787373230.7637062,
       "modified_iso": "2026-08-22T00:33:50.763706",
-      "minutes_since_active": 21.3
+      "minutes_since_active": 22.3
     },
     {
       "id": "be5075ca",
@@ -38,7 +38,7 @@
       "file_size_kb": 11591,
       "modified_ts": 1787369215.085,
       "modified_iso": "2026-08-21T23:26:55.085000",
-      "minutes_since_active": 88.2
+      "minutes_since_active": 89.3
     },
     {
       "id": "d4e11f50",
@@ -54,7 +54,7 @@
       "file_size_kb": 197,
       "modified_ts": 1787359753.1339457,
       "modified_iso": "2026-08-21T20:49:13.133946",
-      "minutes_since_active": 245.9
+      "minutes_since_active": 247.0
     },
     {
       "id": "51a2114e",
@@ -70,7 +70,7 @@
       "file_size_kb": 266,
       "modified_ts": 1787351846.6068707,
       "modified_iso": "2026-08-21T18:37:26.606871",
-      "minutes_since_active": 377.7
+      "minutes_since_active": 378.7
     },
     {
       "id": "f83ac24a",
@@ -86,7 +86,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787350918.8636677,
       "modified_iso": "2026-08-21T18:21:58.863668",
-      "minutes_since_active": 393.1
+      "minutes_since_active": 394.2
     },
     {
       "id": "5b0bdc7c",
@@ -102,7 +102,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 804.7
+      "minutes_since_active": 805.8
     },
     {
       "id": "e25b49d7",
@@ -118,23 +118,7 @@
       "file_size_kb": 165,
       "modified_ts": 1787311329.6293461,
       "modified_iso": "2026-08-21T07:22:09.629346",
-      "minutes_since_active": 1052.9
-    },
-    {
-      "id": "3d6f3906",
-      "full_id": "3d6f3906-bbe1-4222-9777-ec11df2484df",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_user_msg": "<scheduled-task name=\"census-wave-runner\" file=\"/Users/halukgul/.claude/scheduled-tasks/census-wave-runner/SKILL.md\"> This is an automated run of a scheduled task. The user is not \u2026",
-      "last_assistant_snippet": "**census paused** The STOP file exists at `Desktop/Everything/master-brain-reorg-2026-08/census/STOP` with content `COMPLETE`, dated Aug 17 06:43. Per the standing brief's first ch\u2026",
-      "message_count": 8,
-      "file_size_kb": 170,
-      "modified_ts": 1787288156.7149363,
-      "modified_iso": "2026-08-21T00:55:56.714936",
-      "minutes_since_active": 1439.2
+      "minutes_since_active": 1054.0
     }
   ]
 }
