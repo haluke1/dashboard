@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-22T15:02:05Z",
-  "total_tabs": 146,
+  "updated_at": "2026-08-22T15:03:18Z",
+  "total_tabs": 145,
   "total_windows": 1,
   "duplicate_tabs": 10,
   "bridge_online": true,
@@ -64,15 +64,15 @@
     },
     {
       "name": "productivity",
-      "count": 3,
+      "count": 2,
       "domain_count": 2,
       "top_domains": [
         {
-          "domain": "docs.google.com",
-          "count": 2
+          "domain": "mail.google.com",
+          "count": 1
         },
         {
-          "domain": "mail.google.com",
+          "domain": "docs.google.com",
           "count": 1
         }
       ]
