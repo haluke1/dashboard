@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-22T14:44:33Z",
-  "total_tabs": 150,
+  "updated_at": "2026-08-22T14:45:39Z",
+  "total_tabs": 149,
   "total_windows": 1,
   "duplicate_tabs": 10,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 82,
-      "domain_count": 64,
+      "count": 80,
+      "domain_count": 63,
       "top_domains": [
         {
           "domain": "tr.pinterest.com",
@@ -19,15 +19,15 @@
           "count": 3
         },
         {
-          "domain": "google.com",
-          "count": 3
-        },
-        {
           "domain": "magnific.com",
           "count": 3
         },
         {
           "domain": "promptsref.com",
+          "count": 2
+        },
+        {
+          "domain": "cosmos.so",
           "count": 2
         }
       ]
@@ -64,9 +64,13 @@
     },
     {
       "name": "social",
-      "count": 3,
-      "domain_count": 3,
+      "count": 4,
+      "domain_count": 4,
       "top_domains": [
+        {
+          "domain": "x.com",
+          "count": 1
+        },
         {
           "domain": "reddit.com",
           "count": 1
