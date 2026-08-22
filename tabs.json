@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-22T03:14:05Z",
-  "total_tabs": 157,
-  "total_windows": 2,
+  "updated_at": "2026-08-22T03:15:11Z",
+  "total_tabs": 155,
+  "total_windows": 1,
   "duplicate_tabs": 8,
   "bridge_online": true,
   "categories": [
     {
       "name": "other",
-      "count": 88,
-      "domain_count": 71,
+      "count": 87,
+      "domain_count": 70,
       "top_domains": [
         {
           "domain": "tr.pinterest.com",
@@ -64,8 +64,8 @@
     },
     {
       "name": "social",
-      "count": 4,
-      "domain_count": 4,
+      "count": 3,
+      "domain_count": 3,
       "top_domains": [
         {
           "domain": "reddit.com",
@@ -77,10 +77,6 @@
         },
         {
           "domain": "instagram.com",
-          "count": 1
-        },
-        {
-          "domain": "x.com",
           "count": 1
         }
       ]
