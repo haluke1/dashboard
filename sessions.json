@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-22T02:33:02Z",
+  "updated_at": "2026-08-22T02:34:07Z",
   "counts": {
     "active": 0,
-    "recent": 7,
-    "archived": 391,
+    "recent": 6,
+    "archived": 392,
     "total": 398
   },
   "active": [],
@@ -22,7 +22,7 @@
       "file_size_kb": 197,
       "modified_ts": 1787359753.1339457,
       "modified_iso": "2026-08-21T20:49:13.133946",
-      "minutes_since_active": 103.8
+      "minutes_since_active": 104.9
     },
     {
       "id": "51a2114e",
@@ -38,7 +38,7 @@
       "file_size_kb": 266,
       "modified_ts": 1787351846.6068707,
       "modified_iso": "2026-08-21T18:37:26.606871",
-      "minutes_since_active": 235.6
+      "minutes_since_active": 236.7
     },
     {
       "id": "f83ac24a",
@@ -54,7 +54,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787350918.8636677,
       "modified_iso": "2026-08-21T18:21:58.863668",
-      "minutes_since_active": 251.0
+      "minutes_since_active": 252.1
     },
     {
       "id": "5b0bdc7c",
@@ -70,7 +70,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 662.6
+      "minutes_since_active": 663.7
     },
     {
       "id": "e25b49d7",
@@ -86,7 +86,7 @@
       "file_size_kb": 165,
       "modified_ts": 1787311329.6293461,
       "modified_iso": "2026-08-21T07:22:09.629346",
-      "minutes_since_active": 910.9
+      "minutes_since_active": 912.0
     },
     {
       "id": "3d6f3906",
@@ -102,23 +102,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787288156.7149363,
       "modified_iso": "2026-08-21T00:55:56.714936",
-      "minutes_since_active": 1297.1
-    },
-    {
-      "id": "be5075ca",
-      "full_id": "be5075ca-c083-4f6b-a425-07d2c1053f3d",
-      "status": "recent",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "do you auto load context and understand what we are trying to do? we set up a hook in another session and wanna make sure everything loads to new sessions",
-      "last_user_msg": "<task-notification> <task-id>wzq129665</task-id> <tool-use-id>toolu_01J5FvC5emjgpg3nWnvs7hp8</tool-use-id> <output-file>/private/tmp/claude-501/-Users-halukgul-Haluk/be5075ca-c083-\u2026",
-      "last_assistant_snippet": "# The report is delivered \u2014 2,082 unique sources (5\u00d7 your 400 quota), 20 lanes, every AAIFF fact live-verified against aaiff.ai today. **The five findings that change how ALMA gets\u2026",
-      "message_count": 1323,
-      "file_size_kb": 11591,
-      "modified_ts": 1787279618.62,
-      "modified_iso": "2026-08-20T22:33:38.620000",
-      "minutes_since_active": 1439.4
+      "minutes_since_active": 1298.2
     }
   ]
 }
