@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:25:18Z",
+  "updated_at": "2026-08-22T15:25:43Z",
   "counts": {
     "active": 2,
     "recent": 9,
@@ -7,6 +7,22 @@
     "total": 404
   },
   "active": [
+    {
+      "id": "b21bb992",
+      "full_id": "b21bb992-47c1-4b26-8aab-778585fc91af",
+      "status": "active",
+      "project": "/Users/halukgul/Haluk",
+      "git_branch": "master",
+      "permission_mode": null,
+      "first_prompt": "so based on haluks brain and the 9600 line context, could you analyze it throughly and give me a way that we can optimize it to have claude get better context and think better like\u2026",
+      "last_user_msg": "okey so i am going to create /haluk, though how do we use the masters files and the things inside it? is it \"haluk's extended brain.md\" or something else? look at jake van clief's \u2026",
+      "last_assistant_snippet": "Grounded in your own archive, not my training data. Three findings first. ## 1 \u00b7 There is no \"Haluk's extended brain.md\" I searched. It doesn't exist. The closest artifacts are `MA\u2026",
+      "message_count": 144,
+      "file_size_kb": 917,
+      "modified_ts": 1787412340.9136748,
+      "modified_iso": "2026-08-22T11:25:40.913675",
+      "minutes_since_active": 0.0
+    },
     {
       "id": "b8969d36",
       "full_id": "b8969d36-d622-4fcf-be1c-923267b22479",
@@ -17,27 +33,11 @@
       "first_prompt": "could you analyze this comment from someone who did experiments with json prompting and tell me how we can implement the advantages here? also do some research to the related topic\u2026",
       "last_user_msg": "also do you think if this is of any value? -https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit?gid=0#gid=0 / also simplify your analysis and t\u2026",
       "last_assistant_snippet": "Building it. **Three files, all new, no existing files touched:** - `~/.claude/decisions/README.md` \u2014 the format spec - `~/.claude/skills/decide/SKILL.md` \u2014 `/decide` capture comma\u2026",
-      "message_count": 73,
-      "file_size_kb": 869,
-      "modified_ts": 1787412309.8530388,
-      "modified_iso": "2026-08-22T11:25:09.853039",
-      "minutes_since_active": 0.1
-    },
-    {
-      "id": "b21bb992",
-      "full_id": "b21bb992-47c1-4b26-8aab-778585fc91af",
-      "status": "active",
-      "project": "/Users/halukgul/Haluk",
-      "git_branch": "master",
-      "permission_mode": null,
-      "first_prompt": "so based on haluks brain and the 9600 line context, could you analyze it throughly and give me a way that we can optimize it to have claude get better context and think better like\u2026",
-      "last_user_msg": "okey so i am going to create /haluk, though how do we use the masters files and the things inside it? is it \"haluk's extended brain.md\" or something else? look at jake van clief's \u2026",
-      "last_assistant_snippet": "Grounding this in what's actually on disk rather than my training data \u2014 you extracted the Clief material in the 08-15 session. Surveying both.",
-      "message_count": 142,
-      "file_size_kb": 893,
-      "modified_ts": 1787412264.7910807,
-      "modified_iso": "2026-08-22T11:24:24.791081",
-      "minutes_since_active": 0.9
+      "message_count": 76,
+      "file_size_kb": 885,
+      "modified_ts": 1787412340.0062573,
+      "modified_iso": "2026-08-22T11:25:40.006257",
+      "minutes_since_active": 0.0
     }
   ],
   "recent": [
@@ -55,7 +55,7 @@
       "file_size_kb": 193,
       "modified_ts": 1787409204.134782,
       "modified_iso": "2026-08-22T10:33:24.134782",
-      "minutes_since_active": 51.9
+      "minutes_since_active": 52.3
     },
     {
       "id": "be5075ca",
@@ -71,7 +71,7 @@
       "file_size_kb": 11591,
       "modified_ts": 1787408952.216,
       "modified_iso": "2026-08-22T10:29:12.216000",
-      "minutes_since_active": 56.1
+      "minutes_since_active": 56.5
     },
     {
       "id": "b1ee38e5",
@@ -87,7 +87,7 @@
       "file_size_kb": 531,
       "modified_ts": 1787401559.999148,
       "modified_iso": "2026-08-22T08:25:59.999148",
-      "minutes_since_active": 179.3
+      "minutes_since_active": 179.7
     },
     {
       "id": "6f2aa090",
@@ -103,7 +103,7 @@
       "file_size_kb": 171,
       "modified_ts": 1787392103.4238956,
       "modified_iso": "2026-08-22T05:48:23.423896",
-      "minutes_since_active": 336.9
+      "minutes_since_active": 337.3
     },
     {
       "id": "1bd37ea4",
@@ -119,7 +119,7 @@
       "file_size_kb": 192,
       "modified_ts": 1787373230.7637062,
       "modified_iso": "2026-08-22T00:33:50.763706",
-      "minutes_since_active": 651.5
+      "minutes_since_active": 651.9
     },
     {
       "id": "d4e11f50",
@@ -135,7 +135,7 @@
       "file_size_kb": 197,
       "modified_ts": 1787359753.1339457,
       "modified_iso": "2026-08-21T20:49:13.133946",
-      "minutes_since_active": 876.1
+      "minutes_since_active": 876.5
     },
     {
       "id": "51a2114e",
@@ -151,7 +151,7 @@
       "file_size_kb": 266,
       "modified_ts": 1787351846.6068707,
       "modified_iso": "2026-08-21T18:37:26.606871",
-      "minutes_since_active": 1007.9
+      "minutes_since_active": 1008.3
     },
     {
       "id": "f83ac24a",
@@ -167,7 +167,7 @@
       "file_size_kb": 170,
       "modified_ts": 1787350918.8636677,
       "modified_iso": "2026-08-21T18:21:58.863668",
-      "minutes_since_active": 1023.3
+      "minutes_since_active": 1023.7
     },
     {
       "id": "5b0bdc7c",
@@ -183,7 +183,7 @@
       "file_size_kb": 159,
       "modified_ts": 1787326225.936496,
       "modified_iso": "2026-08-21T11:30:25.936496",
-      "minutes_since_active": 1434.9
+      "minutes_since_active": 1435.3
     }
   ]
 }
